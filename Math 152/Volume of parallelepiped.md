@@ -1,0 +1,1 @@
+Same as seen in [[Area of parallelograms]] using the [[Determinant]]

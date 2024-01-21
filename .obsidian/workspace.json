@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "cb35c819004cf0aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "db4d79b853d33d17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b1af1219f871338",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math 152/Volume of parallelepiped.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b3650656caaee17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phys 170/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a56dc14790a19823",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2bb6d07fe5dabef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b29d78dd72814ee8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "45135ad5d5f27309",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "af04d6ca393bf06b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b2a76b873dfc05ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "530f7fbc91c658f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fdc5387f80f2f02",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Phys 170/Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e332d73f6bb4b55d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Phys 170/Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5640e6014f4ceb22",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c8be7d9a0f393ec6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Phys 170/Untitled.md"
+              }
+            }
+          },
+          {
+            "id": "9761efd1150e650c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "cd078907a99e3dee",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "1b3650656caaee17",
+  "lastOpenFiles": [
+    "Math 152/Planes.md",
+    "Math 152/Untitled.md",
+    "Math 152/Lines in vector form.md",
+    "Math 152/Projection.md",
+    "Math 152/LC.md",
+    "Math 152/Dot product.md",
+    "Math 152/Determinant.md",
+    "Math 152/Cross product.md",
+    "Math 152/Circles.md",
+    "Math 152/Vectors.md",
+    "Math 152/Vectors in Orthogonal Coordinates.md",
+    "Math 152/Volume of parallelepiped.md",
+    "Math 152/Scalar Multuplication.md",
+    "Math 152/Scalar.md",
+    "Math 152/Questions.md",
+    "Math 152/Area of parallelograms.md",
+    "Math 101/FTC 2.md",
+    "Math 101/Anti-derivatives.md",
+    "Math 101/FTC 1.md",
+    "Math 101/Properties of Integrals.md",
+    "Math 101/Integrability.md",
+    "Math 101/Definite Integral.md",
+    "Phys 170/Untitled.md",
+    "Math 101/Indefinite Integral.md",
+    "Welcome.md",
+    "Untitled.canvas",
+    "Math 101/test table.md",
+    "Phys 170",
+    "Math 101",
+    "Phys 158",
+    "Math 152"
+  ]
+}

@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 101/Properties of Integrals.md",
+                "file": "Math 152/Area of parallelograms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "51b025d2d2fb8518",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math 101/FTC 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +37,7 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": ".obsidian/workspace.json",
+                "file": "Math 101/test.md",
                 "staged": false
               }
             }
@@ -108,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Math 101/FTC 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Math 101/FTC 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +159,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Math 101/FTC 1.md"
+              }
             }
           },
           {
@@ -165,7 +181,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -182,11 +198,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cd42c9a5e8046b61",
+  "active": "51b025d2d2fb8518",
   "lastOpenFiles": [
-    "Math 101/test.md",
-    "Math 101/Properties of Integrals.md",
+    "Math 152/asdf test.md",
+    "Math 101/FTC 1.md",
     "Math 152/Area of parallelograms.md",
+    "Math 101/Properties of Integrals.md",
+    "Math 101/test.md",
     "Math 152/Volume of parallelepiped.md",
     "Math 152/Determinant.md",
     "Math 101/Integrability.md",
@@ -195,7 +213,6 @@
     "Math 152/Planes.md",
     "Math 152/Questions.md",
     "Phys 170/Untitled.md",
-    "Math 152/Untitled.md",
     "Math 152/LC.md",
     "Math 152/Dot product.md",
     "Math 152/Cross product.md",
@@ -206,7 +223,6 @@
     "Math 152/Scalar.md",
     "Math 101/FTC 2.md",
     "Math 101/Anti-derivatives.md",
-    "Math 101/FTC 1.md",
     "Math 101/Definite Integral.md",
     "Math 101/Indefinite Integral.md",
     "Welcome.md",

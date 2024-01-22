@@ -97,3 +97,4 @@ t
 $$
 
 [[Finding equation of two planes from a line L]]
+![[Pasted image 20240122125214.png]]

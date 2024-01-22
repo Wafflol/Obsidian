@@ -8,53 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0b1af1219f871338",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math 152/Area of parallelograms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "51b025d2d2fb8518",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 101/FTC 1.md",
+                "file": "Math 152/Lines in vector form.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "cd42c9a5e8046b61",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Math 101/test.md",
-                "staged": false
-              }
-            }
-          },
-          {
-            "id": "1b3650656caaee17",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "staged": false,
-                "file": "Math 152/Determinant.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 308.5
   },
   "right": {
     "id": "b2a76b873dfc05ff",
@@ -120,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 101/FTC 1.md",
+                "file": "Math 152/Lines in vector form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 101/FTC 1.md",
+                "file": "Math 152/Lines in vector form.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 101/FTC 1.md"
+                "file": "Math 152/Lines in vector form.md"
               }
             }
           },
@@ -185,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,26 +166,26 @@
   },
   "active": "51b025d2d2fb8518",
   "lastOpenFiles": [
-    "Math 152/asdf test.md",
+    "Math 152/Planes.md",
+    "Math 152/Lines in vector form.md",
+    "Math 152/Vectors in Orthogonal Coordinates.md",
+    "Math 152/Volume of parallelepiped.md",
+    "Math 152/Scalar Multuplication.md",
+    "Math 152/Vectors.md",
+    "Math 152/Dot product.md",
+    "Math 152/Questions.md",
+    "Math 152/Projection.md",
+    "Math 152/Determinant.md",
+    "Math 152/LC.md",
     "Math 101/FTC 1.md",
+    "Math 152/asdf test.md",
     "Math 152/Area of parallelograms.md",
     "Math 101/Properties of Integrals.md",
     "Math 101/test.md",
-    "Math 152/Volume of parallelepiped.md",
-    "Math 152/Determinant.md",
     "Math 101/Integrability.md",
-    "Math 152/Lines in vector form.md",
-    "Math 152/Projection.md",
-    "Math 152/Planes.md",
-    "Math 152/Questions.md",
     "Phys 170/Untitled.md",
-    "Math 152/LC.md",
-    "Math 152/Dot product.md",
     "Math 152/Cross product.md",
     "Math 152/Circles.md",
-    "Math 152/Vectors.md",
-    "Math 152/Vectors in Orthogonal Coordinates.md",
-    "Math 152/Scalar Multuplication.md",
     "Math 152/Scalar.md",
     "Math 101/FTC 2.md",
     "Math 101/Anti-derivatives.md",

@@ -84,7 +84,7 @@ z
 t
 \end{bmatrix}
 =\begin{bmatrix}
-=-2 \\
+-2 \\
 5 \\
 0
 \end{bmatrix}
@@ -95,4 +95,5 @@ t
 \end{bmatrix}
 t
 $$
+
 [[Finding equation of two planes from a line L]]

@@ -6,7 +6,7 @@ Based on the graph, any point $\vec{x} = (x,y)$ on $L$ should satisfy:
 $$
 \vec{x} - \vec{p} = t\vec{l}
 $$
-1. Thus, the *point direction formula  is*
+1. Thus, the *point direction formula (parametric) is*
 $$
 \vec{x} = t\vec{l} + \vec{p}
 $$

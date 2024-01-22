@@ -95,3 +95,4 @@ t
 \end{bmatrix}
 t
 $$
+[[Finding equation of two planes from a line L]]

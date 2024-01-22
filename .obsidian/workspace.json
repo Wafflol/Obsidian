@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 152/work.md",
+                "file": "Math 152/Finding equation of two planes from a line L.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 152/work.md",
+                "file": "Math 152/Finding equation of two planes from a line L.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 152/work.md",
+                "file": "Math 152/Finding equation of two planes from a line L.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 152/work.md"
+                "file": "Math 152/Finding equation of two planes from a line L.md"
               }
             }
           },
@@ -173,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,11 +189,12 @@
   },
   "active": "6a54b528cf78c608",
   "lastOpenFiles": [
-    "Math 152/Area of parallelograms.md",
-    "Math 152/work.md",
-    "Pasted image 20240122125214.png",
-    "Phys 170/Untitled.md",
     "Math 152/Projection onto a plane.md",
+    "Math 152/Planes.md",
+    "Pasted image 20240122125214.png",
+    "Math 152/work.md",
+    "Math 152/Area of parallelograms.md",
+    "Phys 170/Untitled.md",
     "Math 152/Finding equation of two planes from a line L.md",
     "Math 152/Lines in vector form.md",
     "Math 152/Vectors in Orthogonal Coordinates.md",
@@ -205,7 +207,6 @@
     "Math 152/Determinant.md",
     "Math 101/Integrability.md",
     "Math 152/Projection.md",
-    "Math 152/Planes.md",
     "Math 152/Questions.md",
     "Math 152/LC.md",
     "Math 152/Dot product.md",
@@ -214,7 +215,6 @@
     "Math 152/Scalar Multuplication.md",
     "Math 152/Scalar.md",
     "Math 101/FTC 2.md",
-    "Math 101/Anti-derivatives.md",
     "Untitled.canvas",
     "Phys 170",
     "Math 101",

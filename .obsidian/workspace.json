@@ -8,42 +8,28 @@
         "type": "tabs",
         "children": [
           {
+            "id": "0b1af1219f871338",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20240122125214.png"
+              }
+            }
+          },
+          {
             "id": "51b025d2d2fb8518",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Math 152/Lines in vector form.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db3c724ab6db8bb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math 152/Projection.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "28691ffb6b7a195f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math 152/Projection onto a plane.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b2a76b873dfc05ff",
@@ -110,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 152/Lines in vector form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 152/Lines in vector form.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Math 152/Lines in vector form.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,12 +151,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,28 +172,28 @@
   "active": "51b025d2d2fb8518",
   "lastOpenFiles": [
     "Pasted image 20240122125214.png",
-    "Math 152/Projection.md",
+    "Phys 170/Untitled.md",
+    "Math 152/Area of parallelograms.md",
     "Math 152/Projection onto a plane.md",
-    "Math 152/Planes.md",
-    "Math 152/Lines in vector form.md",
     "Math 152/Finding equation of two planes from a line L.md",
+    "Math 152/Lines in vector form.md",
     "Math 152/Vectors in Orthogonal Coordinates.md",
     "Math 152/Volume of parallelepiped.md",
-    "Math 152/Scalar Multuplication.md",
-    "Math 152/Vectors.md",
-    "Math 152/Dot product.md",
-    "Math 152/Questions.md",
-    "Math 152/Determinant.md",
-    "Math 152/LC.md",
+    "Math 152/Cross product.md",
     "Math 101/FTC 1.md",
     "Math 152/asdf test.md",
-    "Math 152/Area of parallelograms.md",
     "Math 101/Properties of Integrals.md",
     "Math 101/test.md",
+    "Math 152/Determinant.md",
     "Math 101/Integrability.md",
-    "Phys 170/Untitled.md",
-    "Math 152/Cross product.md",
+    "Math 152/Projection.md",
+    "Math 152/Planes.md",
+    "Math 152/Questions.md",
+    "Math 152/LC.md",
+    "Math 152/Dot product.md",
     "Math 152/Circles.md",
+    "Math 152/Vectors.md",
+    "Math 152/Scalar Multuplication.md",
     "Math 152/Scalar.md",
     "Math 101/FTC 2.md",
     "Math 101/Anti-derivatives.md",

@@ -41,5 +41,57 @@ $$
 \vec{n_{2}}\cdot \vec{x} = \vec{n_{2}}\cdot \vec{p}
 \end{cases}
 $$
-
-
+How to solve parametric equation of a line:
+Ex. A line $L$ in $\mathbb{R}^3$ is defined by $\begin{cases}x+y+z=3\\x-y+2=-7\end{cases}$
+Write equation of $L$ in parametric form:
+$$
+z = t
+$$
+$$
+\begin{cases}
+x+y+t=3 \\
+x-y+2t=-7
+\end{cases}
+$$
+$$
+\begin{cases}
+x+y=3-t \\
+x-y=-7-2t
+\end{cases}
+$$
+$$
+(1) + (2) \Rightarrow 2x=-4-3t
+$$
+$$
+x = -2-\frac{3}{2}t
+$$
+$$
+x+y=-2-\frac{3}{2}t+y=3-t
+$$
+$$y= t+\frac{3}{2}t-t$$
+$$
+=5+\frac{1}{2}t
+$$
+$$
+\vec{x} = \begin{bmatrix}
+x \\
+y \\
+z
+\end{bmatrix}
+= \begin{bmatrix}
+-2-\frac{3}{2}t \\
+5+\frac{1}{2}t \\
+t
+\end{bmatrix}
+=\begin{bmatrix}
+=-2 \\
+5 \\
+0
+\end{bmatrix}
++\begin{bmatrix}
+-\frac{3}{2} \\
+\frac{1}{2} \\
+1
+\end{bmatrix}
+t
+$$

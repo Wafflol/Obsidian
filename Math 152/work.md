@@ -35,3 +35,10 @@ $$
 $$
 t=-\frac{2}{21}
 $$
+$$
+\vec{x} = \begin{bmatrix}
+-\frac{4}{21}+3 \\
+\frac{2}{21}-4 \\
+-\frac{8}{21}-3
+\end{bmatrix}
+$$

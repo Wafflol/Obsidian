@@ -1,10 +1,14 @@
 $$
-\begin{bmatrix}
-\hat{i} & \hat{j} & \hat{k} \\
-1 & -3 & 3 \\
--3 & 0 & 0
+x_{1}=3-s-t
+$$
+$$
+\vec{x} = \begin{bmatrix}
+3-s-t \\
+s \\
+t \\
 \end{bmatrix}
+
 $$
 $$
--3\hat{i}-(9\hat{j})+(-9\hat{k})
+x_{1} = 
 $$

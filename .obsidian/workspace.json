@@ -35,14 +35,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 152/Area of parallelograms.md",
+                "file": "Math 152/Lines in vector form.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8310022402ca116b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math 152/work.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 152/Area of parallelograms.md",
+                "file": "Math 152/work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 152/Area of parallelograms.md",
+                "file": "Math 152/work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 152/Area of parallelograms.md"
+                "file": "Math 152/work.md"
               }
             }
           },
@@ -186,15 +198,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7eb3c387845a5f7b",
+  "active": "8310022402ca116b",
   "lastOpenFiles": [
-    "Math 152/work.md",
     "Math 152/Planes.md",
+    "Math 152/Lines in vector form.md",
+    "Math 152/Finding equation of two planes from a line L.md",
+    "Math 152/work.md",
     "Math 152/Area of parallelograms.md",
     "Math 152/Determinant.md",
-    "Math 152/Lines in vector form.md",
     "Math 152/Jan 22 Lecture Solving parametric equation from 2 planes.png",
-    "Math 152/Finding equation of two planes from a line L.md",
     "Math 152/Projection onto a plane.md",
     "Phys 170/Untitled.md",
     "Math 152/Vectors in Orthogonal Coordinates.md",

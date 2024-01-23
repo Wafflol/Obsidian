@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 152/Dot product.md",
+                "file": "Phys 170/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 152/Dot product.md",
+                "file": "Phys 170/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 152/Dot product.md",
+                "file": "Phys 170/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 152/Dot product.md"
+                "file": "Phys 170/Untitled.md"
               }
             }
           },
@@ -200,6 +200,9 @@
   },
   "active": "97ea212ffd92cd80",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Phys 170/Untitled.md",
+    "Math 152/Dot product.md",
     "Math 152/Finding equation of two planes from a line L.md",
     "Math 101/Untitled.md",
     "Math 101/Definite Integral.md",
@@ -212,7 +215,6 @@
     "Math 152/Area of parallelograms.md",
     "Math 152/Determinant.md",
     "Math 152/Projection onto a plane.md",
-    "Phys 170/Untitled.md",
     "Math 152/Vectors in Orthogonal Coordinates.md",
     "Math 152/Volume of parallelepiped.md",
     "Math 152/Cross product.md",
@@ -224,11 +226,8 @@
     "Math 152/Projection.md",
     "Math 152/Questions.md",
     "Math 152/LC.md",
-    "Math 152/Dot product.md",
     "Math 152/Circles.md",
     "Math 152/Vectors.md",
-    "Math 152/Scalar Multuplication.md",
-    "Untitled.canvas",
     "Phys 170",
     "Math 101",
     "Phys 158",

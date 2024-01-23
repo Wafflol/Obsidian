@@ -16,6 +16,9 @@ $$
 
 #### Shortest distance from point $\vec{p}$ to plane $S$
 To find the shortest distance from a point $\vec{p}$ to a plane $S$, simply find the normal $\vec{n}$ that passes through $\vec{p}$
+
+Ex. Plane $S$, $x-y+z=6$, and point $\vec{p_{0}}=(2,0,1)$
+Find normal line that passes through $\vec{p_{0}}$
 Thus, we get 
 $$
 \vec{x} = t\vec{n} + \vec{p_{0}} \rightarrow \begin{bmatrix}

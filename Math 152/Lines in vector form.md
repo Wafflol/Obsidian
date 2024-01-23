@@ -97,4 +97,4 @@ t
 $$
 
 [[Finding equation of two planes from a line L]]
-![[Pasted image 20240122125214.png]]
+![[Jan 22 Lecture Solving parametric equation from 2 planes.png]]

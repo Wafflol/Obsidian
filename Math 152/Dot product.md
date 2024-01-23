@@ -1,4 +1,4 @@
-To take the dot product of two [[vectors]], they must be of the same dimensions
+1To take the dot product of two [[vectors]], they must be of the same dimensions
 $$
 \vec{a}\cdot\vec{b} = a_{1}b_{1} + a_{2}b_{2} + a_{n} + \dots + b_{n}
 $$

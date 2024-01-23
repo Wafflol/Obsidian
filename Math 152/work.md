@@ -1,34 +1,23 @@
 $$
-x = \begin{bmatrix}
--5t-3 \\
-3t+1 \\
-5t-2
-\end{bmatrix}
-=
-\begin{bmatrix}
-x \\
-y \\
-z
+\vec{p} = (3, -4, -3)
+$$
+$$2x-y+4z=-4$$
+$$
+\vec{n} = \begin{bmatrix}
+2 \\
+-1 \\
+4
 \end{bmatrix}
 $$
 $$
-\begin{bmatrix}
-1 \\
-0 \\
-1
+\vec{x} = t\begin{bmatrix}
+2 \\
+-1 \\
+4 
 \end{bmatrix}
-$$
-$$
-\begin{bmatrix}
++\begin{bmatrix}
 3 \\
-5 \\
-0 \\
+-4 \\
+-3
 \end{bmatrix}
-$$
-
-$$
-x+z=-5
-$$
-$$
-3x+5y=-9+5=-4
 $$

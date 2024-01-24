@@ -33,12 +33,5 @@ $$
 \vec{v} = 4i-3j+0k
 $$
 $$
-\begin{vmatrix}
-\hat{i}&\hat{j}&\hat{k}\\
-4 & 4 & 0 \\
-4 & -3 & 0
-\end{vmatrix}
-$$
-$$
- 
+
 $$

@@ -26,3 +26,19 @@ $$
 5
 \end{bmatrix}
 $$
+$$
+\vec{v} = 4i+4j+0k
+$$
+$$
+\vec{v} = 4i-3j+0k
+$$
+$$
+\begin{vmatrix}
+\hat{i}&\hat{j}&\hat{k}\\
+4 & 4 & 0 \\
+4 & -3 & 0
+\end{vmatrix}
+$$
+$$
+ 
+$$

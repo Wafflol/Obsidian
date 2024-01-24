@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phys 170/Untitled.md",
+                "file": "Math 152/work.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b2a76b873dfc05ff",
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Phys 170/Untitled.md",
+                "file": "Math 152/work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Phys 170/Untitled.md",
+                "file": "Math 152/work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Phys 170/Untitled.md"
+                "file": "Math 152/work.md"
               }
             }
           },
@@ -200,14 +201,14 @@
   },
   "active": "97ea212ffd92cd80",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Math 101/Definite Integral.md",
+    "Math 152/work.md",
     "Phys 170/Untitled.md",
+    "Untitled.canvas",
     "Math 152/Dot product.md",
     "Math 152/Finding equation of two planes from a line L.md",
     "Math 101/Untitled.md",
-    "Math 101/Definite Integral.md",
     "Math 101/Math Assignment 1.md",
-    "Math 152/work.md",
     "Untitled",
     "Math 152/Jan 22 Lecture Solving parametric equation from 2 planes.png",
     "Math 152/Planes.md",

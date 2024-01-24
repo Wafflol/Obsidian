@@ -13,6 +13,27 @@ then,
 $$
 \vec{n} = (n_{1}, n_{2}, n_{3})
 $$
+###### In other words,
+the equation of a plane is given by $\vec{x} = s\vec{l_{1}}+t\vec{l_{2}}+\vec{p}$
+where
+$$
+\vec{x} = s\begin{bmatrix}
+x_{l_{1}} \\
+y_{l_{1}} \\
+z_{l_{1}}
+\end{bmatrix}
++t\begin{bmatrix}
+x_{l_{2}} \\
+y_{l_{2}} \\
+z_{l_{2}}
+\end{bmatrix}
++\begin{bmatrix}
+x_{p} \\
+y_{p} \\
+z_{p}
+\end{bmatrix}
+$$
+
 
 #### Shortest distance from point $\vec{p}$ to plane $S$
 To find the shortest distance from a point $\vec{p}$ to a plane $S$, simply find the normal $\vec{n}$ that passes through $\vec{p}$

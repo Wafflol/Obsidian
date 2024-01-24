@@ -17,3 +17,19 @@ $$
 Multiply diagonals and add them up:
 Left to right is positive, right to left is negative
 Thus, the determinant for a 3x3 matrix is $a_{1}b_{2}c_{3}+b_{1}c_{2}a_{3}+c_{1}a_{2}b_{3}-a_{3}b_{2}c_{1}-b_{3}c_{2}a_{1}-c_{3}a_{2}b_{1}$
+
+If there are many zeros in the determinant, it is easier to use the form 
+$$
+a_{1}\begin{vmatrix}
+b_{2} & b_{3} \\
+c_{2} & c_{3}
+\end{vmatrix}
+-a_{2}\begin{vmatrix}
+b_{1} & b_{3} \\
+c_{1} & c_{3}
+\end{vmatrix}
++a_{3}\begin{vmatrix}
+b_{1} & b_{2} \\
+c_{1} & c_{2}
+\end{vmatrix}
+$$

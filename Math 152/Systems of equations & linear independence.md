@@ -11,3 +11,7 @@ where $a_{ij}$, $b_{i}$, ($i, j$ = 1, 2, 3) are scalars in $\mathbb{R}$
 Each eqn defines a plane in $\mathbb{R}^3$
 There are 3 possible situations:
 ![[Pasted image 20240124121210.png]]
+#### Linear Dependence vs Linear Independence
+Two vectors are linearly dependent if they are parallel to each other
+If the two vectors are not parallel, they are linearly independent
+####

@@ -14,3 +14,5 @@ There are 3 possible situations:
 #### Linear Dependence vs Linear Independence
 Two vectors are linearly dependent if they are parallel to each other
 If the two vectors are not parallel, they are linearly independent
+
+There are at most 2 LI vectors in $\mathbb{R}^2$

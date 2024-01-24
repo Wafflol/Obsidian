@@ -1,10 +1,21 @@
 $$
--2x_{1}-3x_{3}=-11
+\vec{x} = \begin{bmatrix}
+-2 \\
+3 \\
+-3
+\end{bmatrix}
 $$
 $$
-3x_{1}-2x_{3}=7
+\vec{x} = \begin{bmatrix}
+3 \\
+5 \\
+-2
+\end{bmatrix}
 $$
 $$
-2x_{1}-\frac{4}{3}x_{3}=\frac{14}{3}
+\begin{vmatrix}
+\hat{i} & \hat{j} & \hat{k} \\
+-2 & 3 & -3 \\
+3 & 5 & -2
+\end{vmatrix}
 $$
-

@@ -13,5 +13,7 @@ $$
 \end{bmatrix}
 $$
 $$
+\begin{vmatrix}
 
+\end{vmatrix}
 $$

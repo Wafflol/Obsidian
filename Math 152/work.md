@@ -14,6 +14,15 @@ $$
 $$
 $$
 \begin{vmatrix}
-
+\hat{i}&\hat{j}&\hat{k}\\
+-2 & -1 & 4 \\
+0 & 4 & 5
 \end{vmatrix}
+$$
+$$
+\begin{bmatrix}
+-1 \\
+4 \\
+5
+\end{bmatrix}
 $$

@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 152/work.md",
+                "file": "Math 101/Anti-derivatives.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9854968f24f0481",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math 101/work.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 152/work.md",
+                "file": "Math 101/work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 152/work.md",
+                "file": "Math 101/work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 152/work.md"
+                "file": "Math 101/work.md"
               }
             }
           },
@@ -200,15 +212,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7cb3f512a808b2b1",
+  "active": "c9854968f24f0481",
   "lastOpenFiles": [
+    "Math 101/Anti-derivatives.md",
+    "Math 101/work.md",
+    "Math 152/work.md",
     "Math 152/Solving a linear system.md",
     "Math 152/Lines in vector form.md",
     "Math 152/Planes.md",
     "Math 152/Jan 22 Lecture Solving parametric equation from 2 planes.png",
     "Math 152/Finding equation of two planes from a line L.md",
     "Math 152/Jan 24 Linear independence.png",
-    "Math 152/work.md",
     "Math 152/Systems of equations & linear independence.md",
     "Math 101/Definite Integral.md",
     "Math 152/plane.md",
@@ -230,7 +244,6 @@
     "Math 152/asdf test.md",
     "Math 101/Properties of Integrals.md",
     "Math 101/test.md",
-    "Math 101/Integrability.md",
     "Phys 170",
     "Math 101",
     "Phys 158",

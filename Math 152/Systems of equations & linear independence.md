@@ -1,4 +1,4 @@
-Consider a system of 3 linear eq.
+   Consider a system of 3 linear eq.
 $$
 \begin{cases}
 a_{11}x+a_{12}y+a_{13}z=b_{1} \\

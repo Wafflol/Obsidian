@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phys 170/Moment arm.md",
+                "file": "Math 152/Systems of equations & linear independence.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Phys 170/Moment arm.md",
+                "file": "Math 152/Systems of equations & linear independence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Phys 170/Moment arm.md",
+                "file": "Math 152/Systems of equations & linear independence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Phys 170/Moment arm.md"
+                "file": "Math 152/Systems of equations & linear independence.md"
               }
             }
           },
@@ -212,8 +212,10 @@
   },
   "active": "f634da7fd474513d",
   "lastOpenFiles": [
-    "Math 152/work.md",
+    "Math 152/Untitled.md",
     "Math 152/Volume of parallelepiped.md",
+    "Phys 170/Moment arm.md",
+    "Math 152/work.md",
     "Math 152/Jan 24 Linear independence.png",
     "Math 152/Systems of equations & linear independence.md",
     "Math 152/Vectors.md",
@@ -226,7 +228,6 @@
     "Math 152/Planes.md",
     "Math 152/Jan 22 Lecture Solving parametric equation from 2 planes.png",
     "Math 101/Definite Integral.md",
-    "Phys 170/Moment arm.md",
     "Untitled.canvas",
     "Math 101/Untitled.md",
     "Math 101/Math Assignment 1.md",

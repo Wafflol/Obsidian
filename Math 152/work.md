@@ -6,5 +6,9 @@ $$
 \end{bmatrix}
 $$
 $$
-
+\begin{bmatrix}
+-2 & -1 & | & 1 \\
+2 & 2 & | & -3 \\
+0 & -3 & | & 0
+\end{bmatrix}
 $$

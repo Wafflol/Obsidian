@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 152/Solving a linear system.md",
+                "file": "Math 152/work.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 152/Solving a linear system.md",
+                "file": "Math 152/work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 152/Solving a linear system.md",
+                "file": "Math 152/work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 152/Solving a linear system.md"
+                "file": "Math 152/work.md"
               }
             }
           },
@@ -202,13 +202,13 @@
   },
   "active": "7cb3f512a808b2b1",
   "lastOpenFiles": [
+    "Math 152/Solving a linear system.md",
     "Math 152/Lines in vector form.md",
     "Math 152/Planes.md",
     "Math 152/Jan 22 Lecture Solving parametric equation from 2 planes.png",
     "Math 152/Finding equation of two planes from a line L.md",
     "Math 152/Jan 24 Linear independence.png",
     "Math 152/work.md",
-    "Math 152/Solving a linear system.md",
     "Math 152/Systems of equations & linear independence.md",
     "Math 101/Definite Integral.md",
     "Math 152/plane.md",

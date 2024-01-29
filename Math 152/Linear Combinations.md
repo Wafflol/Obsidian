@@ -39,10 +39,10 @@ $$
 x_{2} = -1-t
 $$
 $$
-x_{1} -1-t-2t=1
+x_{1} -1-t+2t=1
 $$
 $$
-x_{1}=-3t+2
+x_{1}=2-t
 $$
 $$
 \begin{bmatrix}
@@ -51,6 +51,8 @@ $$
 \alpha_{3}
 \end{bmatrix} = 
 \begin{bmatrix}
-
+2-t \\
+-1-t \\
+t
 \end{bmatrix}
 $$

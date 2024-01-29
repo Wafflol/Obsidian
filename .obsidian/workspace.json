@@ -83,9 +83,11 @@
             "id": "7807f442bbea16aa",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Math 152/Jan 24 Linear independence.png"
+                "file": "Math 101/work.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -140,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b2a76b873dfc05ff",
@@ -156,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 152/Jan 24 Linear independence.png",
+                "file": "Math 101/work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 152/Jan 24 Linear independence.png",
+                "file": "Math 101/work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 152/Jan 24 Linear independence.png"
+                "file": "Math 101/work.md"
               }
             }
           },
@@ -236,6 +239,7 @@
   },
   "active": "7807f442bbea16aa",
   "lastOpenFiles": [
+    "Math 152/Jan 24 Linear independence.png",
     "Math 152/Jan 22 Lecture Solving parametric equation from 2 planes.png",
     "Math 152/Linear Combinations.md",
     "Math 152/Untitled.md",
@@ -245,7 +249,6 @@
     "Math 152/Solving a linear system.md",
     "Math 152/Finding equation of two planes from a line L.md",
     "Math 101/Anti-derivatives.md",
-    "Math 152/Jan 24 Linear independence.png",
     "Math 101/work.md",
     "Math 152/Projection.md",
     "Math 152/work.md",

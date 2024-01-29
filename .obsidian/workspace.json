@@ -49,19 +49,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 101/Anti-derivatives.md",
+                "file": "Math 152/Solving a linear system.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c9854968f24f0481",
+            "id": "b74f04d9b51dafb4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Math 152/Jan 24 Linear independence.png"
+                "file": "Math 152/Linear indenpendence.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -132,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 152/Jan 24 Linear independence.png",
+                "file": "Math 152/Linear indenpendence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 152/Jan 24 Linear independence.png",
+                "file": "Math 152/Linear indenpendence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 152/Jan 24 Linear independence.png"
+                "file": "Math 152/Linear indenpendence.md"
               }
             }
           },
@@ -210,19 +212,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c9854968f24f0481",
+  "active": "b74f04d9b51dafb4",
   "lastOpenFiles": [
+    "Math 152/Systems of equations & linear independence.md",
+    "Math 152/Linear indenpendence.md",
+    "Math 152/Solving a linear system.md",
+    "Math 152/Finding equation of two planes from a line L.md",
+    "Math 101/Anti-derivatives.md",
+    "Math 152/Jan 24 Linear independence.png",
     "Math 152/Jan 22 Lecture Solving parametric equation from 2 planes.png",
     "Math 101/work.md",
     "Math 152/Projection.md",
-    "Math 101/Anti-derivatives.md",
     "Math 152/work.md",
-    "Math 152/Solving a linear system.md",
     "Math 152/Lines in vector form.md",
     "Math 152/Planes.md",
-    "Math 152/Finding equation of two planes from a line L.md",
-    "Math 152/Jan 24 Linear independence.png",
-    "Math 152/Systems of equations & linear independence.md",
     "Math 101/Definite Integral.md",
     "Math 152/plane.md",
     "Math 152/Volume of parallelepiped.md",

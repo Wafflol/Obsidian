@@ -43,3 +43,6 @@ t
 $$
 The solution is thus a line
 
+Applications of GE:
+
+Checking for [[Linear indenpendence]]

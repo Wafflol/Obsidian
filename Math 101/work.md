@@ -26,5 +26,6 @@ M_{0} = r_{BA} \times F = \begin{vmatrix}
  = \hat{i}(-9+24)-\hat{j}(-12+8)+36\hat{k}
 $$
 $$
-
+=15\hat{i}+4\hat{j}+36\hat{k}
 $$
+

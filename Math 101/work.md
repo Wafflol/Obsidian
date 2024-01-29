@@ -4,3 +4,9 @@ $$
 \frac{1}{\omega}\sin(\omega x)
 \end{bmatrix}_{t-r}^t = \frac{1}{\omega r}(\sin(\omega t) - \sin(\omega (t-r))) = \frac{1}{\omega r}(\sin (\omega t) -\sin( \omega t-\omega r))
 $$
+$$
+ \frac{1}{\omega r}(\sin (\omega t) -\sin( \omega t-\omega r))
+$$
+$$
+
+$$

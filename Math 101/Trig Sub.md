@@ -118,3 +118,69 @@ $$
 $$
 Since $\cos\theta >0$ for $\theta$ in $\left( -\frac{\pi}{2}, \frac{\pi}{2} \right)$, $\sec\theta = \frac{1}{\cos\theta} > 0$ also
 So $a|\sec\theta| = a \sec\theta$
+
+Ex.2 
+$$
+\int  \frac{1}{x^2+4x+7} \, dx
+$$
+$$
+= \int \frac{1}{(x+2)^2+3} \, dx 
+$$
+$$
+ = \int \frac{1}{(\sqrt{ 3 }^2+(2+x)^2)} \, dx 
+$$
+Let $x+2 = \sqrt{ 3 }\tan\theta$
+$$
+dx =\sqrt{ 3 }\sec^2\theta d\theta
+$$
+$$
+I = \int \frac{1}{\sqrt{ 3 }^2+(\sqrt{ 3 }\tan\theta)^2}\sqrt{ 3 }\sec^2\theta \, d\theta 
+$$
+$$
+= \frac{\sqrt{ 3 }}{3}\int \frac{\sec^2\theta}{1+\tan^2\theta} \, d\theta 
+$$
+$$
+ = \frac{1}{\sqrt{ 3 }}\int 1 \, d\theta = \frac{1}{\sqrt{ 3 }}\theta+C 
+$$
+draw triangle and sub
+
+
+#### Case 3:
+For $\sqrt{ x^2 -a^{2}}$
+Let $x = a\sec\theta$, $dx = a\sec\theta \tan\theta d\theta$
+
+$$
+\sqrt{ x^{2}-a^{2} } = \sqrt{ a^{2}\sec ^{2}\theta-a^{2} }
+$$
+$$
+= a\sqrt{ \sec ^{2}\theta-1 }
+$$
+$$
+a = \sqrt{ \tan^2\theta }
+$$
+$$
+= a|\tan\theta|
+$$
+$$
+=a\tan\theta \text{, since }\tan\theta >0 
+$$
+
+Ex.1
+$$
+I = \int \frac{1}{\sqrt{ x^{2}-16 }} \, dx 
+$$
+$$
+=\int \frac{1}{\sqrt{ x^2-4^2 }} \, dx 
+$$
+$$
+=\int \frac{1}{16\sec ^{2}\theta-16}4\tan\theta \sec\theta\, d\theta
+$$
+$$
+=\int{ \frac{1}{\sqrt{ \sec ^{2}\theta-1 }}\tan\theta \sec\theta  }d\theta
+$$
+$$
+= \int \sec\theta \, d\theta 
+$$
+$$
+ = \ln|\sec\theta+\tan\theta|+C
+$$

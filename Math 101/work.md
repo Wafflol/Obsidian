@@ -12,20 +12,9 @@ $$
 \frac{\sin (\omega t)}{\omega r} - \frac{\sin(\omega t-\omega r)}{\omega r}
 $$
 $$
-=\frac{\sin(\omega t)}{\omega r}-
+=\frac{\sin(\omega t)}{\omega r}-\frac{\sin (\omega t)\cos(\omega r)-\cos(\omega t)\sin(\omega r)}{\omega r})
 $$
 $$
-r_{BA} = 4\hat{i}+3\hat{j}-2\hat{k}
-$$
-$$
-M_{0} = r_{BA} \times F = \begin{vmatrix}
-\hat{i}&\hat{j}&\hat{k}\\
-4 & 3 & -2 \\
-4 & 12 & -3
-\end{vmatrix}
- = \hat{i}(-9+24)-\hat{j}(-12+8)+36\hat{k}
-$$
-$$
-=15\hat{i}+4\hat{j}+36\hat{k}
+=
 $$
 

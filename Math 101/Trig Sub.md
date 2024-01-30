@@ -1,3 +1,4 @@
+![[Pasted image 20240130112741.png]]
 #### When to use trig sub?
 When you see:
 $$

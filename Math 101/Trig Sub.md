@@ -8,5 +8,9 @@ $$
 1-\sin^2\theta = \cos^2\theta
 $$
 $$
-
+1+\tan^2\theta = \sec^2\theta
 $$
+$$
+\sec^2\theta-1 = \tan^2\theta
+$$
+multiply everything by $a^2$ and sub

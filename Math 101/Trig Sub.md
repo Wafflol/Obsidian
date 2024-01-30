@@ -104,3 +104,17 @@ $$
 = \int \frac{1}{\sqrt{ 1-\sin^2\theta }}\cos\theta \, d\theta 
 $$
 
+#### Case 2:
+For $\sqrt{ a^2 + x_2 }$
+Let $x = a\tan\theta$, $dx = a\sec^2\theta d\theta$
+$$
+\sqrt{ a^2+x^2 } = \sqrt{ a^2+a^2\tan^2\theta } = a\sqrt{ 1+\tan^2\theta }
+$$
+$$
+ = a\sqrt{ \sec^2\theta }
+$$
+$$
+=a|\sec\theta|
+$$
+Since $\cos\theta >0$ for $\theta$ in $\left( -\frac{\pi}{2}, \frac{\pi}{2} \right)$, $\sec\theta = \frac{1}{\cos\theta} > 0$ also
+So $a|\sec\theta| = a \sec\theta$

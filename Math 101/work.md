@@ -16,3 +16,21 @@ $$
 =\frac{1}{r} (h(t)-h(t-r))
 $$
 Thus, this equation takes on the form of the equation of a slope, with the function being $h(t)$, from the point $t-r$ to $t$.
+
+
+
+$$
+h(x) =  3x^2
+$$
+$$
+H(x) = x^3+C
+$$
+$$
+H(t) = t^3, H(t-r) = (t-r)^3
+$$
+$$
+\frac{d}{dt}H(t) = \frac{d}{dt}t^3 =  3t^2
+$$
+$$
+\frac{d}{dt} H(t-r) = 3(t-r)^2
+$$

@@ -15,6 +15,8 @@ $$
 =\frac{\sin(\omega t)}{\omega r}-\frac{\sin (\omega t)\cos(\omega r)-\cos(\omega t)\sin(\omega r)}{\omega r})
 $$
 $$
-=
+-3\leq\sin(\omega t)-\sin (\omega t)\cos(\omega r)-\cos(\omega t)\sin(\omega r))\leq 3
 $$
-
+$$
+ 
+$$

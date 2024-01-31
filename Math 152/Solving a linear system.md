@@ -168,3 +168,11 @@ L_{3}=L_{2} \implies r\begin{bmatrix}
 0
 \end{bmatrix}
 $$
+Solve matrix:
+$$
+\begin{bmatrix}
+r = \frac{1}{6} \\
+s = \frac{4}{3} \\
+t = \frac{1}{2}
+\end{bmatrix}
+$$

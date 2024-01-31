@@ -101,3 +101,27 @@ $$
 $$
 $L_{1}$ and $L_{2}$ intersect if $p = 15$
 otherwise they do not intersect
+
+
+#### Challenging example
+Find the shortest distance between two lines:
+$$
+L_{1}: \vec{x} = \begin{bmatrix}
+1  \\
+1 \\
+1
+\end{bmatrix}
+
+$$
+$$
+L_{2}: \vec{x} = t\begin{bmatrix}
+1 \\
+2 \\
+3
+\end{bmatrix}
++\begin{bmatrix}
+1 \\
+0 \\
+0
+\end{bmatrix}
+$$

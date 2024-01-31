@@ -59,3 +59,45 @@ x & x & x & | & 0
 $$
 #### Non-homogeneous systems
 Form $A\vec{x} = \vec{b}$
+
+
+Ex. Given two lines $\vec{x} = \begin{bmatrix}9+t\\11+2t\\12-2t\end{bmatrix}, \vec{x} = \begin{bmatrix}9-s\\17-4s\\s+p\end{bmatrix}$
+where $s, t$ are parameters, $p$ is a scalar to be determined
+a. for $p=?$, $L_{1}$ and $L_{2}$ intersect with each other
+Set them equal to each other and rearrange:
+$$
+\begin{bmatrix}
+s+t \\
+4s+2t \\
+-s-2t
+\end{bmatrix}
+=\begin{bmatrix}
+0 \\
+6 \\
+p-12
+\end{bmatrix}
+$$
+$$
+\begin{bmatrix}
+1 & 1 & | & 0 \\
+4 & 2 & | & 6 \\
+-1 & -2 & | & p-12
+\end{bmatrix}
+$$
+Do REF:
+$$
+\begin{bmatrix}
+1 & 1 & | & 0 \\
+0 & 1 & | & -3 \\
+0 & 1 & | & 12-p
+\end{bmatrix}
+$$
+$$
+\begin{bmatrix}
+1 & 1 & | & 0 \\
+0 & 1 & | & -3 \\
+0 & 0 & | & 15-p
+\end{bmatrix}
+$$
+$L_{1}$ and $L_{2}$ intersect if $p = 15$
+otherwise they do not intersect

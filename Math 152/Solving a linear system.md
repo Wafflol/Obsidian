@@ -125,3 +125,46 @@ L_{2}: \vec{x} = t\begin{bmatrix}
 0
 \end{bmatrix}
 $$
+$$
+\vec{l_{3}}=\vec{l_{1}}\vec{\times}l_{2}
+$$
+$$
+= \hat{i}-2\hat{j}+\hat{k} = \begin{bmatrix}
+1 \\
+-2 \\
+1
+\end{bmatrix}
+$$
+$$
+L_{3}=\vec{x}=r\begin{bmatrix}
+1 \\
+-2 \\
+1
+\end{bmatrix}
++s\begin{bmatrix}
+1 \\
+1 \\
+1
+\end{bmatrix}
+$$
+$$
+L_{3}=L_{2} \implies r\begin{bmatrix}
+1 \\
+-2 \\
+1
+\end{bmatrix}+s\begin{bmatrix}
+1 \\
+1 \\
+1
+\end{bmatrix}
+=t\begin{bmatrix}
+1 \\
+2 \\
+3
+\end{bmatrix}
++\begin{bmatrix}
+1 \\
+0 \\
+0
+\end{bmatrix}
+$$

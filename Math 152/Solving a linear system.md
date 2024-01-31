@@ -46,3 +46,16 @@ The solution is thus a line
 Applications of GE:
 
 Checking for [[Linear indenpendence]]
+
+#### Homogeneous systems
+Has the form $A\vec{x} = 0$
+Looks like
+$$
+\begin{bmatrix}
+x & x & x & | & 0 \\ 
+x & x & x & | & 0 \\ 
+x & x & x & | & 0 
+\end{bmatrix}
+$$
+#### Non-homogeneous systems
+Form $A\vec{x} = \vec{b}$

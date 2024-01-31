@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Matlab Cheat Sheet.md",
+                "file": "Math 152/work.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b2a76b873dfc05ff",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Matlab Cheat Sheet.md",
+                "file": "Math 152/work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Matlab Cheat Sheet.md",
+                "file": "Math 152/work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Matlab Cheat Sheet.md"
+                "file": "Math 152/work.md"
               }
             }
           },
@@ -180,8 +179,10 @@
   },
   "active": "dd95116a8ec9c467",
   "lastOpenFiles": [
-    "Math 152/Solving a linear system.md",
     "Misc/Matlab Cheat Sheet.md",
+    "Math 152/Planes.md",
+    "Math 152/Projection.md",
+    "Math 152/Solving a linear system.md",
     "Misc",
     "Math 152/Untitled 1.md",
     "Math 101/Trig Sub.md",
@@ -202,9 +203,7 @@
     "Math 152/Linear Combinations.md",
     "Math 152/Finding equation of two planes from a line L.md",
     "Math 101/Anti-derivatives.md",
-    "Math 152/Projection.md",
     "Math 152/work.md",
-    "Math 152/Planes.md",
     "Math 152/plane.md",
     "Math 152/Volume of parallelepiped.md",
     "Phys 170/Moment arm.md",

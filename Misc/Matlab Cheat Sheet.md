@@ -24,9 +24,19 @@
 - ones(n) creates a matrix of ones of size n
 - zeroes(n) creates a matrix of zeroes of size n
 - det(A) = determinant
-
-### Function Combinations
 - det(diag(v)) = product of the entries in v
 
+### Linear Algebra things
 ##### Shortest distance between lines
-$L_{1} : \begin{bmatrix}2 & 3 & &2\end{bmatrix}$
+$L_{1} : \begin{bmatrix}5\\2\\1\end{bmatrix}+t\begin{bmatrix}-1\\1\\2\end{bmatrix}$, $L_{2}: \begin{bmatrix}0\\-1\\2\end{bmatrix}+s\begin{bmatrix}4\\2\\-1\end{bmatrix}$
+```
+P = [5 2 1]; Q = [0 -1 2];
+n = cross([-1 1 2], [4 2 -1]);
+PQ = Q - P;
+distance = abs(dot(PQ, n)/norm(n))
+```
+
+##### Surface Area of a tetrahedron
+###### Area of a triangle
+- ```areaABC = norm(cross(AB,AC))/2;```
+

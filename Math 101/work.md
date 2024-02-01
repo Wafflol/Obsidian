@@ -1,16 +1,11 @@
-We first start with the formula for $\bar{C}_{101}$:
+We can first start with our equation for $\bar{g}$:
 $$
-\bar{C}_{101}(t) = at^2+(b-a)t+\left( \frac{a}{3}-\frac{b}{2}+C \right)
+\bar{g} (t) = \frac{1}{\pi}(sin(2\pi t) - sin(2\pi t - \pi))
 $$
-Then, we can plug in the numbers we got from part b:
+We can see that the second $\sin$ term has a $\pi$ phase shift, which is also equal to $-\sin$, so we can replace the second term with $(-\sin(2\pi t))$, and if we plug that back in to $\bar{g}$, we get
 $$
-430 = 0.012997t^2-50.125t+48630
+\bar{g}(t) = \frac{1}{\pi}(2\sin(2\pi t)) = \frac{2}{\pi}(\sin(2\pi t))
 $$
-Solving for t using the quadratic equation, we get:
-$$
-0 = 0.012997t^2-50.125t+48200
-$$
-$$
-t = 2027.8
-$$
-Thus, $\bar{C}_{101}(t)$ will equal 430ppm in the year 2027
+Thus, we can see that because $g(t)$ is just a $\cos$ graph without any phase shifts, a $\sin$ graph would always have peaks after a $\cos$ graph.
+
+From the previous part, we can see that the equation for $\bar{g}$ is equivalent to $\frac{2}{\pi}(\sin(2\pi t))$, so we know that the amplitude is $\frac{2}{\pi}$ from the equation. Since $g(t)$ has an amplitude of 1 from its equation, and $1>2\pi$, it makes sense that the amplitude for $g(t)$ would be greater than $\bar{g}(t)$

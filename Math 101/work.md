@@ -1,17 +1,7 @@
-We can first start with our equation for $\bar{g}$:
+We can first write out $\bar{g}(t)$, which is:
+$$(\frac{1}{\omega r})(\sin(\omega t)-\sin(\omega t-\omega r))$$
+Then, as $\sin(x) = \sin(x+k*2\pi)$ where $k \in \mathbb{R}$, if $\sin(\omega t) - \sin(\omega t - \omega r) =0$ (which means that there will be no ripples as $\bar{g}(t)$ = 0), then we can simply solve for when $\omega r$ is equal to multiples of $2\pi$
+Thus,
 $$
-\bar{g} (t) = \frac{1}{\pi}(sin(2\pi t) - sin(2\pi t - \pi))
-$$
-We can see that the second $\sin$ term has a $\pi$ phase shift, which is also equal to $-\sin$, so we can replace the second term with $(-\sin(2\pi t))$, and if we plug that back in to $\bar{g}$, we get
-$$
-\bar{g}(t) = \frac{1}{\pi}(2\sin(2\pi t)) = \frac{2}{\pi}(\sin(2\pi t))
-$$
-Thus, we can see that because $g(t)$ is just a $\cos$ graph without any phase shifts, a $\sin$ graph would always have peaks after a $\cos$ graph.
-
-From the previous part, we can see that the equation for $\bar{g}$ is equivalent to $\frac{2}{\pi}(\sin(2\pi t))$, so we know that the amplitude is $\frac{2}{\pi}$ from the equation. Since $g(t)$ has an amplitude of 1 from its equation, and $1>2\pi$, it makes sense that the amplitude for $g(t)$ would be greater than $\bar{g}(t)$
-
-
-
-$$
-\sin(2\pi t)-\sin(2\pi t-2\pi k)\text{ where }k\in\mathbb{R} \neq 0
+\omega r = 2\pi k \text{ where } k \in \mathbb{R} \neq 0
 $$

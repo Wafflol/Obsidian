@@ -1,32 +1,16 @@
-Using the general formula for the moving average, we can get the following equation:
+We first start with the formula for $\bar{C}_{101}$:
 $$
-\bar{C}_{101}=\int_{t-1}^{t} ax^2+bx+C \, dx = \alpha t^2+\beta t+\gamma
+\bar{C}_{101}(t) = at^2+(b-a)t+\left( \frac{a}{3}-\frac{b}{2}+C \right)
 $$
-We can take the anti-derivative, which gives us:
+Then, we can plug in the numbers we got from part b:
 $$
-=\begin{bmatrix}
-\frac{ax^3}{3}+\frac{bx^2}{2}+cx
-\end{bmatrix}_{t-1}^t
+430 = 0.012997t^2-50.125t+48630
 $$
-From here, we can simplify, and we get an equation that takes on the form of $\alpha t^2+\beta t+\gamma$
+Solving for t using the quadratic equation, we get:
 $$
-= \frac{3at^2-3at+a}{3}+\frac{2bt-b}{2}+C
+0 = 0.012997t^2-50.125t+48200
 $$
 $$
-=at^2+(b-a)t+\left( \frac{a}{3}-\frac{b}{2}+c \right) = \alpha t^2+\beta t+\gamma
+t = 2027.8
 $$
-
-Plugging in the numbers given in the problem, we get the following:
-$$
-\bar{C}_{101} = at^2+(b-a)t+\left( \frac{a}{3}-\frac{b}{2}+c \right)=  0.12997t^2-50.125t+48631
-$$
-Thus,
-$$
-a = \alpha = 0.012997
-$$
-$$
-b = \beta + a = -50.112
-$$
-$$
-c = \gamma-\frac{a}{3}+\frac{b}{2}=48605
-$$
+Thus, $\bar{C}_{101}(t)$ will equal 430ppm in the year 2027

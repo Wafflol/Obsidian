@@ -9,3 +9,9 @@ $$
 Thus, we can see that because $g(t)$ is just a $\cos$ graph without any phase shifts, a $\sin$ graph would always have peaks after a $\cos$ graph.
 
 From the previous part, we can see that the equation for $\bar{g}$ is equivalent to $\frac{2}{\pi}(\sin(2\pi t))$, so we know that the amplitude is $\frac{2}{\pi}$ from the equation. Since $g(t)$ has an amplitude of 1 from its equation, and $1>2\pi$, it makes sense that the amplitude for $g(t)$ would be greater than $\bar{g}(t)$
+
+
+
+$$
+\sin(2\pi t)-\sin(2\pi t-2\pi k)\text{ where }k\in\mathbb{R} \neq 0
+$$

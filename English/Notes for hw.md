@@ -25,3 +25,20 @@ hw is both summary + analysis
 - analysis on steffen's opinion
 - practice double reporting
 - (Wagner cited in Lu, 1992)
+fi
+
+first section
+- envrionmentalist paradox
+	- human development index
+	- other measurement
+	- human development vs sustainability
+second
+- histoical societal responses
+	- migration
+	- collapse
+	- creation invention
+third
+- what are potential solutions
+	- geo-engineering - doesnt work
+	- planetary boudnaries - homeostasis
+	-government coming tgt

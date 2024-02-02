@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ca75324235ebe492",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/Notes for hw.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 101/work.md",
+                "file": "English/Notes for hw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 101/work.md",
+                "file": "English/Notes for hw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 101/work.md"
+                "file": "English/Notes for hw.md"
               }
             }
           },
@@ -177,8 +189,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dd95116a8ec9c467",
+  "active": "ca75324235ebe492",
   "lastOpenFiles": [
+    "Pasted image 20240201165302.png",
+    "Pasted image 20240201165247.png",
+    "Math 101/work.md",
+    "English/Notes for hw.md",
+    "English",
     "Math 152/work.md",
     "Misc/Matlab Cheat Sheet.md",
     "Math 152/Planes.md",
@@ -191,10 +208,8 @@
     "Math 101/Definite Integral.md",
     "Math 152/Systems of equations & linear independence.md",
     "Math 152/Linear indenpendence.md",
-    "Math 101/work.md",
     "Math 152/RREF.md",
     "Math 101/Partial Fractions.md",
-    "Math 101/Untitled.md",
     "Math 101/Untitled 1.md",
     "Pasted image 20240130112741.png",
     "Math 101/Properties of Integrals.md",

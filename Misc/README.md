@@ -11,8 +11,6 @@ Briefly describe your program and its purpose. Mention that it takes in variable
 
 ## Usage
 
-- in the command line: 
-
 ### Installation
 
 ```bash
@@ -21,3 +19,6 @@ git clone https://github.com/your-username/your-repo.git
 
 # Navigate to the project directory
 cd your-repo
+```
+
+

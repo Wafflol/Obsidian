@@ -1,8 +1,8 @@
-# Your Program Name
+# Equate
 
 ## Description
 
-Briefly describe your program and its purpose. Mention that it takes in variables, an equation, and calculates uncertainties along with the values of the equation.
+Equate takes in a function and its variables, and then, using the general uncertainty equation, it returns the uncertainty formula for the function
 
 ## Features
 
@@ -10,8 +10,6 @@ Briefly describe your program and its purpose. Mention that it takes in variable
 - Calculates uncertainties and values of the given equation
 
 ## Usage
-
-- 
 
 ### Installation
 Windows(sorry apple users):
@@ -25,8 +23,8 @@ pip install sympy
 #follow pip instructions if any
 ```
 
-download Equate.exe and 
-
+clone the repo and go to ./Equate/dist
+run Equate.exe and follow the instructions
 
 
 linux: 

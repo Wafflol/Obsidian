@@ -22,8 +22,10 @@ once python is installed, open command prompt and enter:
 ```bash
 #install required packages
 pip install sympy
-#follow any instructions
+#follow pip instructions if any
 ```
+
+
 
 
 

@@ -25,7 +25,7 @@ pip install sympy
 #follow pip instructions if any
 ```
 
-
+download Equate.exe and 
 
 
 

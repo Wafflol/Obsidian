@@ -11,14 +11,19 @@ Briefly describe your program and its purpose. Mention that it takes in variable
 
 ## Usage
 
-### Installation
+- 
 
+### Installation
+Windows/mac
+
+install python: go to https://www.python.org/downloads/ and download python version 3.12.1
+* make sure to install pip *
+
+
+linux: 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/Wafflol/Equate.git
 
 # Navigate to the project directory
-cd your-repo
-```
-
-
+cd Equate

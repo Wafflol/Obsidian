@@ -14,10 +14,17 @@ Briefly describe your program and its purpose. Mention that it takes in variable
 - 
 
 ### Installation
-Windows/mac
-
+Windows(sorry apple users):
 install python: go to https://www.python.org/downloads/ and download python version 3.12.1
-* make sure to install pip *
+**make sure to install pip during installation
+
+once python is installed, open command prompt and enter:
+```bash
+#install required packages
+pip install sympy
+#follow any instructions
+```
+
 
 
 linux: 

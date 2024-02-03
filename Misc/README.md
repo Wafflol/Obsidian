@@ -11,7 +11,7 @@ Briefly describe your program and its purpose. Mention that it takes in variable
 
 ## Usage
 
-- 
+- in the command line: 
 
 ### Installation
 

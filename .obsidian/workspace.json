@@ -73,14 +73,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/test.md",
+                "file": "Math 152/Solving a linear system.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eec9fdc92424648e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math 152/Non-homogeneous systems.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -130,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b2a76b873dfc05ff",
@@ -147,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/test.md",
+                "file": "Math 152/Non-homogeneous systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/test.md",
+                "file": "Math 152/Non-homogeneous systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/test.md"
+                "file": "Math 152/Non-homogeneous systems.md"
               }
             }
           },
@@ -226,20 +237,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6561a9905a9b520d",
+  "active": "eec9fdc92424648e",
   "lastOpenFiles": [
+    "Math 152/Solving a linear system.md",
+    "Math 152/Non-homogeneous systems.md",
+    "Math 152/Finding equation of two planes from a line L.md",
+    "Math 152/Projection onto a plane.md",
+    "Math 152/Rank of a matrix.md",
+    "Math 152/Planes.md",
     "Misc/Matlab Cheat Sheet.md",
     "Misc/test.md",
-    "Math 152/Planes.md",
-    "Math 152/Untitled.md",
     "Math 101/Trig Sub.md",
     "Math 101/FTC 1.md",
     "Math 101/FTC 2.md",
     "Math 152/RREF.md",
     "Math 152/Rewriting a plane from parametric.md",
     "Math 152/Intersection of planes.md",
-    "Math 152/Solving a linear system.md",
-    "Math 152/Rank of a matrix.md",
     "Math 152/Shortest distance between two lines.md",
     "Math 152/Area of parallelograms.md",
     "English/Notes for hw.md",
@@ -256,9 +269,7 @@
     "Math 152/Systems of equations & linear independence.md",
     "Math 152/Linear indenpendence.md",
     "Math 101/Partial Fractions.md",
-    "Math 101/Untitled 1.md",
     "Pasted image 20240130112741.png",
-    "Math 101/Properties of Integrals.md",
     "Math 152/Jan 24 Linear independence.png",
     "Math 152/Jan 22 Lecture Solving parametric equation from 2 planes.png",
     "Untitled.canvas",

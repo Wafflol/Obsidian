@@ -8,79 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2b93f4e415afa74f",
+            "id": "51b025d2d2fb8518",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 152/Solving a linear system.md",
+                "file": "Math 152/Lines in vector form.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "dd95116a8ec9c467",
+            "id": "e1b0ae6739d9bb46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 101/work.md",
+                "file": "English/Notes for hw.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ca75324235ebe492",
+            "id": "db3c724ab6db8bb8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 152/Solving a linear system.md",
+                "file": "Math 152/Projection.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8a45461675e14f24",
+            "id": "28691ffb6b7a195f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 152/Shortest distance between two lines.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e50fa8b1478c4d8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc/Matlab Cheat Sheet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6561a9905a9b520d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc/test.md",
+                "file": "Math 152/Projection onto a plane.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 308.5
   },
   "right": {
     "id": "b2a76b873dfc05ff",
@@ -147,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/test.md",
+                "file": "English/Notes for hw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/test.md",
+                "file": "English/Notes for hw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/test.md"
+                "file": "English/Notes for hw.md"
               }
             }
           },
@@ -208,12 +183,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,41 +200,41 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6561a9905a9b520d",
+  "active": "e1b0ae6739d9bb46",
   "lastOpenFiles": [
-    "Misc/Matlab Cheat Sheet.md",
-    "Misc/test.md",
-    "Math 152/Planes.md",
-    "Math 152/Untitled.md",
-    "Math 101/Trig Sub.md",
-    "Math 101/FTC 1.md",
-    "Math 101/FTC 2.md",
-    "Math 152/RREF.md",
-    "Math 152/Rewriting a plane from parametric.md",
-    "Math 152/Intersection of planes.md",
-    "Math 152/Solving a linear system.md",
-    "Math 152/Rank of a matrix.md",
-    "Math 152/Shortest distance between two lines.md",
-    "Math 152/Area of parallelograms.md",
+    "English/Pasted image 20240201165247.png",
+    "Math 101/Pasted image 20240130112741.png",
+    "English/Pasted image 20240201165302.png",
+    "Phys 170/Moment arm.md",
     "English/Notes for hw.md",
-    "Pasted image 20240201165302.png",
-    "Pasted image 20240201165247.png",
-    "Math 101/work.md",
-    "English",
-    "Math 152/work.md",
     "Math 152/Projection.md",
+    "Math 152/Questions.md",
+    "Misc/test.md",
+    "Misc/Matlab Cheat Sheet.md",
+    "Math 101/work.md",
     "Misc",
-    "Math 152/Untitled 1.md",
-    "Math 152/Lines in vector form.md",
-    "Math 101/Definite Integral.md",
-    "Math 152/Systems of equations & linear independence.md",
-    "Math 152/Linear indenpendence.md",
+    "Math 152/Shortest distance between two lines.md",
+    "Math 152/Rewriting a plane from parametric.md",
+    "Math 152/Rank of a matrix.md",
+    "Math 152/Intersection of planes.md",
+    "Math 101/Trig Sub.md",
     "Math 101/Partial Fractions.md",
-    "Math 101/Untitled 1.md",
-    "Pasted image 20240130112741.png",
-    "Math 101/Properties of Integrals.md",
+    "English",
+    "Math 152/Scalar.md",
+    "Math 152/work.md",
+    "Math 152/Vectors in Orthogonal Coordinates.md",
+    "Math 152/Determinant.md",
+    "Math 152/Untitled.md",
+    "Math 152/Systems of equations & linear independence.md",
+    "Math 152/Solving a linear system.md",
+    "Math 152/RREF.md",
+    "Math 152/Linear indenpendence.md",
+    "Math 152/Linear Combinations.md",
     "Math 152/Jan 24 Linear independence.png",
     "Math 152/Jan 22 Lecture Solving parametric equation from 2 planes.png",
+    "Math 101/Untitled.md",
+    "Pasted image 20240122125214.png",
+    "Math 152/Projection onto a plane.md",
     "Untitled.canvas",
     "Phys 170",
     "Math 101",

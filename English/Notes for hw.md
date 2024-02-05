@@ -36,7 +36,7 @@ second
 - historical societal responses
 	- migration
 	- collapse
-	- creation invention
+	- creative invention
 third
 - what are potential solutions
 	- geo-engineering - doesnt work

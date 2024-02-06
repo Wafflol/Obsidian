@@ -3,7 +3,7 @@ doesnt all fit on one tree diagram
 beginning tree diagram:
 ![[Pasted image 20240201165247.png]]
 ![[Pasted image 20240201165302.png]]
-summarise as 3 mini summaries
+summarize as 3 mini summaries
 
 tree maps wont connect up
 
@@ -28,15 +28,15 @@ hw is both summary + analysis
 fi
 
 first section
-- envrionmentalist paradox
+- environmentalist paradox
 	- human development index
 	- other measurement
 	- human development vs sustainability
 second
-- histoical societal responses
+- historical societal responses
 	- migration
 	- collapse
-	- creation invention
+	- creative invention
 third
 - what are potential solutions
 	- geo-engineering - doesnt work

@@ -90,9 +90,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "183801bb02004705",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "English/Pasted image 20240201165247.png"
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -158,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 152/Non-homogeneous systems.md",
+                "file": "English/Pasted image 20240201165247.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 152/Non-homogeneous systems.md",
+                "file": "English/Pasted image 20240201165247.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 152/Non-homogeneous systems.md"
+                "file": "English/Pasted image 20240201165247.png"
               }
             }
           },
@@ -219,12 +229,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,10 +246,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eec9fdc92424648e",
+  "active": "183801bb02004705",
   "lastOpenFiles": [
-    "Math 152/Solving a linear system.md",
+    "conflict-files-obsidian-git.md",
     "Math 152/Non-homogeneous systems.md",
+    "Math 101/Pasted image 20240130112741.png",
+    "English/Pasted image 20240201165302.png",
+    "English/Pasted image 20240201165247.png",
+    "Math 152/Solving a linear system.md",
     "Math 152/Finding equation of two planes from a line L.md",
     "Math 152/Projection onto a plane.md",
     "Math 152/Rank of a matrix.md",
@@ -268,7 +281,6 @@
     "Math 101/Definite Integral.md",
     "Math 152/Systems of equations & linear independence.md",
     "Math 152/Linear indenpendence.md",
-    "Math 101/Partial Fractions.md",
     "Pasted image 20240130112741.png",
     "Math 152/Jan 24 Linear independence.png",
     "Math 152/Jan 22 Lecture Solving parametric equation from 2 planes.png",

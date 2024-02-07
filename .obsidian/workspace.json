@@ -97,26 +97,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phys 170/Moment arm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "310151df5c0f3ea6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Phys 170/Untitled.md",
+                "file": "Math 152/Non-homogeneous systems.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -182,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Phys 170/Untitled.md",
+                "file": "Math 152/Non-homogeneous systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Phys 170/Untitled.md",
+                "file": "Math 152/Non-homogeneous systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Phys 170/Untitled.md"
+                "file": "Math 152/Non-homogeneous systems.md"
               }
             }
           },
@@ -261,10 +249,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "310151df5c0f3ea6",
+  "active": "183801bb02004705",
   "lastOpenFiles": [
-    "Phys 170/Moment arm.md",
     "Phys 170/Untitled.md",
+    "Phys 170/Moment arm.md",
     "English/Pasted image 20240201165247.png",
     "conflict-files-obsidian-git.md",
     "Math 152/Non-homogeneous systems.md",

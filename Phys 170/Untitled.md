@@ -1,0 +1,1 @@
+The idea of the gender continuum has become more prevalent and accepted as a result of pop culture in america

@@ -109,14 +109,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 152/Rank of a matrix.md",
+                "file": "Math 101/Anti-derivatives.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10813d5866b793bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math 101/asdf.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 152/Rank of a matrix.md",
+                "file": "Math 101/asdf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 152/Rank of a matrix.md",
+                "file": "Math 101/asdf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 152/Rank of a matrix.md"
+                "file": "Math 101/asdf.md"
               }
             }
           },
@@ -261,8 +273,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d215c56532b031ff",
+  "active": "10813d5866b793bc",
   "lastOpenFiles": [
+    "Math 101/Anti-derivatives.md",
+    "Math 101/asdf.md",
+    "Math 152/Rank of a matrix.md",
     "Math 152/Solving Circuit Problems.md",
     "Math 152/Non-homogeneous systems.md",
     "Phys 170/Untitled.md",
@@ -274,7 +289,6 @@
     "Math 152/Solving a linear system.md",
     "Math 152/Finding equation of two planes from a line L.md",
     "Math 152/Projection onto a plane.md",
-    "Math 152/Rank of a matrix.md",
     "Math 152/Planes.md",
     "Misc/Matlab Cheat Sheet.md",
     "Misc/test.md",
@@ -294,8 +308,6 @@
     "Math 152/work.md",
     "Math 152/Projection.md",
     "Misc",
-    "Math 152/Untitled 1.md",
-    "Math 152/Lines in vector form.md",
     "Pasted image 20240130112741.png",
     "Math 152/Jan 24 Linear independence.png",
     "Math 152/Jan 22 Lecture Solving parametric equation from 2 planes.png",

@@ -71,3 +71,22 @@ $$\vec{n} = \begin{bmatrix}
 2 \\
 4
 \end{bmatrix}$$
+$$x = 0, y = \frac{1}{2}$$
+$$p = \left( 0, \frac{1}{2} \right)$$
+$$q = (1,2)$$
+$$\vec{v_{qp}} = \begin{bmatrix}
+-1 \\
+-\frac{3}{2}
+\end{bmatrix}$$
+$$\vec{u_{n}} = \begin{bmatrix}
+1 \\
+2
+\end{bmatrix}* \frac{1}{\sqrt{ 5 }}$$
+$$\vec{v_{qp}}\vec{\cdot}u_{n} = -\frac{1}{\sqrt{ 5 }}-\frac{3}{\sqrt{ 5 }} = -\frac{4}{\sqrt{5  }}$$
+A8:
+$$x=1+2s$$
+$$y=2-s$$
+$$z=3$$
+
+$$x=1+2t$$
+$$z=1+t$$

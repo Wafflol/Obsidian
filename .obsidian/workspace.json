@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 152/Projection.md",
+                "file": "Math 152/work.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef5f12a3e166fac6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math 152/MT2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 152/Projection.md",
+                "file": "Math 152/MT2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 152/Projection.md",
+                "file": "Math 152/MT2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 152/Projection.md"
+                "file": "Math 152/MT2.md"
               }
             }
           },
@@ -165,8 +178,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1b940456025ef8a9",
+  "active": "ef5f12a3e166fac6",
   "lastOpenFiles": [
+    "Math 152/Projection.md",
+    "Math 152/MT2.md",
+    "Math 152/work.md",
     "Math 152/Lines in vector form.md",
     "Math 101/work.md",
     "Math 152/Area of parallelograms.md",
@@ -194,9 +210,6 @@
     "Misc/test.md",
     "Math 101/Trig Sub.md",
     "Math 101/FTC 1.md",
-    "Math 101/FTC 2.md",
-    "Math 152/RREF.md",
-    "Math 152/Rewriting a plane from parametric.md",
     "Pasted image 20240201165302.png",
     "Pasted image 20240201165247.png",
     "English",

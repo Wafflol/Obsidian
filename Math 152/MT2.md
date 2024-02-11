@@ -193,4 +193,23 @@ $$6x-3y+3z=d$$
 $$6x -3y +3z = 3$$
 $$2x-y+z=1$$
 B3:
-$$$$
+$$\begin{bmatrix}
+1 & 2 & 2 & | & 0 \\
+1 & 2 & 3 & | & k \\
+2 & 2+k & 5 & | & k
+\end{bmatrix}$$
+$$\begin{bmatrix}
+1 & 2 & 2 & | & 0 \\
+0 & 0 & 1 & | & k \\
+2 & 2+k & 5 & | & k
+\end{bmatrix}$$
+$$\begin{bmatrix}
+1 & 2 & 2 & | & 0 \\
+0 & 0 & 1 & | & k \\
+0 & k-2 & 1 & | & k
+\end{bmatrix}$$
+$$\begin{bmatrix}
+1 & 2 & 2 & | & 0 \\
+0 & 0 & 1 & | & k \\
+0 & k-2 & 0 & | & 0
+\end{bmatrix}$$

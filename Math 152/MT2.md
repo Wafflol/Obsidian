@@ -96,4 +96,82 @@ $$\begin{bmatrix}
 3
 \end{bmatrix}$$
 A9:
-d = 
+$$d = \begin{bmatrix}
+3 \\
+1 \\
+2
+\end{bmatrix}\cdot \begin{bmatrix}
+1 \\
+3 \\
+3
+\end{bmatrix} = 12$$
+$$v = \begin{bmatrix}
+3 \\
+2 \\
+1
+\end{bmatrix}* 3 = \begin{bmatrix}
+9 \\
+6 \\
+3
+\end{bmatrix}$$
+B1:
+$$\begin{bmatrix}
+0 & 1 & 2 & | & 2 \\
+1 & -1 & 1 & | & -1 \\
+4 & -3 & 8 & | & 2
+\end{bmatrix}$$
+$$ = \begin{bmatrix}
+0 & 1 & 2 & | & 2 \\
+1 & 0 & 3 & | & 1 \\
+4 & -3 & 8 & | & 2
+\end{bmatrix}$$
+$$ = \begin{bmatrix}
+0 & 1 & 2 & | & 2 \\
+1 & 0 & 3 & | & 1 \\
+0 & -3 & -4 & | & -2
+\end{bmatrix}$$
+$$=\begin{bmatrix}
+0 & 1 & 2 & | & 2 \\
+1 & 0 & 3 & | & 1 \\
+0 & 0 & 2 & | & 4
+\end{bmatrix}$$
+$$x_{3} = 2$$
+$$x_{1} = -5$$
+$$x_{2} = -2$$
+$$\begin{bmatrix}
+x_{1} \\
+x_{2} \\
+x_{3}
+\end{bmatrix} = \begin{bmatrix}
+-5 \\
+-2 \\
+2
+\end{bmatrix}$$
+B2:
+$$\begin{bmatrix}
+1 \\
+1 \\
+0
+\end{bmatrix}\times \begin{bmatrix}
+0 \\
+3 \\
+-1
+\end{bmatrix} = \begin{vmatrix}
+\hat{i}&\hat{j}&\hat{k}\\
+1 & 1 & 0 \\
+0 & 3 & -1
+\end{vmatrix} = -\hat{i}+\hat{j}+3\hat{k} = t\begin{bmatrix}
+-1 \\
+1 \\
+3
+\end{bmatrix} + \vec{p}$$
+$$x = 1, y = 1, z = 0$$
+$$ L = t\begin{bmatrix}
+-1 \\
+1 \\
+3 
+\end{bmatrix} + \begin{bmatrix}
+1 \\
+1 \\
+0 
+\end{bmatrix}$$

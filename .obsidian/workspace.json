@@ -8,139 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2b93f4e415afa74f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math 152/Solving a linear system.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd95116a8ec9c467",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math 101/work.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca75324235ebe492",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math 152/Solving a linear system.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a45461675e14f24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math 152/Shortest distance between two lines.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e50fa8b1478c4d8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc/Matlab Cheat Sheet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6561a9905a9b520d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math 152/Solving a linear system.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eec9fdc92424648e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math 152/Non-homogeneous systems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "183801bb02004705",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math 152/Non-homogeneous systems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d215c56532b031ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math 101/Anti-derivatives.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10813d5866b793bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math 152/Area of parallelograms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d71cc681ce8a6aa5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc/Matlab Cheat Sheet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7cd58bca65e3524b",
+            "id": "1b940456025ef8a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -151,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -298,26 +165,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9761efd1150e650c",
+  "active": "1b940456025ef8a9",
   "lastOpenFiles": [
+    "Math 152/Area of parallelograms.md",
+    "Math 152/Non-homogeneous systems.md",
+    "Math 152/Solving a linear system.md",
+    "Misc/Matlab Cheat Sheet.md",
+    "Math 152/Shortest distance between two lines.md",
+    "Math 101/work.md",
+    "Math 101/Anti-derivatives.md",
     "Orbit/CAD Naming convention.md",
     "Math 152/Questions.md",
     "Orbit",
-    "Misc/Matlab Cheat Sheet.md",
     "Math 152/Untitled.md",
-    "Math 152/Area of parallelograms.md",
     "Math 101/asdf.md",
-    "Math 101/Anti-derivatives.md",
     "Math 152/Rank of a matrix.md",
     "Math 152/Solving Circuit Problems.md",
-    "Math 152/Non-homogeneous systems.md",
     "Phys 170/Untitled.md",
     "Phys 170/Moment arm.md",
     "English/Pasted image 20240201165247.png",
     "conflict-files-obsidian-git.md",
     "Math 101/Pasted image 20240130112741.png",
     "English/Pasted image 20240201165302.png",
-    "Math 152/Solving a linear system.md",
     "Math 152/Finding equation of two planes from a line L.md",
     "Math 152/Projection onto a plane.md",
     "Math 152/Planes.md",
@@ -328,8 +197,6 @@
     "Math 152/RREF.md",
     "Math 152/Rewriting a plane from parametric.md",
     "Math 152/Intersection of planes.md",
-    "Math 152/Shortest distance between two lines.md",
-    "English/Notes for hw.md",
     "Pasted image 20240201165302.png",
     "Pasted image 20240201165247.png",
     "English",

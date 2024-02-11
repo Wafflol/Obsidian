@@ -213,3 +213,29 @@ $$\begin{bmatrix}
 0 & 0 & 1 & | & k \\
 0 & k-2 & 0 & | & 0
 \end{bmatrix}$$
+No k exists for no solution
+b.
+k = 2, for infinitely many solutions
+$$x_{3} = 2$$
+$$x_{2} = t$$
+$$x_{1} = -4-2t$$
+$$\vec{x} = \begin{bmatrix}
+-4 \\
+0 \\
+2
+\end{bmatrix} + t\begin{bmatrix}
+-2 \\
+1 \\
+0
+\end{bmatrix}$$
+c.
+$k \neq 0$
+$$x_{2} = k-2$$
+$$x_{3} = k$$
+$$x_{1} = -2k-2(k-2)$$
+$$x_{1} = -4k+4$$
+$$\vec{x} = \begin{bmatrix}
+-4k+4 \\
+k-2 \\
+k
+\end{bmatrix}$$

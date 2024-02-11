@@ -178,7 +178,7 @@ $$ L = t\begin{bmatrix}
 b.
 $$\begin{bmatrix}
 2 \\
-1 \\
+0 \\
 -3
 \end{bmatrix}\times \begin{bmatrix}
 -1 \\
@@ -186,12 +186,11 @@ $$\begin{bmatrix}
 3
 \end{bmatrix} = \begin{vmatrix}
 \hat{i}&\hat{j}&\hat{k}\\
-2 & 1 & -3 \\
+2 & 0 & -3 \\
 -1 & 1 & 3
-\end{vmatrix} = 6\hat{i}-3\hat{j}+3\hat{k}$$
-$$6x-3y+3z=d$$
-$$6x -3y +3z = 3$$
-$$2x-y+z=1$$
+\end{vmatrix} = 3\hat{i}-3\hat{j}+2\hat{k}$$
+$$3x-3y+2z = d$$
+$$3x-3y+2z = 0$$
 B3:
 $$\begin{bmatrix}
 1 & 2 & 2 & | & 0 \\

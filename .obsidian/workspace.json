@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1b940456025ef8a9",
+            "id": "ef5f12a3e166fac6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 152/work.md",
+                "file": "Math 152/Lines in vector form.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ef5f12a3e166fac6",
+            "id": "43a2f8eedb77c6b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -178,12 +178,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ef5f12a3e166fac6",
+  "active": "43a2f8eedb77c6b1",
   "lastOpenFiles": [
-    "Math 152/Projection.md",
-    "Math 152/MT2.md",
-    "Math 152/work.md",
     "Math 152/Lines in vector form.md",
+    "Math 152/MT2.md",
+    "Math 152/Projection.md",
+    "Math 152/work.md",
     "Math 101/work.md",
     "Math 152/Area of parallelograms.md",
     "Math 152/Non-homogeneous systems.md",

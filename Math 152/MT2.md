@@ -67,3 +67,7 @@ $$y = 2+\frac{x}{2}-\frac{1}{2}+3z-9$$
 $$\frac{1}{2}x-y+3z=\frac{15}{2}$$
 $$x-2y+6z=15$$
 A7:
+$$\vec{n} = \begin{bmatrix}
+2 \\
+4
+\end{bmatrix}$$

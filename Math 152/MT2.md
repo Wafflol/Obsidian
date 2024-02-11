@@ -42,3 +42,15 @@ $$v_{2} = \begin{bmatrix}
 1 \\
 1
 \end{bmatrix}$$
+$$\begin{vmatrix}
+\hat{i}&\hat{j}&\hat{k}\\
+2 & 0 & 1 \\
+0 & 1 & 1
+\end{vmatrix}$$
+$$= -\hat{i}-2\hat{j}+2\hat{k}$$
+$$\begin{bmatrix}
+-1 \\
+-2 \\
+2
+\end{bmatrix}$$
+$$= \frac{3}{2}$$

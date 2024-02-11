@@ -84,9 +84,16 @@ $$\vec{u_{n}} = \begin{bmatrix}
 \end{bmatrix}* \frac{1}{\sqrt{ 5 }}$$
 $$\vec{v_{qp}}\vec{\cdot}u_{n} = -\frac{1}{\sqrt{ 5 }}-\frac{3}{\sqrt{ 5 }} = -\frac{4}{\sqrt{5  }}$$
 A8:
-$$x=1+2s$$
-$$y=2-s$$
-$$z=3$$
-
-$$x=1+2t$$
-$$z=1+t$$
+$$\begin{bmatrix}
+2 & -2 & | & 0 \\
+-1 & 0 & | & -2 \\
+0 & -1 & | & -2
+\end{bmatrix}$$
+$$s = 2, t = 2$$
+$$\begin{bmatrix}
+5 \\
+0 \\
+3
+\end{bmatrix}$$
+A9:
+d = 

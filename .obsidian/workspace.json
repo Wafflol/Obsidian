@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "1ddbf49a0b666256",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math 152/MT3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "43a2f8eedb77c6b1",
             "type": "leaf",
             "state": {
@@ -52,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b2a76b873dfc05ff",
@@ -118,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 152/Matrix Multiplication.md",
+                "file": "Math 152/MT3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 152/Matrix Multiplication.md",
+                "file": "Math 152/MT3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 152/Matrix Multiplication.md"
+                "file": "Math 152/MT3.md"
               }
             }
           },
@@ -197,10 +210,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b30a7b9147d461d9",
+  "active": "1ddbf49a0b666256",
   "lastOpenFiles": [
-    "Math 152/Untitled 1.md",
+    "Math 152/Rewriting a linear system in matrix form.md",
     "Math 152/Matrix Multiplication.md",
+    "Math 152/Untitled 1.md",
     "Math 152/Untitled 2.md",
     "Math 152/Rank of a matrix.md",
     "Math 152/RREF.md",
@@ -225,7 +239,6 @@
     "Math 101/Anti-derivatives.md",
     "Orbit/CAD Naming convention.md",
     "Orbit",
-    "Math 101/asdf.md",
     "English/Pasted image 20240201165247.png",
     "Math 101/Pasted image 20240130112741.png",
     "English/Pasted image 20240201165302.png",

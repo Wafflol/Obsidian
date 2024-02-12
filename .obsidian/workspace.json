@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ca717fe4f47063ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math 152/MT3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 152/MT2.md",
+                "file": "Math 152/MT3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 152/MT2.md",
+                "file": "Math 152/MT3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 152/MT2.md"
+                "file": "Math 152/MT3.md"
               }
             }
           },
@@ -178,10 +190,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "43a2f8eedb77c6b1",
+  "active": "ca717fe4f47063ac",
   "lastOpenFiles": [
-    "Math 152/Lines in vector form.md",
     "Math 152/MT2.md",
+    "Math 152/MT3.md",
+    "Math 152/Lines in vector form.md",
     "Math 152/Projection.md",
     "Math 152/work.md",
     "Math 101/work.md",
@@ -209,7 +222,6 @@
     "Math 152/Planes.md",
     "Misc/test.md",
     "Math 101/Trig Sub.md",
-    "Math 101/FTC 1.md",
     "Pasted image 20240201165302.png",
     "Pasted image 20240201165247.png",
     "English",

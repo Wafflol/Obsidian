@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 152/Untitled.md",
+                "file": "Math 152/Matrix Multiplication.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 152/Untitled.md",
+                "file": "Math 152/Matrix Multiplication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 152/Untitled.md",
+                "file": "Math 152/Matrix Multiplication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 152/Untitled.md"
+                "file": "Math 152/Matrix Multiplication.md"
               }
             }
           },
@@ -200,7 +200,7 @@
   "active": "b30a7b9147d461d9",
   "lastOpenFiles": [
     "Math 152/Untitled 1.md",
-    "Math 152/Untitled.md",
+    "Math 152/Matrix Multiplication.md",
     "Math 152/Untitled 2.md",
     "Math 152/Rank of a matrix.md",
     "Math 152/RREF.md",

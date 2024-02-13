@@ -191,4 +191,3 @@ $$= s\begin{bmatrix}
 0 \\
 1
 \end{bmatrix}$$
-$$ $$

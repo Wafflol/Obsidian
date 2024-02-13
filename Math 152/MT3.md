@@ -191,3 +191,9 @@ $$= s\begin{bmatrix}
 0 \\
 1
 \end{bmatrix}$$
+$$\begin{bmatrix}
+-2 & 0 & | & 0 \\
+1 & -1 & | & -1 \\
+0 & 2 & | & 1
+\end{bmatrix}$$
+$$$$

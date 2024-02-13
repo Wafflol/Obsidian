@@ -175,3 +175,20 @@ $$\begin{bmatrix}
 \end{bmatrix}$$
 B3:
 a.
+$$y = s, z = t$$
+$$x = -2s+t$$
+$$\vec{ x} = \begin{bmatrix}
+-2s+t \\
+s \\
+t
+\end{bmatrix}$$
+$$= s\begin{bmatrix}
+-2 \\
+1 \\
+0
+\end{bmatrix} + t\begin{bmatrix}
+1 \\
+0 \\
+1
+\end{bmatrix}$$
+$$$$

@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 152/Cross product.md",
+                "file": "Math 101/Definite Integral.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c73aac1033dbf31f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math 101/Numerical Intergration.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 152/Cross product.md",
+                "file": "Math 101/Numerical Intergration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 152/Cross product.md",
+                "file": "Math 101/Numerical Intergration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 152/Cross product.md"
+                "file": "Math 101/Numerical Intergration.md"
               }
             }
           },
@@ -164,8 +177,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ca717fe4f47063ac",
+  "active": "c73aac1033dbf31f",
   "lastOpenFiles": [
+    "Math 101/Definite Integral.md",
+    "Math 101/Numerical Intergration.md",
+    "Math 152/Planes.md",
+    "Math 152/Projection.md",
+    "Math 152/Cross product.md",
     "Math 152/Circles.md",
     "Math 152/Area of parallelograms.md",
     "Math 101/asdf.md",
@@ -184,15 +202,10 @@
     "Math 152/Rewriting a plane from parametric.md",
     "Math 152/Questions.md",
     "Math 152/Determinant.md",
-    "Math 152/Cross product.md",
     "Math 101/FTC 2.md",
     "Math 152/Lines in vector form.md",
-    "Math 152/Planes.md",
-    "Math 152/Projection.md",
     "Math 152/work.md",
     "Math 101/work.md",
-    "Math 152/Non-homogeneous systems.md",
-    "Math 152/Solving a linear system.md",
     "Orbit",
     "English/Pasted image 20240201165247.png",
     "English/Pasted image 20240201165302.png",

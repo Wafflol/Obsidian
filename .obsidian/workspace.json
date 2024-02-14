@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 152/Finding equation of two planes from a line L.md",
+                "file": "Math 152/Lines in vector form.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 152/Finding equation of two planes from a line L.md",
+                "file": "Math 152/Lines in vector form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 152/Finding equation of two planes from a line L.md",
+                "file": "Math 152/Lines in vector form.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 152/Finding equation of two planes from a line L.md"
+                "file": "Math 152/Lines in vector form.md"
               }
             }
           },
@@ -179,6 +179,11 @@
   },
   "active": "c73aac1033dbf31f",
   "lastOpenFiles": [
+    "Math 152/Linear indenpendence.md",
+    "Math 152/Linear Combinations.md",
+    "Math 152/Jan 22 Lecture Solving parametric equation from 2 planes.png",
+    "Math 152/Intersection of planes.md",
+    "Math 152/Finding equation of two planes from a line L.md",
     "Math 152/Dot product.md",
     "Math 152/Determinant.md",
     "Math 152/Cross product.md",
@@ -202,10 +207,6 @@
     "Math 152/Rank of a matrix.md",
     "Math 152/RREF.md",
     "Math 152/Rewriting a plane from parametric.md",
-    "Math 152/Questions.md",
-    "Math 101/FTC 2.md",
-    "Math 152/Lines in vector form.md",
-    "Math 152/work.md",
     "Orbit",
     "English/Pasted image 20240201165247.png",
     "English/Pasted image 20240201165302.png",
@@ -215,7 +216,6 @@
     "Misc",
     "Pasted image 20240130112741.png",
     "Math 152/Jan 24 Linear independence.png",
-    "Math 152/Jan 22 Lecture Solving parametric equation from 2 planes.png",
     "Untitled.canvas",
     "Phys 170",
     "Math 101",

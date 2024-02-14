@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 152/Lines in vector form.md",
+                "file": "Phys 159 Labs/Lab Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b2a76b873dfc05ff",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 152/Lines in vector form.md",
+                "file": "Phys 159 Labs/Lab Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 152/Lines in vector form.md",
+                "file": "Phys 159 Labs/Lab Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 152/Lines in vector form.md"
+                "file": "Phys 159 Labs/Lab Template.md"
               }
             }
           },
@@ -179,6 +180,9 @@
   },
   "active": "c73aac1033dbf31f",
   "lastOpenFiles": [
+    "Math 152/Lines in vector form.md",
+    "Phys 159 Labs/Lab Template.md",
+    "Phys 159 Labs",
     "Math 152/Linear indenpendence.md",
     "Math 152/Linear Combinations.md",
     "Math 152/Jan 22 Lecture Solving parametric equation from 2 planes.png",
@@ -205,8 +209,6 @@
     "Math 152/Untitled 1.md",
     "Math 152/Untitled 2.md",
     "Math 152/Rank of a matrix.md",
-    "Math 152/RREF.md",
-    "Math 152/Rewriting a plane from parametric.md",
     "Orbit",
     "English/Pasted image 20240201165247.png",
     "English/Pasted image 20240201165302.png",

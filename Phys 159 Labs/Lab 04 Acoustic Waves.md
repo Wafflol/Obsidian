@@ -12,6 +12,8 @@ Partner: Ryan Mahinpey 39959770
 | Tool | Physical Parameter | Resolution | Reading Uncertainty | Range | Usage |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | Osciilloscope | Voltage |  |  | -150V-150V | To measure the voltage in a circuit |
+| Ruler | Length | 1mm | $\pm 0.5mm$ | 0cm-100cm | To measure length for a long object |
+![[Pasted image 20240214174719.png]]
 We also used a microphone, speaker box, and waveform generator
 
 Note: we used a waveform generator, but it is not in the table for obvious reasons

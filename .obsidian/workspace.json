@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d390691dc3761ce1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phys 159 Labs/Lab 04 Acoustic Waves.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Phys 159 Labs/Lab Template.md",
+                "file": "Phys 159 Labs/Lab 04 Acoustic Waves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Phys 159 Labs/Lab Template.md",
+                "file": "Phys 159 Labs/Lab 04 Acoustic Waves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Phys 159 Labs/Lab Template.md"
+                "file": "Phys 159 Labs/Lab 04 Acoustic Waves.md"
               }
             }
           },
@@ -178,9 +190,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c73aac1033dbf31f",
+  "active": "d390691dc3761ce1",
   "lastOpenFiles": [
     "Phys 159 Labs/Lab Template.md",
+    "Phys 159 Labs/Lab 04 Acoustic Waves.md",
     "Math 152/Lines in vector form.md",
     "Phys 159 Labs",
     "Math 152/Linear indenpendence.md",
@@ -208,7 +221,6 @@
     "Math 152/Rewriting a linear system in matrix form.md",
     "Math 152/Untitled 1.md",
     "Math 152/Untitled 2.md",
-    "Math 152/Rank of a matrix.md",
     "Orbit",
     "English/Pasted image 20240201165247.png",
     "English/Pasted image 20240201165302.png",

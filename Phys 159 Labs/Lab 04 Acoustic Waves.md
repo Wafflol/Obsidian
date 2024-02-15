@@ -37,21 +37,56 @@ After testing from 300-400hz with the generator, we found that the highest peak 
 Note: we used the meter stick to place the mic in approximately the centre of the tube
 
 3. **Relate Quantities**
-	- Things we can measure
-		- *replace with measurements ex. length of string*
-	We can measure *replace with measurable dimension*
-	*State all variables and what they mean*
-	*derive equation*
-	*derive uncertainties*
+	NOTE: we put our uncertainty equations and calculations in test and try for each method
+	- We can measure
+		- the frequency of a sound wave
+		- the length of the tube
+		- amplitude of the sound wave using voltage
 4. **Test & Try**
 	One possible procedure:
+		We put the microphone on one end of the tube, where the end closest to the speaker was set as position = 0. We then moved the microphone across 5 equidistant points along the tube 13cm across, and got the following data points + graph after plotting
+		After finding our fundamental frequency, we can measure the wavelength of the sound wave, and using the equation $v = \lambda f$, for waves, we can find the speed of sound.
+Below is the data copied from matlab:
 
-	Another possible procedure:
+| amplitude (V) | position (cm) |
+| ---- | ---- |
+| 0.3$\pm 0.01$ | $0\pm 0.01$ |
+| 2.54$\pm 0.04$ | $13\pm 0.01$ |
+| 3.36$\pm 0.03$ | $26\pm 0.01$ |
+| 2.9$\pm 0.03$ | $39\pm 0.01$ |
+| 0.84 $\pm 0.03$ | $52\pm 0.01$ |
+		![[Pasted image 20240214182733.png]]
+From the waveform generator, we got that the fundamental frequency was $323.1\pm 0.05$ Hz
+The length of the tube is $52.50\pm 0.05m$ 
+Calculating our speed of sound from this, we get 339.3$\pm 0.3$m/s
 
-	The two procedures differ in that
+Uncertainty equation (comes from the multiplication rule): 
+Let $\lambda$ = wavelength
+Let $f$ = frequency
+Let $v$ = speed of sound
+$$v = \lambda f$$
+$$\delta v = \sqrt{ \lambda^{2} \delta f^{2} + \delta \lambda^{2} f^{2} }$$
+Another possible procedure:
+		We can find the 2nd harmonic frequency, 3rd, 4th, and so on, and then, using $\frac{f}{n}$ where f is the frequencies and n is the nth harmonic, to find $\frac{v}{2L}$, as $f = \frac{nv}{2L}$, and using the length of the tube, we can find the speed of sound.
+We already found the first frequency from the last procedure:
+
+| n | f |
+| ---- | ---- |
+| 1 | $323.1\pm 0.01$ $\text{Hz}$ |
+| 3 |  |
+| 5 |  |
+
+
+
+
+The two procedures differ in that the second method has more variables, which is associated with a higher uncertainty. Additionally, it is more complex, so there is more error.
+
+Thus, we chose to use the first procedure.
 
 
 5. **Procedure**
+Note: for the uncertainties for our oscilloscope measurements, we used 1/4 of the variation in the peaks.
+
 Tools used:
 - procedure
 Add pictures of procedure

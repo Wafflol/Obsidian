@@ -55,7 +55,7 @@ Below is the data copied from matlab:
 | 3.36$\pm 0.03$ | $26\pm 0.01$ |
 | 2.9$\pm 0.03$ | $39\pm 0.01$ |
 | 0.84 $\pm 0.03$ | $52\pm 0.01$ |
-	
+
 	![[Pasted image 20240214182733.png]]
 From the waveform generator, we got that the fundamental frequency was $323.1\pm 0.05$ Hz
 The length of the tube is $52.50\pm 0.05m$ 

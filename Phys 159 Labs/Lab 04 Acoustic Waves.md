@@ -16,8 +16,9 @@ We also used a microphone, speaker box, and waveform generator
 
 Note: we used a waveform generator, but it is not in the table for obvious reasons
 
-Shown below is a picture of the setup. + tools used. To replicate, connect the waveform generator, oscilloscope, and speaker box to power. Then, ch1 of the waveform generator to the speaker at "sine in", ch1 of the oscilloscope to the speaker box at "scope", and the audio jack from the mic to the speaker box.
-![[Pasted image 20240214170141.png]]
+Shown below is a picture of the setup. + tools used. To replicate, connect the waveform generator, oscilloscope, and speaker box to power. Then, a splitter at ch1 of the waveform generator is connected to the oscilloscope at ch2  and "sine in" at the speaker box. And then,
+we connect ch1 of the oscilloscope to the speaker box at "scope", and the microphone into the speaker box.
+![[Pasted image 20240214172431.png]]
 Below is a drawing of the contraption:
 ![[Pasted image 20240214170540.png]]
 

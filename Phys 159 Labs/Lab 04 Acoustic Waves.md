@@ -12,9 +12,9 @@ Partner: Ryan Mahinpey 39959770
 | Tool | Physical Parameter | Resolution | Reading Uncertainty | Range | Usage |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | Osciilloscope | Voltage | 200mV | 100mV | -150V-150V | To measure the voltage in a circuit |
+| Microphone |  |  |  |  |  |
 |  |  |  |  |  |  |
-|  |  |  |  |  |  |
-
+Note: we used a waveform generator too, but it is not in the table for obvious reasons
 *add pictures of tools used*
 
 3. **Relate Quantities**

@@ -75,9 +75,14 @@ We already found the first frequency from the last procedure:
 | 1 | $323.1\pm 0.01$ $\text{Hz}$ |
 | 3 | $9320.6\pm 0.01 \text{Hz}$ |
 | 5 | $1553.5\pm 0.01\text{Hz}$ |
+From this, we plotted it in matlab, found the slope, which turned out to be:
+$307.6\pm 0.01$
+This value is $\frac{f}{n}$, which is equal to $\frac{v}{2L}$
+To get $v$, we just multiply this by $2L$
 
-
-
+To get the uncertainty of $v$, as $2L$ is just a constant, we just scale the uncertainty by $2L$
+Thus, the calculated speed of sound from this method is
+$323.0\pm 0.01$
 
 
 The two procedures differ in that the second method has more variables, which is associated with a higher uncertainty. Additionally, it is more complex, so there is more error.

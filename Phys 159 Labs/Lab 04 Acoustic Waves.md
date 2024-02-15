@@ -32,7 +32,7 @@ As we increased the frequency on the waveform generator, the distance between th
 While testing the microphone and speaker with the tube:
 As we slid the microphone to the right, the amplitude on the oscilloscope would change from very big to very small. We think this is because we are finding the pressure anti-nodes and nodes that are created by the sound waves
 
-After testing from 300-400hz with the generator, we found that the highest peak in the middle of the tube was found at 323.2 Hz
+After testing from 300-400hz with the generator, we found that the highest peak in the middle of the tube was found at 323.2 Hz. This is our experimental fundamental frequency of the tube
 
 Note: we used the meter stick to place the mic in approximately the centre of the tube
 

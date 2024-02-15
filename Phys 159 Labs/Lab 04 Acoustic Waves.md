@@ -21,6 +21,13 @@ we connect ch1 of the oscilloscope to the speaker box at "scope", and the microp
 ![[Pasted image 20240214172431.png]]
 Below is a drawing of the contraption:
 ![[Pasted image 20240214170540.png]]
+Note: to make sure our speaker is working, we will have our generator at just a high enough amplitude so that we can hear it faintly
+
+Experimenting with the setup:
+While testing the microphone and the speaker without the tube, we noticed that the amplitude of the microphone signal decreased as some function of distance
+As we increased the frequency on the waveform generator, the distance between the peaks on the oscilloscope decreased, while the opposite happened when we decreased the frequency
+
+
 
 3. **Relate Quantities**
 	- Things we can measure

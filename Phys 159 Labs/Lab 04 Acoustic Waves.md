@@ -27,6 +27,9 @@ Experimenting with the setup:
 While testing the microphone and the speaker without the tube, we noticed that the amplitude of the microphone signal decreased as some function of distance
 As we increased the frequency on the waveform generator, the distance between the peaks on the oscilloscope decreased, while the opposite happened when we decreased the frequency
 
+While testing the microphone and speaker with the tube:
+As we slid the microphone to the right, the amplitude on the oscilloscope would change from very big to very small, and then repeat again. We think this is because we are finding the pressure anti-nodes and nodes that are created by the sound waves
+
 
 
 3. **Relate Quantities**

@@ -73,8 +73,9 @@ We already found the first frequency from the last procedure:
 | n | f |
 | ---- | ---- |
 | 1 | $323.1\pm 0.01$ $\text{Hz}$ |
-| 3 |  |
-| 5 |  |
+| 3 | $9320.6\pm 0.01 \text{Hz}$ |
+| 5 | $1553.5\pm 0.01\text{Hz}$ |
+
 
 
 

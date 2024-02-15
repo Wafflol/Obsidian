@@ -3,8 +3,10 @@ Partner: Ryan Mahinpey 39959770
 2/14/2024
 
 1. **Clarify objective**
-	- Objective: *we are trying to find x*
-	- *insert explanation of what x is related to and what it means*
+	- Objective: We are trying to map the pressure distribution of sound waves inside a tube for $f_{0}$. We are also trying to determine the speed of sound
+	- We know harmonic sound wave, we can find anti-nodes and nodes by mapping out the pressure and seeing where the pressure has maximum amplitude and minimum amplitude to find out the wavelength of the sound wave
+	- The wavelength of a sound wave is the distance between peaks of the wave for a snapshot in time (note: the wavelength is related to the speed of sound)
+	- The speed of sound is also related to frequency, which we would find by using a time vs pressure graph of the sound wave
 2. **Explore Tools**
 
 | Tool | Physical Parameter | Resolution | Reading Uncertainty | Range | Usage |

@@ -75,6 +75,8 @@ We already found the first frequency from the last procedure:
 | 1 | $323.1\pm 0.01$ $\text{Hz}$ |
 | 3 | $9320.6\pm 0.01 \text{Hz}$ |
 | 5 | $1553.5\pm 0.01\text{Hz}$ |
+
+![[Pasted image 20240214191209.png]]
 From this, we plotted it in matlab, found the slope, which turned out to be:
 $307.6\pm 0.01$
 This value is $\frac{f}{n}$, which is equal to $\frac{v}{2L}$
@@ -82,19 +84,35 @@ To get $v$, we just multiply this by $2L$
 
 To get the uncertainty of $v$, as $2L$ is just a constant, we just scale the uncertainty by $2L$
 Thus, the calculated speed of sound from this method is
-$323.0\pm 0.01$
+$323.0\pm 0.05$
+Once again, we used the multiplication rule for the uncertainty:
+Let $m = \frac{f}{n}$
+$$v = m*2L$$
+$$\delta v = \sqrt{ 4 L^{2} \delta m^{2} + 4 \delta L^{2} m^{2} }$$
 
+The two procedures differ in that the second method has more variables, but the two have comparable uncertainties with the first procedure having a slightly higher uncertainty. The second method was more precise, as we did not have to move the microphone around too. 
 
-The two procedures differ in that the second method has more variables, which is associated with a higher uncertainty. Additionally, it is more complex, so there is more error.
-
-Thus, we chose to use the first procedure.
+Thus, we chose to use the second procedure.
 
 
 5. **Procedure**
 Note: for the uncertainties for our oscilloscope measurements, we used 1/4 of the variation in the peaks.
+We are doing procedure #2
+1. First, connect the waveform generator, oscilloscope, and speaker box to power. Then, a splitter at ch1 of the waveform generator is connected to the oscilloscope at ch2  and "sine in" at the speaker box. And then, connect ch1 of the oscilloscope to the speaker box at "scope", and the microphone into the speaker box.
+2. put the tube right up to the speaker, and set up the microphone in the center of the tube
+3. Then, find the first fundamental frequency by playing around at around 300-400 hz on the waveform generator, until you find the peak on the oscilloscope.
+4. Record this data point for frequency and record the harmonic
+5. repeat for 3rd 5th, and extra harmonics if necessary
+6. Then, graph it on matlab, find the slope, and use the equations above to find the speed of sound
 
 Tools used:
-- procedure
+- oscilloscope
+- meter stick
+- tube
+- speaker
+- waveform generator
 Add pictures of procedure
+![[Pasted image 20240214172431.png]]
 	**Reflection**:
+		Overall, the uncertainties were pretty close for both procedures, but the second one was slightly better, and it was also faster to do.
 		

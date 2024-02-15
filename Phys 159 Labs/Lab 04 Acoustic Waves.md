@@ -22,7 +22,7 @@ Shown below is a picture of the setup. + tools used. To replicate, connect the w
 we connect ch1 of the oscilloscope to the speaker box at "scope", and the microphone into the speaker box.
 ![[Pasted image 20240214172431.png]]
 Below is a drawing of the contraption:
-![[Pasted image 20240214170540.png]]
+![[Pasted image 20240214181118.png]]
 Note: to make sure our speaker is working, we will have our generator at just a high enough amplitude so that we can hear it faintly
 
 Experimenting with the setup:

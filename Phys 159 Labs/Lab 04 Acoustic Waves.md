@@ -11,11 +11,15 @@ Partner: Ryan Mahinpey 39959770
 
 | Tool | Physical Parameter | Resolution | Reading Uncertainty | Range | Usage |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| Osciilloscope | Voltage | 200mV | 100mV | -150V-150V | To measure the voltage in a circuit |
-| Microphone |  |  |  |  |  |
-|  |  |  |  |  |  |
-Note: we used a waveform generator too, but it is not in the table for obvious reasons
-*add pictures of tools used*
+| Osciilloscope | Voltage |  |  | -150V-150V | To measure the voltage in a circuit |
+We also used a microphone, speaker box, and waveform generator
+
+Note: we used a waveform generator, but it is not in the table for obvious reasons
+
+Shown below is a picture of the setup. + tools used. To replicate, connect the waveform generator, oscilloscope, and speaker box to power. Then, ch1 of the waveform generator to the speaker at "sine in", ch1 of the oscilloscope to the speaker box at "scope", and the audio jack from the mic to the speaker box.
+![[Pasted image 20240214170141.png]]
+Below is a drawing of the contraption:
+![[Pasted image 20240214170540.png]]
 
 3. **Relate Quantities**
 	- Things we can measure

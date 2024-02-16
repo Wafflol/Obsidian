@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phys 159 Labs/Lab 04 Acoustic Waves.md",
+                "file": "Math 152/work.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b2a76b873dfc05ff",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Phys 159 Labs/Lab 04 Acoustic Waves.md",
+                "file": "Math 152/work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Phys 159 Labs/Lab 04 Acoustic Waves.md",
+                "file": "Math 152/work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Phys 159 Labs/Lab 04 Acoustic Waves.md"
+                "file": "Math 152/work.md"
               }
             }
           },
@@ -166,6 +167,7 @@
   },
   "active": "d390691dc3761ce1",
   "lastOpenFiles": [
+    "Phys 159 Labs/Lab 04 Acoustic Waves.md",
     "Pasted image 20240214191209.png",
     "Pasted image 20240214191203.png",
     "Pasted image 20240214191201.png",
@@ -176,9 +178,7 @@
     "Pasted image 20240214182733.png",
     "Pasted image 20240214181118.png",
     "Pasted image 20240214174719.png",
-    "Pasted image 20240214174658.png",
     "Phys 159 Labs/Lab Template.md",
-    "Phys 159 Labs/Lab 04 Acoustic Waves.md",
     "Math 152/Lines in vector form.md",
     "Phys 159 Labs",
     "Math 152/Linear indenpendence.md",

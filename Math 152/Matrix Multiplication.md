@@ -26,3 +26,8 @@ When $A_{n\times n}$ is square, there is a strong resemblance between $ax = b$ a
 | ---- | ---- | ---- |
 | Unique solution | If $a\neq 0$, $x = a^{-1}b$ | If $\|A\| \neq 0$, $\vec{x} = A^{-1}\vec{b}, A^{-1}$ is the inverse of $A$ |
 
+For a [[triangular matrix]], or a [[diagonal matrix]] $A$, where $A = \begin{bmatrix}a&b\\c&d\end{bmatrix}$, 
+$$A^2 = \begin{bmatrix}
+a^2 & b^2 \\
+c^2 & d^2
+\end{bmatrix}$$

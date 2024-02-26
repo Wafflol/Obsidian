@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "92c5d034a398e1a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apsc 101/Vid feedback 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apsc 101/Video Feedback Notes.md",
+                "file": "Apsc 101/Vid feedback 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apsc 101/Video Feedback Notes.md",
+                "file": "Apsc 101/Vid feedback 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apsc 101/Video Feedback Notes.md"
+                "file": "Apsc 101/Vid feedback 2.md"
               }
             }
           },
@@ -178,10 +190,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f3b1b870fd508b2e",
+  "active": "92c5d034a398e1a0",
   "lastOpenFiles": [
-    "Phys 159 Labs/Lab Template.md",
     "Apsc 101/Video Feedback Notes.md",
+    "Apsc 101/Vid feedback 2.md",
+    "Phys 159 Labs/Lab Template.md",
     "Apsc 101",
     "Phys 159 Labs/Lab 04/Pasted image 20240214170141.png",
     "Phys 159 Labs/Lab 04/Lab 04 Acoustic Waves.md",
@@ -218,7 +231,6 @@
     "Math 101/Anti-derivatives.md",
     "Math 152/MT3.md",
     "Math 152/MT2.md",
-    "conflict-files-obsidian-git.md",
     "Orbit",
     "English",
     "Misc",

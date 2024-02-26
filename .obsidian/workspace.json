@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 152/work.md",
+                "file": "Phys 159 Labs/Lab Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3b1b870fd508b2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apsc 101/Video Feedback Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 152/work.md",
+                "file": "Apsc 101/Video Feedback Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 152/work.md",
+                "file": "Apsc 101/Video Feedback Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 152/work.md"
+                "file": "Apsc 101/Video Feedback Notes.md"
               }
             }
           },
@@ -165,24 +178,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d390691dc3761ce1",
+  "active": "f3b1b870fd508b2e",
   "lastOpenFiles": [
+    "Phys 159 Labs/Lab Template.md",
+    "Apsc 101/Video Feedback Notes.md",
+    "Apsc 101",
+    "Phys 159 Labs/Lab 04/Pasted image 20240214170141.png",
+    "Phys 159 Labs/Lab 04/Lab 04 Acoustic Waves.md",
+    "Phys 159 Labs/Lab 04/Pasted image 20240214172431.png",
+    "Phys 159 Labs/Lab 04/Pasted image 20240214191209.png",
+    "Phys 159 Labs/Lab 04/Pasted image 20240214170540.png",
+    "Phys 159 Labs/Lab 04",
+    "Phys 159 Labs/Lab 04/Pasted image 20240214182733.png",
+    "Phys 159 Labs/Lab 04/Pasted image 20240214191123.png",
+    "Phys 159 Labs/Lab 04/Pasted image 20240214191135.png",
+    "Phys 159 Labs/Lab 04/Pasted image 20240214191137.png",
+    "Phys 159 Labs/Lab 04/Pasted image 20240214181118.png",
+    "Math 152/work.md",
     "Math 152/Matrix Multiplication.md",
     "Math 152/diagonal matrix.md",
     "Math 152/triangular matrix.md",
-    "Math 152/work.md",
-    "Phys 159 Labs/Lab 04 Acoustic Waves.md",
-    "Pasted image 20240214191209.png",
-    "Pasted image 20240214191203.png",
-    "Pasted image 20240214191201.png",
-    "Pasted image 20240214191158.png",
-    "Pasted image 20240214191137.png",
-    "Pasted image 20240214191135.png",
-    "Pasted image 20240214191123.png",
-    "Pasted image 20240214182733.png",
-    "Pasted image 20240214181118.png",
-    "Pasted image 20240214174719.png",
-    "Phys 159 Labs/Lab Template.md",
+    "Phys 159 Labs/Lab 04/Pasted image 20240214191203.png",
     "Math 152/Lines in vector form.md",
     "Phys 159 Labs",
     "Math 152/Linear indenpendence.md",
@@ -203,7 +219,6 @@
     "Math 152/MT3.md",
     "Math 152/MT2.md",
     "conflict-files-obsidian-git.md",
-    "Math 152/MT1Prac.md",
     "Orbit",
     "English",
     "Misc",

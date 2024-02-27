@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b2a76b873dfc05ff",
@@ -180,6 +181,7 @@
   "active": "2b1baf03c1ee1761",
   "lastOpenFiles": [
     "Misc/Matlab Cheat Sheet.md",
+    "Math 101/work.md",
     "Math 101/Separable Differential Equations.md",
     "Math 101/Anti-derivatives.md",
     "Math 101/asdf.md",
@@ -217,7 +219,6 @@
     "Math 152/Circles.md",
     "Math 152/Area of parallelograms.md",
     "Math 101/Numerical Intergration.md",
-    "Math 101/Definite Integral.md",
     "Orbit",
     "English",
     "Misc",

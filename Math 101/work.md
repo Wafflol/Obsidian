@@ -26,4 +26,6 @@ d.
 $$h = 1, r = a, b = 2r = 2a$$
 $$A(0) = \frac{1}{2}bh = \frac{1}{2}*1*2a = a$$
 e.
+$$r = \sqrt{ a^2-x^2 }$$
+
 $$\int_{0}^{\infty}  \, dx $$

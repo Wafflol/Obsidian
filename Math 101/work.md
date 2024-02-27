@@ -22,4 +22,8 @@ $$= \pi \begin{bmatrix}
 $$ = \pi\left( \frac{a^2h^2}{2}-\frac{2a^2h^2}{3}+\frac{h^4a^2}{4h^2} \right)$$
 $$=-\frac{\pi a^2h^2}{6}+\frac{\pi a^2h^2}{4}$$
 $$ = \frac{\pi a^2h^3}{12}$$
-
+d.
+$$h = 1, r = a, b = 2r = 2a$$
+$$A(0) = \frac{1}{2}bh = \frac{1}{2}*1*2a = a$$
+e.
+$$$$

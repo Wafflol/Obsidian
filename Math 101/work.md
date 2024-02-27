@@ -15,6 +15,6 @@ a^2z-\frac{z^2a^2}{h} + z ^3 \frac{a^2}{3h^2}
 $$=\pi\left( \frac{h^3a^2}{3h^2} \right)$$
 $$ = \frac{\pi ha^2}{3}$$
 c.
-$$V = \pi \int_{0}^{h}  \, dx $$
+$$V = \pi \int_{0}^{h} \left( a^2-\frac{2za^2}{h}+\frac{z^2a^2}{h^2} \right)z \, dx $$
 
 

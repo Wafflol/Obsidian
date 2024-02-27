@@ -16,5 +16,10 @@ $$=\pi\left( \frac{h^3a^2}{3h^2} \right)$$
 $$ = \frac{\pi ha^2}{3}$$
 c.
 $$V = \pi \int_{0}^{h} \left( a^2-\frac{2za^2}{h}+\frac{z^2a^2}{h^2} \right)z \, dx $$
-
+$$= \pi \begin{bmatrix}
+\frac{a^2z^2}{2}-\frac{2z^3a^2}{3h}+\frac{z^4a^2}{4h^2}
+\end{bmatrix}_{0}^h$$
+$$ = \pi\left( \frac{a^2h^2}{2}-\frac{2a^2h^2}{3}+\frac{h^4a^2}{4h^2} \right)$$
+$$=-\frac{\pi a^2h^2}{6}+\frac{\pi a^2h^2}{4}$$
+$$ = \frac{\pi a^2h^3}{12}$$
 

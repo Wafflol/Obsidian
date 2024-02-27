@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 101/Separable Differential Equations.md",
+                "file": "Math 101/work.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 101/Separable Differential Equations.md",
+                "file": "Math 101/work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 101/Separable Differential Equations.md",
+                "file": "Math 101/work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 101/Separable Differential Equations.md"
+                "file": "Math 101/work.md"
               }
             }
           },
@@ -179,8 +179,9 @@
   },
   "active": "2b1baf03c1ee1761",
   "lastOpenFiles": [
-    "Math 101/Anti-derivatives.md",
+    "Misc/Matlab Cheat Sheet.md",
     "Math 101/Separable Differential Equations.md",
+    "Math 101/Anti-derivatives.md",
     "Math 101/asdf.md",
     "Math 152/Linear Transformations.md",
     "Math 152/Linear indenpendence.md",
@@ -217,7 +218,6 @@
     "Math 152/Area of parallelograms.md",
     "Math 101/Numerical Intergration.md",
     "Math 101/Definite Integral.md",
-    "Math 152/Planes.md",
     "Orbit",
     "English",
     "Misc",

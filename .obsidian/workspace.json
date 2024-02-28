@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e25ddd6835c4e593",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5,
-    "collapsed": true
+    "width": 308.5
   },
   "right": {
     "id": "b2a76b873dfc05ff",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 101/work.md",
+                "file": "Project ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 101/work.md",
+                "file": "Project ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 101/work.md"
+                "file": "Project ideas.md"
               }
             }
           },
@@ -164,8 +176,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0d5194adce3a1a53",
+  "active": "e25ddd6835c4e593",
   "lastOpenFiles": [
+    "Math 101/work.md",
+    "Project ideas.md",
     "Phys 159 Labs/Lab 04/Pasted image 20240214172431.png",
     "Phys 159 Labs/Lab 04/Pasted image 20240214170540.png",
     "Phys 159 Labs/Lab 04/Pasted image 20240214170141.png",
@@ -197,7 +211,6 @@
     "Math 152/Volume of parallelepiped.md",
     "Math 152/Solving Circuit Problems.md",
     "Math 152/Scalar.md",
-    "Math 152/Solving a linear system.md",
     "English/Pasted image 20240201165247.png",
     "Math 101/Pasted image 20240130112741.png",
     "English/Pasted image 20240201165302.png",

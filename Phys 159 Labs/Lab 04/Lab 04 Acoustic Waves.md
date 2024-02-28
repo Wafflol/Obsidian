@@ -9,10 +9,10 @@ Partner: Ryan Mahinpey 39959770
 	- The speed of sound is also related to frequency, which we would find by using a time vs pressure graph of the sound wave
 2. **Explore Tools**
 
-| Tool | Physical Parameter | Resolution | Reading Uncertainty | Range | Usage |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-| Osciilloscope | Voltage | 100mV | 50mV | -150V-150V | To measure the voltage in a circuit |
-| Ruler | Length | 1mm | $\pm 0.5mm$ | 0cm-100cm | To measure length for a long object |
+| Tool          | Physical Parameter | Resolution | Reading Uncertainty | Range      | Usage                               |
+| ------------- | ------------------ | ---------- | ------------------- | ---------- | ----------------------------------- |
+| Osciilloscope | Voltage            | 100mV      | 50mV                | -150V-150V | To measure the voltage in a circuit |
+| Ruler         | Length             | 1mm        | $\pm 0.5mm$         | 0cm-100cm  | To measure length for a long object |
 ![[Pasted image 20240214174719.png]]
 We also used a microphone, speaker box, and waveform generator
 

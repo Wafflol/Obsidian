@@ -26,12 +26,15 @@ d.
 $$h = 1, r = a, b = 2r = 2a$$
 $$A(0) = \frac{1}{2}bh = \frac{1}{2}*1*2a = a$$
 e.
-To begin, we can first think of just half of the triangle, with one side lying on the z-axis, one parallel to the y-axis, and the last one connecting the two. To get the area as a definite integral, we need to integrate the line 
+To begin, we can first think of just half of the triangle, with one side lying on the z-axis, one parallel to the y-axis, and the last one connecting the two. To get the area as a definite integral, we need to integrate the the line that makes the hypotenuse of the triangle. To do that, we need to get the slope of the line by getting two points on it as a function of x, by getting the width, $r$, and the height, $h$:
 $$r(x) = \sqrt{ a^2-x^2 }$$
+The height can be found from similar triangles using the known values at $x_{0}$ of $h = 1$, and $r = a$
 $$\frac{h(x)}{r(x)} = \frac{1}{a}$$
 $$h(x) = \frac{\sqrt{ a^2-x^2 }}{a}$$
 Instead of using a negative slope and having to shift the line up by h, we can just use the positive line that crosses the origin, as it would give us the same area under the curve.
 $$m = \frac{h(x)}{r(x)}$$
 $$y = mx$$
 $$y = \frac{1}{a}x$$
-$$2\int_{0}^{\sqrt{ a^2-x^2 }} \frac{1}{a}t \, dt $$
+Now that we have the equation of the line that gives us half of the triangle, we can integrate the function from 0 to the width of the smaller triangle, and multiply it by 2 to get the full area of the triangle:
+$$A(x) = 2\int_{0}^{\sqrt{ a^2-x^2 }} \frac{1}{a}t \, dt $$
+

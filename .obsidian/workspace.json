@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a75c9d4f06e41fe0",
+        "id": "61d0cbbc8c62a674",
         "type": "tabs",
         "children": [
           {
-            "id": "0d5194adce3a1a53",
+            "id": "5259c23026d98015",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e25ddd6835c4e593",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project ideas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 300
   },
   "right": {
     "id": "b2a76b873dfc05ff",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project ideas.md",
+                "file": "Math 101/work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project ideas.md",
+                "file": "Math 101/work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project ideas.md"
+                "file": "Math 101/work.md"
               }
             }
           },
@@ -163,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,49 +163,50 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e25ddd6835c4e593",
+  "active": "cd078907a99e3dee",
   "lastOpenFiles": [
-    "Math 101/work.md",
     "Project ideas.md",
-    "Phys 159 Labs/Lab 04/Pasted image 20240214172431.png",
-    "Phys 159 Labs/Lab 04/Pasted image 20240214170540.png",
-    "Phys 159 Labs/Lab 04/Pasted image 20240214170141.png",
-    "Phys 159 Labs/Lab 04/Lab 04 Acoustic Waves.md",
-    "Phys 159 Labs/Lab 04",
-    "Phys 159 Labs",
-    "Math 152/triangular matrix.md",
-    "Math 152/diagonal matrix.md",
-    "Math 152/Linear Transformations.md",
+    "Math 101/work.md",
+    "Math 101/Anti-derivatives.md",
+    "Misc/Matlab Cheat Sheet.md",
     "Math 101/Separable Differential Equations.md",
-    "Math 101/Numerical Intergration.md",
+    "Math 101/asdf.md",
+    "Math 152/Linear Transformations.md",
+    "Math 152/Linear indenpendence.md",
+    "Math 152/Solving Circuit Problems.md",
+    "Phys 159 Labs/Lab Template.md",
     "Apsc 101/Video Feedback Notes.md",
     "Apsc 101/Vid feedback 2.md",
     "Apsc 101",
-    "Math 152/MT3.md",
-    "Math 152/Projection onto a plane.md",
-    "Math 152/Projection.md",
-    "Math 152/Lines in vector form.md",
-    "Math 152/Planes.md",
-    "Math 152/Systems of equations & linear independence.md",
-    "Math 152/MT1Prac.md",
-    "conflict-files-obsidian-git.md",
-    "Orbit/CAD Naming convention.md",
-    "Orbit",
-    "Math 152/Rewriting a linear system in matrix form.md",
+    "Phys 159 Labs/Lab 04/Pasted image 20240214170141.png",
+    "Phys 159 Labs/Lab 04/Lab 04 Acoustic Waves.md",
+    "Phys 159 Labs/Lab 04/Pasted image 20240214172431.png",
+    "Phys 159 Labs/Lab 04/Pasted image 20240214191209.png",
+    "Phys 159 Labs/Lab 04/Pasted image 20240214170540.png",
+    "Phys 159 Labs/Lab 04",
+    "Phys 159 Labs/Lab 04/Pasted image 20240214182733.png",
+    "Phys 159 Labs/Lab 04/Pasted image 20240214191123.png",
+    "Phys 159 Labs/Lab 04/Pasted image 20240214191135.png",
+    "Phys 159 Labs/Lab 04/Pasted image 20240214191137.png",
+    "Phys 159 Labs/Lab 04/Pasted image 20240214181118.png",
+    "Math 152/work.md",
     "Math 152/Matrix Multiplication.md",
-    "Math 152/MT2.md",
-    "Math 152/Rewriting a plane from parametric.md",
-    "Math 152/Volume of parallelepiped.md",
-    "Math 152/Solving Circuit Problems.md",
-    "Math 152/Scalar.md",
-    "English/Pasted image 20240201165247.png",
-    "Math 101/Pasted image 20240130112741.png",
-    "English/Pasted image 20240201165302.png",
-    "Misc",
+    "Math 152/diagonal matrix.md",
+    "Math 152/triangular matrix.md",
+    "Phys 159 Labs/Lab 04/Pasted image 20240214191203.png",
+    "Math 152/Lines in vector form.md",
+    "Phys 159 Labs",
+    "Math 152/Linear Combinations.md",
+    "Math 152/Intersection of planes.md",
+    "Math 152/Finding equation of two planes from a line L.md",
+    "Math 152/Dot product.md",
+    "Math 152/Determinant.md",
+    "Math 152/Cross product.md",
+    "Math 152/Circles.md",
+    "Math 152/Area of parallelograms.md",
+    "Orbit",
     "English",
-    "Math 152/Jan 24 Linear independence.png",
-    "Math 152/Jan 22 Lecture Solving parametric equation from 2 planes.png",
-    "Pasted image 20240122125214.png",
+    "Misc",
     "Untitled.canvas",
     "Phys 170",
     "Math 101",

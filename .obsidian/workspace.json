@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 101/work.md",
+                "file": "Math 152/Planes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 101/work.md",
+                "file": "Math 152/Planes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 101/work.md",
+                "file": "Math 152/Planes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 101/work.md"
+                "file": "Math 152/Planes.md"
               }
             }
           },
@@ -163,10 +163,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cd078907a99e3dee",
+  "active": "5259c23026d98015",
   "lastOpenFiles": [
-    "Project ideas.md",
+    "Math 101/Definite Integral.md",
     "Math 101/work.md",
+    "Project ideas.md",
     "Math 101/Anti-derivatives.md",
     "Misc/Matlab Cheat Sheet.md",
     "Math 101/Separable Differential Equations.md",
@@ -203,7 +204,6 @@
     "Math 152/Determinant.md",
     "Math 152/Cross product.md",
     "Math 152/Circles.md",
-    "Math 152/Area of parallelograms.md",
     "Orbit",
     "English",
     "Misc",

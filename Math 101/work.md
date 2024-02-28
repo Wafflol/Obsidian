@@ -36,5 +36,10 @@ $$m = \frac{h(x)}{r(x)}$$
 $$y = mx$$
 $$y = \frac{1}{a}x$$
 Now that we have the equation of the line that gives us half of the triangle, we can integrate the function from 0 to the width of the smaller triangle, and multiply it by 2 to get the full area of the triangle:
-$$A(x) = 2\int_{0}^{\sqrt{ a^2-x^2 }} \frac{1}{a}t \, dt $$
+$$A(x_{0}) = 2\int_{0}^{\sqrt{ a^2-x_{0}^2 }} \frac{1}{a}t \, dt $$
 
+f.
+$$A(x_{0}) = 2\int_{0}^{\sqrt{ a^2-x_{0}^2 }} \frac{1}{a}t \, dt $$
+$$ = 2*\begin{bmatrix}
+\frac{t^2}{2a}
+\end{bmatrix}$$

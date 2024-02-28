@@ -39,7 +39,3 @@ Now that we have the equation of the line that gives us half of the triangle, we
 $$A(x_{0}) = 2\int_{0}^{\sqrt{ a^2-x_{0}^2 }} \frac{1}{a}t \, dt $$
 
 f.
-$$A(x_{0}) = 2\int_{0}^{\sqrt{ a^2-x_{0}^2 }} \frac{1}{a}t \, dt $$
-$$ = 2*\begin{bmatrix}
-\frac{t^2}{2a}
-\end{bmatrix}$$

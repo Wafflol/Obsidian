@@ -47,10 +47,12 @@ Data collection:
 We are using the procedure as depicted above to get the frequency of the harmonics
 To get the uncertainty of each frequency, we are reading 1/4 of the fluctuations on the oscilloscope
 We only used odd harmonics, as that would put a pressure anti-node in the centre, unlike even harmonics, which would result in pressure nodes.
-Note: our resolution for the oscilloscope is different for each harmonic, but they are in ms from the oscilloscope, so to get our uncertainty, we have to get it in terms of Hz, which we can do by using the same ratio we used to go from period to frequency
+Note: our resolution for the oscilloscope is different for each harmonic, but they are in ms from the oscilloscope, so to get our uncertainty, we have to get it in terms of Hz, which we can do by using the same ratio we used to go from period to frequency, or when the waves were really shaky, we would use 1/4 of the range that they were moving in
 
-| n   | f                         |
-| --- | ------------------------- |
-| 1   | $322.6\pm 5$ $\text{Hz}$  |
-| 3   | $950.6\pm 2 \text{Hz}$    |
-| 5   | $1553.5\pm 0.01\text{Hz}$ |
+| n   | f                        |
+| --- | ------------------------ |
+| 1   | $322.6\pm 5$ $\text{Hz}$ |
+| 3   | $950.6\pm 2 \text{Hz}$   |
+| 5   | $1590\pm 4\text{Hz}$     |
+| 7   | $2210\pm$ $2\text{Hz}$   |
+| 9   |                          |

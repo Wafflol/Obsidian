@@ -83,12 +83,12 @@ For $f_{2}$, we did the same thing but with the second harmonic we found:
 
 | Distance (cm) | Amplitude (V)  |
 | ------------- | -------------- |
-| 0             | $0.11\pm 0.01$ |
-| 12.5          | $0.26\pm 0.02$ |
-| 25            | $0.38\pm 0.02$ |
-| 37.5          | $0.29\pm 0.03$ |
-| 50            | $0.15\pm 0.01$ |
-Below is the graph of the pressure distribution of the sound waves inside the tube for $f_{1}$
+| 0             | $0.14\pm 0.01$ |
+| 12.5          | $0.75\pm 0.05$ |
+| 25            | $0.09\pm 0.02$ |
+| 37.5          | $0.95\pm 0.05$ |
+| 50            | $0.20\pm 0.01$ |
+Below is the graph of the pressure distribution of the sound waves inside the tube for $f_{2}$
 
 
 This is the starting position:
@@ -115,4 +115,11 @@ This result is very reasonable, and has a relatively low uncertainty. Compared t
 
 Overall, our procedure went pretty smoothly. Our uncertainty was pretty high compared to other groups, but the reason we had such a high uncertainty was because we were unsure of which frequency was the peak frequency, so we factored that into our uncertainty. 
 
+Our procedure went pretty well because we used odd harmonics, meaning that we didn't have to move our microphone throughout data collection. Furthermore, it also means that the peak amplitudes should appear in the centre, which is much easier to find. In general, this procedure used mostly only the devices to take the measurements, which meant that our numbers were pretty accurate.
+
 By changing our method to get the length of the tube, we made our calculation for velocity much more accurate. We believe that this was happening because the source of the sound starts inside the speaker, and not really at the start of the tube, meaning that the other pressure node on the other end would also be a bit further away.
+
+We originally undershot the speed of sound, due to the difference in length of the tube that we measured, and after changing that, our calculation produced an overestimate, but was only off by roughly 10 m/s.
+
+To improve our procedure, we could do it in a less noisy room, as when we tried to find the frequencies for the harmonics, it was hard to determine which frequency was giving the peak. 
+

@@ -44,15 +44,18 @@ Tools used:
 ![[Pasted image 20240214181118.png]]
 
 Data collection:
+For the length of the tube, we got:
+$$L = 0.4990\pm 0.0005m$$
+
 We are using the procedure as depicted above to get the frequency of the harmonics
 To get the uncertainty of each frequency, we are reading 1/4 of the fluctuations on the oscilloscope
 We only used odd harmonics, as that would put a pressure anti-node in the centre, unlike even harmonics, which would result in pressure nodes.
-Note: our resolution for the oscilloscope is different for each harmonic, but they are in ms from the oscilloscope, so to get our uncertainty, we have to get it in terms of Hz, which we can do by using the same ratio we used to go from period to frequency, or when the waves were really shaky, we would use 1/4 of the range that they were moving in
+To determine the uncertainty for the frequency, we looked for the smallest frequency at which we observe the maximum amplitude, and find the largest frequency at which we still observe it, and then take half of that range to get the uncertainty.
 
-| n   | f                        |
-| --- | ------------------------ |
-| 1   | $322.6\pm 5$ $\text{Hz}$ |
-| 3   | $950.6\pm 2 \text{Hz}$   |
-| 5   | $1590\pm 4\text{Hz}$     |
-| 7   | $2210\pm$ $2\text{Hz}$   |
-| 9   | $2810\pm$ $$             |
+| n   | f                      |
+| --- | ---------------------- |
+| 1   | $322\pm 1$ $\text{Hz}$ |
+| 3   | $965\pm 5 \text{Hz}$   |
+| 5   | $1595\pm 5\text{Hz}$   |
+| 7   | $2210\pm$ $5\text{Hz}$ |
+| 9   | $2810\pm$ $5\text{Hz}$ |

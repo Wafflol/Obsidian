@@ -33,11 +33,9 @@ To start off, we know that a vertical slice of a cone is a hyperbola.
 We can first find the width of half the base at each slice:
 $$r(x) = \sqrt{ a^2-x^2 }$$
 Then, we can use an altered version of the hyperbola equation to get the shape of the slice at each $x_{0}$:
-$$y = 1-r\sqrt{ x_{0}^2+x^2 }$$
+$$y = 1-\frac{1}{a}\sqrt{ x_{0}^2+x^2 }$$
 where $r$ is the $r(x)$ we found earlier.
 Thus, our definite integral for any $x_{0}$ for $0< x_{0} < a$ is:
-$$A(x_{0}) = 2\int_{0}^{\sqrt{ a^2-x_{0}^2 }} 1-\sqrt{ a^2-x_{0}^2 }*\sqrt{ x_{0}^2+x^2 } \, dx  $$
-$$=2\int_{0}^{\sqrt{ a^2-x_{0}^2 }} 1-\sqrt{ a^2x_{0}^2-x_{0}^4+a^2x^2-x_{0}^2x^2 } \, dx $$
+$$A(x_{0}) = 2\int_{0}^{\sqrt{ a^2-x^2 }} 1-\frac{1}{a}\sqrt{ x_{0}^2+x^2 } \, dx $$
 f.
 Now, we just have to evaluate the given integral:
-S

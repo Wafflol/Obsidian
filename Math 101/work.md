@@ -39,3 +39,10 @@ Thus, our definite integral for any $x_{0}$ for $0< x_{0} < a$ is:
 $$A(x_{0}) = 2\int_{0}^{\sqrt{ a^2-x^2 }} 1-\frac{1}{a}\sqrt{ x_{0}^2+x^2 } \, dx $$
 f.
 Now, we just have to evaluate the given integral:
+starting with the second term, we have:
+$$\frac{1}{a}\int_{0}^{\sqrt{ a^2-x^2 }} \sqrt{ x_{0}^2+x^2 } \, dx $$
+leaving $\frac{1}{a}$ out for now, we can to trig sub here:
+$$x = x_{0}tan \theta$$
+$$dx = x_{0}\sec^2\theta d\theta$$
+$$\int_{\theta(0)}^{\theta(\sqrt{ a^2-x^2 })} {\sqrt{ x_{0}^2+{x_{0}^2\tan^2\theta} }*\sec^2\theta*x_{0}} \, dx $$
+$$ = x_{0}^2\int_{\theta(0)}^{\theta(\sqrt{ a^2-x^2 })} \sec^3\theta \, d\theta $$

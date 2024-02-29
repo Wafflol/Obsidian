@@ -89,6 +89,7 @@ For $f_{2}$, we did the same thing but with the second harmonic we found:
 | 37.5          | $0.95\pm 0.05$ |
 | 50            | $0.20\pm 0.01$ |
 Below is the graph of the pressure distribution of the sound waves inside the tube for $f_{2}$
+![[Pasted image 20240228190710.png]]
 
 
 This is the starting position:

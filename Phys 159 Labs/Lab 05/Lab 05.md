@@ -55,4 +55,4 @@ Note: our resolution for the oscilloscope is different for each harmonic, but th
 | 3   | $950.6\pm 2 \text{Hz}$   |
 | 5   | $1590\pm 4\text{Hz}$     |
 | 7   | $2210\pm$ $2\text{Hz}$   |
-| 9   |                          |
+| 9   | $2810\pm$ $$             |

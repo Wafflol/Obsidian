@@ -31,4 +31,5 @@ e rewrite.
 
 To start off, we know that a vertical slice of a cone is a hyperbola.
 We can first find the width of half the base at each slice:
-$$$
+$$r(x) = \sqrt{ a^2-x^2 }$$
+Then, we can use an altered version of the hyperbola equation

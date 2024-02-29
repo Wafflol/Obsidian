@@ -46,3 +46,9 @@ $$x = x_{0}tan \theta$$
 $$dx = x_{0}\sec^2\theta d\theta$$
 $$\int_{\theta(0)}^{\theta(\sqrt{ a^2-x^2 })} {\sqrt{ x_{0}^2+{x_{0}^2\tan^2\theta} }*\sec^2\theta*x_{0}} \, dx $$
 $$ = x_{0}^2\int_{\theta(0)}^{\theta(\sqrt{ a^2-x^2 })} \sec^3\theta \, d\theta $$
+Using the famous anti-derivative for $\sec^3\theta$, we get:
+$$x_{0}^2\int_{\theta(0)}^{\theta(\sqrt{ a^2-x_{0}^2 })}  \, dx $$
+$$=x_{0}^2\begin{bmatrix}
+\frac12\sec\theta\tan\theta + \frac12\log|{\sec\theta+\tan\theta}|
+\end{bmatrix}_{\theta(0)}^{\theta(\sqrt{ a^2-x_{0}^2 })}$$
+ 

@@ -52,10 +52,25 @@ To get the uncertainty of each frequency, we are reading 1/4 of the fluctuations
 We only used odd harmonics, as that would put a pressure anti-node in the centre, unlike even harmonics, which would result in pressure nodes.
 To determine the uncertainty for the frequency, we looked for the smallest frequency at which we observe the maximum amplitude, and find the largest frequency at which we still observe it, and then take half of that range to get the uncertainty.
 
-| n   | f                      |
-| --- | ---------------------- |
-| 1   | $322\pm 1$ $\text{Hz}$ |
-| 3   | $965\pm 5 \text{Hz}$   |
-| 5   | $1595\pm 5\text{Hz}$   |
-| 7   | $2210\pm$ $5\text{Hz}$ |
-| 9   | $2810\pm$ $5\text{Hz}$ |
+| n   | f                       |
+| --- | ----------------------- |
+| 1   | $322\pm 1$ $\text{Hz}$  |
+| 3   | $965\pm 5 \text{Hz}$    |
+| 5   | $1595\pm 5\text{Hz}$    |
+| 7   | $2210\pm$ $10\text{Hz}$ |
+| 9   | $2810\pm$ $10\text{Hz}$ |
+To get our pressure distribution for $f_{1}$, we collected 5 data points starting at the closest end to the speaker. We used 12.5 cm increments from one end of the tube.
+To get the uncertainty for amplitude, we took 1/4 of the range of the amplitude variance
+
+| Distance (cm) | Amplitude (V)    |
+| ------------- | ---------------- |
+| 0             | $0.081\pm 0.006$ |
+| 12.5          | $1.11\pm 0.04$   |
+| 25            | $1.39\pm 0.05$   |
+| 37.5          | $1.15\pm 0.04$   |
+| 50            | $0.13\pm 0.01$   |
+
+
+This is the starting position:
+![[Pasted image 20240228180312.png]]And this was the end position:
+![[Pasted image 20240228180344.png]]

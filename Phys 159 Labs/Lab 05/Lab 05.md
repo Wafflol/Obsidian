@@ -60,6 +60,14 @@ To determine the uncertainty for the frequency, we looked for the smallest frequ
 | 7   | $2210\pm$ $10\text{Hz}$ |
 | 9   | $2810\pm$ $10\text{Hz}$ |
 To get our pressure distribution for $f_{1}$, we collected 5 data points starting at the closest end to the speaker. We used 12.5 cm increments from one end of the tube.
+
+Note: Here is an added procedure for it:
+1. Use the same setup as the previous procedure for wiring
+2. Measure the length of the tube, divide it by n-1 where n is the number of data points you want to measure
+3. Take the first data point at the very end of the tube closest to the speaker
+4. Increment by length/(n-1) until you get to the end of the tube
+5. plot in matlab to see pressure distribution
+
 To get the uncertainty for amplitude, we took 1/4 of the range of the amplitude variance
 
 | Distance (cm) | Amplitude (V)    |
@@ -69,6 +77,18 @@ To get the uncertainty for amplitude, we took 1/4 of the range of the amplitude 
 | 25            | $1.39\pm 0.05$   |
 | 37.5          | $1.15\pm 0.04$   |
 | 50            | $0.13\pm 0.01$   |
+Below is the graph of the pressure distribution of the sound waves inside the tube for $f_{1}$
+![[Pasted image 20240228181202.png]]
+For $f_{2}$, we did the same thing but with the second harmonic we found:
+
+| Distance (cm) | Amplitude (V)  |
+| ------------- | -------------- |
+| 0             | $0.11\pm 0.01$ |
+| 12.5          | $0.26\pm 0.02$ |
+| 25            | $0.38\pm 0.02$ |
+| 37.5          | $0.29\pm 0.03$ |
+| 50            | $0.15\pm 0.01$ |
+Below is the graph of the pressure distribution of the sound waves inside the tube for $f_{1}$
 
 
 This is the starting position:

@@ -40,3 +40,4 @@ $$A(x_{0}) = 2\int_{0}^{\sqrt{ a^2-x_{0}^2 }} 1-\sqrt{ a^2-x_{0}^2 }*\sqrt{ x_{0
 $$=2\int_{0}^{\sqrt{ a^2-x_{0}^2 }} 1-\sqrt{ a^2x_{0}^2-x_{0}^4+a^2x^2-x_{0}^2x^2 } \, dx $$
 f.
 Now, we just have to evaluate the given integral:
+S

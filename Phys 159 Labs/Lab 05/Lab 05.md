@@ -104,7 +104,15 @@ $$m = \frac{f}{n} = 315.1\pm0.9$$
 $$v = 2ml$$
 Using the equations listed above, we get that
 $$v = 314\pm 3 \text{m/s}$$
+Note: After looking at the pressure distributions, we realised that the effective length is actually longer than the tube, as the zeroes fall outside of the graph. Thus, we pulled the microphone outside of the tube, until we found the a minimum pressure, and then we found our effective length, $L_{eff}$
+$$L_{eff} = 0.560\pm 0.005m$$
+Thus, re-calculating our velocity with our adjusted L gives us
+$$v = 353\pm 3\text{m/s}$$
+This is a lot closer to the expected value of roughly 343 m/s.
+
 **Reflection**
 This result is very reasonable, and has a relatively low uncertainty. Compared to other groups using different procedures, it was also pretty similar, so our final calculation seems to be relatively accurate.
 
 Overall, our procedure went pretty smoothly. Our uncertainty was pretty high compared to other groups, but the reason we had such a high uncertainty was because we were unsure of which frequency was the peak frequency, so we factored that into our uncertainty. 
+
+By changing our method to get the length of the tube, we made our calculation for velocity much more accurate. We believe that this was happening because the source of the sound starts inside the speaker, and not really at the start of the tube, meaning that the other pressure node on the other end would also be a bit further away.

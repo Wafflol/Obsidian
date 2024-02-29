@@ -94,3 +94,16 @@ Below is the graph of the pressure distribution of the sound waves inside the tu
 This is the starting position:
 ![[Pasted image 20240228180312.png]]And this was the end position:
 ![[Pasted image 20240228180344.png]]
+
+
+Calculations for the speed of sound:
+
+This is the graph we got from plotting the data we got:
+![[Pasted image 20240228182828.png]]
+$$m = \frac{f}{n} = 315.1\pm0.9$$
+$$v = 2ml$$
+Using the equations listed above, we get that
+$$v = 314\pm 3 \text{m/s}$$
+This result is very reasonable, and has a relatively low uncertainty. Compared to other groups using different procedures, it was also pretty similar, so our final calculation seems to be relatively accurate.
+
+Overall, our procedure went pretty smoothly. Our uncertainty was pretty high compared to other groups, but the reason we had such a high uncertainty was because we were unsure of which frequency was the peak frequency, so we factored that into our uncertainty.

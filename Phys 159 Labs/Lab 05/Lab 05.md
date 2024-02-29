@@ -1,8 +1,29 @@
 Tommy Su 83203398
 Partner: Ryan Mahinpey 39959770
 
-Below is the procedure copied from last time with edits made in the notes:
+Objective: We are trying to map the pressure distribution of sound waves inside a tube for $f_{0}$. We are also trying to determine the speed of sound
+	- We know harmonic sound wave, we can find anti-nodes and nodes by mapping out the pressure and seeing where the pressure has maximum amplitude and minimum amplitude to find out the wavelength of the sound wave
+	- The wavelength of a sound wave is the distance between peaks of the wave for a snapshot in time (note: the wavelength is related to the speed of sound)
+	- The speed of sound is also related to frequency, which we would find by using a time vs pressure graph of the sound wave
 
+Variables used in the calculations later on:
+$f$ is frequency in $Hz$
+$n$ is the harmonic number 
+$v$ is the speed of the sound wave in $\frac{m}{s}$
+$L$ is the length of the tube in meters
+$m$ is the ratio of $\frac{f}{n}$
+
+Note: in the previous lab, we forgot to add the uncertainty of the oscilloscope, as we took the frequency reading from the waveform generator instead of the oscilloscope
+
+The uncertainty equation derivation is taken from the previous lab:
+We start with a known $\frac{f}{n}$ taken from matlab
+$$\frac{f}{n} = m$$
+$$v = 2mL$$
+$$\delta v = \sqrt{ 4 L^{2} \delta m^{2} + 4 \delta L^{2} m^{2} }$$
+$$\delta v = 2\sqrt{ L^2\delta m^2+m^2\delta L^2 }$$
+
+
+Below is the procedure copied from last time with edits made in the notes:
 **Procedure**
 Note: for the uncertainties for our oscilloscope measurements, we used 1/4 of the variation in the peaks.
 We are doing procedure #2

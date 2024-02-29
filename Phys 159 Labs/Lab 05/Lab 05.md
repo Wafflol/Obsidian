@@ -124,3 +124,8 @@ We originally undershot the speed of sound, due to the difference in length of t
 
 To improve our procedure, we could do it in a less noisy room, as when we tried to find the frequencies for the harmonics, it was hard to determine which frequency was giving the peak. 
 
+Additionally, to improve the accuracy of our uncertainty to better capture what we were uncertain about, we changed how we got the uncertainty for the frequency. Originally, we used the resolution of the waveform generator, but this time, we realised that because we weren't really sure which frequency the peak amplitude was actually happening at, the uncertainty was actually higher. To capture this, we found the range at which we were seeing the peak amplitude, and dividing it by 2 to get the uncertainty.
+
+
+NOTE: for the uncertainty for length it comes from the ruler, which is shown in our last lab, and is half the resolution.
+

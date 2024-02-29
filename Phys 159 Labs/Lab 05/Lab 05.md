@@ -40,6 +40,5 @@ Tools used:
 - tube
 - speaker
 - waveform generator
-Add pictures of procedure
 ![[Pasted image 20240214172431.png]]
 ![[Pasted image 20240214181118.png]]

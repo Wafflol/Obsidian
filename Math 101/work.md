@@ -29,4 +29,5 @@ e. To begin, we need to first find out the shape of the cross section, which is 
 
 e rewrite.
 
-To start off, we know that a vertical slice of a cone is a hyperbola. 
+To start off, we know that a vertical slice of a cone is a hyperbola.
+Thus, 

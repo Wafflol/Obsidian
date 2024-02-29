@@ -71,11 +71,11 @@ Another possible procedure:
 		We can find the 2nd harmonic frequency, 3rd, 4th, and so on, and then, using $\frac{f}{n}$ where f is the frequencies and n is the nth harmonic, to find $\frac{v}{2L}$, as $f = \frac{nv}{2L}$, and using the length of the tube, we can find the speed of sound.
 We already found the first frequency from the last procedure:
 
-| n | f |
-| ---- | ---- |
-| 1 | $323.1\pm 0.01$ $\text{Hz}$ |
-| 3 | $9320.6\pm 0.01 \text{Hz}$ |
-| 5 | $1553.5\pm 0.01\text{Hz}$ |
+| n   | f                           |
+| --- | --------------------------- |
+| 1   | $323.1\pm 0.01$ $\text{Hz}$ |
+| 3   | $9320.6\pm 0.01 \text{Hz}$  |
+| 5   | $1553.5\pm 0.01\text{Hz}$   |
 
 ![[Pasted image 20240214191209.png]]
 From this, we plotted it in matlab, found the slope, which turned out to be:

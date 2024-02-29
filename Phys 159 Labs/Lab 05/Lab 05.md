@@ -42,3 +42,15 @@ Tools used:
 - waveform generator
 ![[Pasted image 20240214172431.png]]
 ![[Pasted image 20240214181118.png]]
+
+Data collection:
+We are using the procedure as depicted above to get the frequency of the harmonics
+To get the uncertainty of each frequency, we are reading 1/4 of the fluctuations on the oscilloscope
+We only used odd harmonics, as that would put a pressure anti-node in the centre, unlike even harmonics, which would result in pressure nodes.
+Note: our resolution for the oscilloscope is 1ms, so to get our uncertainty, we have to get it in terms of Hz, 
+
+| n   | f                           |
+| --- | --------------------------- |
+| 1   | $322.6\pm 0.01$ $\text{Hz}$ |
+| 3   | $9320.6\pm 0.01 \text{Hz}$  |
+| 5   | $1553.5\pm 0.01\text{Hz}$   |

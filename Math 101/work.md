@@ -62,4 +62,4 @@ $$= \sqrt{ a^2-x^2 }$$
 Putting them together, and adding the multiple of two back in, we get:
 
 $$A(x_{0}) = 25\sqrt{ a^2- x_{0}^2 } - \frac{x_{0}^2}{a}*\left( \frac{a\sqrt{ a^2-x^2 }}{x_{0}^2} +\ln\left( \frac{{a+\sqrt{ a^2-x_{0}^2 }}}{x_{0}} \right)\right)$$
-$$= 24\sqrt{ a^2-x_{0}^2 }-\frac{x_{0}^2}{a}$$
+$$= 24\sqrt{ a^2-x_{0}^2 }+\frac{x_{0}^2}{a}\ln\left( \frac{x_{0}}{a+\sqrt{ a^2-x_{0}^2 }} \right)$$

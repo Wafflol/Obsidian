@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 101/asdf.md",
+                "file": "Math 101/work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 101/asdf.md",
+                "file": "Math 101/work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 101/asdf.md"
+                "file": "Math 101/work.md"
               }
             }
           },
@@ -181,10 +181,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f706ce120065011b",
+  "active": "70732f16317b2dda",
   "lastOpenFiles": [
-    "Math 101/work.md",
     "Math 101/asdf.md",
+    "Math 101/work.md",
     "Math 152/Composition of linear transformations.md",
     "Math 152/Linear Transformations.md",
     "Math 152/Reflection Matrix.md",
@@ -209,7 +209,6 @@
     "Math 101/Anti-derivatives.md",
     "Misc/Matlab Cheat Sheet.md",
     "Math 101/Separable Differential Equations.md",
-    "Math 101/asdf.md",
     "Math 152/Solving Circuit Problems.md",
     "Apsc 101/Video Feedback Notes.md",
     "Apsc 101/Vid feedback 2.md",

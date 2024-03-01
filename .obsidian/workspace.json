@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f706ce120065011b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math 101/asdf.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 101/work.md",
+                "file": "Math 101/asdf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 101/work.md",
+                "file": "Math 101/asdf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 101/work.md"
+                "file": "Math 101/asdf.md"
               }
             }
           },
@@ -169,13 +181,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "70732f16317b2dda",
+  "active": "f706ce120065011b",
   "lastOpenFiles": [
+    "Math 101/work.md",
+    "Math 101/asdf.md",
     "Math 152/Composition of linear transformations.md",
     "Math 152/Linear Transformations.md",
     "Math 152/Reflection Matrix.md",
     "conflict-files-obsidian-git.md",
-    "Math 101/work.md",
     "Phys 159 Labs/Lab 04/Lab 04 Acoustic Waves.md",
     "Phys 159 Labs/Lab Template.md",
     "Phys 159 Labs/Lab 05/Lab 05.md",
@@ -209,7 +222,6 @@
     "Math 152/Matrix Multiplication.md",
     "Math 152/diagonal matrix.md",
     "Math 152/triangular matrix.md",
-    "Math 152/Lines in vector form.md",
     "Phys 159 Labs",
     "Orbit",
     "English",

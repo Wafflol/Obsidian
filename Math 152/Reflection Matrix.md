@@ -9,3 +9,5 @@ For ex., if we have the plane $x+y+z = 1$
 We use the projection for $\vec{x_{\perp}}$ instead of $\vec{x_{\parallel}}$
 Thus, $Ref_{p}\vec{x}$ =
 $$\vec{x}-2\vec{x_{\perp}}$$
+$$M_{Proj_{p}} = I - M_{Proj_{\hat{n}}}$$
+$$M_{Proj_{p}} = I - 2M_{Proj_{\hat{n}}}$$

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 101/work.md",
+                "file": "Math 152/Reflection Matrix.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 101/work.md",
+                "file": "Math 152/Reflection Matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 101/work.md",
+                "file": "Math 152/Reflection Matrix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 101/work.md"
+                "file": "Math 152/Reflection Matrix.md"
               }
             }
           },
@@ -167,6 +167,7 @@
   },
   "active": "36d94cb3b9d7f48c",
   "lastOpenFiles": [
+    "Math 101/work.md",
     "Phys 159 Labs/Lab 04/Lab 04 Acoustic Waves.md",
     "Phys 159 Labs/Lab Template.md",
     "Phys 159 Labs/Lab 05/Lab 05.md",
@@ -185,7 +186,6 @@
     "Math 152/Linearity.md",
     "Math 152/Planes.md",
     "Math 101/Definite Integral.md",
-    "Math 101/work.md",
     "Project ideas.md",
     "Math 101/Anti-derivatives.md",
     "Misc/Matlab Cheat Sheet.md",

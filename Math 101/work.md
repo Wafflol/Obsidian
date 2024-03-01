@@ -36,20 +36,29 @@ Then, we can use an altered version of the hyperbola equation to get the shape o
 $$z = 1-\frac{1}{a}\sqrt{ x_{0}^2+y^2 }$$
 where $r$ is the $r(x)$ we found earlier.
 Thus, our definite integral for any $x_{0}$ for $0< x_{0} < a$ is:
-$$A(x_{0}) = 2\int_{0}^{\sqrt{ a^2-x^2 }} 1-\frac{1}{a}\sqrt{ x_{0}^2+y^2 } \, dy $$
+$$A(x_{0}) = 2\int_{0}^{\sqrt{ a^2-x_{0}^2 }} 1-\frac{1}{a}\sqrt{ x_{0}^2+y^2 } \, dy $$
 f.
 Now, we just have to evaluate the given integral:
 starting with the second term, we have:
-$$\frac{1}{a}\int_{0}^{\sqrt{ a^2-x^2 }} \sqrt{ x_{0}^2+y^2 } \, dy $$
+$$\frac{1}{a}\int_{0}^{\sqrt{ a^2-x_{0}^2 }} \sqrt{ x_{0}^2+y^2 } \, dy $$
 leaving $\frac{1}{a}$ out for now, we can to trig sub here:
 $$y = x_{0}tan \theta$$
 $$dy = x_{0}\sec^2\theta d\theta$$
-$$\int_{\theta(0)}^{\theta(\sqrt{ a^2-x^2 })} {\sqrt{ x_{0}^2+{x_{0}^2\tan^2\theta} }*\sec^2\theta*x_{0}} \, d\theta $$
-$$ = x_{0}^2\int_{\theta(0)}^{\theta(\sqrt{ a^2-x^2 })} \sec^3\theta \, d\theta $$
+$$\int_{\theta(0)}^{\theta(\sqrt{ a^2-x_{0}^2 })} {\sqrt{ x_{0}^2+{x_{0}^2\tan^2\theta} }*\sec^2\theta*x_{0}} \, d\theta $$
+$$ = x_{0}^2\int_{\theta(0)}^{\theta(\sqrt{ a^2-x_{0}^2 })} \sec^3\theta \, d\theta $$
 Using the famous anti-derivative for $\sec^3\theta$, we get:
 $$x_{0}^2\int_{\theta(0)}^{\theta(\sqrt{ a^2-x_{0}^2 })} \sec^3\theta \, d\theta $$
 $$=x_{0}^2\begin{bmatrix}
 \frac12\sec\theta\tan\theta + \frac12\log|{\sec\theta+\tan\theta}|
 \end{bmatrix}_{\theta(0)}^{\theta(\sqrt{ a^2-x_{0}^2 })}$$
-subbing y back,
-$$= x_{0}^2\left( \frac{1}{2}\left( \frac{\sqrt{ x_{0}^2+y^2 }}{x_{0}} \frac{y}{x_{0}}+\ln\left( \frac{\sqrt{ y^2+x_{0}^2 }}{x_{0}}+\frac{y}{x_{0}} \right)- \right) \right)$$
+subbing y back and using the original bounds,
+$$= x_{0}^2\left( \frac{1}{2}\left( \frac{\sqrt{ x_{0}^2+a^2-x_{0}^2 }}{x_{0}} \frac{\sqrt{ a^2-x_{0}^2 }}{x_{0}}+\ln\left( \frac{\sqrt{ a^2 }}{x_{0}}+\frac{\sqrt{ a^2-x_{0}^2 }}{x_{0}} \right) \right) \right)$$
+$$=\frac{x_{0}^2}{2}*\left( \frac{a\sqrt{ a^2-x^2 }}{x_{0}^2} +\ln\left( \frac{{a+\sqrt{ a^2-x_{0}^2 }}}{x_{0}} \right)\right)$$
+Multiplying $\frac{1}{a}$ back, we get:
+$$=\frac{x_{0}^2}{2a}*\left( \frac{a\sqrt{ a^2-x^2 }}{x_{0}^2} +\ln\left( \frac{{a+\sqrt{ a^2-x_{0}^2 }}}{x_{0}} \right)\right)$$
+Now, integrating the first term:
+$$\int_{0}^{\sqrt{ a^2-x_{0}^2 }} 1 \, dy $$
+$$= \sqrt{ a^2-x^2 }$$
+Putting them together, and adding the multiple of two back in, we get:
+
+$$A(x_{0}) = 2\sqrt{ a^2- x_{0}^2 } - \frac{x_{0}^2}{a}*\left( \frac{a\sqrt{ a^2-x^2 }}{x_{0}^2} +\ln\left( \frac{{a+\sqrt{ a^2-x_{0}^2 }}}{x_{0}} \right)\right)$$

@@ -33,23 +33,23 @@ To start off, we know that a vertical slice of a cone is a hyperbola.
 We can first find the width of half the base at each slice:
 $$r(x) = \sqrt{ a^2-x^2 }$$
 Then, we can use an altered version of the hyperbola equation to get the shape of the slice at each $x_{0}$:
-$$y = 1-\frac{1}{a}\sqrt{ x_{0}^2+x^2 }$$
+$$z = 1-\frac{1}{a}\sqrt{ x_{0}^2+y^2 }$$
 where $r$ is the $r(x)$ we found earlier.
 Thus, our definite integral for any $x_{0}$ for $0< x_{0} < a$ is:
-$$A(x_{0}) = 2\int_{0}^{\sqrt{ a^2-x^2 }} 1-\frac{1}{a}\sqrt{ x_{0}^2+x^2 } \, dx $$
+$$A(x_{0}) = 2\int_{0}^{\sqrt{ a^2-x^2 }} 1-\frac{1}{a}\sqrt{ x_{0}^2+y^2 } \, dy $$
 f.
 Now, we just have to evaluate the given integral:
 starting with the second term, we have:
-$$\frac{1}{a}\int_{0}^{\sqrt{ a^2-x^2 }} \sqrt{ x_{0}^2+x^2 } \, dx $$
+$$\frac{1}{a}\int_{0}^{\sqrt{ a^2-x^2 }} \sqrt{ x_{0}^2+y^2 } \, dy $$
 leaving $\frac{1}{a}$ out for now, we can to trig sub here:
-$$x = x_{0}tan \theta$$
-$$dx = x_{0}\sec^2\theta d\theta$$
-$$\int_{\theta(0)}^{\theta(\sqrt{ a^2-x^2 })} {\sqrt{ x_{0}^2+{x_{0}^2\tan^2\theta} }*\sec^2\theta*x_{0}} \, dx $$
+$$y = x_{0}tan \theta$$
+$$dy = x_{0}\sec^2\theta d\theta$$
+$$\int_{\theta(0)}^{\theta(\sqrt{ a^2-x^2 })} {\sqrt{ x_{0}^2+{x_{0}^2\tan^2\theta} }*\sec^2\theta*x_{0}} \, d\theta $$
 $$ = x_{0}^2\int_{\theta(0)}^{\theta(\sqrt{ a^2-x^2 })} \sec^3\theta \, d\theta $$
 Using the famous anti-derivative for $\sec^3\theta$, we get:
-$$x_{0}^2\int_{\theta(0)}^{\theta(\sqrt{ a^2-x_{0}^2 })}  \, dx $$
+$$x_{0}^2\int_{\theta(0)}^{\theta(\sqrt{ a^2-x_{0}^2 })} \sec^3\theta \, d\theta $$
 $$=x_{0}^2\begin{bmatrix}
 \frac12\sec\theta\tan\theta + \frac12\log|{\sec\theta+\tan\theta}|
 \end{bmatrix}_{\theta(0)}^{\theta(\sqrt{ a^2-x_{0}^2 })}$$
-subbing x back,
-$$= x_{0}^2\left( \frac{1}{2} \right)$$
+subbing y back,
+$$= x_{0}^2\left( \frac{1}{2}\left( \frac{\sqrt{ x_{0}^2+y^2 }}{x_{0}} \frac{y}{x_{0}}+\ln\left( \frac{\sqrt{ y^2+x_{0}^2 }}{x_{0}}+\frac{y}{x_{0}} \right)- \right) \right)$$

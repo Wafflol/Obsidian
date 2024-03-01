@@ -137,17 +137,9 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-          },
-          {
-            "id": "cd078907a99e3dee",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -167,6 +159,8 @@
   },
   "active": "36d94cb3b9d7f48c",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Math 152/Reflection Matrix.md",
     "Math 101/work.md",
     "Phys 159 Labs/Lab 04/Lab 04 Acoustic Waves.md",
     "Phys 159 Labs/Lab Template.md",
@@ -180,7 +174,6 @@
     "Phys 159 Labs/Lab 05/Pasted image 20240228180312.png",
     "Phys 170/Moment arm.md",
     "Phys 159 Labs/Lab 05",
-    "Math 152/Reflection Matrix.md",
     "Math 152/Linear Transformations.md",
     "Math 152/Linear indenpendence.md",
     "Math 152/Linearity.md",

@@ -51,4 +51,5 @@ $$x_{0}^2\int_{\theta(0)}^{\theta(\sqrt{ a^2-x_{0}^2 })}  \, dx $$
 $$=x_{0}^2\begin{bmatrix}
 \frac12\sec\theta\tan\theta + \frac12\log|{\sec\theta+\tan\theta}|
 \end{bmatrix}_{\theta(0)}^{\theta(\sqrt{ a^2-x_{0}^2 })}$$
- 
+ Now we'll find the bounds:
+$$\theta(\sqrt{ a^2-x_{0}^2 })=\arctan\left( \frac{\sqrt{ a^2-x_{0}^2}}{x_{0}} \right)$$

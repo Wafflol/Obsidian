@@ -61,5 +61,7 @@ $$\int_{0}^{\sqrt{ a^2-x_{0}^2 }} 1 \, dy $$
 $$= \sqrt{ a^2-x^2 }$$
 Putting them together, and adding the multiple of two back in, we get:
 
-$$A(x_{0}) = 25\sqrt{ a^2- x_{0}^2 } - \frac{x_{0}^2}{a}*\left( \frac{a\sqrt{ a^2-x^2 }}{x_{0}^2} +\ln\left( \frac{{a+\sqrt{ a^2-x_{0}^2 }}}{x_{0}} \right)\right)$$
-$$= 24\sqrt{ a^2-x_{0}^2 }+\frac{x_{0}^2}{a}\ln\left( \frac{x_{0}}{a+\sqrt{ a^2-x_{0}^2 }} \right)$$
+$$A(x_{0}) = 2\sqrt{ a^2- x_{0}^2 } - \frac{x_{0}^2}{a}*\left( \frac{a\sqrt{ a^2-x^2 }}{x_{0}^2} +\ln\left( \frac{{a+\sqrt{ a^2-x_{0}^2 }}}{x_{0}} \right)\right)$$
+$$= \sqrt{ a^2-x_{0}^2 }+\frac{x_{0}^2}{a}\ln\left( \frac{x_{0}}{a+\sqrt{ a^2-x_{0}^2 }} \right)$$
+Changing $x_{0}$ to $x$,
+$$A = A(x) = \sqrt{ a^2-x^2 }+\frac{x^2}{a}\ln\left( \frac{x}{a+\sqrt{ a^2-x^2 }} \right)$$

@@ -118,6 +118,11 @@ $$a^2\sqrt{ a^2-x^2 }(a+\sqrt{ a^2-x^2 })
 +x^4\left( \sqrt{ 1-\frac{x^2}{a^2} } \right)
 $$
 $$= a^3\sqrt{ a^2-x^2 }+a^4-a^2x^2+
+(2a^4-x^4-3a^2x^2+(ax^2+2a^3-4ax^2)(\sqrt{ a^2-x^2 }))*\left( \sqrt{ 1-\frac{x^2}{a^2} } \right)+
+x^4\sqrt{ 1-\frac{x^2}{a^2} }
+$$
+$$=a^3\sqrt{ a^2-x^2 }+a^4-a^2x^2+
+
 
 
 

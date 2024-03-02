@@ -112,6 +112,7 @@ $$F'(x)=\frac{a}{3\sqrt{ 1-\frac{x^2}{a^2} }}+ \frac{{2a^3-4ax^2+x^2\sqrt{ a^2-x
 The original equation, $A(x)= \sqrt{ a^2-x^2 }+\frac{x^2}{a}\ln\left( \frac{x}{a+\sqrt{ a^2-x^2 }} \right)$, matches the last term in $F'(x)$, so I will omit the last term to make it a little simpler for now.
 Combining the three remaining terms using common denominators,
 $$\frac{{a*(a\sqrt{ a^2-x^2 }(a+\sqrt{ a^2-x^2 }))+(2a^3-4ax^2+x^2\sqrt{ a^2-x^2 })(a+\sqrt{ a^2-x^2 })\left( \sqrt{ 1-\frac{x^2}{a^2} } \right)+x^4\left( \sqrt{ 1-\frac{x^2}{a^2} } \right)}}{3a\sqrt{ a^2-x^2 }(a+\sqrt{ a^2-x^2 })\left( \sqrt{ 1-\frac{x^2}{a^2} } \right)}$$
+$$= \frac{}{}$$
 
 ### asdfalkjasdf
 Focusing on the last term, we can simplify the denominator:

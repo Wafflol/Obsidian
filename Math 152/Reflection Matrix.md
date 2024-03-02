@@ -11,3 +11,4 @@ Thus, $Ref_{p}\vec{x}$ =
 $$\vec{x}-2\vec{x_{\perp}}$$
 $$M_{Proj_{p}} = I - M_{Proj_{\hat{n}}}$$
 $$M_{Proj_{p}} = I - 2M_{Proj_{\hat{n}}}$$
+ 

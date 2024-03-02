@@ -133,4 +133,10 @@ Using the function,
 $$A(x) = \sqrt{ a^2-x^2 }+\frac{x^2}{a}\ln\left( \frac{x}{a+\sqrt{ a^2-x^2 }} \right)$$
 , we can evaluate the integral, $\int_{-a}^{a} A(x) \, dx$:
 $$\int_{-a}^{a} \sqrt{ a^2-x^2 }+\frac{x^2}{a}\ln\left( \frac{x}{a+\sqrt{ a^2-x^2 }} \right) \, dx $$
-$$= \frac{3}{2}(a^2-x^2)^{3/2}*()$$
+Starting with the first term:
+$$\int_{-a}^{a} \sqrt{ a^2-x^2 } \, dx $$
+We can do a trig sub:
+$$x = a\sin\theta$$
+$$dx = a\cos\theta d\theta$$
+$$\int_{-a}^{a} a\sqrt{1-\cos^2\theta }*a\cos\theta \, dx $$
+$$=a^2\int_{-a}^{a}  \, dx $$

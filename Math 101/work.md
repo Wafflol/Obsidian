@@ -146,7 +146,7 @@ $$F(a)-F(-a)=\frac{a^2}3\sin^{-1}\!(1)
    + \frac{(-a)^3}{3a}\log\mid{-a}\mid
    - \frac{(-a)^3}{3a}\log\mid{a+\sqrt{a^2-(-a)^2}}\mid)
 $$
-$$= \frac{a^2}{3} * \frac{\pi}{2}+\frac{a^2}{3}\ln|a|-\frac{a^2}{3}\ln|a|-\left( \frac{a^2}{3}\left( -\frac{\pi}{2} \right)- \frac{a^2}{3}\ln|-a|-\frac{a^2}{3} \ln|a| \right)$$
-$$= \frac{a^2\pi}{6}+ \frac{a^2\pi}{6}+\frac{a^2}{3}\ln(a)+\frac{a^2\ln(a)}{3}$$
-$$= \frac{a^2\pi}{3}+\frac{2a^2\ln(a)}{3}$$
-$$= \frac{{a^2\pi+2a^2\ln(a)}}{3}$$
+$$= \frac{a^2}{3} * \frac{\pi}{2}+\frac{a^2}{3}\ln|a|-\frac{a^2}{3}\ln|a|-\left( \frac{a^2}{3}\left( -\frac{\pi}{2} \right)- \frac{a^2}{3}\ln|-a|+\frac{a^2}{3} \ln|a| \right)$$
+$$= \frac{a^2\pi}{6}+ \frac{a^2\pi}{6}+\frac{a^2}{3}\ln(a)-\frac{a^2\ln(a)}{3}$$
+$$=\frac{a^2\pi}{3}$$
+Thus, we can see that the volume of the cone is $\frac{a^2\pi}{3}$

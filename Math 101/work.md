@@ -67,4 +67,12 @@ Changing $x_{0}$ to $x$,
 $$A = A(x) = \sqrt{ a^2-x^2 }+\frac{x^2}{a}\ln\left( \frac{x}{a+\sqrt{ a^2-x^2 }} \right)$$
 ### g.
 To show that A is continuous at 0, we can take the limit of A(x) as it approaches 0 from the positive side, and show that it is equal to the value at 0, which we found in part d, which is A = $a$.
-$$\lim_{ n \to \infty } $$
+$$\lim_{ x \to 0 } \sqrt{ a^2-x^2 }+\frac{x^2}{a}\ln\left( \frac{x}{a+\sqrt{ a^2-x^2 }} \right)$$
+$$= a+ \lim_{ x \to 0 } \frac{x^2}{a}\ln\left( \frac{x}{2a} \right)$$
+As $x$ approaches 0, $\ln\left( \frac{x}{2a} \right)$ approaches $-\infty$.
+We can now manipulate this into a fraction:
+$$\lim_{ x \to 0 } \frac{x^2}{a}\ln\left( \frac{x}{2a} \right)=\lim_{ x \to 0 } \frac{{\ln{ \left( \frac{x}{2a} \right)}}}{\frac{a}{x^2}}$$
+Now, as we have the indeterminate form of $\frac{\infty}{\infty}$, we can use l'hospital's rule:
+$$\lim_{ x \to 0 } \frac{\ln\left( \frac{x}{2a} \right)}{\frac{a}{x^2}} = \lim_{ x \to 0 } \frac{\frac{1}{x}}{\frac{-2a}{x^3}}$$
+$$= \lim_{ x \to 0 } \frac{x^2}{-2a} = 0$$
+Thus, we are left with just the first term, which was just $a$. Thus, we can see that as the limit of $A(x)$ approaches the value at 0, we can say that the function $A$ is continuous at 0.

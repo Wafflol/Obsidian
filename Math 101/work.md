@@ -76,3 +76,11 @@ Now, as we have the indeterminate form of $\frac{\infty}{\infty}$, we can use l'
 $$\lim_{ x \to 0 } \frac{\ln\left( \frac{x}{2a} \right)}{\frac{a}{x^2}} = \lim_{ x \to 0 } \frac{\frac{1}{x}}{\frac{-2a}{x^3}}$$
 $$= \lim_{ x \to 0 } \frac{x^2}{-2a} = 0$$
 Thus, we are left with just the first term, which was just $a$. Thus, we can see that as the limit of $A(x)$ approaches the value at 0, we can say that the function $A$ is continuous at 0.
+
+### h.
+$$F(x) 
+= \frac{a^2}3\sin^{-1}\!({\frac xa})
+   + \frac{2x}{3}\sqrt{a^2-x^2}
+   + \frac{x^3}{3a}\log\mid{x}\mid
+   - \frac{x^3}{3a}\log\mid{a+\sqrt{a^2-x^2}}\mid$$
+   $$F'(x) = \frac{a}{3\sqrt{ 1-\frac{x}{a}^2 }}$$

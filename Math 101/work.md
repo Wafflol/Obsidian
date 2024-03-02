@@ -131,12 +131,22 @@ Thus, as $A(x) = \sqrt{ a^2-x^2 }+\frac{x^2}{a}\ln\left( \frac{x}{a+\sqrt{ a^2-x
 ### i.
 Using the function,
 $$A(x) = \sqrt{ a^2-x^2 }+\frac{x^2}{a}\ln\left( \frac{x}{a+\sqrt{ a^2-x^2 }} \right)$$
-, we can evaluate the integral, $\int_{-a}^{a} A(x) \, dx$:
-$$\int_{-a}^{a} \sqrt{ a^2-x^2 }+\frac{x^2}{a}\ln\left( \frac{x}{a+\sqrt{ a^2-x^2 }} \right) \, dx $$
-Starting with the first term:
-$$\int_{-a}^{a} \sqrt{ a^2-x^2 } \, dx $$
-We can do a trig sub:
-$$x = a\sin\theta$$
-$$dx = a\cos\theta d\theta$$
-$$\int_{-a}^{a} a\sqrt{1-\cos^2\theta }*a\cos\theta \, dx $$
-$$=a^2\int_{-a}^{a}  \, dx $$
+, we now know that it's anti-derivative is indeed $F(x)$. Thus, to find the volume of the cone, we can evaluate $F(x)|_{-a}^a$ to get the volume:
+$$F(x) 
+= \frac{a^2}3\sin^{-1}\!({\frac xa})
+   + \frac{2x}{3}\sqrt{a^2-x^2}
+   + \frac{x^3}{3a}\log\mid{x}\mid
+   - \frac{x^3}{3a}\log\mid{a+\sqrt{a^2-x^2}}\mid$$
+$$F(a)-F(-a)=\frac{a^2}3\sin^{-1}\!(1)
+   + \frac{2a}{3}\sqrt{a^2-a^2}
+   + \frac{a^3}{3a}\log\mid{a}\mid
+   - \frac{a^3}{3a}\log\mid{a+\sqrt{a^2-a^2}}\mid - (
+\frac{a^2}3\sin^{-1}\!(-1)
+   + \frac{2(-a)}{3}\sqrt{a^2-(-a)^2}
+   + \frac{(-a)^3}{3a}\log\mid{-a}\mid
+   - \frac{(-a)^3}{3a}\log\mid{a+\sqrt{a^2-(-a)^2}}\mid)
+$$
+$$= \frac{a^2}{3} * \frac{\pi}{2}+\frac{a^2}{3}\ln|a|-\frac{a^2}{3}\ln|a|-\left( \frac{a^2}{3}\left( -\frac{\pi}{2} \right)- \frac{a^2}{3}\ln|-a|-\frac{a^2}{3} \ln|a| \right)$$
+$$= \frac{a^2\pi}{6}+ \frac{a^2\pi}{6}+\frac{a^2}{3}\ln(a)+\frac{a^2\ln(a)}{3}$$
+$$= \frac{a^2\pi}{3}+\frac{2a^2\ln(a)}{3}$$
+$$= \frac{{a^2\pi+2a^2\ln(a)}}{3}$$

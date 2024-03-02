@@ -109,6 +109,13 @@ $$= \frac{{2a^3-4ax^2+x^2\sqrt{ a^2-x^2 }}}{3a\sqrt{ a^2-x^2 }}$$
 Plugging everything back in, our equation looks like this:
 
 $$F'(x)=\frac{a}{3\sqrt{ 1-\frac{x^2}{a^2} }}+ \frac{{2a^3-4ax^2+x^2\sqrt{ a^2-x^2 }}}{3a\sqrt{ a^2-x^2 }}+\left(\frac{x^4}{(3a\sqrt{ a^2-x^2 }(a+\sqrt{ a^2-x^2 }))} \right)+\frac{x^2}{a}\ln ( \frac{x}{a+\sqrt{ a^2-x^2 }} )$$
+$$$$
+
+
+
+
+# everything under makes me wanna fucking die
+
 The original equation, $A(x)= \sqrt{ a^2-x^2 }+\frac{x^2}{a}\ln\left( \frac{x}{a+\sqrt{ a^2-x^2 }} \right)$, matches the last term in $F'(x)$, so I will omit the last term to make it a little simpler for now.
 Combining the three remaining terms using common denominators, we get
 $$\frac{{a*(a\sqrt{ a^2-x^2 }(a+\sqrt{ a^2-x^2 }))+(2a^3-4ax^2+x^2\sqrt{ a^2-x^2 })(a+\sqrt{ a^2-x^2 })\left( \sqrt{ 1-\frac{x^2}{a^2} } \right)+x^4\left( \sqrt{ 1-\frac{x^2}{a^2} } \right)}}{3a\sqrt{ a^2-x^2 }(a+\sqrt{ a^2-x^2 })\left( \sqrt{ 1-\frac{x^2}{a^2} } \right)}$$
@@ -120,10 +127,4 @@ $$
 $$= a^3\sqrt{ a^2-x^2 }+a^4-a^2x^2+
 (2a^4-x^4-3a^2x^2+(ax^2+2a^3-4ax^2)(\sqrt{ a^2-x^2 }))*\left( \sqrt{ 1-\frac{x^2}{a^2} } \right)+
 x^4\sqrt{ 1-\frac{x^2}{a^2} }
-$$
-$$=a^3\sqrt{ a^2-x^2 }+a^4-a^2x^2+
-
-
-
-
 $$

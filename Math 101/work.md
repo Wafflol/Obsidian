@@ -84,4 +84,4 @@ $$F(x)
    + \frac{x^3}{3a}\log\mid{x}\mid
    - \frac{x^3}{3a}\log\mid{a+\sqrt{a^2-x^2}}\mid$$
    $$F'(x) = \frac{a}{3\sqrt{ 1-\frac{x}{a}^2 }} +\frac{2\sqrt{ a^2-x^2 }}{3}+\frac{\frac{2x}{3}*1}{2\sqrt{ a^2-x^2 }}*(-2x) + \frac{x^2}{a}\ln |x|+\frac{x^2}{3a}-\left( \frac{x^2}{a}\ln \mid a+\sqrt{ a^2-x^2 } \mid  \right)-\frac{x^3}{3a}* \frac{-2x}{a+\sqrt{ a^2-x^2 }}$$
-   $$= \frac{a}{3\sqrt{ 1-\left( \frac{x}{a} \right)^2 }}$$
+   $$= \frac{a}{3\sqrt{ 1-\left( \frac{x}{a} \right)^2 }} + \frac{2\sqrt{ a^2-x^2 }}{3}+\frac{-2x^2}{3\sqrt{ a^2-x^2 }}+\frac{x^2}{2}(\ln \mid x \mid -\ln \mid a+\sqrt{ a^2-x^2 } \mid )$$

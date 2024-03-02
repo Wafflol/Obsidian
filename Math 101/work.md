@@ -78,6 +78,8 @@ $$= \lim_{ x \to 0 } \frac{x^2}{-2a} = 0$$
 Thus, we are left with just the first term, which was just $a$. Thus, we can see that as the limit of $A(x)$ approaches the value at 0, we can say that the function $A$ is continuous at 0.
 
 ### h.
+For this part, we can prove that $F(x)$ is an anti-derivative of $A(x)$ by taking its derivative with respect to $x$, and comparing it to $A(x)$, $\sqrt{ a^2-x^2 }+\frac{x^2}{a}\ln\left( \frac{x}{a+\sqrt{ a^2-x^2 }} \right)$ 
+
 $$F(x) 
 = \frac{a^2}3\sin^{-1}\!({\frac xa})
    + \frac{2x}{3}\sqrt{a^2-x^2}
@@ -85,4 +87,16 @@ $$F(x)
    - \frac{x^3}{3a}\log\mid{a+\sqrt{a^2-x^2}}\mid$$
    $$F'(x) = \frac{a}{3\sqrt{ 1-\frac{x}{a}^2 }} +\frac{2\sqrt{ a^2-x^2 }}{3}+\frac{\frac{2x}{3}*1}{2\sqrt{ a^2-x^2 }}*(-2x) + \frac{x^2}{a}\ln |x|+\frac{x^2}{3a}-\left( \frac{x^2}{a}\ln \mid a+\sqrt{ a^2-x^2 } \mid  \right)-\frac{x^3}{3a}* \frac{-2x* \frac{1}{2}(a^2-x^2)^{-1/2}}{a+\sqrt{ a^2-x^2 }}$$
    $$= \frac{a}{3\sqrt{ 1-\left( \frac{x}{a} \right)^2 }} + \frac{2\sqrt{ a^2-x^2 }}{3}+\frac{-2x^2}{3\sqrt{ a^2-x^2 }}+\frac{x^2}{a}(\ln \mid x \mid -\ln \mid a+\sqrt{ a^2-x^2 } \mid )+\frac{x^2}{3a}+\left(\frac{x^4}{(3a\sqrt{ a^2-x^2 }(a+\sqrt{ a^2-x^2 }))} \right)$$
-   $$$$
+   Dealing with just the term, $\frac{x^2}{a}(\ln|x| - \ln \mid a+\sqrt{ a^2-x^2 } \mid)$, we can simplify it:
+   $$\frac{x^2}{a}\left( \ln | \frac{x}{a+\sqrt{ a^2-x^2 }} | \right)$$
+We can also multiply this term by $\frac{3}{3}$ to combine it with the term, $\frac{x^2}{3a}$:
+$$\frac{{3x^2\left( \ln \mid \frac{x}{a+\sqrt{ a^2-x^2 }} \mid  \right)+x^2}}{3a}$$
+$$=\frac{x^2}{3a}\left( 3\ln \mid \frac{x}{a+\sqrt{ a^2-x^2 }} \mid  +1\right)$$
+Adding this back into the original, we get:
+$$= \frac{a}{3\sqrt{ 1-\left( \frac{x}{a} \right)^2 }} + \frac{2\sqrt{ a^2-x^2 }}{3}+\frac{-2x^2}{3\sqrt{ a^2-x^2 }}+
+\frac{x^2}{3a}\left( 3\ln \mid \frac{x}{a+\sqrt{ a^2-x^2 }} \mid  +1\right)
++\left(\frac{x^4}{(3a\sqrt{ a^2-x^2 }(a+\sqrt{ a^2-x^2 }))} \right)$$
+Focusing on the last term, we can simplify the denominator:
+$$\left(\frac{x^4}{(3a\sqrt{ a^2-x^2 }(a+\sqrt{ a^2-x^2 }))} \right)$$
+$$= \frac{x^4}{3a^2\sqrt{ a^2-x^2 }+3a(a^2-x^2)}$$
+$$= \frac{x^4}{(3a)(a\sqrt{ a^2-x^2 }+a^2-x^2)}$$

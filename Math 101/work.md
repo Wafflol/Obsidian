@@ -108,7 +108,7 @@ $$= \frac{2a(a^2-2x^2)+x^2(\sqrt{ a^2-x^2 })}{3a\sqrt{ a^2-x^2 }}$$
 $$= \frac{{2a^3-4ax^2+x^2\sqrt{ a^2-x^2 }}}{3a\sqrt{ a^2-x^2 }}$$
 Plugging everything back in, our equation looks like this:
 
-$$F'(x)=\frac{a}{2\sqrt{ 1-\frac{x^2}{a^2} }}+= \frac{{2a^3-4ax^2+x^2\sqrt{ a^2-x^2 }}}{3a\sqrt{ a^2-x^2 }}+\left(\frac{x^4}{(3a\sqrt{ a^2-x^2 }(a+\sqrt{ a^2-x^2 }))} \right)+\frac{x^2}{a}\ln ( \frac{x}{a+\sqrt{ a^2-x^2 }} )$$
+$$F'(x)=\frac{a}{2\sqrt{ 1-\frac{x^2}{a^2} }}+ \frac{{2a^3-4ax^2+x^2\sqrt{ a^2-x^2 }}}{3a\sqrt{ a^2-x^2 }}+\left(\frac{x^4}{(3a\sqrt{ a^2-x^2 }(a+\sqrt{ a^2-x^2 }))} \right)+\frac{x^2}{a}\ln ( \frac{x}{a+\sqrt{ a^2-x^2 }} )$$
 The original equation, $A(x)= \sqrt{ a^2-x^2 }+\frac{x^2}{a}\ln\left( \frac{x}{a+\sqrt{ a^2-x^2 }} \right)$, matches the last term in $F'(x)$, so I will omit the last term to make it a little simpler for now.
 $$$$
 

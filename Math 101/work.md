@@ -16,14 +16,21 @@ $$=\pi\left( \frac{h^3a^2}{3h^2} \right)$$
 $$ = \frac{\pi ha^2}{3}$$
 c.
 To use the shell method, we need to integrate across x from 0 -> a, and create shells using the formula, $2\pi rh$:
-To find the height as a function of x, 
-$$V = 2\pi \int_{0}^{h} \left( a^2-\frac{2za^2}{h}+\frac{z^2a^2}{h^2} \right)z \, dx $$
-$$= \pi \begin{bmatrix}
-\frac{a^2z^2}{2}-\frac{2z^3a^2}{3h}+\frac{z^4a^2}{4h^2}
-\end{bmatrix}_{0}^h$$
-$$ = \pi\left( \frac{a^2h^2}{2}-\frac{2a^2h^2}{3}+\frac{h^4a^2}{4h^2} \right)$$
-$$=-\frac{\pi a^2h^2}{6}+\frac{\pi a^2h^2}{4}$$
-$$ = \frac{\pi a^2h^3}{12}$$
+Using the relationship from earlier, $z = -\frac{h}{a}r+h$, we can sub $z$ into $h$:
+thus, the formula for the area of the shell is:
+$$A=2\pi r\left( h-\frac{h}{a}r \right)$$
+Thus, we take the integral of this from 0 -> a to get volume
+$$V = 2\pi h \int_{0}^{a} r-\frac{r^2}{a} \, dr $$
+$$= 2\pi h\begin{bmatrix}
+\frac{r^2}{2}-\frac{r^3}{3a}
+\end{bmatrix}_{0}^a$$
+$$V = \frac{2\pi ha^2}{6}$$
+$$= \frac{\pi ha^2}{3}$$
+Thus, we get the same volume as part b.
+
+
+
+
 d.
 $$h = 1, r = a, b = 2r = 2a$$
 $$A(0) = \frac{1}{2}bh = \frac{1}{2}*1*2a = a$$

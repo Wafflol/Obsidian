@@ -65,3 +65,6 @@ $$A(x_{0}) = 2\sqrt{ a^2- x_{0}^2 } - \frac{x_{0}^2}{a}*\left( \frac{a\sqrt{ a^2
 $$= \sqrt{ a^2-x_{0}^2 }+\frac{x_{0}^2}{a}\ln\left( \frac{x_{0}}{a+\sqrt{ a^2-x_{0}^2 }} \right)$$
 Changing $x_{0}$ to $x$,
 $$A = A(x) = \sqrt{ a^2-x^2 }+\frac{x^2}{a}\ln\left( \frac{x}{a+\sqrt{ a^2-x^2 }} \right)$$
+### g.
+To show that A is continuous at 0, we can take the limit of A(x) as it approaches 0 from the positive side, and show that it is equal to the value at 0, which we found in part d, which is A = $a$.
+$$\lim_{ n \to \infty } $$

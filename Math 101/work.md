@@ -15,7 +15,8 @@ a^2z-\frac{z^2a^2}{h} + z ^3 \frac{a^2}{3h^2}
 $$=\pi\left( \frac{h^3a^2}{3h^2} \right)$$
 $$ = \frac{\pi ha^2}{3}$$
 c.
-To use the shell method, we need to integrate across
+To use the shell method, we need to integrate across x from 0 -> a, and create shells using the formula, $2\pi rh$:
+To find the height as a function of x, 
 $$V = 2\pi \int_{0}^{h} \left( a^2-\frac{2za^2}{h}+\frac{z^2a^2}{h^2} \right)z \, dx $$
 $$= \pi \begin{bmatrix}
 \frac{a^2z^2}{2}-\frac{2z^3a^2}{3h}+\frac{z^4a^2}{4h^2}

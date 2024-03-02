@@ -109,10 +109,14 @@ $$= \frac{{2a^3-4ax^2+x^2\sqrt{ a^2-x^2 }}}{3a\sqrt{ a^2-x^2 }}$$
 Plugging everything back in, our equation looks like this:
 
 $$F'(x)=\frac{a}{3\sqrt{ 1-\frac{x^2}{a^2} }}+ \frac{{2a^3-4ax^2+x^2\sqrt{ a^2-x^2 }}}{3a\sqrt{ a^2-x^2 }}+\left(\frac{x^4}{(3a\sqrt{ a^2-x^2 }(a+\sqrt{ a^2-x^2 }))} \right)+\frac{x^2}{a}\ln ( \frac{x}{a+\sqrt{ a^2-x^2 }} )$$
-$$$$
-
-
-
+$$= \frac{a^3}{3a\sqrt{ a^2-x^2 }}+\frac{{2a^3-4ax^2+x^2\sqrt{ a^2-x^2 }}}{3a\sqrt{ a^2-x^2 }}+\frac{x^4}{3a\sqrt{ a^2-x^2 }(a+\sqrt{ a^2-x^2 })}+
+\frac{x^2}{a}\ln ( \frac{x}{a+\sqrt{ a^2-x^2 }} )	
+$$
+The original equation, $A(x)= \sqrt{ a^2-x^2 }+\frac{x^2}{a}\ln\left( \frac{x}{a+\sqrt{ a^2-x^2 }} \right)$, matches the last term in $F'(x)$, so I will omit the last term to make it a little simpler for now:
+$$\frac{{(3a^3-4ax^2+x^2\sqrt{ a^2-x^2 })(a+\sqrt{ a^2-x^2 })+x^4}}{3a\sqrt{ a^2-x^2 }(a+\sqrt{ a^2-x^2 })}$$
+Because the remaining terms share the same denominator, we can also omit it for now, and add it back later:
+$${3a^4-4a^2x^2+ax^2\sqrt{ a^2-x^2 }+3a^3\sqrt{ a^2-x^2 }-4ax^2\sqrt{ a^2-x^2 }+x^2a^2-x^4+x^4}$$
+$$= 3a^4-3a^2x^2+(ax^2+3a^3-4ax^2)(\sqrt{ a^2-x^2 })$$
 
 # everything under makes me wanna fucking die
 

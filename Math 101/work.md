@@ -116,19 +116,21 @@ The original equation, $A(x)= \sqrt{ a^2-x^2 }+\frac{x^2}{a}\ln\left( \frac{x}{a
 $$\frac{{(3a^3-4ax^2+x^2\sqrt{ a^2-x^2 })(a+\sqrt{ a^2-x^2 })+x^4}}{3a\sqrt{ a^2-x^2 }(a+\sqrt{ a^2-x^2 })}$$
 Because the remaining terms share the same denominator, we can also omit it for now, and add it back later:
 $${3a^4-4a^2x^2+ax^2\sqrt{ a^2-x^2 }+3a^3\sqrt{ a^2-x^2 }-4ax^2\sqrt{ a^2-x^2 }+x^2a^2-x^4+x^4}$$
-$$= 3a^4-3a^2x^2+(ax^2+3a^3-4ax^2)(\sqrt{ a^2-x^2 })$$
+$$= 3a^4-3a^2x^2+(3a^3-3ax^2)(\sqrt{ a^2-x^2 })$$
+Re-introducing the denominator,
+$$\frac{{3a^4-3a^2x^2+(3a^3-3ax^2)(\sqrt{ a^2-x^2 })}}{3a\sqrt{ a^2-x^2 }(a+\sqrt{ a^2-x^2 })}$$
+$$= \frac{{a^3-ax^2+(a^2-x^2)(\sqrt{ a^2-x^2 })}}{\sqrt{ a^2-x^2 }(a+\sqrt{ a^2-x^2 })}$$
+$$= \frac{{a(a^2-x^2)+(a^2-x^2)(\sqrt{ a^2-x^2 })}}{\sqrt{ a^2-x^2 }(a+\sqrt{ a^2-x^2 })}$$
+$$= \frac{{(a+\sqrt{ a^2-x^2 })(a^2-x^2)}}{\sqrt{ a^2-x^2 }(a+\sqrt{ a^2-x^2 })}$$
+$$=\frac{{a^2-x^2}}{\sqrt{ a^2-x^2 }}$$
+Adding back the term I originally omitted, and simplifying the equation one last time, we get:
+$$F'(x) = \sqrt{ a^2-x^2 } + \frac{x^2}{a}\ln ( \frac{x}{a+\sqrt{ a^2-x^2 }})$$
+Thus, as $A(x) = \sqrt{ a^2-x^2 }+\frac{x^2}{a}\ln\left( \frac{x}{a+\sqrt{ a^2-x^2 }} \right)$, we can see that $F'(x)$ indeed equals to $A(x)$.
 
-# everything under makes me wanna fucking die
 
-The original equation, $A(x)= \sqrt{ a^2-x^2 }+\frac{x^2}{a}\ln\left( \frac{x}{a+\sqrt{ a^2-x^2 }} \right)$, matches the last term in $F'(x)$, so I will omit the last term to make it a little simpler for now.
-Combining the three remaining terms using common denominators, we get
-$$\frac{{a*(a\sqrt{ a^2-x^2 }(a+\sqrt{ a^2-x^2 }))+(2a^3-4ax^2+x^2\sqrt{ a^2-x^2 })(a+\sqrt{ a^2-x^2 })\left( \sqrt{ 1-\frac{x^2}{a^2} } \right)+x^4\left( \sqrt{ 1-\frac{x^2}{a^2} } \right)}}{3a\sqrt{ a^2-x^2 }(a+\sqrt{ a^2-x^2 })\left( \sqrt{ 1-\frac{x^2}{a^2} } \right)}$$
-To make it simpler, as they are under the same denominator, I will leave it out until the end. Now, we'll distribute the rest:
-$$a^2\sqrt{ a^2-x^2 }(a+\sqrt{ a^2-x^2 })
-+(2a^4-4a^2x^2+ax^2\sqrt{ a^2-x^2 }+2a^3\sqrt{ a^2-x^2 }-4ax^2\sqrt{ a^2-x^2 }+x^2a^2-x^4))*\left( \sqrt{ 1-\frac{x^2}{a^2} } \right)
-+x^4\left( \sqrt{ 1-\frac{x^2}{a^2} } \right)
-$$
-$$= a^3\sqrt{ a^2-x^2 }+a^4-a^2x^2+
-(2a^4-x^4-3a^2x^2+(ax^2+2a^3-4ax^2)(\sqrt{ a^2-x^2 }))*\left( \sqrt{ 1-\frac{x^2}{a^2} } \right)+
-x^4\sqrt{ 1-\frac{x^2}{a^2} }
-$$
+### i.
+Using the function,
+$$A(x) = \sqrt{ a^2-x^2 }+\frac{x^2}{a}\ln\left( \frac{x}{a+\sqrt{ a^2-x^2 }} \right)$$
+, we can evaluate the integral, $\int_{-a}^{a} A(x) \, dx$:
+$$\int_{-a}^{a} \sqrt{ a^2-x^2 }+\frac{x^2}{a}\ln\left( \frac{x}{a+\sqrt{ a^2-x^2 }} \right) \, dx $$
+$$= \frac{3}{2}(a^2-x^2)^{3/2}*()$$

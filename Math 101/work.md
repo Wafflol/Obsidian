@@ -92,10 +92,23 @@ $$F(x)
 We can also multiply this term by $\frac{3}{3}$ to combine it with the term, $\frac{x^2}{3a}$:
 $$\frac{{3x^2\left( \ln \mid \frac{x}{a+\sqrt{ a^2-x^2 }} \mid  \right)+x^2}}{3a}$$
 $$=\frac{x^2}{3a}\left( 3\ln \mid \frac{x}{a+\sqrt{ a^2-x^2 }} \mid  +1\right)$$
+$$\frac{x^2}{a}\ln \mid \frac{x}{a+\sqrt{ a^2-x^2 }} \mid +\frac{x^2}{3a}$$
 Adding this back into the original, we get:
 $$= \frac{a}{3\sqrt{ 1-\left( \frac{x}{a} \right)^2 }} + \frac{2\sqrt{ a^2-x^2 }}{3}+\frac{-2x^2}{3\sqrt{ a^2-x^2 }}+
-\frac{x^2}{3a}\left( 3\ln \mid \frac{x}{a+\sqrt{ a^2-x^2 }} \mid  +1\right)
+\frac{x^2}{a}\ln \mid \frac{x}{a+\sqrt{ a^2-x^2 }} \mid +\frac{x^2}{3a}
 +\left(\frac{x^4}{(3a\sqrt{ a^2-x^2 }(a+\sqrt{ a^2-x^2 }))} \right)$$
+Focusing on the 2 terms, 
+$$\frac{2\sqrt{ a^2-x^2 }}{3}+\frac{-2x^2}{3\sqrt{ a^2-x^2 }}$$
+we can use a common denominator to combine them:
+$$\frac{{2\sqrt{ a^2-x^2 }*\sqrt{ a^2-x^2 }-2x^2}}{3\sqrt{ a^2-x^2 }}$$
+$$= \frac{2(a^2-2x^2)}{3\sqrt{ a^2-x^2 }}$$
+combining this with the term, $\frac{x^2}{3a}$,
+$$\frac{2(a^2-2x^2)}{3\sqrt{ a^2-x^2 }}+\frac{x^2}{3a}$$
+$$= \frac{2a(a^2-2x^2)+x^2(\sqrt{ a^2-x^2 })}{3a\sqrt{ a^2-x^2 }}$$
+$$= \frac{{2a^3-4ax^2+x^2\sqrt{ a^2-x^2 }}}{3a\sqrt{ a^2-x^2 }}$$
+
+
+### asdfalkjasdf
 Focusing on the last term, we can simplify the denominator:
 $$\left(\frac{x^4}{(3a\sqrt{ a^2-x^2 }(a+\sqrt{ a^2-x^2 }))} \right)$$
 $$= \frac{x^4}{3a^2\sqrt{ a^2-x^2 }+3a(a^2-x^2)}$$

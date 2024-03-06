@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b2a76b873dfc05ff",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 101/work.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 101/work.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 101/work.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -161,14 +162,21 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "6992ed5cb050747e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,10 +189,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "837433b7825a58ee",
+  "active": "6992ed5cb050747e",
   "lastOpenFiles": [
-    "Math 101/Written 2.md",
     "Math 101/work.md",
+    "conflict-files-obsidian-git.md",
+    "Math 101/Written 2.md",
     "Math 152/Linear Transformations.md",
     "Math 152/Linearity.md",
     "Math 152/Linear indenpendence.md",
@@ -192,7 +201,6 @@
     "Math 152/work.md",
     "Math 101/asdf.md",
     "Math 152/Composition of linear transformations.md",
-    "conflict-files-obsidian-git.md",
     "Phys 159 Labs/Lab 04/Lab 04 Acoustic Waves.md",
     "Phys 159 Labs/Lab Template.md",
     "Phys 159 Labs/Lab 05/Lab 05.md",

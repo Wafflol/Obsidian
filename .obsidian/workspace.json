@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 152/Inverse Matrices.md",
+                "file": "Math 152/Linear Transformations.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 152/Inverse Matrices.md",
+                "file": "Math 152/Linear Transformations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 152/Inverse Matrices.md",
+                "file": "Math 152/Linear Transformations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 152/Inverse Matrices.md"
+                "file": "Math 152/Linear Transformations.md"
               }
             }
           },
@@ -190,8 +190,10 @@
   },
   "active": "b0ff6dd28ccd25d3",
   "lastOpenFiles": [
-    "Math 152/Markov Process.md",
+    "Math 152/Jan 22 Lecture Solving parametric equation from 2 planes.png",
+    "Math 152/Pasted image 20240306125031.png",
     "Math 152/Inverse Matrices.md",
+    "Math 152/Markov Process.md",
     "Math 152/Area of parallelograms.md",
     "Math 101/work.md",
     "Math 152/work.md",
@@ -223,11 +225,9 @@
     "Math 101/Separable Differential Equations.md",
     "Math 152/Solving Circuit Problems.md",
     "Apsc 101/Video Feedback Notes.md",
-    "Apsc 101/Vid feedback 2.md",
     "Apsc 101",
     "Phys 159 Labs/Lab 04/Pasted image 20240214170141.png",
     "Phys 159 Labs/Lab 04/Pasted image 20240214172431.png",
-    "Phys 159 Labs/Lab 04/Pasted image 20240214191209.png",
     "Phys 159 Labs/Lab 04",
     "Phys 159 Labs",
     "Orbit",

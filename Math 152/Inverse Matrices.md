@@ -60,3 +60,4 @@ d & -b \\
 1. if $A$ is invertible, then $A^{-1}$ exists and is unique
 2. If $A, B$ are both invertible, so is $AB$ and that $(AB)^{-1}$ = $B^{-1}A^{-1}$
 3. If $A$ is invertible, then $A\vec{x} = \vec{b} \iff \vec{x} = A^{_-1}\vec{b}$
+![[Pasted image 20240306125031.png]]

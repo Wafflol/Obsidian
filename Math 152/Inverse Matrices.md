@@ -6,7 +6,7 @@ We use $A^{-1}$ to denote the inverse of $A$
 
 #### How to find $A^{-1}$, given an invertible matrix $A$
 Two methods:
-##### Row operation/reduction
+##### Row operation/reduction (see [[RREF]])
 If $A$ is invertible, then finding the inverse is equivalent to solving $A\vec{x} = \vec{y}$ for $\vec{x}$
 
 $$A\vec{x} = I\vec{y}, I\vec{x} = A^{-1}\vec{y}$$
@@ -51,3 +51,7 @@ $$A^{-1} = \begin{bmatrix}
 2 & -1
 \end{bmatrix}$$
 ##### Solved using formula
+$$A^{-1} = \frac{1}{\det A}\begin{bmatrix}
+d & -b \\
+-c & a
+\end{bmatrix}$$

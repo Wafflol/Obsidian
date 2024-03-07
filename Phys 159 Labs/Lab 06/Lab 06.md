@@ -23,6 +23,8 @@ We also used a breadboard, a PCB, 2 resistors, a capacitor, and the waveform gen
 ![[Pasted image 20240306165244.png]]
 ![[Pasted image 20240306165303.png]]
 ![[Pasted image 20240306165319.png]]![[Pasted image 20240306165329.png]]
+Here is a picture of our circuit:
+![[Pasted image 20240306172636.png]]
 
 3. **Relate Quantities**
 	- We can measure voltage drops using a DMM 

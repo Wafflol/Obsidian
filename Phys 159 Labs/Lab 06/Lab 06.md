@@ -37,6 +37,7 @@ And this is our circuit diagram
 	In an AC circuits we know that the current is $V = IZ$. Capacitors behave differently, and their reactance is found by 
 $$X_{c}= \frac{1}{\omega c}$$
 , which can be found through the circuit's impedance: $$z = \sqrt{ R^2+Xc^2 }$$
+
 *derive equation*
 	*derive uncertainties*
 4. **Test & Try**

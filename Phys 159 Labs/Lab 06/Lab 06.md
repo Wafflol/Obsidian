@@ -4,14 +4,14 @@ Partner: Ryan Mahinpey 39959770
 
 1. **Clarify objective**
 	- Objective: We are trying to find the capacitance of a capacitor
-	- The capacitance of a capacitor is 
+	- The capacitance of a capacitor is related 
 1. **Explore Tools**
 
-| Tool | Physical Parameter | Resolution | Reading Uncertainty | Range | Usage |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-| Osciilloscope | Voltage | 200mV | 100mV | -150V-150V | To measure the voltage in a circuit |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
+| Tool          | Physical Parameter | Resolution | Reading Uncertainty | Range      | Usage                               |
+| ------------- | ------------------ | ---------- | ------------------- | ---------- | ----------------------------------- |
+| Osciilloscope | Voltage            | 200mV      | 100mV               | -150V-150V | To measure the voltage in a circuit |
+|               |                    |            |                     |            |                                     |
+|               |                    |            |                     |            |                                     |
 
 *add pictures of tools used*
 

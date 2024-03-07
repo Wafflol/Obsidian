@@ -63,7 +63,15 @@ We can graph the natural log of the discharging function of voltage with respect
 Explaining the equation:
 Going from $$V(t) = V_{0}e^{-t/RC}$$
 $$\ln(V(t)) = \ln(V_{0})-\frac{1}{RC}t$$
-From this form, we can see that if treat $\ln(V(t))$
+From this form, we can see that if treat $\ln(V(t))$ as the $y$ axis, and $t$ as the $x$ axis, the slope will be $-\frac{1}{RC}$
+Thus, if we call the slope $m$, the equation for $C$ can be found like this:
+$$m = -\frac{1}{RC}$$
+$$-Rm=\frac{1}{C}$$
+$$C = -\frac{1}{Rm}$$
+and thus the uncertainty is:
+$$\delta C = \sqrt{ \frac{R^{2} \delta m^{2} + \delta R^{2} m^{2}}{R^{4} m^{4}} }$$
+
+
 
 The two procedures differ in that
 

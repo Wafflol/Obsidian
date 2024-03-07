@@ -13,7 +13,7 @@ Partner: Ryan Mahinpey 39959770
 | Osciilloscope | Voltage                                | 200mV      | 100mV               | -150V-150V | To measure the voltage in a circuit                                              |
 | DMM           | Voltage/Resistance/Capacitance/Current | 0.1 nF     | 0.05 nF             |            | To measure the voltage/resistance/capacitance/current of components in a circuit |
 |               |                                        |            |                     |            |                                                                                  |
-We measured the capacitance of the capacitor with the DMM to get an expected value for later: 101.6 $\pm 0.05$ nF
+We measured the capacitance of the capacitor with the DMM to get an expected value for later: 101.6 $\pm 0.05$ uF
 Using the DMM, we can measure the resistances of the two resistors: 1986$\pm 1\Omega$, and $5055 \pm 1 \Omega$
 Note: we are just using the 5055 $\Omega$ resistor for this lab
 
@@ -71,15 +71,27 @@ $$C = -\frac{1}{Rm}$$
 and thus the uncertainty is:
 $$\delta C = \sqrt{ \frac{R^{2} \delta m^{2} + \delta R^{2} m^{2}}{R^{4} m^{4}} }$$
 From our graph, we got ![[Pasted image 20240306190258.png]]
-$$m = $$
+Note: the plot above is bad, and you should ignore it because there was a bad data point somewhere past the 30000th data point, so we replotted:
+![[Pasted image 20240306190604.png]]
+From this graph, $$m = -163\pm 10^{-8}$$
+Thus, our capacitance is $$C = 1.2*10^-6\pm 2*10^{-10} F$$
+Note: i might have misread a decimal in matlab for the uncertainty, so I might have to redo that before the next lab
 
-
-The two procedures differ in that
+The two procedures differ in that the second procedure is much faster and has a much smaller uncertainty.
 
 
 5. **Procedure**
 Tools used:
-- procedure
-Add pictures of procedure
+We used a DMM, waveform generator, Oscilloscope, breadboard, a resistor, and a capacitor
+
+Procedure:
+1. Set up circuit same as in picture![[Pasted image 20240306191135.png]]
+2. Adjust frequency and amplitude until you get a good exponential decay curve on the oscilloscope that shows the max and min
+3. Use a usb to download it and input the data into matlab
+4. Use matlab to linearize data, and then calculate the capacitance using the slope
+
+Example of what the oscilloscope should show
+![[Pasted image 20240306191606.png]]
 	**Reflection**:
+		Overall, the accuracy of the measurement can be attributed to the accuracy of the technology, as the oscilloscope is very accurate when you download the data from it. The procedure is fast, as you do not have to change the circuit after setting it up, and Matlab makes the data processing very fast. Because matlab processes 30000+ data points for us in this case, it increases our accuracy, which gets us closer to the expected capacitance. Additionally, the procedure is almost completely devoid of human error, as it relies basically completely on technology. However, we are capped by the precision of the technology.
 		

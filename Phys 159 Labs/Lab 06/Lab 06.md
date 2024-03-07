@@ -42,7 +42,13 @@ Note 2: The equations + uncertainty equations are in test and try, as they use d
 4. **Test & Try**
 	One possible procedure:
 		Use the waveform generator to create a square AC wave, so that the capacitor is constantly charging and discharging. Then, using the oscilloscope, find the $V_{max}$, of the capacitor using the cursors, and find out the time $t$ it takes to charge to $63$% of $V_{max}$, which is equal to $\tau$. We know $\tau = RC$, and thus, we can find $C = \frac{\tau}{R}$
-		For the calculations, 
+		For the calculations:
+			We get $V_{max}$ from the oscilloscope, and using that we calculate 0.63*$V_{max}$, and using that, we find t for 63%.
+			Thus, we just need to use the formula:
+$$C = \frac{\tau}{R}$$
+And for uncertainty:
+$$\delta C = \sqrt{ \frac{\delta R^{2} \tau^{2} + \delta \tau^{2} R^{2}}{R^{4}} }$$
+
 
 	Another possible procedure:
 

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phys 159 Labs/Lab 06/Lab 06.md",
+                "file": "Math 101/work.md",
                 "mode": "source",
                 "source": false
               }
@@ -53,6 +53,14 @@
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "b4ca3a4ecda2b448",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -123,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Phys 159 Labs/Lab 06/Lab 06.md",
+                "file": "Math 101/work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Phys 159 Labs/Lab 06/Lab 06.md",
+                "file": "Math 101/work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Phys 159 Labs/Lab 06/Lab 06.md"
+                "file": "Math 101/work.md"
               }
             }
           },
@@ -184,7 +192,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -203,13 +211,14 @@
   },
   "active": "b0ff6dd28ccd25d3",
   "lastOpenFiles": [
+    "Misc/Matlab Cheat Sheet.md",
+    "Math 101/work.md",
+    "Phys 159 Labs/Lab 06/Lab 06.md",
     "Phys 159 Labs/Lab 06/Pasted image 20240306191606.png",
     "Phys 159 Labs/Lab 06/Pasted image 20240306191135.png",
     "Phys 159 Labs/Lab 06/Pasted image 20240306191126.png",
     "Phys 159 Labs/Lab 06/Pasted image 20240306190604.png",
     "Phys 159 Labs/Lab 06/Pasted image 20240306190258.png",
-    "Misc/Matlab Cheat Sheet.md",
-    "Phys 159 Labs/Lab 06/Lab 06.md",
     "Math 152/Markov Process.md",
     "Math 152/Area of parallelograms.md",
     "Phys 159 Labs/Lab 06/Pasted image 20240306172849.png",
@@ -217,14 +226,12 @@
     "Phys 159 Labs/Lab 06/Pasted image 20240306165329.png",
     "Phys 159 Labs/Lab 06/Pasted image 20240306165319.png",
     "Phys 159 Labs/Lab 06/Pasted image 20240306165303.png",
-    "Phys 159 Labs/Lab 06/Pasted image 20240306165244.png",
     "Phys 159 Labs/Lab 04/Lab 04 Acoustic Waves.md",
     "Phys 159 Labs/Lab 05/Lab 05.md",
     "Phys 159 Labs/Lab Template.md",
     "Phys 159 Labs/Lab 06",
     "Math 152/Linear Transformations.md",
     "Math 152/Inverse Matrices.md",
-    "Math 101/work.md",
     "Math 152/work.md",
     "Math 101/Written 2.md",
     "conflict-files-obsidian-git.md",

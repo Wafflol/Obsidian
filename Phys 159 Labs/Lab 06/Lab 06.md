@@ -33,9 +33,10 @@ And this is our circuit diagram
 		- *replace with measurements ex. length of string*
 	We know that $q = CV$ where $q$ is charge on a capacitor, and $C$ and $V$ are the capacitance and voltage of the circuit respectively
 	Thus, if we know the charge and voltage, we can find capacitance.
+	We know that for a capacitor, when it is charging, $V(t) = V_{0}e^{-t/RC}$, so if we can find the time the time at which voltage is at 63% of the maximum, that time would equal $RC$, and if we divide by the resistance, we can find capacitance.
 	In an AC circuits we know that the current is $V = IZ$. Capacitors behave differently, and their reactance is found by 
 $$X_{c}= \frac{1}{\omega c}$$
-, which can be found through the circuit's impedence
+, which can be found through the circuit's impedance: $$z = \sqrt{ R^2+Xc^2 }$$
 *derive equation*
 	*derive uncertainties*
 4. **Test & Try**

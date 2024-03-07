@@ -29,7 +29,7 @@ We also used a breadboard, a PCB, 2 resistors, a capacitor, and the waveform gen
 		- *replace with measurements ex. length of string*
 	We know that $q = CV$ where $q$ is charge on a capacitor, and $C$ and $V$ are the capacitance and voltage of the circuit respectively
 	Thus, if we know the charge and voltage, we can find capacitance.
-	We know that $q(t)$ for a 
+	In an AC circuits we know that the current is $V = IZ$. Capacitors behave 
 	*derive equation*
 	*derive uncertainties*
 4. **Test & Try**

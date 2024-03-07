@@ -48,11 +48,24 @@ Note 2: The equations + uncertainty equations are in test and try, as they use d
 $$C = \frac{\tau}{R}$$
 And for uncertainty:
 $$\delta C = \sqrt{ \frac{\delta R^{2} \tau^{2} + \delta \tau^{2} R^{2}}{R^{4}} }$$
+Running 1 test trial:
+$V_{max} = 8.6 \pm 0.2V$
+63% of $V_{max} = 5.41 \pm 0.1V$
+Using the graph,
+$$\tau = t = 283\pm 50 \mu s$$
+$$= 0.000283 \pm 0.00005\mu s$$
+From above, we know that $R = 5055\pm 1\Omega$
 
+Thus, calculating our values, we get capacitance $C = 6*10^{-8}\pm 1*10^{-8} F$
 
-	Another possible procedure:
+Another possible procedure:
+We can graph the natural log of the discharging function of voltage with respect to time on matlab.
+Explaining the equation:
+Going from $$V(t) = V_{0}e^{-t/RC}$$
+$$\ln(V(t)) = \ln(V_{0})-\frac{1}{RC}t$$
+From this form, we can see that if treat $\ln(V(t))$
 
-	The two procedures differ in that
+The two procedures differ in that
 
 
 5. **Procedure**

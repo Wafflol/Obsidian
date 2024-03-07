@@ -15,6 +15,7 @@ Partner: Ryan Mahinpey 39959770
 |               |                                        |            |                     |            |                                                                                  |
 We measured the capacitance of the capacitor with the DMM to get an expected value for later: 101.6 $\pm 0.05$ nF
 Using the DMM, we can measure the resistances of the two resistors: 1986$\pm 1\Omega$, and $5055 \pm 1 \Omega$
+Note: we are just using the 5055 $\Omega$ resistor for this lab
 
 We also used a breadboard, a PCB, 2 resistors, a capacitor, and the waveform generator.
 

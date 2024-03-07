@@ -29,8 +29,10 @@ We also used a breadboard, a PCB, 2 resistors, a capacitor, and the waveform gen
 		- *replace with measurements ex. length of string*
 	We know that $q = CV$ where $q$ is charge on a capacitor, and $C$ and $V$ are the capacitance and voltage of the circuit respectively
 	Thus, if we know the charge and voltage, we can find capacitance.
-	In an AC circuits we know that the current is $V = IZ$. Capacitors behave 
-	*derive equation*
+	In an AC circuits we know that the current is $V = IZ$. Capacitors behave differently, and their reactance is found by 
+$$X_{c}= \frac{1}{\omega c}$$
+, which can be found through the circuit's impedence
+*derive equation*
 	*derive uncertainties*
 4. **Test & Try**
 	One possible procedure:

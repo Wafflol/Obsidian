@@ -70,7 +70,8 @@ $$-Rm=\frac{1}{C}$$
 $$C = -\frac{1}{Rm}$$
 and thus the uncertainty is:
 $$\delta C = \sqrt{ \frac{R^{2} \delta m^{2} + \delta R^{2} m^{2}}{R^{4} m^{4}} }$$
-
+From our graph, we got ![[Pasted image 20240306190258.png]]
+$$m = $$
 
 
 The two procedures differ in that

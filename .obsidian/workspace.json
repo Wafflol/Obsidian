@@ -42,6 +42,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dbc2de85f1a3c924",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc/Matlab Cheat Sheet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -192,6 +204,11 @@
   },
   "active": "b0ff6dd28ccd25d3",
   "lastOpenFiles": [
+    "Phys 159 Labs/Lab 06/Pasted image 20240306190258.png",
+    "Misc/Matlab Cheat Sheet.md",
+    "Phys 159 Labs/Lab 06/Lab 06.md",
+    "Math 152/Markov Process.md",
+    "Math 152/Area of parallelograms.md",
     "Phys 159 Labs/Lab 06/Pasted image 20240306172849.png",
     "Phys 159 Labs/Lab 06/Pasted image 20240306172636.png",
     "Phys 159 Labs/Lab 06/Pasted image 20240306165329.png",
@@ -200,7 +217,6 @@
     "Phys 159 Labs/Lab 06/Pasted image 20240306165244.png",
     "Phys 159 Labs/Lab 04/Lab 04 Acoustic Waves.md",
     "Phys 159 Labs/Lab 05/Lab 05.md",
-    "Phys 159 Labs/Lab 06/Lab 06.md",
     "Phys 159 Labs/Lab 06/Pasted image 20240306164417.png",
     "Phys 159 Labs/Lab 06/Pasted image 20240306164359.png",
     "Phys 159 Labs/Lab Template.md",
@@ -209,8 +225,6 @@
     "Math 152/Jan 22 Lecture Solving parametric equation from 2 planes.png",
     "Math 152/Pasted image 20240306125031.png",
     "Math 152/Inverse Matrices.md",
-    "Math 152/Markov Process.md",
-    "Math 152/Area of parallelograms.md",
     "Math 101/work.md",
     "Math 152/work.md",
     "Math 101/Written 2.md",
@@ -220,14 +234,12 @@
     "Math 152/Reflection Matrix.md",
     "Math 101/asdf.md",
     "Math 152/Composition of linear transformations.md",
-    "Phys 159 Labs/Lab 05/Pasted image 20240228190710.png",
     "Phys 170/Moment arm.md",
     "Phys 159 Labs/Lab 05",
     "Math 152/Planes.md",
     "Math 101/Definite Integral.md",
     "Project ideas.md",
     "Math 101/Anti-derivatives.md",
-    "Misc/Matlab Cheat Sheet.md",
     "Math 101/Separable Differential Equations.md",
     "Math 152/Solving Circuit Problems.md",
     "Apsc 101",

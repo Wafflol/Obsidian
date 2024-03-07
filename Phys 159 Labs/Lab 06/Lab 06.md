@@ -37,11 +37,12 @@ And this is our circuit diagram
 	In an AC circuits we know that the current is $V = IZ$. Capacitors behave differently, and their reactance is found by 
 $$X_{c}= \frac{1}{\omega C}$$
 , which can be found through the circuit's impedance: $$z = \sqrt{ R^2+X_{c}^2 }$$
-
-*derive equation*
-	*derive uncertainties*
+Note: we decided not to go the impedance route, but I kept the relate quantities part for it here.
+Note 2: The equations + uncertainty equations are in test and try, as they use different equations
 4. **Test & Try**
 	One possible procedure:
+		Use the waveform generator to create a square AC wave, so that the capacitor is constantly charging and discharging. Then, using the oscilloscope, find the $V_{max}$, of the capacitor using the cursors, and find out the time $t$ it takes to charge to $63$% of $V_{max}$, which is equal to $\tau$. We know $\tau = RC$, and thus, we can find $C = \frac{\tau}{R}$ 
+		
 
 	Another possible procedure:
 

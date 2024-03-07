@@ -4,7 +4,7 @@ Partner: Ryan Mahinpey 39959770
 
 1. **Clarify objective**
 	- Objective: We are trying to find the capacitance of a capacitor
-	- The capacitance of a capacitor is related 
+	- The capacitance of a capacitor is related how much 
 1. **Explore Tools**
 
 | Tool          | Physical Parameter | Resolution | Reading Uncertainty | Range      | Usage                               |

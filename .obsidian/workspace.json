@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 152/Questions.md",
+                "file": "Math 101/work.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 152/Questions.md",
+                "file": "Math 101/work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 152/Questions.md",
+                "file": "Math 101/work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 152/Questions.md"
+                "file": "Math 101/work.md"
               }
             }
           },
@@ -167,25 +167,34 @@
   },
   "active": "b4ca3a4ecda2b448",
   "lastOpenFiles": [
-    "Math 152/Volume of parallelepiped.md",
-    "Math 152/Vectors in Orthogonal Coordinates.md",
     "Math 152/Vectors.md",
     "Math 152/triangular matrix.md",
+    "Math 152/Systems of equations & linear independence.md",
+    "Math 152/Solving Circuit Problems.md",
     "Math 152/Solving a linear system.md",
     "Math 152/Shortest distance between two lines.md",
-    "Math 152/Solving Circuit Problems.md",
-    "Math 152/Systems of equations & linear independence.md",
-    "Math 152/Planes.md",
-    "Math 152/Projection.md",
+    "Math 152/RREF.md",
+    "Math 152/Rewriting a plane from parametric.md",
+    "Math 152/Rewriting a linear system in matrix form.md",
+    "Math 152/Rank of a matrix.md",
     "Math 152/Non-homogeneous systems.md",
     "Math 152/Markov Process.md",
+    "Math 152/Lines in vector form.md",
     "Math 152/Linearity.md",
-    "Math 152/Finding equation of two planes from a line L.md",
     "Math 152/Linear Transformations.md",
-    "Math 152/Area of parallelograms.md",
-    "Misc/Matlab Cheat Sheet.md",
-    "Math 101/work.md",
-    "Phys 159 Labs/Lab 06/Lab 06.md",
+    "Math 152/Linear indenpendence.md",
+    "Math 152/Linear Combinations.md",
+    "Math 152/Jan 24 Linear independence.png",
+    "Math 152/Inverse Matrices.md",
+    "Math 152/Jan 22 Lecture Solving parametric equation from 2 planes.png",
+    "Math 152/Finding equation of two planes from a line L.md",
+    "Math 152/Intersection of planes.md",
+    "Math 152/Questions.md",
+    "Math 152/Dot product.md",
+    "Math 152/diagonal matrix.md",
+    "Math 152/Determinant.md",
+    "Math 152/Composition of linear transformations.md",
+    "Math 152/Cross product.md",
     "Phys 159 Labs/Lab 06/Pasted image 20240306191606.png",
     "Phys 159 Labs/Lab 06/Pasted image 20240306191135.png",
     "Phys 159 Labs/Lab 06/Pasted image 20240306191126.png",
@@ -194,16 +203,7 @@
     "Phys 159 Labs/Lab 06/Pasted image 20240306172849.png",
     "Phys 159 Labs/Lab 06/Pasted image 20240306172636.png",
     "Phys 159 Labs/Lab 06/Pasted image 20240306165329.png",
-    "Phys 159 Labs/Lab 06/Pasted image 20240306165319.png",
-    "Phys 159 Labs/Lab 06/Pasted image 20240306165303.png",
-    "Phys 159 Labs/Lab 04/Lab 04 Acoustic Waves.md",
-    "Phys 159 Labs/Lab 05/Lab 05.md",
-    "Phys 159 Labs/Lab Template.md",
     "Phys 159 Labs/Lab 06",
-    "Math 152/Inverse Matrices.md",
-    "Math 152/work.md",
-    "Math 101/Written 2.md",
-    "conflict-files-obsidian-git.md",
     "Phys 159 Labs/Lab 05",
     "Apsc 101",
     "Phys 159 Labs/Lab 04",

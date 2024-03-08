@@ -19,11 +19,11 @@ Note: we are just using the 5055 $\Omega$ resistor for this lab
 
 We also used a breadboard, a PCB, 2 resistors, a capacitor, and the waveform generator.
 
-![[Pasted image 20240306164359.png]]
-![[Pasted image 20240306164417.png]]
-![[Pasted image 20240306165244.png]]
+![[Pasted image 20240306164359.png|150]]
+![[Pasted image 20240306164417.png|150]]
+![[Pasted image 20240306165244.png|200]]
 ![[Pasted image 20240306165303.png]]
-![[Pasted image 20240306165319.png]]![[Pasted image 20240306165329.png]]
+![[Pasted image 20240306165319.png]]![[Pasted image 20240306165329.png|450]]
 Here is a picture of our circuit:
 ![[Pasted image 20240306172636.png]]
 And this is our circuit diagram

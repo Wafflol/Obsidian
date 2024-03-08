@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 101/work.md",
+                "file": "Phys 159 Labs/Lab 06/Lab 06.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 101/work.md",
+                "file": "Phys 159 Labs/Lab 06/Lab 06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 101/work.md",
+                "file": "Phys 159 Labs/Lab 06/Lab 06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 101/work.md"
+                "file": "Phys 159 Labs/Lab 06/Lab 06.md"
               }
             }
           },
@@ -167,6 +167,7 @@
   },
   "active": "b4ca3a4ecda2b448",
   "lastOpenFiles": [
+    "Math 101/work.md",
     "Math 152/Vectors.md",
     "Math 152/triangular matrix.md",
     "Math 152/Systems of equations & linear independence.md",
@@ -194,7 +195,6 @@
     "Math 152/diagonal matrix.md",
     "Math 152/Determinant.md",
     "Math 152/Composition of linear transformations.md",
-    "Math 152/Cross product.md",
     "Phys 159 Labs/Lab 06/Pasted image 20240306191606.png",
     "Phys 159 Labs/Lab 06/Pasted image 20240306191135.png",
     "Phys 159 Labs/Lab 06/Pasted image 20240306191126.png",

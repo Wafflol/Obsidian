@@ -20,4 +20,4 @@ $$T = \begin{bmatrix}
 \end{bmatrix}\begin{bmatrix}
 3 & 2 \\
 2 & 1
-\end{bmatrix}$$
+\end{bmatrix}^{-1}$$

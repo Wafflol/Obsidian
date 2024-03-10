@@ -25,3 +25,4 @@ $$\vec{x_{1}} = 3e_{1}+2e_{2}, \vec{x_{2}} = 2e_{1}+ e_{2}$$
 $$\vec{e_{1}} = 2\vec{x_{2}}-\vec{x_{1}}, \vec{e_{2}}=2\vec{x_{1}}-3\vec{x_{2}}$$
 Because it is linear, $$T(\vec{e_{1}}) = 2T(\vec{x_{2}})-T(\vec{x_{1}})$$
 and the same for $T(\vec{e_{2}})$
+

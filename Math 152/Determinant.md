@@ -44,7 +44,7 @@ The determinant is:
 2. Each term is the product of $n$ entries containing only one from each row and each column
 
 $$\det A = a_{i_{1}}c_{i_{1}}+a_{i_{2}}c_{i_{2}}+\dots+a_{in}c_{in}$$
-$$A_{ij} = (i,j)th \text{ minor of }A$$
+$$\det A_{ij} = (i,j)th \text{ minor of }A$$
 $$C_{ij} = (-1)^{i+j}\det A_{ij}$$
 ##### Properties:
 1. $\det A = \det A^T$
@@ -52,3 +52,6 @@ $$C_{ij} = (-1)^{i+j}\det A_{ij}$$
 3. If two rows are identical, the determinant is 0: $\det A_{k=l} = 0$
 4. $\det(\alpha A) = \alpha^n\det A$
 5. $\det A_{k=k+\alpha l} = \det A$
+6. $\det (AB) = \det A\det B$
+7. $\det A^{-1} = \frac{1}{\det A}$
+

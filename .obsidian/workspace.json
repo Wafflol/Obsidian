@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a0eacc89a909fbb4",
+        "id": "64c18f198ea98781",
         "type": "tabs",
         "children": [
           {
-            "id": "301ed745a9347a99",
+            "id": "e27b571302c05782",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -164,11 +164,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "301ed745a9347a99",
+  "active": "e27b571302c05782",
   "lastOpenFiles": [
+    "Math 152/Inverse Matrices.md",
+    "Math 152/Determinant.md",
+    "Math 152/Deteminant.md",
+    "Math 152/deteminant.md",
     "Math 152/Pasted image 20240311121450.png",
     "Math 152/Questions.md",
-    "Math 152/Determinant.md",
     "Math 152/Linear Transformations.md",
     "Phys 159 Labs/Lab 06/Lab 06.md",
     "Math 101/work.md",
@@ -189,11 +192,9 @@
     "Math 152/Linear indenpendence.md",
     "Math 152/Linear Combinations.md",
     "Math 152/Jan 24 Linear independence.png",
-    "Math 152/Inverse Matrices.md",
     "Math 152/Jan 22 Lecture Solving parametric equation from 2 planes.png",
     "Math 152/Finding equation of two planes from a line L.md",
     "Math 152/Intersection of planes.md",
-    "Math 152/Dot product.md",
     "Phys 159 Labs/Lab 06/Pasted image 20240306191606.png",
     "Phys 159 Labs/Lab 06/Pasted image 20240306191135.png",
     "Phys 159 Labs/Lab 06/Pasted image 20240306191126.png",
@@ -201,7 +202,6 @@
     "Phys 159 Labs/Lab 06/Pasted image 20240306190258.png",
     "Phys 159 Labs/Lab 06/Pasted image 20240306172849.png",
     "Phys 159 Labs/Lab 06/Pasted image 20240306172636.png",
-    "Phys 159 Labs/Lab 06/Pasted image 20240306165329.png",
     "Phys 159 Labs/Lab 06",
     "Phys 159 Labs/Lab 05",
     "Apsc 101",

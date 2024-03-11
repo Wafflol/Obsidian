@@ -61,3 +61,14 @@ d & -b \\
 2. If $A, B$ are both invertible, so is $AB$ and that $(AB)^{-1}$ = $B^{-1}A^{-1}$
 3. If $A$ is invertible, then $A\vec{x} = \vec{b} \iff \vec{x} = A^{_-1}\vec{b}$
 ![[Pasted image 20240306125031.png]]
+#### Formula for $A^{-1}$
+$$A^{-1} = \frac{1}{\det A}C^T$$
+
+Eg. 4.7.7
+Given $A = \begin{bmatrix}0&2&1\\-1&1&0\\2&-5&2\end{bmatrix}$
+a. show that it is invertible
+$$c_{11} = 2, c_{12} = 2, c_{13} = 3$$
+$$\det A = (0)c_{11}+(2)c_{12} + (1)c_{13} = 7 \neq 0$$
+
+b. find $A^{-1}$ using the [cofactor formula](Determinant)
+

@@ -46,3 +46,9 @@ The determinant is:
 $$\det A = a_{i_{1}}c_{i_{1}}+a_{i_{2}}c_{i_{2}}+\dots+a_{in}c_{in}$$
 $$A_{ij} = (i,j)th \text{ minor of }A$$
 $$C_{ij} = (-1)^{i+j}\det A_{ij}$$
+##### Properties:
+1. $\det A = \det A^T$
+2. Swapping a row makes it negative: $\det A_{k\leftrightarrow l} = -\det A$
+3. If two rows are identical, the determinant is 0: $\det A_{k=l} = 0$
+4. $\det(\alpha A) = \alpha^n\det A$
+ 

@@ -51,4 +51,4 @@ $$C_{ij} = (-1)^{i+j}\det A_{ij}$$
 2. Swapping a row makes it negative: $\det A_{k\leftrightarrow l} = -\det A$
 3. If two rows are identical, the determinant is 0: $\det A_{k=l} = 0$
 4. $\det(\alpha A) = \alpha^n\det A$
- 
+5. $\det A_{k=k+\alpha l} = \det A$

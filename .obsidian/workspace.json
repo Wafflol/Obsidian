@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 152/Determinant.md",
+                "file": "Math 152/Questions.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b2a76b873dfc05ff",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 152/Determinant.md",
+                "file": "Math 152/Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 152/Determinant.md",
+                "file": "Math 152/Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 152/Determinant.md"
+                "file": "Math 152/Questions.md"
               }
             }
           },
@@ -167,6 +166,7 @@
   },
   "active": "301ed745a9347a99",
   "lastOpenFiles": [
+    "Math 152/Determinant.md",
     "Math 152/Linear Transformations.md",
     "Phys 159 Labs/Lab 06/Lab 06.md",
     "Math 101/work.md",
@@ -194,7 +194,6 @@
     "Math 152/Questions.md",
     "Math 152/Dot product.md",
     "Math 152/diagonal matrix.md",
-    "Math 152/Determinant.md",
     "Phys 159 Labs/Lab 06/Pasted image 20240306191606.png",
     "Phys 159 Labs/Lab 06/Pasted image 20240306191135.png",
     "Phys 159 Labs/Lab 06/Pasted image 20240306191126.png",

@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 152/Determinant.md",
+                "file": "Math 101/Definite Integral.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c87accc4295933e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math 101/Trig.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 152/Determinant.md",
+                "file": "Math 101/Trig.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 152/Determinant.md",
+                "file": "Math 101/Trig.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 152/Determinant.md"
+                "file": "Math 101/Trig.md"
               }
             }
           },
@@ -164,10 +177,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e27b571302c05782",
+  "active": "3c87accc4295933e",
   "lastOpenFiles": [
-    "Math 152/Inverse Matrices.md",
+    "Math 101/Definite Integral.md",
+    "Math 101/Trig.md",
     "Math 152/Determinant.md",
+    "Math 152/Inverse Matrices.md",
     "Math 152/Deteminant.md",
     "Math 152/deteminant.md",
     "Math 152/Pasted image 20240311121450.png",
@@ -193,8 +208,6 @@
     "Math 152/Linear Combinations.md",
     "Math 152/Jan 24 Linear independence.png",
     "Math 152/Jan 22 Lecture Solving parametric equation from 2 planes.png",
-    "Math 152/Finding equation of two planes from a line L.md",
-    "Math 152/Intersection of planes.md",
     "Phys 159 Labs/Lab 06/Pasted image 20240306191606.png",
     "Phys 159 Labs/Lab 06/Pasted image 20240306191135.png",
     "Phys 159 Labs/Lab 06/Pasted image 20240306191126.png",

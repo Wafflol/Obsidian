@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 152/Questions.md",
+                "file": "Math 152/Determinant.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 152/Questions.md",
+                "file": "Math 152/Determinant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 152/Questions.md",
+                "file": "Math 152/Determinant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 152/Questions.md"
+                "file": "Math 152/Determinant.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   },
   "active": "301ed745a9347a99",
   "lastOpenFiles": [
+    "Math 152/Questions.md",
     "Math 152/Determinant.md",
     "Math 152/Linear Transformations.md",
     "Phys 159 Labs/Lab 06/Lab 06.md",
@@ -191,7 +192,6 @@
     "Math 152/Jan 22 Lecture Solving parametric equation from 2 planes.png",
     "Math 152/Finding equation of two planes from a line L.md",
     "Math 152/Intersection of planes.md",
-    "Math 152/Questions.md",
     "Math 152/Dot product.md",
     "Math 152/diagonal matrix.md",
     "Phys 159 Labs/Lab 06/Pasted image 20240306191606.png",

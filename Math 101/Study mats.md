@@ -12,3 +12,5 @@ Separable Diff EQ
 
 Improper Integrals
 
+Convergence & Divergence
+

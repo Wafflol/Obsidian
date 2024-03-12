@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 101/Definite Integral.md",
+                "file": "Math 101/asdf.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3c87accc4295933e",
+            "id": "b5b6bc606aebe109",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 101/Trig.md",
+                "file": "Math 101/Study mats.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 101/Trig.md",
+                "file": "Math 101/Study mats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 101/Trig.md",
+                "file": "Math 101/Study mats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 101/Trig.md"
+                "file": "Math 101/Study mats.md"
               }
             }
           },
@@ -177,10 +177,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3c87accc4295933e",
+  "active": "b5b6bc606aebe109",
   "lastOpenFiles": [
-    "Math 101/Definite Integral.md",
+    "Math 101/asdf.md",
+    "Math 101/Study mats.md",
     "Math 101/Trig.md",
+    "Math 101/Definite Integral.md",
     "Math 152/Determinant.md",
     "Math 152/Inverse Matrices.md",
     "Math 152/Deteminant.md",
@@ -204,8 +206,6 @@
     "Math 152/Markov Process.md",
     "Math 152/Lines in vector form.md",
     "Math 152/Linearity.md",
-    "Math 152/Linear indenpendence.md",
-    "Math 152/Linear Combinations.md",
     "Math 152/Jan 24 Linear independence.png",
     "Math 152/Jan 22 Lecture Solving parametric equation from 2 planes.png",
     "Phys 159 Labs/Lab 06/Pasted image 20240306191606.png",

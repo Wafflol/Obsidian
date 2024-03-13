@@ -9,3 +9,10 @@ Partner: Ryan Mahinpey 39959770
 
 
 Variables used in the calculations later on:
+$V$ is voltage in $volts$
+$R$ is resistance in $\Omega$
+$C$ is capacitance in $F$
+
+Our uncertainty was calculated in the previous lab:
+
+

@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 101/work.md",
+                "file": "Math 152/Area of parallelograms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d96223422b4dd6a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math 152/Complex Numbers.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 101/work.md",
+                "file": "Math 152/Complex Numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 101/work.md",
+                "file": "Math 152/Complex Numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 101/work.md"
+                "file": "Math 152/Complex Numbers.md"
               }
             }
           },
@@ -189,14 +201,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b5b6bc606aebe109",
+  "active": "d96223422b4dd6a3",
   "lastOpenFiles": [
-    "Math 101/Probability Density Functions.md",
+    "Math 152/Area of parallelograms.md",
+    "Math 152/Complex Numbers.md",
+    "Math 101/Study mats.md",
     "Math 101/Indefinite Integral.md",
+    "Math 101/work.md",
+    "Math 101/Probability Density Functions.md",
     "Math 101/Numerical Intergration.md",
     "Math 101/Integrability.md",
     "Math 101/Anti-derivatives.md",
-    "Math 101/Study mats.md",
     "Math 101/asdf.md",
     "Math 101/Trig.md",
     "Math 101/Definite Integral.md",
@@ -208,7 +223,6 @@
     "Math 152/Questions.md",
     "Math 152/Linear Transformations.md",
     "Phys 159 Labs/Lab 06/Lab 06.md",
-    "Math 101/work.md",
     "Math 152/Vectors.md",
     "Math 152/triangular matrix.md",
     "Math 152/Systems of equations & linear independence.md",
@@ -216,8 +230,6 @@
     "Math 152/Solving a linear system.md",
     "Math 152/Shortest distance between two lines.md",
     "Math 152/RREF.md",
-    "Math 152/Rewriting a plane from parametric.md",
-    "Math 152/Rewriting a linear system in matrix form.md",
     "Math 152/Jan 24 Linear independence.png",
     "Math 152/Jan 22 Lecture Solving parametric equation from 2 planes.png",
     "Phys 159 Labs/Lab 06/Pasted image 20240306191606.png",

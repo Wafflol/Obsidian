@@ -11,8 +11,16 @@ Variables used in the calculations later on:
 $V$ is voltage in $V$
 $R$ is resistance in $\Omega$
 $C$ is capacitance in $F$
+$m$ is the slope of $\ln(V) \text{ vs. } t$, which is equal to $-\frac{1}{RC}$
 
 Our uncertainty was calculated in the previous lab:
+$$m = -\frac{1}{RC}$$
+$$-Rm = \frac{1}{C}$$
+$$C = -\frac{1}{Rm}$$
+Using the general uncertainty equation, we can calculate the uncertainty:
+$$\delta C = \sqrt{ \frac{R^{2} \delta m^{2} + \delta R^{2} m^{2}}{R^{4} m^{4}} }$$
+$$\delta C = \sqrt{ \frac{\delta m^2}{R^2m^4}+\frac{\delta R^2}{R^4m^2}}$$
+$$\delta C = \frac{1}{Rm}\sqrt{ \frac{\delta m^2}{m^2} + \frac{\delta R^2}{R^2}}$$
 
 
 

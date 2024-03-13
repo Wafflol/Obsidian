@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b016a68b0771a6a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Phys 159 Labs/Lab 04/Lab 04 Acoustic Waves.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "79fcfc1918625cc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Phys 159 Labs/Lab 05/Lab 05.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2eb6a674320f2104",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Phys 159 Labs/Lab 06/Lab 06.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7c1ecdeda87982b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phys 159 Labs/Lab 07/Lab 07.md",
+                "file": "Math 101/Study mats.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b2a76b873dfc05ff",
@@ -123,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Phys 159 Labs/Lab 07/Lab 07.md",
+                "file": "Math 101/Study mats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Phys 159 Labs/Lab 07/Lab 07.md",
+                "file": "Math 101/Study mats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Phys 159 Labs/Lab 07/Lab 07.md"
+                "file": "Math 101/Study mats.md"
               }
             }
           },
@@ -204,18 +166,24 @@
   },
   "active": "7c1ecdeda87982b5",
   "lastOpenFiles": [
-    "Phys 159 Labs/Lab 06/Lab 06.md",
+    "Math 101/Trig Sub.md",
+    "Math 101/Written 2.md",
+    "Math 101/Study mats.md",
+    "Math 101/Separable Differential Equations.md",
+    "Math 101/Properties of Integrals.md",
+    "Math 101/Probability Density Functions.md",
+    "Math 101/Pasted image 20240130112741.png",
+    "Math 101/Indefinite Integral.md",
+    "Math 101/Partial Fractions.md",
+    "Math 101/Numerical Intergration.md",
     "Phys 159 Labs/Lab 07/Lab 07.md",
     "Phys 159 Labs/Lab 04/Lab 04 Acoustic Waves.md",
     "Phys 159 Labs/Lab 05/Lab 05.md",
+    "Phys 159 Labs/Lab 06/Lab 06.md",
     "Phys 159 Labs/Lab 07",
     "Math 152/Complex Numbers.md",
     "Math 152/Area of parallelograms.md",
-    "Math 101/Study mats.md",
-    "Math 101/Indefinite Integral.md",
     "Math 101/work.md",
-    "Math 101/Probability Density Functions.md",
-    "Math 101/Numerical Intergration.md",
     "Math 101/Integrability.md",
     "Math 101/Anti-derivatives.md",
     "Math 101/asdf.md",
@@ -227,11 +195,6 @@
     "Math 152/deteminant.md",
     "Math 152/Pasted image 20240311121450.png",
     "Math 152/Questions.md",
-    "Math 152/Linear Transformations.md",
-    "Math 152/Vectors.md",
-    "Math 152/triangular matrix.md",
-    "Math 152/Systems of equations & linear independence.md",
-    "Math 152/Solving Circuit Problems.md",
     "Math 152/Jan 24 Linear independence.png",
     "Math 152/Jan 22 Lecture Solving parametric equation from 2 planes.png",
     "Phys 159 Labs/Lab 06/Pasted image 20240306191606.png",
@@ -240,7 +203,6 @@
     "Phys 159 Labs/Lab 06/Pasted image 20240306190604.png",
     "Phys 159 Labs/Lab 06/Pasted image 20240306190258.png",
     "Phys 159 Labs/Lab 06/Pasted image 20240306172849.png",
-    "Phys 159 Labs/Lab 06/Pasted image 20240306172636.png",
     "Phys 159 Labs/Lab 06",
     "Phys 159 Labs/Lab 05",
     "Apsc 101",

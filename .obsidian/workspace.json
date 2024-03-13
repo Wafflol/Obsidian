@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 101/Probability Density Functions.md",
+                "file": "Math 101/work.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 101/Probability Density Functions.md",
+                "file": "Math 101/work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 101/Probability Density Functions.md",
+                "file": "Math 101/work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 101/Probability Density Functions.md"
+                "file": "Math 101/work.md"
               }
             }
           },
@@ -191,8 +191,8 @@
   },
   "active": "b5b6bc606aebe109",
   "lastOpenFiles": [
-    "Math 101/Indefinite Integral.md",
     "Math 101/Probability Density Functions.md",
+    "Math 101/Indefinite Integral.md",
     "Math 101/Numerical Intergration.md",
     "Math 101/Integrability.md",
     "Math 101/Anti-derivatives.md",

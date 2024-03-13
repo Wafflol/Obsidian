@@ -4,52 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "64c18f198ea98781",
+        "id": "c72833a156afa048",
         "type": "tabs",
         "children": [
           {
-            "id": "e27b571302c05782",
+            "id": "b016a68b0771a6a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 101/asdf.md",
+                "file": "Phys 159 Labs/Lab 04/Lab 04 Acoustic Waves.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b5b6bc606aebe109",
+            "id": "79fcfc1918625cc3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 152/Area of parallelograms.md",
+                "file": "Phys 159 Labs/Lab 05/Lab 05.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d96223422b4dd6a3",
+            "id": "2eb6a674320f2104",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 152/Complex Numbers.md",
+                "file": "Phys 159 Labs/Lab 06/Lab 06.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "50d959b87e141eaf",
+            "id": "7c1ecdeda87982b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 101/Indefinite Integral.md",
+                "file": "Phys 159 Labs/Lab 07/Lab 07.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 152/Complex Numbers.md",
+                "file": "Phys 159 Labs/Lab 06/Lab 06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 152/Complex Numbers.md",
+                "file": "Phys 159 Labs/Lab 06/Lab 06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 152/Complex Numbers.md"
+                "file": "Phys 159 Labs/Lab 06/Lab 06.md"
               }
             }
           },
@@ -201,10 +201,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d96223422b4dd6a3",
+  "active": "2eb6a674320f2104",
   "lastOpenFiles": [
-    "Math 152/Area of parallelograms.md",
+    "Phys 159 Labs/Lab 07/Lab 07.md",
+    "Phys 159 Labs/Lab 06/Lab 06.md",
+    "Phys 159 Labs/Lab 05/Lab 05.md",
+    "Phys 159 Labs/Lab 04/Lab 04 Acoustic Waves.md",
+    "Phys 159 Labs/Lab 07",
     "Math 152/Complex Numbers.md",
+    "Math 152/Area of parallelograms.md",
     "Math 101/Study mats.md",
     "Math 101/Indefinite Integral.md",
     "Math 101/work.md",
@@ -222,14 +227,10 @@
     "Math 152/Pasted image 20240311121450.png",
     "Math 152/Questions.md",
     "Math 152/Linear Transformations.md",
-    "Phys 159 Labs/Lab 06/Lab 06.md",
     "Math 152/Vectors.md",
     "Math 152/triangular matrix.md",
     "Math 152/Systems of equations & linear independence.md",
     "Math 152/Solving Circuit Problems.md",
-    "Math 152/Solving a linear system.md",
-    "Math 152/Shortest distance between two lines.md",
-    "Math 152/RREF.md",
     "Math 152/Jan 24 Linear independence.png",
     "Math 152/Jan 22 Lecture Solving parametric equation from 2 planes.png",
     "Phys 159 Labs/Lab 06/Pasted image 20240306191606.png",
@@ -248,7 +249,6 @@
     "English",
     "Misc",
     "Untitled.canvas",
-    "Phys 170",
-    "Math 101"
+    "Phys 170"
   ]
 }

@@ -8,4 +8,5 @@ Multiplication:
 $$z_{1}z_{2} = (a_{1}a_{2}-b_{1}b_{2})+(a_{1}b_{2}+b_{1}a_{2})i$$
 Division:
 $$\frac{z_{1}}{z_{2}} = \frac{z_{1}}{z_{2}}* \frac{\bar{z_{2}}}{\bar{z_{2}}}$$
-
+Euler's formula:
+$$e^{it}= \cos t+ i\sin t$$

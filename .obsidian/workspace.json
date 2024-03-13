@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7c1ecdeda87982b5",
+            "id": "e7fc70ecbc91fbc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 101/Study mats.md",
+                "file": "Phys 159 Labs/Lab 07/Lab 07.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15034e0d1de2f0cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phys 159 Labs/Lab 06/Lab 06.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 101/Study mats.md",
+                "file": "Phys 159 Labs/Lab 07/Lab 07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 101/Study mats.md",
+                "file": "Phys 159 Labs/Lab 07/Lab 07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 101/Study mats.md"
+                "file": "Phys 159 Labs/Lab 07/Lab 07.md"
               }
             }
           },
@@ -164,11 +176,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7c1ecdeda87982b5",
+  "active": "e7fc70ecbc91fbc9",
   "lastOpenFiles": [
+    "Phys 159 Labs/Lab 06/Lab 06.md",
+    "Phys 159 Labs/Lab 07/Lab 07.md",
+    "Math 101/Study mats.md",
     "Math 101/Trig Sub.md",
     "Math 101/Written 2.md",
-    "Math 101/Study mats.md",
     "Math 101/Separable Differential Equations.md",
     "Math 101/Properties of Integrals.md",
     "Math 101/Probability Density Functions.md",
@@ -176,10 +190,8 @@
     "Math 101/Indefinite Integral.md",
     "Math 101/Partial Fractions.md",
     "Math 101/Numerical Intergration.md",
-    "Phys 159 Labs/Lab 07/Lab 07.md",
     "Phys 159 Labs/Lab 04/Lab 04 Acoustic Waves.md",
     "Phys 159 Labs/Lab 05/Lab 05.md",
-    "Phys 159 Labs/Lab 06/Lab 06.md",
     "Phys 159 Labs/Lab 07",
     "Math 152/Complex Numbers.md",
     "Math 152/Area of parallelograms.md",

@@ -33,3 +33,14 @@ $$\delta C = \frac{1}{Rm}\sqrt{ \frac{\delta m^2}{m^2} + \frac{\delta R^2}{R^2}}
 5. Use a USB to download the data and input it into matlab
 6. Use matlab to linearize data, and then calculate the capacitance using the slope and the derived equations
 ![[Pasted image 20240306191135.png|200]]
+
+Tools used:
+
+![[Pasted image 20240306164359.png|150]]![[Pasted image 20240306164417.png|150]]![[Pasted image 20240306165244.png|200]]
+![[Pasted image 20240306165303.png|175]]![[Pasted image 20240306165319.png|150]]![[Pasted image 20240306165329.png|200]]
+
+**Experiment**:
+Initial measurements:
+Capacitor capacitance: $10.00\pm 0.005 \text{ nF}$
+Resistor resistance: $4650 \pm 1 \Omega$
+

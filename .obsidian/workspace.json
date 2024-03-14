@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "36b7217f6baca8be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phys 159 Labs/Lab 05/Lab 05.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Phys 159 Labs/Lab 07/Lab 07.md",
+                "file": "Phys 159 Labs/Lab 05/Lab 05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Phys 159 Labs/Lab 07/Lab 07.md",
+                "file": "Phys 159 Labs/Lab 05/Lab 05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Phys 159 Labs/Lab 07/Lab 07.md"
+                "file": "Phys 159 Labs/Lab 05/Lab 05.md"
               }
             }
           },
@@ -176,10 +189,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7fc70ecbc91fbc9",
+  "active": "36b7217f6baca8be",
   "lastOpenFiles": [
-    "Phys 159 Labs/Lab 06/Lab 06.md",
     "Phys 159 Labs/Lab 07/Lab 07.md",
+    "Phys 159 Labs/Lab 07/Pasted image 20240313175245.png",
+    "Phys 159 Labs/Lab 07/Pasted image 20240313175119.png",
+    "Phys 159 Labs/Lab 07/Pasted image 20240313174810.png",
+    "Phys 159 Labs/Lab 07/Pasted image 20240313174737.png",
+    "Phys 159 Labs/Lab 07/Pasted image 20240313174553.png",
+    "Phys 159 Labs/Lab 06/Lab 06.md",
     "Math 101/Study mats.md",
     "Math 101/Trig Sub.md",
     "Math 101/Written 2.md",
@@ -206,15 +224,9 @@
     "Math 152/Deteminant.md",
     "Math 152/deteminant.md",
     "Math 152/Pasted image 20240311121450.png",
-    "Math 152/Questions.md",
     "Math 152/Jan 24 Linear independence.png",
     "Math 152/Jan 22 Lecture Solving parametric equation from 2 planes.png",
     "Phys 159 Labs/Lab 06/Pasted image 20240306191606.png",
-    "Phys 159 Labs/Lab 06/Pasted image 20240306191135.png",
-    "Phys 159 Labs/Lab 06/Pasted image 20240306191126.png",
-    "Phys 159 Labs/Lab 06/Pasted image 20240306190604.png",
-    "Phys 159 Labs/Lab 06/Pasted image 20240306190258.png",
-    "Phys 159 Labs/Lab 06/Pasted image 20240306172849.png",
     "Phys 159 Labs/Lab 06",
     "Phys 159 Labs/Lab 05",
     "Apsc 101",

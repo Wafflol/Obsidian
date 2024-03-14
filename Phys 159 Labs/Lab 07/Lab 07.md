@@ -44,4 +44,17 @@ Initial measurements:
 Capacitor capacitance: $10.00\pm 0.005 \text{ nF}$
 Resistor resistance: $4650 \pm 1 \Omega$
 
-We 
+We recorded 1 exponential decay graph as seen in the picture:
+![[Pasted image 20240313174553.png|325]]
+Then, we imported it into matlab, which gave us this graph:
+![[Pasted image 20240313174810.png|450]]
+Then, we truncated the data from 35000 to 25000, and took the natural log of the voltage and graphed it again:
+![[Pasted image 20240313175119.png|450]]
+Then, we found the linear fit graph using matlab:
+![[Pasted image 20240313175245.png|425]]
+Using this graph, we get the following values:
+$$m = -20500 \pm 1$$
+Thus, using our values and equations from above:
+$$C = 10.492* 10^{-9} \pm -2 * 10^{-12} \text{ F}$$
+Note: When we first calculated the capacitance, we got 3 times the expected value. After trying to figure out how to improve our accuracy, as the capacitance was way off, we realised that our offset was messing up our data, making it no longer linear. By subtracting 2 volts from every single data point prior to linearization, our final value for $C$ was a lot closer to the expected value.
+

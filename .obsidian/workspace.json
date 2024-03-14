@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Phys 159 Labs/Lab 05/Lab 05.md",
+                "file": "Phys 159 Labs/Lab 07/Lab 07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Phys 159 Labs/Lab 05/Lab 05.md",
+                "file": "Phys 159 Labs/Lab 07/Lab 07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Phys 159 Labs/Lab 05/Lab 05.md"
+                "file": "Phys 159 Labs/Lab 07/Lab 07.md"
               }
             }
           },
@@ -189,15 +188,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "36b7217f6baca8be",
+  "active": "e7fc70ecbc91fbc9",
   "lastOpenFiles": [
+    "Phys 159 Labs/Lab 07/Pasted image 20240313182712.png",
+    "Phys 159 Labs/Lab 05/Lab 05.md",
+    "Phys 159 Labs/Lab 06/Lab 06.md",
     "Phys 159 Labs/Lab 07/Lab 07.md",
+    "Phys 159 Labs/Lab 04/Lab 04 Acoustic Waves.md",
     "Phys 159 Labs/Lab 07/Pasted image 20240313175245.png",
     "Phys 159 Labs/Lab 07/Pasted image 20240313175119.png",
     "Phys 159 Labs/Lab 07/Pasted image 20240313174810.png",
     "Phys 159 Labs/Lab 07/Pasted image 20240313174737.png",
     "Phys 159 Labs/Lab 07/Pasted image 20240313174553.png",
-    "Phys 159 Labs/Lab 06/Lab 06.md",
     "Math 101/Study mats.md",
     "Math 101/Trig Sub.md",
     "Math 101/Written 2.md",
@@ -208,8 +210,6 @@
     "Math 101/Indefinite Integral.md",
     "Math 101/Partial Fractions.md",
     "Math 101/Numerical Intergration.md",
-    "Phys 159 Labs/Lab 04/Lab 04 Acoustic Waves.md",
-    "Phys 159 Labs/Lab 05/Lab 05.md",
     "Phys 159 Labs/Lab 07",
     "Math 152/Complex Numbers.md",
     "Math 152/Area of parallelograms.md",

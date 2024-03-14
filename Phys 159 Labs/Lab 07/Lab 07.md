@@ -44,3 +44,4 @@ Initial measurements:
 Capacitor capacitance: $10.00\pm 0.005 \text{ nF}$
 Resistor resistance: $4650 \pm 1 \Omega$
 
+We 

@@ -33,3 +33,8 @@ b_{1} & b_{2} \\
 c_{1} & c_{2}
 \end{vmatrix}
 $$
+
+#### For nxn matrices
+$$\det A = \Sigma_{j_{1},j_{2},..j_{n}}(-1)^{j_{1}\dots jn}a_{1j_{1}}a_{2j_{2}}\dots a_{nj_{n}}$$
+For a determinant, each term can only include one term from each column
+For a [[triangular matrix]], due to this, the determinant is always the product of the diagonal entries, and the same applies for a [[diagonal matrix]]

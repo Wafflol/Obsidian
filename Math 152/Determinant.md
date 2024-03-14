@@ -38,3 +38,20 @@ $$
 $$\det A = \Sigma_{j_{1},j_{2},..j_{n}}(-1)^{j_{1}\dots jn}a_{1j_{1}}a_{2j_{2}}\dots a_{nj_{n}}$$
 For a determinant, each term can only include one term from each column
 For a [[triangular matrix]], due to this, the determinant is always the product of the diagonal entries, and the same applies for a [[diagonal matrix]]
+
+The determinant is:
+1. the sum of $n!$ terms
+2. Each term is the product of $n$ entries containing only one from each row and each column
+
+$$\det A = a_{i_{1}}c_{i_{1}}+a_{i_{2}}c_{i_{2}}+\dots+a_{in}c_{in}$$
+$$\det A_{ij} = (i,j)th \text{ minor of }A$$
+$$C_{ij} = (-1)^{i+j}\det A_{ij}$$
+##### Properties:
+1. $\det A = \det A^T$
+2. Swapping a row makes it negative: $\det A_{k\leftrightarrow l} = -\det A$
+3. If two rows are identical, the determinant is 0: $\det A_{k=l} = 0$
+4. $\det(\alpha A) = \alpha^n\det A$
+5. $\det A_{k=k+\alpha l} = \det A$
+6. $\det (AB) = \det A\det B$
+7. $\det A^{-1} = \frac{1}{\det A}$
+

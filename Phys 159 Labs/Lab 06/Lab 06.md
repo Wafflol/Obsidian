@@ -85,13 +85,17 @@ Tools used:
 We used a DMM, waveform generator, Oscilloscope, breadboard, a resistor, and a capacitor
 
 Procedure:
-1. Set up circuit same as in picture![[Pasted image 20240306191135.png]]
-2. Adjust frequency and amplitude until you get a good exponential decay curve on the oscilloscope that shows the max and min
-3. Use a usb to download it and input the data into matlab
-4. Use matlab to linearize data, and then calculate the capacitance using the slope
+1. Measure and record the resistance of the resistor using the DMM
+2. Set up circuit same as in picture
+	1. Connect the waveform generator, resistor, and capacitor in series, and connect the DMM across the capacitor in parallel
+3. On the waveform generator, create a square wave, and adjust the frequency and amplitude until you get a good exponential decay curve on the oscilloscope that shows the max and min (make sure you see the graph plateau before it switches)
+4. Add an offset on the oscilloscope to make sure the graph is above the x axis so there are no negative values
+5. Use a usb to download the data and input it into matlab
+6. Use matlab to linearize data, and then calculate the capacitance using the slope and the derived equations
+![[Pasted image 20240306191135.png|200]]
 
 Example of what the oscilloscope should show
-![[Pasted image 20240306191606.png]]
+![[Pasted image 20240306191606.png|500]]
 	**Reflection**:
 		Overall, the accuracy of the measurement can be attributed to the accuracy of the technology, as the oscilloscope is very accurate when you download the data from it. The procedure is fast, as you do not have to change the circuit after setting it up, and Matlab makes the data processing very fast. Because matlab processes 30000+ data points for us in this case, it increases our accuracy, which gets us closer to the expected capacitance. Additionally, the procedure is almost completely devoid of human error, as it relies basically completely on technology. However, we are capped by the precision of the technology.
 		

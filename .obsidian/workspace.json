@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a75c9d4f06e41fe0",
+        "id": "80ace44dfc3a2948",
         "type": "tabs",
         "children": [
           {
-            "id": "0d5194adce3a1a53",
+            "id": "efa875967da484c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math 152/Linear Transformations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd9442c6c076a2f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math 152/Inverse Matrices.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d1a1812a5b52cd83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 300
   },
   "right": {
     "id": "b2a76b873dfc05ff",
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -163,7 +130,7 @@
             }
           },
           {
-            "id": "cd078907a99e3dee",
+            "id": "6992ed5cb050747e",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -171,11 +138,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,53 +156,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cd078907a99e3dee",
+  "active": "efa875967da484c7",
   "lastOpenFiles": [
+    "Phys 159 Labs/Lab 06/Lab 06.md",
+    "Phys 159 Labs/Lab 07/Lab 07.md",
+    "conflict-files-obsidian-git.md",
     "Phys 159 Labs/Lab 07/Pasted image 20240313182712.png",
-    "Phys 159 Labs/Lab 07/Pasted image 20240313174810.png",
-    "Phys 159 Labs/Lab 07/Pasted image 20240313175119.png",
+    "Phys 159 Labs/Lab 05/Lab 05.md",
+    "Phys 159 Labs/Lab 04/Lab 04 Acoustic Waves.md",
     "Phys 159 Labs/Lab 07/Pasted image 20240313175245.png",
+    "Phys 159 Labs/Lab 07/Pasted image 20240313175119.png",
+    "Phys 159 Labs/Lab 07/Pasted image 20240313174810.png",
     "Phys 159 Labs/Lab 07/Pasted image 20240313174737.png",
     "Phys 159 Labs/Lab 07/Pasted image 20240313174553.png",
-    "Phys 159 Labs/Lab 07/Lab 07.md",
-    "Phys 159 Labs/Lab 07",
-    "Math 152/Pasted image 20240311121450.png",
-    "Math 152/Complex Numbers.md",
     "Math 101/Study mats.md",
-    "Math 101/Probability Density Functions.md",
-    "Math 152/Inverse Matrices.md",
-    "Math 152/Linear Transformations.md",
-    "inversse.md",
-    "conflict-files-obsidian-git.md",
-    "Phys 159 Labs/Lab 06/Pasted image 20240306191606.png",
-    "Phys 159 Labs/Lab 06/Pasted image 20240306191135.png",
-    "Phys 159 Labs/Lab 06/Pasted image 20240306191126.png",
-    "Phys 159 Labs/Lab 06/Pasted image 20240306190604.png",
-    "Phys 159 Labs/Lab 06/Lab 06.md",
-    "Phys 159 Labs/Lab 06",
-    "Math 152/Markov Process.md",
+    "Math 101/Trig Sub.md",
     "Math 101/Written 2.md",
-    "Math 152/2393-24.md",
-    "Math 152/work.md",
-    "Project ideas.md",
+    "Math 101/Separable Differential Equations.md",
+    "Math 101/Properties of Integrals.md",
+    "Math 101/Probability Density Functions.md",
+    "Math 101/Pasted image 20240130112741.png",
+    "Math 101/Indefinite Integral.md",
+    "Math 101/Partial Fractions.md",
+    "Math 101/Numerical Intergration.md",
+    "Phys 159 Labs/Lab 07",
+    "Math 152/Complex Numbers.md",
+    "Math 152/Area of parallelograms.md",
     "Math 101/work.md",
-    "Math 152/Composition of linear transformations.md",
+    "Math 101/Integrability.md",
+    "Math 101/Anti-derivatives.md",
     "Math 101/asdf.md",
-    "Phys 159 Labs/Lab 05/Lab 05.md",
+    "Math 101/Trig.md",
+    "Math 101/Definite Integral.md",
+    "Math 152/Determinant.md",
+    "Math 152/Inverse Matrices.md",
+    "Math 152/Deteminant.md",
+    "Math 152/deteminant.md",
+    "Math 152/Pasted image 20240311121450.png",
+    "Math 152/Jan 24 Linear independence.png",
+    "Math 152/Jan 22 Lecture Solving parametric equation from 2 planes.png",
+    "Phys 159 Labs/Lab 06",
     "Phys 159 Labs/Lab 05",
-    "Math 152/Reflection Matrix.md",
-    "Math 152/Linearity.md",
-    "Phys 159 Labs/Lab 04/Lab 04 Acoustic Waves.md",
+    "Apsc 101",
     "Phys 159 Labs/Lab 04",
     "Phys 159 Labs",
-    "Math 152/triangular matrix.md",
-    "Math 152/diagonal matrix.md",
-    "Math 101/Separable Differential Equations.md",
-    "Math 101/Numerical Intergration.md",
-    "Apsc 101",
     "Orbit",
-    "Misc",
     "English",
+    "Misc",
     "Untitled.canvas",
     "Phys 170"
   ]

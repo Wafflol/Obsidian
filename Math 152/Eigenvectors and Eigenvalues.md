@@ -21,4 +21,3 @@ $$Det = \lambda_{1}\lambda_{2}$$
 
 Thus, for any $2\times 2$ matrix, the characteristic equation (polynomial) is:
 $$\lambda^2-Tr\lambda+Det=0$$
-1

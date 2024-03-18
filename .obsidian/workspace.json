@@ -42,18 +42,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1bb6325fc92b63ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math 152/Trace.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 2
@@ -204,6 +192,7 @@
   "active": "d697941c37c6fec6",
   "lastOpenFiles": [
     "Math 152/Trace.md",
+    "Math 101/Study mats.md",
     "Math 152/Eigenvectors and Eigenvalues.md",
     "Math 152/Linearity.md",
     "Math 152/MT2.md",
@@ -228,7 +217,6 @@
     "Phys 159 Labs/Lab 07/Pasted image 20240313174810.png",
     "Phys 159 Labs/Lab 07/Pasted image 20240313174737.png",
     "Phys 159 Labs/Lab 07/Pasted image 20240313174553.png",
-    "Math 101/Study mats.md",
     "Math 101/Trig Sub.md",
     "Math 101/Written 2.md",
     "Math 101/Separable Differential Equations.md",

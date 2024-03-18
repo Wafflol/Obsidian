@@ -4,3 +4,7 @@ $$A\vec{v}=\lambda \vec{v}$$
 $\vec{v}$ is the eigenvector, and $\lambda$ is the eigenvalue
 
 Eigenvectors are never 0, but eigenvalues can be
+
+For an $n\times n$ matrix, often there exist $n$ eigen-pairs, especially when no repeated eigenvalues occur
+
+

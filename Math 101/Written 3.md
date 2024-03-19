@@ -18,7 +18,4 @@ $$\int_{0}^{\pi} \sin(mx)\sin(nx) \, dx =\begin{bmatrix}
 \end{bmatrix}_{0}^\pi$$
 $$=\frac{1}{m^2-n^2}(n\sin(m\pi)\cos(n\pi)-m\cos(m\pi)\sin(n\pi)-(n\sin(0)\cos(0)-m\cos(0)\sin(0)))$$
 $$= \frac{n\sin(m\pi)\cos(n\pi)-m\cos(m\pi)\sin(n\pi)}{m^2-n^2}$$
-As we know that $m= n$, we can factor out $n-m$ from the numerator, along with a negative sign:
-$$-\frac{(m-n)(\sin (m\pi)\cos(n\pi)-\cos(m\pi)\sin(n\pi))}{(m+n)(m-n)}$$
-We can cancel out m-n from the numerator and the denominator, and thus, we get:
-$$$$
+Because $m=n$, we can rewrite this 

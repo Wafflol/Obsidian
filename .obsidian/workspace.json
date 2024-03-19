@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 152/Eigenvectors and Eigenvalues.md",
+                "file": "Math 101/Written 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b2a76b873dfc05ff",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 152/Eigenvectors and Eigenvalues.md",
+                "file": "Math 101/Written 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 152/Eigenvectors and Eigenvalues.md",
+                "file": "Math 101/Written 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 152/Eigenvectors and Eigenvalues.md"
+                "file": "Math 101/Written 3.md"
               }
             }
           },
@@ -191,9 +192,10 @@
   },
   "active": "d697941c37c6fec6",
   "lastOpenFiles": [
+    "Math 152/Eigenvectors and Eigenvalues.md",
+    "Math 101/Written 3.md",
     "Math 152/Trace.md",
     "Math 101/Study mats.md",
-    "Math 152/Eigenvectors and Eigenvalues.md",
     "Math 152/Linearity.md",
     "Math 152/MT2.md",
     "Math 152/MT1Prac.md",
@@ -223,7 +225,6 @@
     "Math 101/Properties of Integrals.md",
     "Math 101/Probability Density Functions.md",
     "Math 101/Pasted image 20240130112741.png",
-    "Math 101/Indefinite Integral.md",
     "Phys 159 Labs/Lab 07",
     "Math 152/Pasted image 20240311121450.png",
     "Math 152/Jan 24 Linear independence.png",

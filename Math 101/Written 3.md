@@ -5,3 +5,8 @@ K\sin(mx)\cos(nx)+D\cos(mx)\sin(nx)
 \end{bmatrix}$$
 $$=K(\cos(mx)m\cos(nx)-\sin(mx)\sin (nx)n)+D(\cos(nx)n\cos(mx)-\sin(mx)m\sin(nx))$$
 $$=K(m\cos(mx)\cos(nx)-n\sin(mx)\sin(nx))+D(n\cos(nx)\cos(mx)-m\sin(mx)\sin(nx))$$
+We want to cancel out the $\cos$ terms. Thus, they need to have equal and opposite coefficients, so we can use $K = n$ and $D = -m$ to make the terms cancel out:
+$$K = n, D = -m$$
+$$nm\cos(mx)\cos(nx)-n^2\sin(mx)\sin(nx)-mn\cos(mx)\cos(nx)+m^2\sin(mx)\sin(nx)$$
+$$=(m^2-n^2)\sin(mx)\sin(nx)$$
+Thus, because 

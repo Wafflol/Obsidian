@@ -159,7 +159,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -177,10 +177,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "efa875967da484c7",
+  "active": "6992ed5cb050747e",
   "lastOpenFiles": [
     "Math 101/work.md",
+    "conflict-files-obsidian-git.md",
     "Math 152/Complex Numbers.md",
+    "English/Pasted image 20240318221906.png",
+    "English/Notes for Discourse Analysis.md",
     "Math 152/Linearity.md",
     "Math 101/Written 3.md",
     "Math 152/Eigenvectors and Eigenvalues.md",
@@ -198,7 +201,6 @@
     "Math 152/Complex Poynomials.md",
     "Phys 159 Labs/Lab 06/Lab 06.md",
     "Phys 159 Labs/Lab 07/Lab 07.md",
-    "conflict-files-obsidian-git.md",
     "Phys 159 Labs/Lab 07/Pasted image 20240313182712.png",
     "Phys 159 Labs/Lab 05/Lab 05.md",
     "Phys 159 Labs/Lab 04/Lab 04 Acoustic Waves.md",
@@ -209,13 +211,10 @@
     "Phys 159 Labs/Lab 07/Pasted image 20240313174553.png",
     "Math 101/Trig Sub.md",
     "Math 101/Written 2.md",
-    "Math 101/Separable Differential Equations.md",
-    "Math 101/Properties of Integrals.md",
     "Math 101/Pasted image 20240130112741.png",
     "Phys 159 Labs/Lab 07",
     "Math 152/Pasted image 20240311121450.png",
     "Math 152/Jan 24 Linear independence.png",
-    "Math 152/Jan 22 Lecture Solving parametric equation from 2 planes.png",
     "Phys 159 Labs/Lab 06",
     "Phys 159 Labs/Lab 05",
     "Apsc 101",

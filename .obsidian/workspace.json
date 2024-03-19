@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 101/Written 3.md",
+                "file": "English/Notes for hw.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "651781f498119ca4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/Notes for Discourse Analysis.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5,
-    "collapsed": true
+    "width": 308.5
   },
   "right": {
     "id": "b2a76b873dfc05ff",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 101/Written 3.md",
+                "file": "English/Notes for Discourse Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 101/Written 3.md",
+                "file": "English/Notes for Discourse Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 101/Written 3.md"
+                "file": "English/Notes for Discourse Analysis.md"
               }
             }
           },
@@ -165,14 +177,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0d5194adce3a1a53",
+  "active": "651781f498119ca4",
   "lastOpenFiles": [
+    "English/Notes for hw.md",
+    "English/Notes for Discourse Analysis.md",
+    "Math 101/Written 3.md",
     "Math 152/Linear Transformations.md",
     "conflict-files-obsidian-git.md",
     "Math 152/Trace.md",
     "Math 152/Eigenvectors and Eigenvalues.md",
     "Math 152/Complex Poynomials.md",
-    "Math 101/Written 3.md",
     "workspace.json.md",
     "Phys 159 Labs/Lab 07/Pasted image 20240313182712.png",
     "Phys 159 Labs/Lab 07/Pasted image 20240313174810.png",
@@ -204,8 +218,6 @@
     "Phys 159 Labs/Lab 05/Lab 05.md",
     "Phys 159 Labs/Lab 05",
     "Math 152/Reflection Matrix.md",
-    "Math 152/Linearity.md",
-    "Phys 159 Labs/Lab 04/Lab 04 Acoustic Waves.md",
     "Phys 159 Labs/Lab 04",
     "Phys 159 Labs",
     "Apsc 101",

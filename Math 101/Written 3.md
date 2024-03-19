@@ -17,5 +17,5 @@ $$\int_{0}^{\pi} \sin(mx)\sin(nx) \, dx =\begin{bmatrix}
 \frac{1}{m^2-n^2} (n\sin(mx)\cos(nx)-m\cos(mx)\sin(nx))
 \end{bmatrix}_{0}^\pi$$
 $$=\frac{1}{m^2-n^2}(n\sin(m\pi)\cos(n\pi)-m\cos(m\pi)\sin(n\pi)-(n\sin(0)\cos(0)-m\cos(0)\sin(0)))$$
-$$= \frac{n\sin(m\pi)\cos(n\pi)-m\cos(m\pi)\sin(m\pi)}{m^2-n^2}$$
+$$= \frac{n\sin(m\pi)\cos(n\pi)-m\cos(m\pi)\sin(n\pi)}{m^2-n^2}$$
 $$$$

@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 308.5,
+    "collapsed": true
   },
   "right": {
     "id": "b2a76b873dfc05ff",
@@ -179,8 +180,9 @@
   },
   "active": "651781f498119ca4",
   "lastOpenFiles": [
-    "English/Notes for hw.md",
     "English/Notes for Discourse Analysis.md",
+    "English/Pasted image 20240318221906.png",
+    "English/Notes for hw.md",
     "Math 101/Written 3.md",
     "Math 152/Linear Transformations.md",
     "conflict-files-obsidian-git.md",
@@ -204,7 +206,6 @@
     "inversse.md",
     "Phys 159 Labs/Lab 06/Pasted image 20240306191606.png",
     "Phys 159 Labs/Lab 06/Pasted image 20240306191135.png",
-    "Phys 159 Labs/Lab 06/Pasted image 20240306191126.png",
     "Phys 159 Labs/Lab 06/Lab 06.md",
     "Phys 159 Labs/Lab 06",
     "Math 152/Markov Process.md",
@@ -217,7 +218,6 @@
     "Math 101/asdf.md",
     "Phys 159 Labs/Lab 05/Lab 05.md",
     "Phys 159 Labs/Lab 05",
-    "Math 152/Reflection Matrix.md",
     "Phys 159 Labs/Lab 04",
     "Phys 159 Labs",
     "Apsc 101",

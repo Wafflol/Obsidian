@@ -1,7 +1,17 @@
 - State of knowledge
 	- secured generalization
-		- 
-
-
-
+		- generalizations made with a citation
+	- citation and reporting: WHO + HOW(WHY) + WHAT
+		- Direct speech (quotations); indirect speech (paraphrase)
+		- Reporting expressions (active and passive) and parenthetical citations
+			- active = lastname (year) + "says"
+			- passive = passive reporting expression + author/parenthetical
+		- double reporting
+	- Apposition
+		- defining the latter term through an apposition--a double structure which puts two equivalent definitions side-by-side--signalled by the word "including," a colon, and a list of example mental health conditions
+	- Emphasis
+		- Cleft sentences beginning with *it*
+			- it was X that
+		- End-weight principle beginning with *anticipatory-it*
+			- "it is generally accepted that X"
 - ![[Pasted image 20240318221906.png|567]]

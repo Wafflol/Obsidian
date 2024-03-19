@@ -1,3 +1,4 @@
+#### Introduction
 - State of knowledge
 	- secured generalization
 		- generalizations made with a citation
@@ -15,4 +16,26 @@
 			- "it was julie who brought the cookies"
 		- End-weight principle beginning with *anticipatory-it*
 			- "it is generally accepted that X"
+			- "it may be argued that X"
+- Knowledge Deficit
+	- Self-reference and the discursive I/we
+		- discursive we introduces own original argument
+	- Modal expressions
+		- indicate likelihood from very unlikely to very likely
+			- may/might, can/could, would, should, will, must
+	- Forecast
+		- utilizes the discursive we to create a forecast
+			- such as "we begin, we draw, we then offer, we note, we conclude"
+		- outlines in advance how the article's main sections will proceed
+			- shows how the main sections *(list sections)* will be organized
+
+#### Conclusion
+- Qualifying expressions - expresses limitations
+	- The knowledge making I/we
+		- less assertive than speaker who self-references, forecasts, and emphasizes (discursive I/we)
+		- indicates the researcher reasoning from a position of partial knowledge (e.g., "i think," "we believe," etc.)
+	- Modal expressions
+		- indicate lack of certainty or signal strong but not infallible conviction
+		- challenge established positions and suggest new/alternative perspectives
+
 - ![[Pasted image 20240318221906.png|567]]

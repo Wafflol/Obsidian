@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 152/Linear Transformations.md",
+                "file": "Math 101/Written 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 152/Linear Transformations.md",
+                "file": "Math 101/Written 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 152/Linear Transformations.md",
+                "file": "Math 101/Written 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 152/Linear Transformations.md"
+                "file": "Math 101/Written 3.md"
               }
             }
           },
@@ -165,9 +165,13 @@
   },
   "active": "0d5194adce3a1a53",
   "lastOpenFiles": [
-    "workspace.json.md",
     "Math 152/Linear Transformations.md",
     "conflict-files-obsidian-git.md",
+    "Math 152/Trace.md",
+    "Math 152/Eigenvectors and Eigenvalues.md",
+    "Math 152/Complex Poynomials.md",
+    "Math 101/Written 3.md",
+    "workspace.json.md",
     "Phys 159 Labs/Lab 07/Pasted image 20240313182712.png",
     "Phys 159 Labs/Lab 07/Pasted image 20240313174810.png",
     "Phys 159 Labs/Lab 07/Pasted image 20240313175119.png",
@@ -202,10 +206,6 @@
     "Phys 159 Labs/Lab 04/Lab 04 Acoustic Waves.md",
     "Phys 159 Labs/Lab 04",
     "Phys 159 Labs",
-    "Math 152/triangular matrix.md",
-    "Math 152/diagonal matrix.md",
-    "Math 101/Separable Differential Equations.md",
-    "Math 101/Numerical Intergration.md",
     "Apsc 101",
     "Orbit",
     "Misc",

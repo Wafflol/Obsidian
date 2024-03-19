@@ -12,6 +12,7 @@
 	- Emphasis
 		- Cleft sentences beginning with *it*
 			- it was X that
+			- "it was julie who brought the cookies"
 		- End-weight principle beginning with *anticipatory-it*
 			- "it is generally accepted that X"
 - ![[Pasted image 20240318221906.png|567]]

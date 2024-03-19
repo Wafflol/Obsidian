@@ -10,3 +10,8 @@ Division:
 $$\frac{z_{1}}{z_{2}} = \frac{z_{1}}{z_{2}}* \frac{\bar{z_{2}}}{\bar{z_{2}}}$$
 Euler's formula:
 $$e^{it}= \cos t+ i\sin t$$
+
+##### Polar representation of complex numbers
+Fr any complex number $z = x+iy (\neq 0)$:
+$$z = \rho e^{i\theta}$$
+where $\rho = \sqrt{ x^2+y^2 }$

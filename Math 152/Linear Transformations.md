@@ -26,3 +26,25 @@ $$\vec{e_{1}} = 2\vec{x_{2}}-\vec{x_{1}}, \vec{e_{2}}=2\vec{x_{1}}-3\vec{x_{2}}$
 Because it is linear, $$T(\vec{e_{1}}) = 2T(\vec{x_{2}})-T(\vec{x_{1}})$$
 and the same for $T(\vec{e_{2}})$
 
+For any transformation: 
+$$T(\begin{bmatrix}
+3 \\
+2
+\end{bmatrix}) = \begin{bmatrix}
+1 \\
+1
+\end{bmatrix}$$
+$$T(\begin{bmatrix}
+2 \\
+1
+\end{bmatrix})=\begin{bmatrix}
+-1 \\
+2
+\end{bmatrix}$$
+$$T = \begin{bmatrix}
+1 & -1 \\
+1 & 2
+\end{bmatrix}\begin{bmatrix}
+3 & 2 \\
+2 & 1
+\end{bmatrix}^{-1}$$

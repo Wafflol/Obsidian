@@ -16,4 +16,4 @@ Evaluating the anti-derivative from the last question and subbing in $m$ for $n$
 $$\int_{0}^{\pi} \sin(mx)\sin(nx) \, dx =\begin{bmatrix}
 \frac{1}{m^2-n^2} (n\sin(mx)\cos(nx)-m\cos(mx)\sin(nx))
 \end{bmatrix}_{0}^\pi$$
-
+$$$$

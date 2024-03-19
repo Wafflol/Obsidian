@@ -37,5 +37,16 @@
 	- Modal expressions
 		- indicate lack of certainty or signal strong but not infallible conviction
 		- challenge established positions and suggest new/alternative perspectives
+	- Limiting expressions
+		- place limits on scope of statements 
+			- (e.g., almost, quite, usually, appears, in part, particularly, most, mostly, generally, at least, few, many, often, some, sometimes, somewhat, roughly, typically, perhaps, probably, possibly, etc.)
+		- Also mark obviousness of statements
+			- (e.g., surely, certainly, clearly, recognizably, undoubtedly, evidently, apparently, obviously, etc.)
+		- Two types of limiting expressions
+			1. Expressions with agent estimate a statement's applicability
+				- "he found that restrictive practices were **sometimes** evident"
+			2. Agentless measure the *position* to which a statement is applicable
+				- It is certain / clear / evident / apparent / obvious / etc.,” “of course,” “surprising”... to whom?)
+				- creates an impression of consensus
 
 - ![[Pasted image 20240318221906.png|567]]

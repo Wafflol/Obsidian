@@ -9,4 +9,3 @@ We want to cancel out the $\cos$ terms. Thus, they need to have equal and opposi
 $$K = n, D = -m$$
 $$nm\cos(mx)\cos(nx)-n^2\sin(mx)\sin(nx)-mn\cos(mx)\cos(nx)+m^2\sin(mx)\sin(nx)$$
 $$=(m^2-n^2)\sin(mx)\sin(nx)$$
-Thus, because 

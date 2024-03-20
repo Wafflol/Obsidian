@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "efa875967da484c7",
+            "id": "3ab5a76c7ff8a00f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 152/Complex Numbers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d697941c37c6fec6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math 101/work.md",
+                "file": "Math 101/Written 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 152/Complex Numbers.md",
+                "file": "Math 101/Written 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 152/Complex Numbers.md",
+                "file": "Math 101/Written 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 152/Complex Numbers.md"
+                "file": "Math 101/Written 3.md"
               }
             }
           },
@@ -177,15 +165,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6992ed5cb050747e",
+  "active": "3ab5a76c7ff8a00f",
   "lastOpenFiles": [
     "Math 101/work.md",
-    "conflict-files-obsidian-git.md",
+    "Math 152/Questions.md",
+    "Math 101/Written 3.md",
     "Math 152/Complex Numbers.md",
+    "conflict-files-obsidian-git.md",
     "English/Pasted image 20240318221906.png",
     "English/Notes for Discourse Analysis.md",
     "Math 152/Linearity.md",
-    "Math 101/Written 3.md",
     "Math 152/Eigenvectors and Eigenvalues.md",
     "Math 152/Trace.md",
     "Math 101/Study mats.md",
@@ -195,7 +184,6 @@
     "Math 152/Projection.md",
     "Math 152/Linear Transformations.md",
     "Math 152/Inverse Matrices.md",
-    "Math 152/Questions.md",
     "Math 152/Determinant.md",
     "Math 152/triangular matrix.md",
     "Math 152/Complex Poynomials.md",

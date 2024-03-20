@@ -23,3 +23,4 @@ $$= \frac{1}{2}(\pi)-\frac{\sin(2\pi m)}{2m}-\left( \frac{1}{2}(0)-\frac{\sin(0)
 As $m$ is a positive integer, and $\sin$ of any multiple of $2\pi$ is 0, we can see that the definite integral evaluates to $\frac{\pi}{2}$, and thus, $R=\frac{\pi}{2}$
 
 ##### c.
+Plugging $f(x)$ into the formula for $B_{n}(f)$, we get:

@@ -34,3 +34,6 @@ $$\frac{2}{\pi}* \frac{\pi}{2} * (72+101+108+108+111)$$
 $$=500$$
 Thus, $B_{n}(f) = 500$ for each integer $n \geq 1$
 ##### d.
+Since we know that for any integral $\int_{0}^{\pi} \sin(nx)\sin(mx) \, dx$, if $n\neq m$, then it evaluates to 0, then for an infinite series $f(x) = \sum_{k=1}^\infty b_{k}\sin(kx)$, $B_{k}f(x)$ at any specific $k$ would be equivalent to $\frac{2}{\pi}\int_{0}^{\pi} b_{k}\sin^2(kx) \, dx$. Thus, from the previous parts, we know that the integral evaluates to $b_{k}$. Therefore:
+$$b_{n} = \frac{2}{\pi}\int_{0}^{\pi} f(x)\sin(nx) \, dx $$
+for any $f(x) = \sum_{k=1}^\infty b_{k}\sin(kx)$.

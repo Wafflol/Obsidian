@@ -26,4 +26,11 @@ As $m$ is a positive integer, and $\sin$ of any multiple of $2\pi$ is 0, we can 
 Plugging $f(x)$ into the formula for $B_{n}(f)$, we get
 $$B_{k}(f)=\frac{2}{\pi} \int_{0}^{\pi} f(x)\sin(nx) \, dx $$
 $$=\frac{2}{\pi}\int_{0}^{\pi} (72\sin(x)+101\sin(2x)+108\sin(3x)+108\sin(4x)+111\sin(5x)) \sin(nx)\, dx $$
-From the previous part, we see that if $n \neq m$, then the integral is equal to 0.
+From the previous part, we see that if $n \neq m$, then the integral is equal to 0. Thus, we can split the previous integral into 5 integrals, where the coefficients of x match up in each sin:
+$$\frac{2}{\pi}\int_{0}^{\pi} 72\sin^2x +101\sin^2(2x)+108\sin^2(3x)+108\sin^2(4x)+111\sin^2(5x)\, dx $$
+Then, using the previous parts again, we know that the integral of each of the terms would be it's coefficient multiplied by $\frac{\pi}{2}$.
+Thus, $\frac{\pi}{2}$ will cancel out with $\frac{2}{\pi}$, and thus the integral simplifies like so:
+$$\frac{2}{\pi}* \frac{\pi}{2} * (72+101+108+108+111)$$
+$$=500$$
+Thus, $B_{n}(f) = 500$ for each integer $n \geq 1$
+##### d.

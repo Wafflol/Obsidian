@@ -26,4 +26,4 @@ As $m$ is a positive integer, and $\sin$ of any multiple of $2\pi$ is 0, we can 
 Plugging $f(x)$ into the formula for $B_{n}(f)$, we get
 $$B_{k}(f)=\frac{2}{\pi} \int_{0}^{\pi} f(x)\sin(nx) \, dx $$
 $$=\frac{2}{\pi}\int_{0}^{\pi} (72\sin(x)+101\sin(2x)+108\sin(3x)+108\sin(4x)+111\sin(5x)) \sin(nx)\, dx $$
-$$$$
+From the previous part, we see that if $n \neq m$, then the integral is equal to 0.

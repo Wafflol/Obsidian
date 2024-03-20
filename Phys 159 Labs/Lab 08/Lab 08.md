@@ -15,7 +15,7 @@ Partner: Ryan Mahinpey 39959770
 | --------------- | ------------------ | ---------- | ------------------- | ------- | --------------------------------------------- |
 | Plunger/syringe | Volume             |            |                     |         | To measure the volume of fluid in the syringe |
 | Caliper         | Length             | 0.05mm     | 0.025mm             | 0-155mm | To measure the length of objects              |
-|                 |                    |            |                     |         |                                               |
+| Scale           |                    |            |                     |         |                                               |
 The 
 
 3. **Relate Quantities**

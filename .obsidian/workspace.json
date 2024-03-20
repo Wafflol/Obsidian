@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 101/Written 3.md",
+                "file": "Phys 159 Labs/Lab 08/Lab 08.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b2a76b873dfc05ff",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 101/Written 3.md",
+                "file": "Phys 159 Labs/Lab 08/Lab 08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 101/Written 3.md",
+                "file": "Phys 159 Labs/Lab 08/Lab 08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 101/Written 3.md"
+                "file": "Phys 159 Labs/Lab 08/Lab 08.md"
               }
             }
           },
@@ -167,9 +166,15 @@
   },
   "active": "3ab5a76c7ff8a00f",
   "lastOpenFiles": [
+    "Phys 159 Labs/Lab 05/Lab 05.md",
+    "Phys 159 Labs/Lab 04/Lab 04 Acoustic Waves.md",
+    "Phys 159 Labs/Lab 08/Lab 08.md",
+    "Phys 159 Labs/Lab Template.md",
+    "Phys 159 Labs/Lab 08",
+    "Phys 159 Labs/Lab 07/Pasted image 20240313182712.png",
+    "Math 101/Written 3.md",
     "Math 101/work.md",
     "Math 152/Questions.md",
-    "Math 101/Written 3.md",
     "Math 152/Complex Numbers.md",
     "conflict-files-obsidian-git.md",
     "English/Pasted image 20240318221906.png",
@@ -189,16 +194,12 @@
     "Math 152/Complex Poynomials.md",
     "Phys 159 Labs/Lab 06/Lab 06.md",
     "Phys 159 Labs/Lab 07/Lab 07.md",
-    "Phys 159 Labs/Lab 07/Pasted image 20240313182712.png",
-    "Phys 159 Labs/Lab 05/Lab 05.md",
-    "Phys 159 Labs/Lab 04/Lab 04 Acoustic Waves.md",
     "Phys 159 Labs/Lab 07/Pasted image 20240313175245.png",
     "Phys 159 Labs/Lab 07/Pasted image 20240313175119.png",
     "Phys 159 Labs/Lab 07/Pasted image 20240313174810.png",
     "Phys 159 Labs/Lab 07/Pasted image 20240313174737.png",
     "Phys 159 Labs/Lab 07/Pasted image 20240313174553.png",
     "Math 101/Trig Sub.md",
-    "Math 101/Written 2.md",
     "Math 101/Pasted image 20240130112741.png",
     "Phys 159 Labs/Lab 07",
     "Math 152/Pasted image 20240311121450.png",
@@ -211,7 +212,6 @@
     "Orbit",
     "English",
     "Misc",
-    "Untitled.canvas",
-    "Phys 170"
+    "Untitled.canvas"
   ]
 }

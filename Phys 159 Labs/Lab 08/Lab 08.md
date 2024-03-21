@@ -67,7 +67,7 @@ We also have a vice to hold the parts together
 	Note: Before we do our procedures, we need to find/calibrate the ratio of the mass reading on the scale to the actual mass hanging on the syringe. To do so, we measured the mass of the masses by the mass reading from the pin on the halfway point on the lever. Finding the average of 4 readings gives us a good estimate of the mass ratio. From our average, we got that the ratio was $r = \frac{5}{9}$
 
 	One possible procedure:
-	We can attach 3 masses to the syringe to 
+	We can attach 3 masses to the syringe, and then we can measure the volume that the syringe stretches to. Tabulating this data with the mass of the weights:
 	
 | **mass  ($g \pm 0.5g$)** | V ($mL \pm 0.1mL$) |
 | ------------------------ | ------------------ |
@@ -77,12 +77,12 @@ We also have a vice to hold the parts together
 | 2791                     | 6.9                |
 Mass was measured, multiplied by 9.81 then divided by 1000 to find force, then scaled by the calibration factor found earlier.
 
-| $F_{ext} (N \pm 0.1N$) | $\frac{1}{V}L \pm 0.0005 mL$ |
-| ---------------------- | ---------------------------- |
-| 0                      | 500.0                        |
-| 9.2                    | 322.8                        |
-| 10.8                   | 285.7                        |
-| 15.2                   | 144.9                        |
+| $F_{ext} (N \pm 0.1N$) | $\frac{1}{V}L \pm 0.0005 L$ |
+| ---------------------- | --------------------------- |
+| 0                      | 500.0                       |
+| 9.2                    | 322.8                       |
+| 10.8                   | 285.7                       |
+| 15.2                   | 144.9                       |
 Graphing this in matlab, we can get the slope $m$ and the intercept $b$:
 ![[Pasted image 20240320182720.png]]
 $$m = -0.0433 \pm 0.0005 N*L$$
@@ -91,9 +91,35 @@ Thus, solving for the molar density and atmospheric pressure:
 Note: diameter = $14 \pm 0.03 mm$, temp = $296.55 \pm 0.05  K$, original volume is $2mL \pm 0.1 mL$
 Note: we also converted the units to SI units in calculation:
 $$d = 57\pm 1 \frac{mol}{m^3}$$
-$$$$
+$$P_{atm} = 150kPa \pm 3.0*10 kPa$$
 
 Another possible procedure:
+For this procedure, we will repeat the same procedure as before, except instead of using the masses, we will use our hands to pull down on the syringe:
+
+| **mass  ($g \pm 0.5g$)** | V ($mL \pm 0.1mL$) |
+| ------------------------ | ------------------ |
+| 0                        | 6                  |
+| 1600 $\pm 100g$          | 4                  |
+| 1500 $\pm 50g$           | 3                  |
+| 4500 $\pm 100g$          | 2                  |
+The uncertainties were found by taking the range of values on the scale. This is appropriate because there are huge fluctuations.
+
+Forces were found in the same manner as before
+
+| $F_{ext} (N \pm 0.1N$) | $\frac{1}{V}L \pm 0.0005 L$ |
+| ---------------------- | --------------------------- |
+| 0                      | 166.6                       |
+| 8.72 $\pm 2N$          | 250                         |
+| 9.175 $\pm 2N$         | 333.3                       |
+| 24.825 $\pm 2N$        | 500                         |
+The uncertainties for $F_{ext}$ were decided to be increased due to the fact that there were rapid fluctuations in our measurements. It was standardised to the highest uncertainty value we found.
+
+Calculations are the same as procedure 1:
+![[Pasted image 20240320185834.png]]
+$$m = 0.072 \pm 0.007 N*L$$
+$$b = -12 \pm 1 N*L$$
+$$$$
+
 
 The two procedures differ in that
 

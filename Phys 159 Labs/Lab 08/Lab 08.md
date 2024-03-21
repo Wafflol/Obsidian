@@ -53,10 +53,10 @@ We also have a vice to hold the parts together
 	Thus, $$P_{atm} = \frac{b}{-A}$$
 
 
-	To find the molar density of the air, we can use the slope $m$, and divide it by $ART$, which gives us $n$. Then, we can divide $n$ by the original volume $V$, which gives us molar density, $d$:
+	To find the molar density of the air, we can use the slope $m$, and divide it by $ART$, which gives us $n$. Then, we can divide $n$ by the original volume $V$, which gives us molar density, $d$: NOTE: we added a negative to the density because slope s=will be negative
 	$$d = \frac{n}{V}$$
 	$$n = \frac{m}{ART}$$
-	$$d = \frac{m}{VART}$$
+	$$d = -\frac{m}{VART}$$
 	We need to find the uncertainty equations for $P_{atm}$ and $d$:
 	They can be found using the general uncertainty equations:
 	
@@ -89,7 +89,9 @@ $$m = -0.0433 \pm 0.0005 N*L$$
 $$b = 22.4 \pm 0.2 N*L$$
 Thus, solving for the molar density and atmospheric pressure:
 Note: diameter = $14 \pm 0.03 mm$, temp = $296.55 \pm 0.05  K$, original volume is $2mL \pm 0.1 mL$
-
+Note: we also converted the units to SI units in calculation:
+$$d = 57\pm 1 \frac{mol}{m^3}$$
+$$$$
 
 Another possible procedure:
 

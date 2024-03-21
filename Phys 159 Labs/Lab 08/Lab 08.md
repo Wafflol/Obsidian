@@ -16,7 +16,12 @@ Partner: Ryan Mahinpey 39959770
 | Plunger/syringe | Volume             | 0.2 mL     | 0.1 mL              | 0-10mL  | To measure the volume of fluid in the syringe |
 | Caliper         | Length             | 0.05mm     | 0.025mm             | 0-155mm | To measure the length of objects              |
 | Scale           | Mass               | 1g         | 0.5g                | 0kg-5Kg | To measure the mass of objects                |
+| Meter stick     | Length             | 0.1cm      | 0.05cm              | 0-100cm | To measure longer lengths of objects          |
 We also have lever and fulcrum, as well as a pin that goes through the lever
+We also have a vice to hold the parts together
+![[Pasted image 20240320171348.png|150]]![[Pasted image 20240320171408.png|200]]![[Pasted image 20240320171428.png|170]]
+![[Pasted image 20240320171450.png|200]]![[Pasted image 20240320171516.png|200]]
+
 
 3. **Relate Quantities**
 	- Things we can measure

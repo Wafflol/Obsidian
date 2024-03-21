@@ -91,7 +91,7 @@ Thus, solving for the molar density and atmospheric pressure:
 Note: diameter = $14 \pm 0.03 mm$, temp = $296.55 \pm 0.05  K$, original volume is $2mL \pm 0.1 mL$
 Note: we also converted the units to SI units in calculation:
 $$d = 57\pm 1 \frac{mol}{m^3}$$
-$$P_{atm} = 150kPa \pm 3.0*10 kPa$$
+$$P_{atm} = 150kPa \pm 1.0*10 kPa$$
 
 Another possible procedure:
 For this procedure, we will repeat the same procedure as before, except instead of using the masses, we will use our hands to pull down on the syringe:
@@ -118,15 +118,26 @@ Calculations are the same as procedure 1:
 ![[Pasted image 20240320185834.png]]
 $$m = 0.072 \pm 0.007 N*L$$
 $$b = -12 \pm 1 N*L$$
-$$$$
-
-
-The two procedures differ in that
+$$d = 9.0*10 \pm 2.0 * 10 \frac{mol}{m^3}$$
+$$P_{atm} = 8.0*10 \pm 2.0 * 10 kPa$$
+The two procedures differ in that one uses weights to change the force applied, while the other uses our hands to change the force applied. The first procedure is much more accurate and has a lower uncertainty, so we chose the first one.
 
 
 5. **Procedure**
-Tools used:
-- procedure
-Add pictures of procedure
-	**Reflection**:
-		
+Tools used: Lever, fulcrum, support, pin, scale, calilper, syringe, weights
+- First, set up the apparatus like shown in the picture: (make sure to plug up the syringe)
+- ![[Pasted image 20240320190951.png|400]] 
+- Then, use three weights to find the calibration factor:
+	- attach the weights one by one onto the syringe
+	- measure the reading from the scale each time
+	- also record the masses of each weight
+	- then divide the mass of the weights by the reading when they were on the syringe to get a ratio of the masses, and take their average
+- attach an assortment of masses to the syringe and measure the volume of the syringe for each mass
+- convert the mass to force, and then graph it against 1/volume in matlab
+- use matlab to find the slope and y-intercept
+- use the equations above to find the values and the uncertainties
+**Reflection**:
+Overall, neither of our values agreed with the accepted/expected values for the density and pressure. Although, the values we got for the first procedure were a little more accurate than the second procedure. 
+For the calculations, we assume the process is isothermal, but in reality, there should be a bit of a change in temperature when the gas expands/compresses.
+We also assume that friction is negligible, which it isn't. 
+The uncertainty of our measurement for pressure was very high, which we think could be due to a calculation error, which is pretty easy to fix.

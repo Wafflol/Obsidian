@@ -24,9 +24,12 @@ We also have a vice to hold the parts together
 
 
 3. **Relate Quantities**
-	- Things we can measure
-		- *replace with measurements ex. length of string*
-	We can measure *replace with measurable dimension*
+	- what we can measure
+		- volume in syringe
+		- force on scale from pin
+		- mass of weights
+		- distance from fulcrum to pin and syringe
+	
 	*State all variables and what they mean*
 	*derive equation*
 	*derive uncertainties*

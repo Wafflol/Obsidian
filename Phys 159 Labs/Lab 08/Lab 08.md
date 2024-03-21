@@ -14,7 +14,7 @@ Partner: Ryan Mahinpey 39959770
 | Tool            | Physical Parameter | Resolution      | Reading Uncertainty | Range   | Usage                                         |
 | --------------- | ------------------ | --------------- | ------------------- | ------- | --------------------------------------------- |
 | Plunger/syringe | Volume             | 0.2 mL          | 0.1 mL              | 0-10mL  | To measure the volume of fluid in the syringe |
-| Caliper         | Length             | 0.05mm          | 0.025mm             | 0-155mm | To measure the length of objects              |
+| Caliper         | Length             | 0.05mm          | 0.03mm              | 0-155mm | To measure the length of objects              |
 | Scale           | Mass               | 1g              | 0.5g                | 0kg-5Kg | To measure the mass of objects                |
 | Meter stick     | Length             | 0.1cm           | 0.05cm              | 0-100cm | To measure longer lengths of objects          |
 | Thermostat      | Temperature        | 0.1 $\degree C$ | 0.05$\degree C$     |         | To measure the temperature of the room        |
@@ -83,6 +83,12 @@ Mass was measured, multiplied by 9.81 then divided by 1000 to find force, then s
 | 9.2                    | 322.8                        |
 | 10.8                   | 285.7                        |
 | 15.2                   | 144.9                        |
+Graphing this in matlab, we can get the slope $m$ and the intercept $b$:
+![[Pasted image 20240320182720.png]]
+$$m = -0.0433 \pm 0.0005 N*L$$
+$$b = 22.4 \pm 0.2 N*L$$
+Thus, solving for the molar density and atmospheric pressure:
+Note: diameter = $14 \pm 0.03 mm$, temp = $296.55 \pm 0.05  K$, original volume is $2mL \pm 0.1 mL$
 
 
 Another possible procedure:

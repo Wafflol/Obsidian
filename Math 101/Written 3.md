@@ -42,6 +42,13 @@ From the previous part, we see that if $n\neq m$, then the integral is equal to 
 $$B_{1}(f) = \frac{2}{\pi}\int_{0}^{\pi} 72\sin^2x \, dx  $$
 And from previous parts, we know that this integral will evaluate to 72. 
 Thus, we can see that for $n = 2$,  the same thing will happen for the next term. And we can see that if $n> 5$, then the integral will evaluate to 0. 
+Thus, we can get $B_{n}(f)$ for all $n \geq 1$:
+$$B_{1}(f)=72$$
+$$B_{2}(f)=101$$
+$$B_{3}(f)=108$$
+$$B_{4}(f)=108$$
+$$B_{5}(f)=111$$
+And for any $n>5$, $$B_{n}(f)=0$$
 ##### d.
 Since we know that for any integral $\int_{0}^{\pi} \sin(nx)\sin(mx) \, dx$, if $n\neq m$, then it evaluates to 0, then for an infinite series $f(x) = \sum_{k=1}^\infty b_{k}\sin(kx)$, $B_{k}f(x)$ at any specific $k$ would be equivalent to $\frac{2}{\pi}\int_{0}^{\pi} b_{k}\sin^2(kx) \, dx$. Thus, from the previous parts, we know that the integral evaluates to $b_{k}$. Therefore:
 $$b_{n} = \frac{2}{\pi}\int_{0}^{\pi} f(x)\sin(nx) \, dx $$

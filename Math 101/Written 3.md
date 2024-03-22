@@ -33,6 +33,15 @@ Thus, $\frac{\pi}{2}$ will cancel out with $\frac{2}{\pi}$, and thus the integra
 $$\frac{2}{\pi}* \frac{\pi}{2} * (72+101+108+108+111)$$
 $$=500$$
 Thus, $B_{n}(f) = 500$ for each integer $n \geq 1$
+
+##### c. revised
+Plugging f(x) into the formula for $B_{n}(f)$, we get
+$$B_{k}(f)=\frac{2}{\pi}\int_{0}^{\pi} f(x)\sin(nx) \, dx $$
+$$=\frac{2}{\pi}\int_{0}^{\pi} (72\sin(x)+101\sin(2x)+108\sin(3x)+108\sin(4x)+111\sin(5x)) \sin(nx)\, dx $$
+From the previous part, we see that if $n\neq m$, then the integral is equal to 0. Thus, we know that at $n = 1$, all the terms except for the term with $72\sin(x)$ go to 0, giving us:
+$$B_{1}(f) = \frac{2}{\pi}\int_{0}^{\pi} 72\sin^2x \, dx  $$
+And from previous parts, we know that this integral will evaluate to 72. 
+Thus, we can see that for $n = 2$,  the same thing will happen for the next term. And we can see that if $n> 5$, then the integral will evaluate to 0. 
 ##### d.
 Since we know that for any integral $\int_{0}^{\pi} \sin(nx)\sin(mx) \, dx$, if $n\neq m$, then it evaluates to 0, then for an infinite series $f(x) = \sum_{k=1}^\infty b_{k}\sin(kx)$, $B_{k}f(x)$ at any specific $k$ would be equivalent to $\frac{2}{\pi}\int_{0}^{\pi} b_{k}\sin^2(kx) \, dx$. Thus, from the previous parts, we know that the integral evaluates to $b_{k}$. Therefore:
 $$b_{n} = \frac{2}{\pi}\int_{0}^{\pi} f(x)\sin(nx) \, dx $$

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 152/Complex Numbers.md",
+                "file": "Math 101/Written 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 152/Complex Numbers.md",
+                "file": "Math 101/Written 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 152/Complex Numbers.md",
+                "file": "Math 101/Written 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 152/Complex Numbers.md"
+                "file": "Math 101/Written 3.md"
               }
             }
           },
@@ -178,6 +178,7 @@
   },
   "active": "3ab5a76c7ff8a00f",
   "lastOpenFiles": [
+    "Math 152/Complex Numbers.md",
     "Math 101/Written 3.md",
     "Phys 159 Labs/Lab 08/Lab 08.md",
     "Phys 159 Labs/Lab 06/Lab 06.md",
@@ -199,7 +200,6 @@
     "Phys 159 Labs/Lab 08",
     "Math 101/work.md",
     "Math 152/Questions.md",
-    "Math 152/Complex Numbers.md",
     "conflict-files-obsidian-git.md",
     "English/Notes for Discourse Analysis.md",
     "Math 152/Linearity.md",

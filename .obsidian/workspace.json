@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phys 159 Labs/Lab 06/Lab 06.md",
+                "file": "Math 101/work.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b2a76b873dfc05ff",
@@ -97,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 152/Complex Numbers.md",
+                "file": "Math 101/work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 152/Complex Numbers.md",
+                "file": "Math 101/work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 152/Complex Numbers.md"
+                "file": "Math 101/work.md"
               }
             }
           },
@@ -176,12 +178,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3ab5a76c7ff8a00f",
+  "active": "5cca050e1b8a9655",
   "lastOpenFiles": [
     "Math 101/Written 3.md",
+    "Phys 159 Labs/Lab 06/Lab 06.md",
     "Math 152/Complex Numbers.md",
     "Phys 159 Labs/Lab 08/Lab 08.md",
-    "Phys 159 Labs/Lab 06/Lab 06.md",
     "Phys 159 Labs/Lab 08/Pasted image 20240320190951.png",
     "Phys 159 Labs/Lab 08/Pasted image 20240320185834.png",
     "Phys 159 Labs/Lab 08/Pasted image 20240320182720.png",

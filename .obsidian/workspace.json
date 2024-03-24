@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "12422789d8305189",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b9f87a7f482faa29",
             "type": "leaf",
             "state": {
@@ -41,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 101/work.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 101/work.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 101/work.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -173,8 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,45 +199,47 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0d5194adce3a1a53",
+  "active": "12422789d8305189",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Math 101/work.md",
+    "Phys 159 Labs/Lab 08/Untitled.md",
+    "Phys 159 Labs/Lab 08/Pasted image 20240320190951.png",
+    "Phys 159 Labs/Lab 08/Pasted image 20240320185834.png",
+    "Phys 159 Labs/Lab 08/Pasted image 20240320182720.png",
+    "Phys 159 Labs/Lab 08/Pasted image 20240320174014.png",
+    "Phys 159 Labs/Lab 08/Pasted image 20240320173704.png",
+    "Phys 159 Labs/Lab 08/Pasted image 20240320171516.png",
+    "Phys 159 Labs/Lab 08/Pasted image 20240320171450.png",
+    "Phys 159 Labs/Lab 08/Pasted image 20240320171428.png",
+    "Phys 159 Labs/Lab 08/Pasted image 20240320171408.png",
+    "Phys 159 Labs/Lab 08/Pasted image 20240320171348.png",
+    "Phys 159 Labs/Lab 08/Lab 08.md",
+    "Phys 159 Labs/Lab 08",
     "Math 101/Written 2.md",
     "English/Notes for hw.md",
     "English/Notes for Discourse Analysis.md",
-    "English/Pasted image 20240318221906.png",
     "Math 101/Written 3.md",
     "Math 152/Linear Transformations.md",
-    "conflict-files-obsidian-git.md",
     "Math 152/Trace.md",
     "Math 152/Eigenvectors and Eigenvalues.md",
     "Math 152/Complex Poynomials.md",
     "workspace.json.md",
-    "Phys 159 Labs/Lab 07/Pasted image 20240313182712.png",
-    "Phys 159 Labs/Lab 07/Pasted image 20240313174810.png",
-    "Phys 159 Labs/Lab 07/Pasted image 20240313175119.png",
-    "Phys 159 Labs/Lab 07/Pasted image 20240313175245.png",
-    "Phys 159 Labs/Lab 07/Pasted image 20240313174737.png",
-    "Phys 159 Labs/Lab 07/Pasted image 20240313174553.png",
     "Phys 159 Labs/Lab 07/Lab 07.md",
     "Phys 159 Labs/Lab 07",
-    "Math 152/Pasted image 20240311121450.png",
     "Math 152/Complex Numbers.md",
     "Math 101/Study mats.md",
     "Math 101/Probability Density Functions.md",
     "Math 152/Inverse Matrices.md",
     "inversse.md",
-    "Phys 159 Labs/Lab 06/Pasted image 20240306191606.png",
-    "Phys 159 Labs/Lab 06/Pasted image 20240306191135.png",
     "Phys 159 Labs/Lab 06/Lab 06.md",
     "Phys 159 Labs/Lab 06",
     "Math 152/Markov Process.md",
     "Math 152/2393-24.md",
     "Math 152/work.md",
     "Project ideas.md",
-    "Math 101/work.md",
     "Math 152/Composition of linear transformations.md",
     "Math 101/asdf.md",
-    "Phys 159 Labs/Lab 05/Lab 05.md",
     "Phys 159 Labs/Lab 05",
     "Phys 159 Labs/Lab 04",
     "Phys 159 Labs",
@@ -233,7 +247,6 @@
     "Orbit",
     "Misc",
     "English",
-    "Untitled.canvas",
-    "Phys 170"
+    "Untitled.canvas"
   ]
 }

@@ -18,43 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "12422789d8305189",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9f87a7f482faa29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Notes for Discourse Analysis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7095c7dddc379e4b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Math 101/work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Math 101/work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Math 101/work.md"
               }
             }
           },
@@ -199,10 +164,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "12422789d8305189",
+  "active": "0d5194adce3a1a53",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "English/Notes for Discourse Analysis.md",
     "Math 101/work.md",
+    "conflict-files-obsidian-git.md",
     "Phys 159 Labs/Lab 08/Untitled.md",
     "Phys 159 Labs/Lab 08/Pasted image 20240320190951.png",
     "Phys 159 Labs/Lab 08/Pasted image 20240320185834.png",
@@ -218,7 +184,6 @@
     "Phys 159 Labs/Lab 08",
     "Math 101/Written 2.md",
     "English/Notes for hw.md",
-    "English/Notes for Discourse Analysis.md",
     "Math 101/Written 3.md",
     "Math 152/Linear Transformations.md",
     "Math 152/Trace.md",

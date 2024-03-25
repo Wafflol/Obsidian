@@ -19,5 +19,5 @@ $$(\lambda-\lambda_{1})(\lambda-\lambda_{2})=0$$
 $$Tr = \lambda_{1}+\lambda_{2}$$
 $$Det = \lambda_{1}\lambda_{2}$$
 
-Thus, for any $2\times 2$ matrix, the characteristic equation (polynomial) is:
+Thus, for any $2\times 2$ matrix, the [[Characteristic equation]] (polynomial) is:
 $$\lambda^2-Tr\lambda+Det=0$$

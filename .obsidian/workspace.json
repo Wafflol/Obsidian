@@ -4,46 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "49b492095b64a4a9",
+        "id": "176008eb991cb777",
         "type": "tabs",
         "children": [
           {
-            "id": "b0e967a8e0017ef0",
+            "id": "33331d0a25705daf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 152/Eigenvectors and Eigenvalues.md",
+                "file": "Math 101/FTC 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ba5860203193e864",
+            "id": "67a48875d6af2c8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 152/Kernel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04d8604c28aa419a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math 152/Characteristic equation.md",
+                "file": "Math 101/Comparison test.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 152/Eigenvectors and Eigenvalues.md",
+                "file": "Math 101/Comparison test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 152/Eigenvectors and Eigenvalues.md",
+                "file": "Math 101/Comparison test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 152/Eigenvectors and Eigenvalues.md"
+                "file": "Math 101/Comparison test.md"
               }
             }
           },
@@ -188,11 +177,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b0e967a8e0017ef0",
+  "active": "67a48875d6af2c8e",
   "lastOpenFiles": [
+    "Math 101/FTC 1.md",
+    "Math 101/Comparison test.md",
+    "Math 101/asdf.md",
+    "Math 101/Definite Integral.md",
+    "Math 152/Characteristic equation.md",
     "Math 152/Kernel.md",
     "Math 152/Eigenvectors and Eigenvalues.md",
-    "Math 152/Characteristic equation.md",
     "Math 152/Complex Numbers.md",
     "Math 101/work.md",
     "Math 101/Written 3.md",
@@ -223,10 +216,6 @@
     "Math 152/MT2.md",
     "Math 152/MT1Prac.md",
     "Math 152/Lines in vector form.md",
-    "Math 152/Projection.md",
-    "Math 152/Linear Transformations.md",
-    "Math 152/Inverse Matrices.md",
-    "Math 152/Determinant.md",
     "Phys 159 Labs/Lab 07",
     "Phys 159 Labs/Lab 06",
     "Phys 159 Labs/Lab 05",

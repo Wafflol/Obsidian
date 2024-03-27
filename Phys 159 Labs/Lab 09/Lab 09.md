@@ -30,7 +30,6 @@ Tools used: Lever, fulcrum, support, pin, scale, calilper, syringe, weights, vic
 - use the equations above to find the values and the uncertainties
 
 These are the equations we derived from Lab 08:
-$$\sqrt{ 2.46740101609369 \delta d^{2} d^{2} }$$
 $$P_{atm} = \frac{b}{-A}$$
 $$d = -\frac{m}{VART}$$
 $$\delta d = \frac{1}{RA^2T^2V^2}\sqrt{ A^{2} T^{2} V^{2} \delta m^{2} + A^{2} T^{2} \delta V^{2} m^{2} + A^{2} V^{2} \delta T^{2} m^{2} + T^{2} V^{2} \delta A^{2} m^{2} }$$

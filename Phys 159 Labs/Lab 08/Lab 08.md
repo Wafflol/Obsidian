@@ -75,6 +75,7 @@ We also have a vice to hold the parts together
 | 1685                     | 3.1                |
 | 1896                     | 3.5                |
 | 2791                     | 6.9                |
+|                          |                    |
 Mass was measured, multiplied by 9.81 then divided by 1000 to find force, then scaled by the calibration factor found earlier.
 
 | $F_{ext} (N \pm 0.1N$) | $\frac{1}{V}L \pm 0.0005 L$ |

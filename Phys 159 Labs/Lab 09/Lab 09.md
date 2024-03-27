@@ -34,3 +34,29 @@ $$P_{atm} = \frac{b}{-A}$$
 $$d = -\frac{m}{VART}$$
 $$\delta d = \frac{1}{RA^2T^2V^2}\sqrt{ A^{2} T^{2} V^{2} \delta m^{2} + A^{2} T^{2} \delta V^{2} m^{2} + A^{2} V^{2} \delta T^{2} m^{2} + T^{2} V^{2} \delta A^{2} m^{2} }$$
 $$\delta P_{atm} = \sqrt{ \frac{A^{2} \delta b^{2} + \delta A^{2} b^{2}}{A^{4}} }$$
+Tools used:
+
+![[Pasted image 20240320171348.png|150]]![[Pasted image 20240320171408.png|200]]![[Pasted image 20240320171428.png|170]]
+![[Pasted image 20240320171450.png|200]]![[Pasted image 20240320171516.png|200]]![[Pasted image 20240320174014.png|200]]
+FBD for the syringe:
+![[Pasted image 20240320173704.png|269]]
+
+
+**Experiment:**
+Calibration factor table:
+Note: while measuring the masses for the calibration factor, we measured the masses of the weights first, and then without changing the position of anything, we added the weights one by one to make sure the changing position of the pin wouldn't matter like it did in lab 08
+
+| Mass (g $\pm 0.5g$) | Measured "Mass" (g $\pm 0.5g$) |
+| ------------------- | ------------------------------ |
+| 200                 | 377                            |
+| 400                 | 751                            |
+| 600                 | 1125                           |
+Calibration factor (average of mass/measured mass): 0.532
+
+
+| **mass  ($g \pm 0.5g$)** | V ($mL \pm 0.1mL$) |
+| ------------------------ | ------------------ |
+| 0                        | 2                  |
+| 1685                     | 3.1                |
+| 1896                     | 3.5                |
+| 2791                     | 6.9                |

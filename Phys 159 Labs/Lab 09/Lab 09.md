@@ -9,10 +9,13 @@ Partner: Ryan Mahinpey 39959770
 - thus, the units for molar density is mol/volume
 
 
-5. **Procedure**
-Tools used: Lever, fulcrum, support, pin, scale, calilper, syringe, weights
+**Procedure**
+Tools used: Lever, fulcrum, support, pin, scale, calilper, syringe, weights, vice
 - First, set up the apparatus like shown in the picture: (make sure to plug up the syringe)
 - ![[Pasted image 20240320190951.png|400]] 
+	- Attach the lever to the base of the arm, and fix it to the table using the vice
+	- attach the pin to the center of the arm, and rest it onto the scale
+	- attach the syringe to the end of the arm, and then plug it up using the stopper
 - Then, use three weights to find the calibration factor:
 	- attach the weights one by one onto the syringe
 	- measure the reading from the scale each time

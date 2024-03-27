@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Phys 159 Labs/Lab 08/Lab 08.md",
+                "file": "Phys 159 Labs/Lab 09/Lab 09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Phys 159 Labs/Lab 08/Lab 08.md",
+                "file": "Phys 159 Labs/Lab 09/Lab 09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Phys 159 Labs/Lab 08/Lab 08.md"
+                "file": "Phys 159 Labs/Lab 09/Lab 09.md"
               }
             }
           },
@@ -189,10 +188,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f8bd4dbd09dad7b7",
+  "active": "d373bd307b0a79d9",
   "lastOpenFiles": [
-    "Phys 159 Labs/Lab 09/Lab 09.md",
     "Phys 159 Labs/Lab 08/Lab 08.md",
+    "Phys 159 Labs/Lab 09/Lab 09.md",
     "Phys 159 Labs/Lab 07/Lab 07.md",
     "Math 152/Trace.md",
     "Untitled.md",

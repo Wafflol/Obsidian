@@ -68,9 +68,11 @@ Thus, to find the force of friction, we first measure the weight of the syringe 
 From our calculations, we get $P_{2} = 87 \pm 3$ kPa
 Thus, using this equation:
 $$F_{f} = A\nabla P - mg$$
-We get that friction is equal to 
+$$\delta F_{f} = \sqrt{ A^{2} \delta \nabla P^{2} + \nabla P^{2} \delta A^{2} + \delta m^{2} g^{2} }$$
+We get that friction is $F_{f} = 2.0 \pm 0.5 N$
 
 Onto the actual procedure:
+Using our procedure above, we took the measurements as we did last lab:
 
 | **mass  ($g \pm 0.5g$)** | V ($mL \pm 0.1mL$) |
 | ------------------------ | ------------------ |
@@ -80,3 +82,22 @@ Onto the actual procedure:
 | 1498                     | 6.4                |
 | 1872                     | 8                  |
 | 2229                     | 10.2               |
+
+| $F_{ext} (N \pm 0.1N$) | $\frac{1}{V}L \pm 0.0005 L$ |
+| ---------------------- | --------------------------- |
+| 0                      | 250.000                     |
+| 3.6                    | 208.330                     |
+| 6.2                    | 181.810                     |
+| 7.8                    | 156.250                     |
+| 0.7                    | 125.000                     |
+| 11.6                   | 98.039                      |
+Subtracting friction, we get the new table:
+
+| $F_{ext} (N \pm 0.5N$) | $\frac{1}{V}L \pm 0.0005 L$ |
+| ---------------------- | --------------------------- |
+| -2                     | 250.000                     |
+| 1.6                    | 208.330                     |
+| 4.2                    | 181.810                     |
+| 5.8                    | 156.250                     |
+| 7.7                    | 125.000                     |
+| 9.6                    | 98.039                      |

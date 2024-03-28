@@ -101,3 +101,5 @@ Subtracting friction, we get the new table:
 | 5.8                    | 156.250                     |
 | 7.7                    | 125.000                     |
 | 9.6                    | 98.039                      |
+
+From matlab, we got that the 

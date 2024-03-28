@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Phys 159 Labs/Lab 08/Lab 08.md",
+                "file": "Phys 159 Labs/Lab 09/Lab 09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Phys 159 Labs/Lab 08/Lab 08.md",
+                "file": "Phys 159 Labs/Lab 09/Lab 09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Phys 159 Labs/Lab 08/Lab 08.md"
+                "file": "Phys 159 Labs/Lab 09/Lab 09.md"
               }
             }
           },
@@ -190,11 +189,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f8bd4dbd09dad7b7",
+  "active": "d373bd307b0a79d9",
   "lastOpenFiles": [
-    "Phys 159 Labs/Lab 09/Lab 09.md",
-    "Phys 159 Labs/Lab 08/Lab 08.md",
     "Phys 159 Labs/Lab 07/Lab 07.md",
+    "Phys 159 Labs/Lab 08/Lab 08.md",
+    "Phys 159 Labs/Lab 09/Lab 09.md",
+    "Phys 159 Labs/Lab 09/Pasted image 20240327183522.png",
+    "Phys 159 Labs/Lab 09/Pasted image 20240327183455.png",
+    "Phys 159 Labs/Lab 09/Pasted image 20240327183218.png",
+    "Phys 159 Labs/Lab 09/Pasted image 20240327183216.png",
+    "Phys 159 Labs/Lab 09/Pasted image 20240327182850.png",
     "Math 152/Trace.md",
     "Untitled.md",
     "Phys 159 Labs/Lab Template.md",
@@ -218,18 +222,12 @@
     "Phys 159 Labs/Lab 08/Untitled.md",
     "Phys 159 Labs/Lab 08/Pasted image 20240320174014.png",
     "Phys 159 Labs/Lab 08/Pasted image 20240320173704.png",
-    "Phys 159 Labs/Lab 08/Pasted image 20240320171516.png",
-    "Phys 159 Labs/Lab 08/Pasted image 20240320171450.png",
-    "Phys 159 Labs/Lab 08/Pasted image 20240320171428.png",
-    "Phys 159 Labs/Lab 08/Pasted image 20240320171408.png",
-    "Phys 159 Labs/Lab 08/Pasted image 20240320171348.png",
     "Phys 159 Labs/Lab 04/Lab 04 Acoustic Waves.md",
     "Phys 159 Labs/Lab 08",
     "Math 152/Questions.md",
     "conflict-files-obsidian-git.md",
     "English/Notes for Discourse Analysis.md",
     "Math 152/Linearity.md",
-    "Math 101/Study mats.md",
     "Phys 159 Labs/Lab 07",
     "Phys 159 Labs/Lab 06",
     "Phys 159 Labs/Lab 05",

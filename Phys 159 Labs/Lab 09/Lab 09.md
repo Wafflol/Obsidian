@@ -55,10 +55,21 @@ Calibration factor (average of mass/measured mass): $0.532 \pm 0.006$
 
 Note: for this lab, to improve our precision, we decided to start using a higher volume. (Justification in conclusion)
 
+**Finding the force of friction**
+Mass of piston: $12\pm 0.5g$
+$$F_{f}=F_{atm}-W$$
+Starting volume = $4 \pm 0.1 mL$
+Starting pressure = $100.5 kPa$
+Final volume = $5 \pm 0.1 mL$
+
+Explanation for finding force of friction:
+We know that the force of static friction should always be the same, as it is based on the normal force, which comes from the expansion of the rubber. Thus, to get a better graph, we should subtract the force of friction from our final graph to account for it.
+Thus, to find the force of friction, we first measure the weight of the syringe handle, and plug the syringe up at 4 mL. Then, we pull down on the syringe, and let it go back up. The syringe stops at a different volume than its starting position due to static friction. Using the ideal gas law, we get that $$P_{1}V_{1}=P_{2}V_{2}$$
+From our calculations, we get $P_{2} = 80 \pm $
+
 | **mass  ($g \pm 0.5g$)** | V ($mL \pm 0.1mL$) |
 | ------------------------ | ------------------ |
 | 0                        | 2                  |
 | 1685                     | 3.1                |
 | 1896                     | 3.5                |
 | 2791                     | 6.9                |
-$$\sqrt{ \delta b^{2} + \delta f^{2} }$$

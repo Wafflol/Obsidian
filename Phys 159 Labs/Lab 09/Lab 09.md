@@ -51,8 +51,9 @@ Note: while measuring the masses for the calibration factor, we measured the mas
 | 200                 | 377                            |
 | 400                 | 751                            |
 | 600                 | 1125                           |
-Calibration factor (average of mass/measured mass): 0.532
+Calibration factor (average of mass/measured mass): $0.532 \pm 0.006$
 
+Note: for this lab, to improve our precision, we decided to start using a higher volume. (Justification in conclusion)
 
 | **mass  ($g \pm 0.5g$)** | V ($mL \pm 0.1mL$) |
 | ------------------------ | ------------------ |

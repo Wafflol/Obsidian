@@ -56,6 +56,7 @@ Calibration factor (average of mass/measured mass): $0.532 \pm 0.006$
 Note: for this lab, to improve our precision, we decided to start using a higher volume. (Justification in conclusion)
 
 **Finding the force of friction**
+Note: diameter = $14 \pm 0.03 mm$
 Mass of piston: $12\pm 0.5g$ = $0.012 \pm 0.0005 kg$
 $$F_{f}=F_{atm}-W$$
 Starting volume = $4 \pm 0.1 mL$ -m/(V*

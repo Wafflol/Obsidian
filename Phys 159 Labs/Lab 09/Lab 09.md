@@ -61,3 +61,4 @@ Note: for this lab, to improve our precision, we decided to start using a higher
 | 1685                     | 3.1                |
 | 1896                     | 3.5                |
 | 2791                     | 6.9                |
+$$\sqrt{ \delta b^{2} + \delta f^{2} }$$

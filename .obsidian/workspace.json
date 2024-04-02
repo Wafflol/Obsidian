@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 101/Radius of Convergence.md",
+                "file": "Math 101/work.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 101/Radius of Convergence.md",
+                "file": "Math 101/work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 101/Radius of Convergence.md",
+                "file": "Math 101/work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 101/Radius of Convergence.md"
+                "file": "Math 101/work.md"
               }
             }
           },
@@ -179,8 +179,8 @@
   },
   "active": "24362b89359b7e81",
   "lastOpenFiles": [
-    "Math 101/Anti-derivatives.md",
     "Math 101/Radius of Convergence.md",
+    "Math 101/Anti-derivatives.md",
     "Untitled 1.md",
     "Phys 159 Labs/Lab 07/Lab 07.md",
     "Phys 159 Labs/Lab 08/Lab 08.md",

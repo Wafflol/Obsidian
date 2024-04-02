@@ -4,46 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "64499d58f5e86b61",
+        "id": "847d7ba5f6aa8f38",
         "type": "tabs",
         "children": [
           {
-            "id": "d373bd307b0a79d9",
+            "id": "79e0dc4a1e12a804",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phys 159 Labs/Lab 09/Lab 09.md",
+                "file": "Math 101/Anti-derivatives.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f8bd4dbd09dad7b7",
+            "id": "24362b89359b7e81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phys 159 Labs/Lab 08/Lab 08.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d6914942e776660",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Phys 159 Labs/Lab 07/Lab 07.md",
+                "file": "Math 101/Radius of Convergence.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b2a76b873dfc05ff",
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Phys 159 Labs/Lab 09/Lab 09.md",
+                "file": "Math 101/Radius of Convergence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Phys 159 Labs/Lab 09/Lab 09.md",
+                "file": "Math 101/Radius of Convergence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Phys 159 Labs/Lab 09/Lab 09.md"
+                "file": "Math 101/Radius of Convergence.md"
               }
             }
           },
@@ -189,8 +177,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d373bd307b0a79d9",
+  "active": "24362b89359b7e81",
   "lastOpenFiles": [
+    "Math 101/Anti-derivatives.md",
+    "Math 101/Radius of Convergence.md",
+    "Untitled 1.md",
     "Phys 159 Labs/Lab 07/Lab 07.md",
     "Phys 159 Labs/Lab 08/Lab 08.md",
     "Phys 159 Labs/Lab 09/Lab 09.md",
@@ -226,8 +217,6 @@
     "Phys 159 Labs/Lab 08",
     "Math 152/Questions.md",
     "conflict-files-obsidian-git.md",
-    "English/Notes for Discourse Analysis.md",
-    "Math 152/Linearity.md",
     "Phys 159 Labs/Lab 07",
     "Phys 159 Labs/Lab 06",
     "Phys 159 Labs/Lab 05",

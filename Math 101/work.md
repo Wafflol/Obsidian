@@ -3,4 +3,7 @@ $$F(s) = \sum_{n=0}^\infty \int_{n}^{n+1} \left(1-1^n \right) (e^{-st})\, dt $$
 $$F(s) = \sum_{n=0}^\infty \begin{bmatrix}
 \frac{1-1^n}{-se^{st}}
 \end{bmatrix}^{n+1}_{n}$$
-$$= \frac{1-1^{n}}{-se^{s(n+1)}}+\frac{1-1^n}{se^{sn}}$$
+$$= \sum_{n=0}^\infty\frac{1-1^{n}}{-se^{s(n+1)}}+\frac{1-1^n}{se^{sn}}$$
+$$=\sum_{n=0}^\infty (1-1^n) \left( \frac{e^s}{se^{sn+s}}- \frac{1}{se^{sn+s}} \right)$$
+If we manipulate the series to take out where the function is equal to 0, we get:
+$$F(s) = \sum_{n=0}^\infty \frac{e^s-1}{se^{2sn+s}}$$

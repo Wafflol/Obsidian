@@ -1,0 +1,1 @@
+Take ratio test and find when |f(x)| < 1

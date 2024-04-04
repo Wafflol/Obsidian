@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6e6d85c00db8850f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 101/work.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 101/work.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 101/work.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -164,22 +177,31 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0d5194adce3a1a53",
+  "active": "6e6d85c00db8850f",
   "lastOpenFiles": [
-    "English/Notes for Discourse Analysis.md",
-    "Math 101/work.md",
     "conflict-files-obsidian-git.md",
+    "Math 101/work.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Phys 159 Labs/Lab 09/Pasted image 20240327183522.png",
+    "Phys 159 Labs/Lab 09/Pasted image 20240327183455.png",
+    "Phys 159 Labs/Lab 09/Pasted image 20240327183218.png",
+    "Phys 159 Labs/Lab 09/Pasted image 20240327182850.png",
+    "Phys 159 Labs/Lab 09/Pasted image 20240327183216.png",
+    "Phys 159 Labs/Lab 09/Lab 09.md",
+    "Phys 159 Labs/Lab 09",
+    "Math 152/Untitled.md",
+    "Math 152/Kernel.md",
+    "Math 152/Characteristic equation.md",
+    "Math 101/Radius of Convergence.md",
+    "Math 101/Comparison test.md",
+    "English/Notes for Discourse Analysis.md",
     "Phys 159 Labs/Lab 08/Untitled.md",
     "Phys 159 Labs/Lab 08/Pasted image 20240320190951.png",
     "Phys 159 Labs/Lab 08/Pasted image 20240320185834.png",
     "Phys 159 Labs/Lab 08/Pasted image 20240320182720.png",
     "Phys 159 Labs/Lab 08/Pasted image 20240320174014.png",
     "Phys 159 Labs/Lab 08/Pasted image 20240320173704.png",
-    "Phys 159 Labs/Lab 08/Pasted image 20240320171516.png",
-    "Phys 159 Labs/Lab 08/Pasted image 20240320171450.png",
-    "Phys 159 Labs/Lab 08/Pasted image 20240320171428.png",
-    "Phys 159 Labs/Lab 08/Pasted image 20240320171408.png",
-    "Phys 159 Labs/Lab 08/Pasted image 20240320171348.png",
     "Phys 159 Labs/Lab 08/Lab 08.md",
     "Phys 159 Labs/Lab 08",
     "Math 101/Written 2.md",
@@ -196,22 +218,13 @@
     "Math 101/Study mats.md",
     "Math 101/Probability Density Functions.md",
     "Math 152/Inverse Matrices.md",
-    "inversse.md",
-    "Phys 159 Labs/Lab 06/Lab 06.md",
     "Phys 159 Labs/Lab 06",
-    "Math 152/Markov Process.md",
-    "Math 152/2393-24.md",
-    "Math 152/work.md",
-    "Project ideas.md",
-    "Math 152/Composition of linear transformations.md",
-    "Math 101/asdf.md",
     "Phys 159 Labs/Lab 05",
     "Phys 159 Labs/Lab 04",
     "Phys 159 Labs",
     "Apsc 101",
     "Orbit",
     "Misc",
-    "English",
     "Untitled.canvas"
   ]
 }

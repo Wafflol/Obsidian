@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 101/Anti-derivatives.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "24362b89359b7e81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math 152/Questions.md",
+                "file": "Math 101/work.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Math 101/work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Math 101/work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Math 101/work.md"
               }
             }
           },
@@ -174,17 +163,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6992ed5cb050747e",
+  "active": "79e0dc4a1e12a804",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Math 101/Written 3.md",
+    "Math 101/Written 2.md",
+    "Math 101/Properties of Integrals.md",
+    "Math 101/Definite Integral.md",
+    "Math 101/Indefinite Integral.md",
+    "Math 101/Pasted image 20240130112741.png",
+    "Math 101/asdf.md",
+    "English/Notes for Discourse Analysis.md",
+    "Apsc 101/Video Feedback Notes.md",
+    "Apsc 101/Vid feedback 2.md",
+    "Math 101/Anti-derivatives.md",
+    "Math 101/WA4.md",
     "Math 152/Questions.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "conflict-files-obsidian-git.md",
     "Math 152/Linear Transformations.md",
     "Math 152/Eigenvectors and Eigenvalues.md",
     "Math 152/Kernel.md",
     "Math 101/work.md",
     "Math 101/Radius of Convergence.md",
-    "Math 101/Anti-derivatives.md",
-    "Untitled 1.md",
     "Phys 159 Labs/Lab 07/Lab 07.md",
     "Phys 159 Labs/Lab 08/Lab 08.md",
     "Phys 159 Labs/Lab 09/Lab 09.md",
@@ -194,25 +195,13 @@
     "Phys 159 Labs/Lab 09/Pasted image 20240327183216.png",
     "Phys 159 Labs/Lab 09/Pasted image 20240327182850.png",
     "Math 152/Trace.md",
-    "Untitled.md",
     "Phys 159 Labs/Lab Template.md",
     "Phys 159 Labs/Lab 05/Lab 05.md",
     "Phys 159 Labs/Lab 09",
-    "Math 152/Untitled.md",
-    "Math 101/FTC 1.md",
-    "Math 101/Comparison test.md",
-    "Math 101/asdf.md",
-    "Math 101/Definite Integral.md",
-    "Math 152/Characteristic equation.md",
-    "Math 152/Complex Numbers.md",
-    "Math 101/Written 3.md",
-    "Phys 159 Labs/Lab 06/Lab 06.md",
     "Phys 159 Labs/Lab 08/Pasted image 20240320190951.png",
     "Phys 159 Labs/Lab 08/Pasted image 20240320185834.png",
     "Phys 159 Labs/Lab 08/Pasted image 20240320182720.png",
-    "Phys 159 Labs/Lab 08/Untitled.md",
     "Phys 159 Labs/Lab 08/Pasted image 20240320174014.png",
-    "Phys 159 Labs/Lab 08/Pasted image 20240320173704.png",
     "Phys 159 Labs/Lab 08",
     "Phys 159 Labs/Lab 07",
     "Phys 159 Labs/Lab 06",

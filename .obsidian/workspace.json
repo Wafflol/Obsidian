@@ -25,14 +25,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 101/work.md",
+                "file": "Math 152/Questions.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "228d512092e1351f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 101/work.md",
+                "file": "Math 152/Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 101/work.md",
+                "file": "Math 152/Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 101/work.md"
+                "file": "Math 152/Questions.md"
               }
             }
           },
@@ -177,8 +187,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "24362b89359b7e81",
+  "active": "228d512092e1351f",
   "lastOpenFiles": [
+    "Math 152/Linear Transformations.md",
+    "Math 152/Eigenvectors and Eigenvalues.md",
+    "Math 152/Kernel.md",
+    "Math 101/work.md",
     "Math 101/Radius of Convergence.md",
     "Math 101/Anti-derivatives.md",
     "Untitled 1.md",
@@ -194,17 +208,14 @@
     "Untitled.md",
     "Phys 159 Labs/Lab Template.md",
     "Phys 159 Labs/Lab 05/Lab 05.md",
-    "Math 152/Eigenvectors and Eigenvalues.md",
     "Phys 159 Labs/Lab 09",
     "Math 152/Untitled.md",
-    "Math 152/Kernel.md",
     "Math 101/FTC 1.md",
     "Math 101/Comparison test.md",
     "Math 101/asdf.md",
     "Math 101/Definite Integral.md",
     "Math 152/Characteristic equation.md",
     "Math 152/Complex Numbers.md",
-    "Math 101/work.md",
     "Math 101/Written 3.md",
     "Phys 159 Labs/Lab 06/Lab 06.md",
     "Phys 159 Labs/Lab 08/Pasted image 20240320190951.png",
@@ -216,7 +227,6 @@
     "Phys 159 Labs/Lab 04/Lab 04 Acoustic Waves.md",
     "Phys 159 Labs/Lab 08",
     "Math 152/Questions.md",
-    "conflict-files-obsidian-git.md",
     "Phys 159 Labs/Lab 07",
     "Phys 159 Labs/Lab 06",
     "Phys 159 Labs/Lab 05",

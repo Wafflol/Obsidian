@@ -14,3 +14,5 @@ Evaluating the anti-derivative for $\int e^{-st} \, dt$, we get:
 $$\int e^{-st} \, dt  = -\frac{1}{se^{st}}+C$$
 And now, plugging this into $F(s)$,
 $$F(s) = -\frac{1}{se^s}+\frac{1}{s}-\frac{1}{se^{3s}}+\frac{1}{se^{2s}}-\frac{1}{se^{5s}}+\frac{1}{se^{4s}}+\dots-\frac{1}{se^{(n+1)s}}+\frac{1}{se^{ns}}$$
+Rearranging these to make them go in order of the power of e, we get:
+$$F(s) = \frac{1}{s} - \frac{1}{se^s}+\frac{1}{se^{2s}} - \frac{1}{se^{3s}} + \frac{1}{se^{4s}} + \dots + \frac{1}{se^{ns}} - \frac{1}{se^{s(n+1)}}$$

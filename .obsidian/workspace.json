@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 152/Diagonalization.md",
+                "file": "Math 101/Anti-derivatives.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8439b502df5271e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math 101/Written 4.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b2a76b873dfc05ff",
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 152/Diagonalization.md",
+                "file": "Math 101/Written 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 152/Diagonalization.md",
+                "file": "Math 101/Written 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 152/Diagonalization.md"
+                "file": "Math 101/Written 4.md"
               }
             }
           },
@@ -163,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,10 +190,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5f70b159b760e38f",
+  "active": "b8439b502df5271e",
   "lastOpenFiles": [
-    "Math 152/Characteristic equation.md",
+    "Math 101/Anti-derivatives.md",
+    "Math 101/Written 4.md",
     "Math 152/Diagonalization.md",
+    "Math 152/Characteristic equation.md",
     "Math 101/work.md",
     "Math 101/Untitled.md",
     "Math 101/Written 3.md",
@@ -192,7 +208,6 @@
     "English/Notes for Discourse Analysis.md",
     "Apsc 101/Video Feedback Notes.md",
     "Apsc 101/Vid feedback 2.md",
-    "Math 101/Anti-derivatives.md",
     "Math 101/WA4.md",
     "Math 152/Questions.md",
     "Untitled.md",
@@ -204,7 +219,6 @@
     "Math 101/Radius of Convergence.md",
     "Phys 159 Labs/Lab 07/Lab 07.md",
     "Phys 159 Labs/Lab 08/Lab 08.md",
-    "Phys 159 Labs/Lab 09/Lab 09.md",
     "Phys 159 Labs/Lab 09/Pasted image 20240327183522.png",
     "Phys 159 Labs/Lab 09/Pasted image 20240327183455.png",
     "Phys 159 Labs/Lab 09/Pasted image 20240327183218.png",

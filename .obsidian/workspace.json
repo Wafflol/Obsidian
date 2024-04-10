@@ -150,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,8 +165,12 @@
   },
   "active": "0d5194adce3a1a53",
   "lastOpenFiles": [
-    "Math 101/work.md",
     "conflict-files-obsidian-git.md",
+    "Math 152/work.md",
+    "Math 152/Diagonalization.md",
+    "Math 101/Written 4.md",
+    "Math 101/Untitled.md",
+    "Math 101/work.md",
     "Untitled.md",
     "Untitled 1.md",
     "Phys 159 Labs/Lab 09/Pasted image 20240327183522.png",
@@ -201,10 +204,6 @@
     "workspace.json.md",
     "Phys 159 Labs/Lab 07/Lab 07.md",
     "Phys 159 Labs/Lab 07",
-    "Math 152/Complex Numbers.md",
-    "Math 101/Study mats.md",
-    "Math 101/Probability Density Functions.md",
-    "Math 152/Inverse Matrices.md",
     "Phys 159 Labs/Lab 06",
     "Phys 159 Labs/Lab 05",
     "Phys 159 Labs/Lab 04",

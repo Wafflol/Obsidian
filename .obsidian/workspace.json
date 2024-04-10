@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 101/work.md",
+                "file": "Math 152/work.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5,
-    "collapsed": true
+    "width": 308.5
   },
   "right": {
     "id": "b2a76b873dfc05ff",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 101/work.md",
+                "file": "Math 152/work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 101/work.md",
+                "file": "Math 152/work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 101/work.md"
+                "file": "Math 152/work.md"
               }
             }
           },
@@ -167,8 +166,8 @@
   },
   "active": "0d5194adce3a1a53",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Math 101/work.md",
+    "conflict-files-obsidian-git.md",
     "Untitled.md",
     "Untitled 1.md",
     "Phys 159 Labs/Lab 09/Pasted image 20240327183522.png",

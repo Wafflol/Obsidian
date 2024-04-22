@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7d48c3e95d642238",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math 152/Lines in vector form.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 152/Complex Numbers.md",
+                "file": "Math 152/Lines in vector form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 152/Complex Numbers.md",
+                "file": "Math 152/Lines in vector form.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 152/Complex Numbers.md"
+                "file": "Math 152/Lines in vector form.md"
               }
             }
           },
@@ -150,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,10 +176,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "45be0ddf21c2a22d",
+  "active": "7d48c3e95d642238",
   "lastOpenFiles": [
-    "Math 152/Complex Poynomials.md",
+    "conflict-files-obsidian-git.md",
+    "Math 152/Lines in vector form.md",
+    "Math 152/Linearity.md",
+    "Math 152/Linear Combinations.md",
+    "Math 152/Area of parallelograms.md",
     "Math 152/Complex Numbers.md",
+    "Math 152/Complex Poynomials.md",
     "Math 152/Characteristic equation.md",
     "Math 152/ODEs.md",
     "Math 101/Anti-derivatives.md",
@@ -188,11 +205,6 @@
     "Math 101/WA4.md",
     "Math 152/Questions.md",
     "Untitled.md",
-    "Untitled 1.md",
-    "conflict-files-obsidian-git.md",
-    "Math 152/Linear Transformations.md",
-    "Math 152/Eigenvectors and Eigenvalues.md",
-    "Math 152/Kernel.md",
     "Phys 159 Labs/Lab 09/Pasted image 20240327183522.png",
     "Phys 159 Labs/Lab 09/Pasted image 20240327183455.png",
     "Phys 159 Labs/Lab 09/Pasted image 20240327183218.png",

@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "847d7ba5f6aa8f38",
+        "id": "16828fa432df9520",
         "type": "tabs",
         "children": [
           {
-            "id": "79e0dc4a1e12a804",
+            "id": "45be0ddf21c2a22d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 152/Characteristic equation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f70b159b760e38f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math 101/Anti-derivatives.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8439b502df5271e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math 101/Written 4.md",
+                "file": "Math 152/Complex Numbers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b2a76b873dfc05ff",
@@ -111,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 101/Written 4.md",
+                "file": "Math 152/Complex Numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 101/Written 4.md",
+                "file": "Math 152/Complex Numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 101/Written 4.md"
+                "file": "Math 152/Complex Numbers.md"
               }
             }
           },
@@ -190,12 +164,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b8439b502df5271e",
+  "active": "45be0ddf21c2a22d",
   "lastOpenFiles": [
+    "Math 152/Complex Poynomials.md",
+    "Math 152/Complex Numbers.md",
+    "Math 152/Characteristic equation.md",
+    "Math 152/ODEs.md",
     "Math 101/Anti-derivatives.md",
     "Math 101/Written 4.md",
     "Math 152/Diagonalization.md",
-    "Math 152/Characteristic equation.md",
     "Math 101/work.md",
     "Math 101/Untitled.md",
     "Math 101/Written 3.md",
@@ -216,9 +193,6 @@
     "Math 152/Linear Transformations.md",
     "Math 152/Eigenvectors and Eigenvalues.md",
     "Math 152/Kernel.md",
-    "Math 101/Radius of Convergence.md",
-    "Phys 159 Labs/Lab 07/Lab 07.md",
-    "Phys 159 Labs/Lab 08/Lab 08.md",
     "Phys 159 Labs/Lab 09/Pasted image 20240327183522.png",
     "Phys 159 Labs/Lab 09/Pasted image 20240327183455.png",
     "Phys 159 Labs/Lab 09/Pasted image 20240327183218.png",

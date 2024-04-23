@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 152/Lines in vector form.md",
+                "file": "Math 152/Linear indenpendence.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 152/Lines in vector form.md",
+                "file": "Math 152/Linear indenpendence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 152/Lines in vector form.md",
+                "file": "Math 152/Linear indenpendence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 152/Lines in vector form.md"
+                "file": "Math 152/Linear indenpendence.md"
               }
             }
           },
@@ -163,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,33 +179,35 @@
   },
   "active": "7d48c3e95d642238",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Math 152/Lines in vector form.md",
-    "Math 152/Linearity.md",
-    "Math 152/Linear Combinations.md",
-    "Math 152/Area of parallelograms.md",
-    "Math 152/Complex Numbers.md",
-    "Math 152/Complex Poynomials.md",
-    "Math 152/Characteristic equation.md",
-    "Math 152/ODEs.md",
-    "Math 101/Anti-derivatives.md",
-    "Math 101/Written 4.md",
-    "Math 152/Diagonalization.md",
-    "Math 101/work.md",
-    "Math 101/Untitled.md",
-    "Math 101/Written 3.md",
-    "Math 101/Written 2.md",
-    "Math 101/Properties of Integrals.md",
-    "Math 101/Definite Integral.md",
-    "Math 101/Indefinite Integral.md",
-    "Math 101/Pasted image 20240130112741.png",
-    "Math 101/asdf.md",
-    "English/Notes for Discourse Analysis.md",
-    "Apsc 101/Video Feedback Notes.md",
-    "Apsc 101/Vid feedback 2.md",
-    "Math 101/WA4.md",
+    "Math 152/Solving a linear system.md",
+    "Math 152/Solving Circuit Problems.md",
+    "Math 152/Shortest distance between two lines.md",
     "Math 152/Questions.md",
-    "Untitled.md",
+    "Math 152/work.md",
+    "Math 152/Systems of equations & linear independence.md",
+    "Math 152/Scalar Multuplication.md",
+    "Math 152/Scalar.md",
+    "Math 152/RREF.md",
+    "Math 152/Rewriting a plane from parametric.md",
+    "Math 152/Rewriting a linear system in matrix form.md",
+    "Math 152/MT1Prac.md",
+    "Math 152/Matrix Multiplication.md",
+    "Math 152/MT3.md",
+    "Math 152/Non-homogeneous systems.md",
+    "Math 152/ODEs.md",
+    "Math 152/Pasted image 20240306125031.png",
+    "Math 152/Pasted image 20240311121450.png",
+    "Math 152/Projection.md",
+    "Math 152/Projection onto a plane.md",
+    "Math 152/Planes.md",
+    "Math 152/Reflection Matrix.md",
+    "Math 152/Rank of a matrix.md",
+    "Math 152/Volume of parallelepiped.md",
+    "Math 152/triangular matrix.md",
+    "Math 152/Vectors.md",
+    "Math 152/Vectors in Orthogonal Coordinates.md",
+    "Math 152/Trace.md",
+    "Math 101/Pasted image 20240130112741.png",
     "Phys 159 Labs/Lab 09/Pasted image 20240327183522.png",
     "Phys 159 Labs/Lab 09/Pasted image 20240327183455.png",
     "Phys 159 Labs/Lab 09/Pasted image 20240327183218.png",
@@ -213,8 +216,6 @@
     "Phys 159 Labs/Lab 09",
     "Phys 159 Labs/Lab 08/Pasted image 20240320190951.png",
     "Phys 159 Labs/Lab 08/Pasted image 20240320185834.png",
-    "Phys 159 Labs/Lab 08/Pasted image 20240320182720.png",
-    "Phys 159 Labs/Lab 08/Pasted image 20240320174014.png",
     "Phys 159 Labs/Lab 08",
     "Phys 159 Labs/Lab 07",
     "Phys 159 Labs/Lab 06",

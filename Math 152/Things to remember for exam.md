@@ -9,3 +9,4 @@
 6. $\begin{bmatrix}2 & 0 & 3 \\4 & 2 & 2 \\5 & 0 & 3\end{bmatrix}$ -> $\lambda_{1} = 2, \vec{v_{1}} = e_{2}$ 
 7. in $\mathbb{R}^2$, $2M_{proj}-I = M_{\text{reflect}}$
 8. in $\mathbb{R}^3$, for reflection and projection across plane, $M_{proj_{p}} = I-M_{proj_{\vec{n}}}, M_{Ref_{p}}=I - 2M_{proj_{p}}$
+9. for an invertible matrix $A$, $\det A \neq 0$

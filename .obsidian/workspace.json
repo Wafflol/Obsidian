@@ -59,9 +59,11 @@
             "id": "0d591aa0fff12c61",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "Orbit/Test.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -132,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 152/Things to remember for exam.md",
+                "file": "Orbit/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 152/Things to remember for exam.md",
+                "file": "Orbit/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 152/Things to remember for exam.md"
+                "file": "Orbit/Test.md"
               }
             }
           },
@@ -213,6 +215,8 @@
   },
   "active": "0d591aa0fff12c61",
   "lastOpenFiles": [
+    "Orbit/CAD Naming convention.md",
+    "Orbit/Test.md",
     "Math 152/Questions for Final.md",
     "Math 152/Things to remember for exam.md",
     "Math 152/Linear indenpendence.md",
@@ -239,8 +243,6 @@
     "Math 152/Planes.md",
     "Math 152/Reflection Matrix.md",
     "Math 152/Rank of a matrix.md",
-    "Math 152/Volume of parallelepiped.md",
-    "Math 152/triangular matrix.md",
     "Math 101/Pasted image 20240130112741.png",
     "Phys 159 Labs/Lab 09/Pasted image 20240327183522.png",
     "Phys 159 Labs/Lab 09/Pasted image 20240327183455.png",

@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 220/Homework/HW1.md",
+                "file": "Math 220/Notes/Proofs Notation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad3167bed130cc2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math 220/Notes/Practice.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 220/Homework/HW1.md",
+                "file": "Math 220/Notes/Practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 220/Homework/HW1.md",
+                "file": "Math 220/Notes/Practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 220/Homework/HW1.md"
+                "file": "Math 220/Notes/Practice.md"
               }
             }
           },
@@ -213,10 +225,30 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0d591aa0fff12c61",
+  "active": "ad3167bed130cc2c",
   "lastOpenFiles": [
-    "Orbit/Test.md",
+    "Math 220/Notes/Proofs Notation.md",
+    "Math 220/Notes/Practice.md",
+    "Math 152/Determinant.md",
+    "Math 152/diagonal matrix.md",
+    "Math 152/Cross product.md",
+    "Math 152/Complex Poynomials.md",
+    "Math 101/Untitled.md",
+    "Math 101/Trig Sub.md",
+    "Math 101/Study mats.md",
+    "Math 101/Separable Differential Equations.md",
+    "Math 101/Radius of Convergence.md",
+    "Math 101/Indefinite Integral.md",
+    "Math 101/Integrability.md",
+    "Math 101/Numerical Intergration.md",
+    "Math 101/Partial Fractions.md",
+    "Math 101/Definite Integral.md",
+    "Math 101/Comparison test.md",
+    "Math 101/Written 3.md",
+    "Math 101/FTC 1.md",
     "Math 220/Homework/HW1.md",
+    "Math 220/Notes",
+    "Orbit/Test.md",
     "Math 220/Homework",
     "Math 220",
     "Math 152/Things to remember for exam.md",
@@ -224,27 +256,8 @@
     "Math 152/Questions for Final.md",
     "Math 152/Linear indenpendence.md",
     "Math 152/Solving a linear system.md",
-    "Math 152/Solving Circuit Problems.md",
-    "Math 152/Shortest distance between two lines.md",
-    "Math 152/Questions.md",
-    "Math 152/work.md",
-    "Math 152/Systems of equations & linear independence.md",
-    "Math 152/Scalar Multuplication.md",
-    "Math 152/Scalar.md",
-    "Math 152/RREF.md",
-    "Math 152/Rewriting a plane from parametric.md",
-    "Math 152/Rewriting a linear system in matrix form.md",
-    "Math 152/MT1Prac.md",
-    "Math 152/Matrix Multiplication.md",
-    "Math 152/MT3.md",
-    "Math 152/Non-homogeneous systems.md",
-    "Math 152/ODEs.md",
     "Math 152/Pasted image 20240306125031.png",
     "Math 152/Pasted image 20240311121450.png",
-    "Math 152/Projection.md",
-    "Math 152/Projection onto a plane.md",
-    "Math 152/Planes.md",
-    "Math 152/Reflection Matrix.md",
     "Math 101/Pasted image 20240130112741.png",
     "Phys 159 Labs/Lab 09/Pasted image 20240327183522.png",
     "Phys 159 Labs/Lab 09/Pasted image 20240327183455.png",
@@ -260,7 +273,6 @@
     "Phys 159 Labs/Lab 05",
     "Apsc 101",
     "Phys 159 Labs/Lab 04",
-    "Phys 159 Labs",
     "Untitled.canvas"
   ]
 }

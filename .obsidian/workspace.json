@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 152/Questions for Final.md",
+                "file": "Cpen 221/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 220/Notes/Practice.md",
+                "file": "Cpen 221/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 220/Notes/Practice.md",
+                "file": "Cpen 221/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 220/Notes/Practice.md"
+                "file": "Cpen 221/Untitled.md"
               }
             }
           },
@@ -225,10 +225,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ad3167bed130cc2c",
+  "active": "a30e87baa637c701",
   "lastOpenFiles": [
-    "Math 220/Notes/Proofs Notation.md",
+    "Math 152/Questions for Final.md",
+    "Cpen 221/Untitled.md",
+    "Cpen 221",
+    "Math 152/Linear indenpendence.md",
+    "Math 152/Complex Numbers.md",
     "Math 220/Notes/Practice.md",
+    "Math 220/Notes/Proofs Notation.md",
     "Math 152/Determinant.md",
     "Math 152/diagonal matrix.md",
     "Math 152/Cross product.md",
@@ -252,10 +257,6 @@
     "Math 220/Homework",
     "Math 220",
     "Math 152/Things to remember for exam.md",
-    "Orbit/CAD Naming convention.md",
-    "Math 152/Questions for Final.md",
-    "Math 152/Linear indenpendence.md",
-    "Math 152/Solving a linear system.md",
     "Math 152/Pasted image 20240306125031.png",
     "Math 152/Pasted image 20240311121450.png",
     "Math 101/Pasted image 20240130112741.png",
@@ -272,7 +273,6 @@
     "Phys 159 Labs/Lab 06",
     "Phys 159 Labs/Lab 05",
     "Apsc 101",
-    "Phys 159 Labs/Lab 04",
     "Untitled.canvas"
   ]
 }

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cpen 221/Untitled.md",
+                "file": "Cpen 211/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cpen 221/Untitled.md",
+                "file": "Cpen 211/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cpen 221/Untitled.md",
+                "file": "Cpen 211/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cpen 221/Untitled.md"
+                "file": "Cpen 211/Untitled.md"
               }
             }
           },
@@ -227,8 +227,12 @@
   },
   "active": "a30e87baa637c701",
   "lastOpenFiles": [
-    "Math 152/Questions for Final.md",
+    "Phys 170/Moment arm.md",
+    "Cpen 211/Untitled.md",
+    "Project ideas.md",
+    "Cpen 211",
     "Cpen 221/Untitled.md",
+    "Math 152/Questions for Final.md",
     "Cpen 221",
     "Math 152/Linear indenpendence.md",
     "Math 152/Complex Numbers.md",
@@ -251,12 +255,9 @@
     "Math 101/Comparison test.md",
     "Math 101/Written 3.md",
     "Math 101/FTC 1.md",
-    "Math 220/Homework/HW1.md",
     "Math 220/Notes",
-    "Orbit/Test.md",
     "Math 220/Homework",
     "Math 220",
-    "Math 152/Things to remember for exam.md",
     "Math 152/Pasted image 20240306125031.png",
     "Math 152/Pasted image 20240311121450.png",
     "Math 101/Pasted image 20240130112741.png",
@@ -272,7 +273,6 @@
     "Phys 159 Labs/Lab 07",
     "Phys 159 Labs/Lab 06",
     "Phys 159 Labs/Lab 05",
-    "Apsc 101",
     "Untitled.canvas"
   ]
 }

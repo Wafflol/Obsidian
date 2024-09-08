@@ -7,3 +7,5 @@ y^2=4-x^2
 y=\pm \sqrt{ 4-x^2 }$$
 $$f\left( \frac{x}{y} \right)$$
 $$\left\{ a, b, c, \frac{d}{e}, \int x^3 \, dx  \right\}$$
+$$P\to Q\\
+P\implies Q$$

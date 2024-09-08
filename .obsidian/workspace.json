@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 220/Homework/HW1.md",
+                "file": "Math 220/Homework/HW0.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 308.5,
+    "collapsed": true
   },
   "right": {
     "id": "b2a76b873dfc05ff",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 220/Homework/HW1.md",
+                "file": "Math 220/Homework/HW0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 220/Homework/HW1.md",
+                "file": "Math 220/Homework/HW0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 220/Homework/HW1.md"
+                "file": "Math 220/Homework/HW0.md"
               }
             }
           },
@@ -170,7 +171,7 @@
     "Orbit/Test.md",
     "Math 220/Notes/Practice.md",
     "Math 220/Notes/Proofs Notation.md",
-    "Math 220/Homework/HW1.md",
+    "Math 220/Homework/HW0.md",
     "Math 220/Notes",
     "Math 220/Homework",
     "Math 220",

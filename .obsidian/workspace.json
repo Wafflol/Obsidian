@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5b1b8671c7884178",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Notes for Discourse Analysis.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/Notes for Discourse Analysis.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Notes for Discourse Analysis.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -163,12 +176,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0d5194adce3a1a53",
+  "active": "5b1b8671c7884178",
   "lastOpenFiles": [
-    "English/Notes for hw.md",
-    "English/Notes for Discourse Analysis.md",
-    "Math 152/work.md",
     "conflict-files-obsidian-git.md",
+    "English/Notes for Discourse Analysis.md",
+    "Orbit/Test.md",
+    "Math 220/Notes/Practice.md",
+    "Math 220/Notes/Proofs Notation.md",
+    "Math 220/Homework/HW1.md",
+    "Math 220/Notes",
+    "Math 220/Homework",
+    "Math 220",
+    "Math 152/Things to remember for exam.md",
+    "Math 152/Questions for Final.md",
+    "Math 152/ODEs.md",
+    "Cpen 221/Untitled.md",
+    "Cpen 221",
+    "Cpen 211/Untitled.md",
+    "Cpen 211",
+    "English/Notes for hw.md",
+    "Math 152/work.md",
     "Math 152/Diagonalization.md",
     "Math 101/Written 4.md",
     "Math 101/Untitled.md",
@@ -193,24 +220,10 @@
     "Phys 159 Labs/Lab 08/Pasted image 20240320182720.png",
     "Phys 159 Labs/Lab 08/Pasted image 20240320174014.png",
     "Phys 159 Labs/Lab 08/Pasted image 20240320173704.png",
-    "Phys 159 Labs/Lab 08/Lab 08.md",
     "Phys 159 Labs/Lab 08",
-    "Math 101/Written 2.md",
-    "Math 101/Written 3.md",
-    "Math 152/Linear Transformations.md",
-    "Math 152/Trace.md",
-    "Math 152/Eigenvectors and Eigenvalues.md",
-    "Math 152/Complex Poynomials.md",
-    "workspace.json.md",
-    "Phys 159 Labs/Lab 07/Lab 07.md",
     "Phys 159 Labs/Lab 07",
     "Phys 159 Labs/Lab 06",
     "Phys 159 Labs/Lab 05",
-    "Phys 159 Labs/Lab 04",
-    "Phys 159 Labs",
-    "Apsc 101",
-    "Orbit",
-    "Misc",
     "Untitled.canvas"
   ]
 }

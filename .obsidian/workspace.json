@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 152/work.md",
+                "file": "English/Notes for Discourse Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 152/work.md",
+                "file": "English/Notes for Discourse Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 152/work.md",
+                "file": "English/Notes for Discourse Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 152/work.md"
+                "file": "English/Notes for Discourse Analysis.md"
               }
             }
           },
@@ -165,8 +165,10 @@
   },
   "active": "0d5194adce3a1a53",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "English/Notes for hw.md",
+    "English/Notes for Discourse Analysis.md",
     "Math 152/work.md",
+    "conflict-files-obsidian-git.md",
     "Math 152/Diagonalization.md",
     "Math 101/Written 4.md",
     "Math 101/Untitled.md",
@@ -185,7 +187,6 @@
     "Math 152/Characteristic equation.md",
     "Math 101/Radius of Convergence.md",
     "Math 101/Comparison test.md",
-    "English/Notes for Discourse Analysis.md",
     "Phys 159 Labs/Lab 08/Untitled.md",
     "Phys 159 Labs/Lab 08/Pasted image 20240320190951.png",
     "Phys 159 Labs/Lab 08/Pasted image 20240320185834.png",
@@ -195,7 +196,6 @@
     "Phys 159 Labs/Lab 08/Lab 08.md",
     "Phys 159 Labs/Lab 08",
     "Math 101/Written 2.md",
-    "English/Notes for hw.md",
     "Math 101/Written 3.md",
     "Math 152/Linear Transformations.md",
     "Math 152/Trace.md",

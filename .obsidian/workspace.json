@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5b878903ba61af97",
+        "id": "16828fa432df9520",
         "type": "tabs",
         "children": [
           {
-            "id": "62ffa8607e50dd73",
+            "id": "0d591aa0fff12c61",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2052f1e2653d34a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cpen 221/Data structures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 300
   },
   "right": {
     "id": "b2a76b873dfc05ff",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 220/Notes/Proofs Notation.md",
+                "file": "Cpen 221/Data structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 220/Notes/Proofs Notation.md",
+                "file": "Cpen 221/Data structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 220/Notes/Proofs Notation.md"
+                "file": "Cpen 221/Data structures.md"
               }
             }
           },
@@ -138,7 +151,7 @@
             }
           },
           {
-            "id": "cd078907a99e3dee",
+            "id": "6992ed5cb050747e",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -150,7 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -164,51 +177,51 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "62ffa8607e50dd73",
+  "active": "2052f1e2653d34a6",
   "lastOpenFiles": [
-    "Math 220/Notes/Practice.md",
-    "Math 220/Notes/Proofs Notation.md",
-    "Math 220/Notes/Parity.md",
-    "Math 220/Homework/HW0.md",
     "Math 253/Scratch.md",
-    "Project ideas.md",
-    "Math 152/Planes.md",
-    "Math 152/Rewriting a plane from parametric.md",
-    "Math 152/Reflection Matrix.md",
-    "Math 152/Rewriting a linear system in matrix form.md",
-    "Math 152/Projection onto a plane.md",
+    "Math 220/Notes/Parity.md",
+    "conflict-files-obsidian-git.md",
+    "Math 220/Notes/Proofs Notation.md",
+    "Math 220/Notes/Practice.md",
     "Math 152/Projection.md",
-    "Math 152/MT2.md",
-    "Math 152/MT3.md",
-    "Math 152/Non-homogeneous systems.md",
-    "Math 152/Matrix Multiplication.md",
-    "Math 152/MT1Prac.md",
-    "Math 152/Markov Process.md",
-    "Math 152/Lines in vector form.md",
-    "Math 152/Complex Numbers.md",
-    "Math 152/Complex Poynomials.md",
-    "Math 152/Composition of linear transformations.md",
-    "Math 152/Cross product.md",
-    "Math 152/Determinant.md",
-    "Math 152/Diagonalization.md",
-    "Math 152/Dot product.md",
-    "Math 152/Jan 22 Lecture Solving parametric equation from 2 planes.png",
     "Math 253",
+    "Math 152/Things to remember for exam.md",
+    "Math 152/Complex Numbers.md",
+    "Math 152/Linear indenpendence.md",
+    "Math 152/Dot product.md",
+    "Math 152/Cross product.md",
+    "Cpen 211/Untitled.md",
+    "Phys 170/Moment arm.md",
+    "Project ideas.md",
+    "Cpen 211",
+    "Cpen 221/Data structures.md",
+    "Math 152/Questions for Final.md",
+    "Cpen 221",
+    "Math 152/Determinant.md",
+    "Math 152/diagonal matrix.md",
+    "Math 152/Complex Poynomials.md",
+    "Math 101/Untitled.md",
+    "Math 101/Trig Sub.md",
+    "Math 101/Study mats.md",
+    "Math 101/Separable Differential Equations.md",
+    "Math 101/Radius of Convergence.md",
+    "Math 101/Indefinite Integral.md",
+    "Math 101/Integrability.md",
     "Math 220/Notes",
     "Math 220/Homework",
     "Math 220",
-    "Cpen 221",
-    "Cpen 211",
+    "Math 152/Pasted image 20240306125031.png",
+    "Math 152/Pasted image 20240311121450.png",
+    "Math 101/Pasted image 20240130112741.png",
     "Phys 159 Labs/Lab 09/Pasted image 20240327183522.png",
     "Phys 159 Labs/Lab 09/Pasted image 20240327183455.png",
     "Phys 159 Labs/Lab 09/Pasted image 20240327183218.png",
-    "Phys 159 Labs/Lab 09/Pasted image 20240327182850.png",
     "Phys 159 Labs/Lab 09/Pasted image 20240327183216.png",
+    "Phys 159 Labs/Lab 09/Pasted image 20240327182850.png",
     "Phys 159 Labs/Lab 09",
     "Phys 159 Labs/Lab 08/Pasted image 20240320190951.png",
     "Phys 159 Labs/Lab 08/Pasted image 20240320185834.png",
-    "Phys 159 Labs/Lab 08/Pasted image 20240320182720.png",
-    "Phys 159 Labs/Lab 08/Pasted image 20240320174014.png",
     "Phys 159 Labs/Lab 08",
     "Phys 159 Labs/Lab 07",
     "Phys 159 Labs/Lab 06",

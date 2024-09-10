@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e0127e2d2632c619",
+        "id": "5b878903ba61af97",
         "type": "tabs",
         "children": [
           {
-            "id": "f262c8dddc7ef358",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
-          },
-          {
-            "id": "e6b2d6ae5318d891",
+            "id": "62ffa8607e50dd73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Math 220/Notes/Proofs Notation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Math 220/Notes/Proofs Notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Math 220/Notes/Proofs Notation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Math 220/Notes/Proofs Notation.md"
               }
             }
           },
@@ -161,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,51 +164,51 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e6b2d6ae5318d891",
+  "active": "62ffa8607e50dd73",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Math 253/Scratch.md",
-    "Math 253",
-    "Math 220/Notes/Parity.md",
-    "Math 220/Homework/HW0.md",
-    "English/Notes for Discourse Analysis.md",
-    "Orbit/Test.md",
     "Math 220/Notes/Practice.md",
     "Math 220/Notes/Proofs Notation.md",
+    "Math 220/Notes/Parity.md",
+    "Math 220/Homework/HW0.md",
+    "Math 253/Scratch.md",
+    "Project ideas.md",
+    "Math 152/Planes.md",
+    "Math 152/Rewriting a plane from parametric.md",
+    "Math 152/Reflection Matrix.md",
+    "Math 152/Rewriting a linear system in matrix form.md",
+    "Math 152/Projection onto a plane.md",
+    "Math 152/Projection.md",
+    "Math 152/MT2.md",
+    "Math 152/MT3.md",
+    "Math 152/Non-homogeneous systems.md",
+    "Math 152/Matrix Multiplication.md",
+    "Math 152/MT1Prac.md",
+    "Math 152/Markov Process.md",
+    "Math 152/Lines in vector form.md",
+    "Math 152/Complex Numbers.md",
+    "Math 152/Complex Poynomials.md",
+    "Math 152/Composition of linear transformations.md",
+    "Math 152/Cross product.md",
+    "Math 152/Determinant.md",
+    "Math 152/Diagonalization.md",
+    "Math 152/Dot product.md",
+    "Math 152/Jan 22 Lecture Solving parametric equation from 2 planes.png",
+    "Math 253",
     "Math 220/Notes",
     "Math 220/Homework",
     "Math 220",
-    "Math 152/Things to remember for exam.md",
-    "Math 152/Questions for Final.md",
-    "Math 152/ODEs.md",
-    "Cpen 221/Untitled.md",
     "Cpen 221",
-    "Cpen 211/Untitled.md",
     "Cpen 211",
-    "English/Notes for hw.md",
-    "Math 152/work.md",
-    "Math 152/Diagonalization.md",
-    "Math 101/Written 4.md",
-    "Math 101/Untitled.md",
-    "Math 101/work.md",
-    "Untitled.md",
-    "Untitled 1.md",
     "Phys 159 Labs/Lab 09/Pasted image 20240327183522.png",
     "Phys 159 Labs/Lab 09/Pasted image 20240327183455.png",
     "Phys 159 Labs/Lab 09/Pasted image 20240327183218.png",
     "Phys 159 Labs/Lab 09/Pasted image 20240327182850.png",
     "Phys 159 Labs/Lab 09/Pasted image 20240327183216.png",
-    "Phys 159 Labs/Lab 09/Lab 09.md",
     "Phys 159 Labs/Lab 09",
-    "Math 152/Untitled.md",
-    "Math 152/Kernel.md",
-    "Math 152/Characteristic equation.md",
-    "Math 101/Radius of Convergence.md",
     "Phys 159 Labs/Lab 08/Pasted image 20240320190951.png",
     "Phys 159 Labs/Lab 08/Pasted image 20240320185834.png",
     "Phys 159 Labs/Lab 08/Pasted image 20240320182720.png",
     "Phys 159 Labs/Lab 08/Pasted image 20240320174014.png",
-    "Phys 159 Labs/Lab 08/Pasted image 20240320173704.png",
     "Phys 159 Labs/Lab 08",
     "Phys 159 Labs/Lab 07",
     "Phys 159 Labs/Lab 06",

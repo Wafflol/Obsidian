@@ -1,5 +1,5 @@
 Hash map
-List
+ArrayList
 Set
 Stack
 Priority Queue

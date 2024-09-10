@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 220/Notes/Parity.md",
+                "file": "Math 253/Scratch.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b2a76b873dfc05ff",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 220/Notes/Parity.md",
+                "file": "Math 253/Scratch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 220/Notes/Parity.md",
+                "file": "Math 253/Scratch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 220/Notes/Parity.md"
+                "file": "Math 253/Scratch.md"
               }
             }
           },
@@ -163,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,12 +180,12 @@
   },
   "active": "2052f1e2653d34a6",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Math 220/Notes/Parity.md",
+    "conflict-files-obsidian-git.md",
     "Math 220/Notes/Proofs Notation.md",
     "Math 220/Notes/Practice.md",
     "Math 152/Projection.md",
-    "Math 253/adsf.md",
+    "Math 253/Scratch.md",
     "Math 253",
     "Math 152/Things to remember for exam.md",
     "Math 152/Complex Numbers.md",

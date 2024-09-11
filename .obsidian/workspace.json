@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cpen 211/Buffers.md",
+                "file": "Math 152/Cross product.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cpen 211/Buffers.md",
+                "file": "Math 152/Cross product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cpen 211/Buffers.md",
+                "file": "Math 152/Cross product.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cpen 211/Buffers.md"
+                "file": "Math 152/Cross product.md"
               }
             }
           },
@@ -179,6 +179,7 @@
   },
   "active": "2052f1e2653d34a6",
   "lastOpenFiles": [
+    "Cpen 211/Buffers.md",
     "Cpen 221/Data structures.md",
     "Math 253/Scratch.md",
     "Math 220/Notes/Parity.md",
@@ -192,7 +193,6 @@
     "Math 152/Linear indenpendence.md",
     "Math 152/Dot product.md",
     "Math 152/Cross product.md",
-    "Cpen 211/Buffers.md",
     "Phys 170/Moment arm.md",
     "Project ideas.md",
     "Cpen 211",

@@ -17,3 +17,15 @@ b.
 C = $\{x \in \mathbb{Z}\}$
 c.
 yes
+
+P: $6| n$
+Q: $10 | n$
+R: $2|n$
+$Q \lor P \Rightarrow R$
+Contrapositive:
+$$\sim R \Rightarrow (\sim Q) \land (\sim P)$$
+for $n \in \mathbb{Z}$, if $n$ is not divisible by 2, then $n$ is not divisible by 6 and not divisible by 10
+
+Converse:
+$$R \Rightarrow Q \lor P$$
+for $n \in \mathbb{Z}$, if $n$ is divisible by 2, then $n$ is divisible by 6 or 10

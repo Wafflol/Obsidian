@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 220/Notes/DeMorgan's Laws.md",
+                "file": "Math 220/Notes/Practice.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 220/Notes/DeMorgan's Laws.md",
+                "file": "Math 220/Notes/Practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 220/Notes/DeMorgan's Laws.md",
+                "file": "Math 220/Notes/Practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 220/Notes/DeMorgan's Laws.md"
+                "file": "Math 220/Notes/Practice.md"
               }
             }
           },
@@ -227,8 +227,8 @@
   },
   "active": "64a77d7caf219d06",
   "lastOpenFiles": [
-    "Math 220/Notes/Order of operations.md",
     "Math 220/Notes/DeMorgan's Laws.md",
+    "Math 220/Notes/Order of operations.md",
     "Math 220/Notes/Parity.md",
     "Math 220/Notes/Examples.md",
     "Math 220/Homework/HW0.md",

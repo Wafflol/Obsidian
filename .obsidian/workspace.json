@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "da7b478562174f32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 253/Untitled.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 253/Untitled.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 253/Untitled.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -151,8 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,14 +177,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bcf5900576356f48",
+  "active": "da7b478562174f32",
   "lastOpenFiles": [
+    "Math 253/Untitled.md",
+    "conflict-files-obsidian-git.md",
     "Math 220/Notes/Contrapositive.md",
     "Math 220/Notes/Proofs Notation.md",
     "Math 220/Notes/Practice.md",
     "Math 220/Notes/Examples.md",
     "Math 253/Scratch.md",
-    "Math 253/Untitled.md",
     "Math 220/Notes/Order of operations.md",
     "Math 220/Notes/Implication.md",
     "Math 220/Notes/Biconditional.md",
@@ -185,7 +198,6 @@
     "Math 220/Homework/HW0.md",
     "Math 220/Notes/Converse.md",
     "Math 152/Cross product.md",
-    "conflict-files-obsidian-git.md",
     "Math 152/Projection.md",
     "Math 253",
     "Math 152/Things to remember for exam.md",

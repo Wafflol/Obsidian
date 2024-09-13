@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5b878903ba61af97",
+        "id": "16828fa432df9520",
         "type": "tabs",
         "children": [
           {
-            "id": "62ffa8607e50dd73",
+            "id": "0d591aa0fff12c61",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,105 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2052f1e2653d34a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math 220/Notes/Practice.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "816a1a52499fd670",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math 220/Notes/Examples.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b73b5a78077dc750",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math 220/Notes/Contrapositive.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e0337795f51c907",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math 220/Notes/Order of operations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "64a77d7caf219d06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math 220/Notes/Practice.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7aba61c69a3e56bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math 220/Notes/Implication.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1cb20d38bd4d3ed5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math 220/Notes/Biconditional.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dbaf9567005939ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math 220/Notes/XOR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -69,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 300
   },
   "right": {
     "id": "b2a76b873dfc05ff",
@@ -85,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 220/Notes/Proofs Notation.md",
+                "file": "Math 220/Notes/XOR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 220/Notes/Proofs Notation.md",
+                "file": "Math 220/Notes/XOR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 220/Notes/Proofs Notation.md"
+                "file": "Math 220/Notes/XOR.md"
               }
             }
           },
@@ -138,7 +235,7 @@
             }
           },
           {
-            "id": "cd078907a99e3dee",
+            "id": "6992ed5cb050747e",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -150,7 +247,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -164,51 +261,51 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "62ffa8607e50dd73",
+  "active": "dbaf9567005939ca",
   "lastOpenFiles": [
+    "Math 220/Notes/Biconditional.md",
+    "Math 220/Notes/XOR.md",
+    "Math 220/Notes/Implication.md",
     "Math 220/Notes/Practice.md",
-    "Math 220/Notes/Proofs Notation.md",
+    "Math 220/Notes/DeMorgan's Laws.md",
+    "Math 220/Notes/Order of operations.md",
     "Math 220/Notes/Parity.md",
+    "Math 220/Notes/Examples.md",
     "Math 220/Homework/HW0.md",
-    "Math 253/Scratch.md",
-    "Project ideas.md",
-    "Math 152/Planes.md",
-    "Math 152/Rewriting a plane from parametric.md",
-    "Math 152/Reflection Matrix.md",
-    "Math 152/Rewriting a linear system in matrix form.md",
-    "Math 152/Projection onto a plane.md",
-    "Math 152/Projection.md",
-    "Math 152/MT2.md",
-    "Math 152/MT3.md",
-    "Math 152/Non-homogeneous systems.md",
-    "Math 152/Matrix Multiplication.md",
-    "Math 152/MT1Prac.md",
-    "Math 152/Markov Process.md",
-    "Math 152/Lines in vector form.md",
-    "Math 152/Complex Numbers.md",
-    "Math 152/Complex Poynomials.md",
-    "Math 152/Composition of linear transformations.md",
+    "Math 220/Notes/Converse.md",
+    "Math 220/Notes/Contrapositive.md",
+    "Math 220/Notes/Proofs Notation.md",
     "Math 152/Cross product.md",
-    "Math 152/Determinant.md",
-    "Math 152/Diagonalization.md",
-    "Math 152/Dot product.md",
-    "Math 152/Jan 22 Lecture Solving parametric equation from 2 planes.png",
+    "Cpen 211/Buffers.md",
+    "Cpen 221/Data structures.md",
+    "Math 253/Scratch.md",
+    "conflict-files-obsidian-git.md",
+    "Math 152/Projection.md",
     "Math 253",
+    "Math 152/Things to remember for exam.md",
+    "Math 152/Complex Numbers.md",
+    "Math 152/Linear indenpendence.md",
+    "Math 152/Dot product.md",
+    "Phys 170/Moment arm.md",
+    "Project ideas.md",
+    "Cpen 211",
+    "Math 152/Questions for Final.md",
+    "Cpen 221",
+    "Math 152/Determinant.md",
     "Math 220/Notes",
     "Math 220/Homework",
     "Math 220",
-    "Cpen 221",
-    "Cpen 211",
+    "Math 152/Pasted image 20240306125031.png",
+    "Math 152/Pasted image 20240311121450.png",
+    "Math 101/Pasted image 20240130112741.png",
     "Phys 159 Labs/Lab 09/Pasted image 20240327183522.png",
     "Phys 159 Labs/Lab 09/Pasted image 20240327183455.png",
     "Phys 159 Labs/Lab 09/Pasted image 20240327183218.png",
-    "Phys 159 Labs/Lab 09/Pasted image 20240327182850.png",
     "Phys 159 Labs/Lab 09/Pasted image 20240327183216.png",
+    "Phys 159 Labs/Lab 09/Pasted image 20240327182850.png",
     "Phys 159 Labs/Lab 09",
     "Phys 159 Labs/Lab 08/Pasted image 20240320190951.png",
     "Phys 159 Labs/Lab 08/Pasted image 20240320185834.png",
-    "Phys 159 Labs/Lab 08/Pasted image 20240320182720.png",
-    "Phys 159 Labs/Lab 08/Pasted image 20240320174014.png",
     "Phys 159 Labs/Lab 08",
     "Phys 159 Labs/Lab 07",
     "Phys 159 Labs/Lab 06",

@@ -8,115 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0d591aa0fff12c61",
+            "id": "bcf5900576356f48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 220/Notes/Proofs Notation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2052f1e2653d34a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math 220/Notes/Practice.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "816a1a52499fd670",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math 220/Notes/Examples.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b73b5a78077dc750",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math 220/Notes/Contrapositive.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e0337795f51c907",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math 220/Notes/Order of operations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "64a77d7caf219d06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math 220/Notes/Practice.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7aba61c69a3e56bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math 220/Notes/Implication.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1cb20d38bd4d3ed5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math 220/Notes/Biconditional.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dbaf9567005939ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math 220/Notes/XOR.md",
+                "file": "Math 253/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b2a76b873dfc05ff",
@@ -182,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 220/Notes/XOR.md",
+                "file": "Math 253/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 220/Notes/XOR.md",
+                "file": "Math 253/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 220/Notes/XOR.md"
+                "file": "Math 253/Untitled.md"
               }
             }
           },
@@ -261,24 +165,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dbaf9567005939ca",
+  "active": "bcf5900576356f48",
   "lastOpenFiles": [
-    "Math 220/Notes/Biconditional.md",
-    "Math 220/Notes/XOR.md",
-    "Math 220/Notes/Implication.md",
-    "Math 220/Notes/Practice.md",
-    "Math 220/Notes/DeMorgan's Laws.md",
-    "Math 220/Notes/Order of operations.md",
-    "Math 220/Notes/Parity.md",
-    "Math 220/Notes/Examples.md",
-    "Math 220/Homework/HW0.md",
-    "Math 220/Notes/Converse.md",
     "Math 220/Notes/Contrapositive.md",
     "Math 220/Notes/Proofs Notation.md",
-    "Math 152/Cross product.md",
-    "Cpen 211/Buffers.md",
-    "Cpen 221/Data structures.md",
+    "Math 220/Notes/Practice.md",
+    "Math 220/Notes/Examples.md",
     "Math 253/Scratch.md",
+    "Math 253/Untitled.md",
+    "Math 220/Notes/Order of operations.md",
+    "Math 220/Notes/Implication.md",
+    "Math 220/Notes/Biconditional.md",
+    "Cpen 211/Buffers.md",
+    "Cpen 211/Boolean Algebra.md",
+    "Cpen 221/Data structures.md",
+    "Math 220/Notes/XOR.md",
+    "Math 220/Notes/DeMorgan's Laws.md",
+    "Math 220/Notes/Parity.md",
+    "Math 220/Homework/HW0.md",
+    "Math 220/Notes/Converse.md",
+    "Math 152/Cross product.md",
     "conflict-files-obsidian-git.md",
     "Math 152/Projection.md",
     "Math 253",
@@ -289,9 +195,7 @@
     "Phys 170/Moment arm.md",
     "Project ideas.md",
     "Cpen 211",
-    "Math 152/Questions for Final.md",
     "Cpen 221",
-    "Math 152/Determinant.md",
     "Math 220/Notes",
     "Math 220/Homework",
     "Math 220",

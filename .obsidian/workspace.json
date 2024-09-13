@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 253/Alternate Line Definition.md",
+                "file": "Cpen 211/Buffers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f22a66cd7182dc6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cpen 211/CMOS Logic Gates.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b2a76b873dfc05ff",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 253/Alternate Line Definition.md",
+                "file": "Cpen 211/CMOS Logic Gates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 253/Alternate Line Definition.md",
+                "file": "Cpen 211/CMOS Logic Gates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 253/Alternate Line Definition.md"
+                "file": "Cpen 211/CMOS Logic Gates.md"
               }
             }
           },
@@ -165,11 +177,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bcf5900576356f48",
+  "active": "f22a66cd7182dc6c",
   "lastOpenFiles": [
+    "Cpen 211/Buffers.md",
+    "Cpen 211/CMOS Logic Gates.md",
+    "Math 253/Alternate Line Definition.md",
     "Math 220/Homework/HW0.md",
     "Math 152/Lines in vector form.md",
-    "Math 253/Alternate Line Definition.md",
     "conflict-files-obsidian-git.md",
     "Math 220/Notes/Contrapositive.md",
     "Math 220/Notes/Proofs Notation.md",
@@ -179,7 +193,6 @@
     "Math 220/Notes/Order of operations.md",
     "Math 220/Notes/Implication.md",
     "Math 220/Notes/Biconditional.md",
-    "Cpen 211/Buffers.md",
     "Cpen 211/Boolean Algebra.md",
     "Cpen 221/Data structures.md",
     "Math 220/Notes/XOR.md",
@@ -193,7 +206,6 @@
     "Math 152/Complex Numbers.md",
     "Math 152/Linear indenpendence.md",
     "Math 152/Dot product.md",
-    "Phys 170/Moment arm.md",
     "Cpen 211",
     "Cpen 221",
     "Math 220/Notes",

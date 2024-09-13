@@ -7,4 +7,4 @@ $\mathbb{I}$ - imaginary
 $\in$ - element of
 $\notin$ - not an element of
 $\{\}$ - empty set
-$:$ or $|$ - such that
+$:$ or $|$ - such that	

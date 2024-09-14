@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "6cf0b03f33a79518",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cpen 211/p-type MOS transistor (PFET).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f22a66cd7182dc6c",
             "type": "leaf",
             "state": {
@@ -37,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cpen 211/n-type MOS transistor (NFET).md",
+                "file": "Cpen 211/CMOS Logic Gates.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cpen 211/n-type MOS transistor (NFET).md",
+                "file": "Cpen 211/p-type MOS transistor (PFET).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cpen 211/n-type MOS transistor (NFET).md",
+                "file": "Cpen 211/p-type MOS transistor (PFET).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cpen 211/n-type MOS transistor (NFET).md"
+                "file": "Cpen 211/p-type MOS transistor (PFET).md"
               }
             }
           },
@@ -213,18 +225,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f22a66cd7182dc6c",
+  "active": "6cf0b03f33a79518",
   "lastOpenFiles": [
+    "Cpen 211/n-type MOS transistor (NFET).md",
+    "Cpen 211/p-type MOS transistor (PFET).md",
+    "Cpen 211/Pasted image 20240913172923.png",
+    "Cpen 211/CMOS Logic Gates.md",
+    "Cpen 211/Bubble Rule.md",
+    "Cpen 211/Buffers.md",
+    "Cpen 211/Metal Oxide Semiconductor (MOS) Field-Effect Transistors (FET).md",
     "Cpen 211/Pasted image 20240913171148.png",
     "Cpen 211/Pasted image 20240913171101.png",
-    "Cpen 211/CMOS Logic Gates.md",
-    "Cpen 211/Metal Oxide Semiconductor (MOS) Field-Effect Transistors (FET).md",
-    "Cpen 211/n-type MOS transistor (NFET).md",
     "Cpen 211/Pasted image 20240913171024.png",
-    "Cpen 211/Bubble Rule.md",
     "Cpen 211/Pasted image 20240913170616.png",
     "Cpen 211/Pasted image 20240913165029.png",
-    "Cpen 211/Buffers.md",
     "Math 253/Alternate Line Definition.md",
     "Math 220/Homework/HW0.md",
     "Math 152/Lines in vector form.md",
@@ -244,7 +258,6 @@
     "Math 220/Notes/Parity.md",
     "Math 220/Notes/Converse.md",
     "Math 152/Cross product.md",
-    "Math 152/Projection.md",
     "Math 253",
     "Cpen 211",
     "Cpen 221",
@@ -255,8 +268,6 @@
     "Math 152/Pasted image 20240311121450.png",
     "Math 101/Pasted image 20240130112741.png",
     "Phys 159 Labs/Lab 09/Pasted image 20240327183522.png",
-    "Phys 159 Labs/Lab 09/Pasted image 20240327183455.png",
-    "Phys 159 Labs/Lab 09/Pasted image 20240327183218.png",
     "Phys 159 Labs/Lab 09",
     "Phys 159 Labs/Lab 08",
     "Phys 159 Labs/Lab 07",

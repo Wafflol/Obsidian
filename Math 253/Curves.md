@@ -54,9 +54,9 @@ Circle 2
 $$r_{2}(t) = R\cos t \cdot \hat{l} + R\sin t\cdot \hat{m} + 1\cdot \hat{n}$$
 $$(x_{1}(t)=\vec{x}(t),y(t)=\vec{y}(t),z(t)=\vec{z}(t))$$
 $$\begin{cases}
-x_{2}(t) = \\
-y_{2}(t) =  \\
-z_{3}(t) = 
+x_{2}(t) = 1\\
+y_{2}(t) =  \frac{R\cos t-R\sin t}{\sqrt{ 2 }}\\
+z_{3}(t) = \frac{-R\cos t-R\sin t}{\sqrt{ 2 }} 
 \end{cases}$$
 
 $$(x_{2}(t),y_{2}(t),z_{2}(t)) \text{ always refers to the standard coordinates}$$

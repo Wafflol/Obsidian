@@ -17,3 +17,4 @@ $$\implies x^2-2x+2>0$$
 $$\implies x^2+2>2x$$
 We divide by $x$ (and note that $x>0$):
 $$x+\frac{2}{x}>0$$
+

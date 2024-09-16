@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 253/Curves.md",
+                "file": "Math 220/Notes/Biconditional.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bbcc988de88cd674",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math 220/Notes/Implication.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -142,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b2a76b873dfc05ff",
@@ -159,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 253/Curves.md",
+                "file": "Math 220/Notes/Implication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 253/Curves.md",
+                "file": "Math 220/Notes/Implication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 253/Curves.md"
+                "file": "Math 220/Notes/Implication.md"
               }
             }
           },
@@ -238,12 +249,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "35167b6da6e39442",
+  "active": "bbcc988de88cd674",
   "lastOpenFiles": [
+    "Math 220/Notes/Examples.md",
+    "Math 220/Notes/Implication.md",
+    "Math 220/Notes/Untitled.md",
+    "Math 220/Notes/Biconditional.md",
+    "Math 253/Curves.md",
     "Math 253/Pasted image 20240916111938.png",
     "Math 253/Pasted image 20240916110921.png",
     "Math 253/Alternate Line Definition.md",
-    "Math 253/Curves.md",
     "Math 101/Trig Sub.md",
     "Math 101/Properties of Integrals.md",
     "Math 101/Integrability.md",
@@ -267,11 +282,8 @@
     "Math 220/Notes/Contrapositive.md",
     "Math 220/Notes/Proofs Notation.md",
     "Math 220/Notes/Practice.md",
-    "Math 220/Notes/Examples.md",
     "Math 253/Scratch.md",
     "Math 220/Notes/Order of operations.md",
-    "Math 220/Notes/Implication.md",
-    "Math 220/Notes/Biconditional.md",
     "Cpen 211/Boolean Algebra.md",
     "Math 253",
     "Cpen 211",
@@ -281,7 +293,6 @@
     "Math 220",
     "Math 152/Pasted image 20240306125031.png",
     "Math 152/Pasted image 20240311121450.png",
-    "Math 101/Pasted image 20240130112741.png",
     "Phys 159 Labs/Lab 09",
     "Phys 159 Labs/Lab 08",
     "Phys 159 Labs/Lab 07",

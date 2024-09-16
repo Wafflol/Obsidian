@@ -16,3 +16,8 @@ $$x(t) = R\cos t$$
 $$y(t) = R\sin t$$
 3.
 Circles in 3d
+$$\begin{cases}
+x(t) = x_{0} + R\cos t \\
+y(t) = y_{0} + R\sin t \\
+z(t) = z_{0}
+\end{cases}$$

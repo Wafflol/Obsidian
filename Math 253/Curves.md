@@ -1,0 +1,13 @@
+In $\mathbb{R}^2$
+$$\gamma: I < \mathbb{R} \to \mathbb{R}^2$$
+In $\mathbb{R}^3$
+$$\gamma(t) = (x(t),y(t),z(t))$$
+$$\gamma: I \leq \mathbb{R} \to (x(t),y(t),z(t)) \in \mathbb{R}^3$$
+
+**Examples**
+1.
+lines in 3d
+![[Pasted image 20240916110921.png]]
+
+2.
+Circles in 2d

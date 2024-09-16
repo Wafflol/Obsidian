@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 220/Notes/Practice.md",
+                "file": "Math 220/Notes/Implication.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 220/Notes/Practice.md",
+                "file": "Math 220/Notes/Implication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 220/Notes/Practice.md",
+                "file": "Math 220/Notes/Implication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 220/Notes/Practice.md"
+                "file": "Math 220/Notes/Implication.md"
               }
             }
           },
@@ -166,10 +166,10 @@
   },
   "active": "bbcc988de88cd674",
   "lastOpenFiles": [
+    "Math 220/Notes/Practice.md",
     "Cpen 211/CMOS Logic Gates.md",
     "Cpen 211/Bubble Rule.md",
     "Cpen 211/Metal Oxide Semiconductor (MOS) Field-Effect Transistors (FET).md",
-    "Math 220/Notes/Practice.md",
     "Cpen 211/n-type MOS transistor (NFET).md",
     "Math 220/Notes/Biconditional.md",
     "Math 253/Alternate Line Definition.md",

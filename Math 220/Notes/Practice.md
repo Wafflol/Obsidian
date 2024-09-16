@@ -29,3 +29,14 @@ for $n \in \mathbb{Z}$, if $n$ is not divisible by 2, then $n$ is not divisible 
 Converse:
 $$R \Rightarrow Q \lor P$$
 for $n \in \mathbb{Z}$, if $n$ is divisible by 2, then $n$ is divisible by 6 or 10
+
+
+6.
+scratch
+$$P\Rightarrow Q \equiv \sim P \lor Q$$
+$$(\sim P\lor Q) \Rightarrow R \equiv \sim(\sim P\lor Q)\lor R$$
+$$(P\land \sim Q)\lor R$$
+$$\Rightarrow (P \lor R) \land (\sim Q \lor R)$$
+$$\Rightarrow (P \lor R) \land (Q\Rightarrow R)$$
+$$\Rightarrow \sim(P\lor R) \lor \sim(Q\Rightarrow R)$$
+$$\Rightarrow (P\lor R) \Rightarrow \sim(Q\Rightarrow R)$$

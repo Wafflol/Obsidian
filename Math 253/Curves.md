@@ -11,3 +11,8 @@ lines in 3d
 
 2.
 Circles in 2d
+$$t \in [0,2\pi]$$
+$$x(t) = R\cos t$$
+$$y(t) = R\sin t$$
+3.
+Circles in 3d

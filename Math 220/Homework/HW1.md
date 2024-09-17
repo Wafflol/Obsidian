@@ -70,3 +70,7 @@ Therefore, the implication is true.
 
 ---
 5.
+Prove $ab+cd$ is odd $(ab+cd) = 2k+1, k\in\mathbb{Z}$
+Let $a, b, c, d, \in \mathbb{Z}$
+Assume $a, c, b-d$ are odd
+$$a = 2k+1, c = 2l+1, b-d=2m-1, \text{ }k, l, m \in \mathbb{Z}$$

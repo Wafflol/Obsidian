@@ -23,4 +23,9 @@ $$\begin{align}
 \end{align}$$
 3.
 $$x+y<0$$
-for two integers to sum to a negative 
+for two integers to sum to a negative, at least one number has to be negative.
+___
+let $x,y\in\mathbb{R}$
+assume $x < y$, and $y^2< x^2$\
+
+for $x^2>y^2$

@@ -21,10 +21,8 @@ proofs
 $$\begin{align}
 
 \end{align}$$
+---
 3.
-$$x+y<0$$
-for two integers to sum to a negative, at least one number has to be negative.
-___
 let $x,y\in\mathbb{R}$
 assume $x < y$, and $y^2< x^2$\
 for $x^2 > y^2$, sqrt both sides so $\mid x \mid> \mid y\mid$
@@ -42,7 +40,19 @@ $y<0$
 the sum of two negative numbers is always negative. 
 Thus, in this case, $x+y<0$
 Therefore, as seen in these two cases, no matter the sign of $y$, $x+y<0$. Thus, the implication is true.
+___
+4.
+$$n, a, b, x, y \in \mathbb{Z}$$
+$$n \mid (ax+by)$$
+$$ax+by=kn, k\in\mathbb{Z}$$
+$$k = i+j,  i,j\in \mathbb{Z}$$
+$$ax+by=in+jn$$
+--
+$$ax+by=0$$
+$$ax=by$$
+$$\frac{a}{y}=n \land \frac{b}{x} = n$$
+$$a=yn \land b=xn$$
+$$n\mid a \land n\mid b$$
+fuckfuckfuckfuckfuckfuckfuckfuckfuckfuckf
 
-
-
-
+---

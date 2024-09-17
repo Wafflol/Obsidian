@@ -23,4 +23,4 @@ $$\begin{align}
 \end{align}$$
 3.
 $$x+y<0$$
-$$x < -y$$
+for two integers to sum to a negative 

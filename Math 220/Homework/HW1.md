@@ -23,3 +23,5 @@ $$\begin{align}
 \end{align}$$
 3.
 $$x+y<0$$
+$$x < -y$$
+$$x^2<$$

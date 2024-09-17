@@ -3,9 +3,23 @@ $$n \in \mathbb{Z}$$
 scratch
 $$3 \nmid n^2+5n+5$$
 $$\begin{align}
-n^2+5n+5\neq 3 \\
+n^2+5n+5\neq 3k, k\in\mathbb{Z} \\
 
 \end{align}$$
+$$n^2+6n+5-n \neq 3k$$
+$$(n+1)(n+5)-n\neq 3k$$
+
+
+---
+
+$$3|n+1$$
+$$n+1 = 3k, k\in\mathbb{Z}$$
+$$$$
+
+
+
+
+
 
 2.
 scratch

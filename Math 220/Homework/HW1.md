@@ -8,6 +8,7 @@ n^2+5n+5\neq 3k, k\in\mathbb{Z} \\
 \end{align}$$
 $$n^2+6n+5-n \neq 3k$$
 $$(n+1)(n+5)-n\neq 3k$$
+$$n+1\neq\frac{3k+n}{n+5}$$
 
 
 ---

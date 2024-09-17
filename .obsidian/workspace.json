@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 220/Notes/Proofs Notation.md",
+                "file": "Math 152/Cross product.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 220/Notes/Proofs Notation.md",
+                "file": "Math 152/Cross product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 220/Notes/Proofs Notation.md",
+                "file": "Math 152/Cross product.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 220/Notes/Proofs Notation.md"
+                "file": "Math 152/Cross product.md"
               }
             }
           },
@@ -150,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,6 +165,8 @@
   },
   "active": "62ffa8607e50dd73",
   "lastOpenFiles": [
+    "Math 152/Dot product.md",
+    "Math 220/Notes/Proofs Notation.md",
     "Math 220/Notes/XOR.md",
     "Math 220/Notes/Order of operations.md",
     "Math 220/Notes/Implication.md",
@@ -177,7 +178,6 @@
     "Cpen 221/Data structures.md",
     "Cpen 211/Buffers.md",
     "Math 220/Notes/Practice.md",
-    "Math 220/Notes/Proofs Notation.md",
     "Math 220/Notes/Parity.md",
     "Math 220/Homework/HW0.md",
     "Math 253/Scratch.md",
@@ -191,7 +191,6 @@
     "Math 152/MT2.md",
     "Math 152/MT3.md",
     "Math 152/Non-homogeneous systems.md",
-    "Math 152/Matrix Multiplication.md",
     "Math 152/Jan 22 Lecture Solving parametric equation from 2 planes.png",
     "Math 253",
     "Math 220/Notes",

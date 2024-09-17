@@ -21,6 +21,8 @@ $$=9k^2-6k+1+15k=9k^2+9k+1$$
 $$=3(3k^2+3k)+1$$
 the square & sum of integers are still integers, so $3k^2+3k \in \mathbb{Z}$
 thus, $3|(3k^2+3k)$, but $3\nmid 3(3k^2+3k)+1$, as there will be a remainder of 1.
+Thus, $$3 \nmid n^2+5n+5$$
+Therefore, the implication is true
 
 ---
 $$3\mid n+1$$

@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b2a76b873dfc05ff",
@@ -191,8 +192,8 @@
   "active": "bbcc988de88cd674",
   "lastOpenFiles": [
     "Math 220/Notes/Practice.md",
-    "Math 220/Notes/Modular Arithmetic.md",
     "Math 220/Homework/HW1.md",
+    "Math 220/Notes/Modular Arithmetic.md",
     "Math 220/Homework/HW0.md",
     "Cpen 221/Data structures.md",
     "scratch.md",

@@ -3,9 +3,35 @@ $$n \in \mathbb{Z}$$
 scratch
 $$3 \nmid n^2+5n+5$$
 $$\begin{align}
-n^2+5n+5\neq 3 \\
+n^2+5n+5\neq 3k, k\in\mathbb{Z} \\
 
 \end{align}$$
+$$n^2+6n+5-n \neq 3k$$
+$$(n+1)(n+5)-n\neq 3k$$
+$$n+1\neq\frac{3k+n}{n+5}$$
+
+
+---
+
+$$3|n+1$$
+$$n+1 = 3k, k\in\mathbb{Z}$$
+$$n=3k-1$$
+$$n^2+5n+5 = (3k-1)^2+5(3k-1)+5$$
+$$=9k^2-6k+1+15k=9k^2+9k+1$$
+$$=3(3k^2+3k)+1$$
+the square & sum of integers are still integers, so $3k^2+3k \in \mathbb{Z}$
+thus, $3|(3k^2+3k)$, but $3\nmid 3(3k^2+3k)+1$, as there will be a remainder of 1.
+Thus, $$3 \nmid n^2+5n+5$$
+Therefore, the implication is true
+
+---
+$$3\mid n+1$$
+$$n+1 = 3k, k\in\mathbb{Z}$$
+$$n = 3k-1$$
+$$$$
+
+
+
 
 2.
 scratch
@@ -86,3 +112,17 @@ Therefore, the implication is true.
 
 ---
 6.
+No.
+
+Let $a \in \mathbb{Z}$ and assume that $3a+1$ is odd. Hence $3a+1=2k+1$ for some $k\in\mathbb{Z}$. This implies that $3a=2k$.
+Since $k\in\mathbb{Z}$, $3a$ is even
+Thus if we add $2a$+2, we get $$3a+2a+2$$
+And since $a\in\mathbb{Z}$, $2a$ is even. 
+Hence, $$2a = 2l, l\in\mathbb{Z}$$
+$$3a+2a+2=5a+2=2k+2l+2$$
+$$=2(k+l+1)$$
+since $(k+l+1)\in\mathbb{Z}$, $5a+2$ is even
+Therefore, the implication is true.
+
+---
+7.

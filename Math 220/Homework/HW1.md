@@ -92,4 +92,11 @@ Let $a \in \mathbb{Z}$ and assume that $3a+1$ is odd. Hence $3a+1=2k+1$ for some
 Since $k\in\mathbb{Z}$, $3a$ is even
 Thus if we add $2a$+2, we get $$3a+2a+2$$
 And since $a\in\mathbb{Z}$, $2a$ is even. 
-Thus, 
+Hence, $$2a = 2l, l\in\mathbb{Z}$$
+$$3a+2a+2=5a+2=2k+2l+2$$
+$$=2(k+l+1)$$
+since $(k+l+1)\in\mathbb{Z}$, $5a+2$ is even
+Therefore, the implication is true.
+
+---
+7.

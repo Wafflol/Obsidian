@@ -56,3 +56,17 @@ $$n\mid a \land n\mid b$$
 fuckfuckfuckfuckfuckfuckfuckfuckfuckfuckf
 
 ---
+Let $n, a, b, x, y \in \mathbb{Z}$
+Assume $n \mid a$ and $n \mid b$
+$$a = in \land b = jn \text{ for } i,j \in\mathbb{Z}$$
+$$ax=ixn \land by = jyn$$
+since $i, j, x, y \in \mathbb{Z}$, then it follows that $ix, jy \in \mathbb{Z}$
+Thus, 
+$$ax+by = ((ix)n+(jy)n)$$
+$$ax+by=(ix+jy)n$$
+because $ix,jy\in\mathbb{Z}$, $ix+jy \in\mathbb{Z}$
+and thus, $n \mid (ax+by)$
+Therefore, the implication is true.
+
+---
+5.

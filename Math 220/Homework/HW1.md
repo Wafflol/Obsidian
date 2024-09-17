@@ -15,9 +15,18 @@ $$n+1\neq\frac{3k+n}{n+5}$$
 
 $$3|n+1$$
 $$n+1 = 3k, k\in\mathbb{Z}$$
+$$n=3k-1$$
+$$n^2+5n+5 = (3k-1)^2+5(3k-1)+5$$
+$$=9k^2-6k+1+15k=9k^2+9k+1$$
+$$=3(3k^2+3k)+1$$
+the square & sum of integers are still integers, so $3k^2+3k \in \mathbb{Z}$
+thus, $3|(3k^2+3k)$, but $3\nmid 3(3k^2+3k)+1$, as there will be a remainder of 1.
+
+---
+$$3\mid n+1$$
+$$n+1 = 3k, k\in\mathbb{Z}$$
+$$n = 3k-1$$
 $$$$
-
-
 
 
 

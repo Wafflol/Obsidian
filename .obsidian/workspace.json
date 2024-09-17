@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 220/Notes/Parity.md",
+                "file": "Math 220/Homework/HW1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 220/Notes/Parity.md",
+                "file": "Math 220/Homework/HW1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 220/Notes/Parity.md"
+                "file": "Math 220/Homework/HW1.md"
               }
             }
           },
@@ -190,11 +189,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0119ebe8b86d4e06",
+  "active": "bbcc988de88cd674",
   "lastOpenFiles": [
+    "Math 220/Notes/Practice.md",
+    "Math 220/Notes/Parity.md",
     "Math 220/Notes/Modular Arithmetic.md",
     "Math 220/Homework/HW1.md",
-    "Math 220/Notes/Practice.md",
     "Math 220/Homework/HW0.md",
     "Cpen 221/Data structures.md",
     "scratch.md",
@@ -225,7 +225,6 @@
     "Cpen 211/Pasted image 20240913171024.png",
     "Cpen 211/Pasted image 20240913170616.png",
     "Cpen 211/Pasted image 20240913165029.png",
-    "Math 152/Lines in vector form.md",
     "Math 253",
     "Cpen 211",
     "Cpen 221",

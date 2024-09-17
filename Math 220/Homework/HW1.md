@@ -74,4 +74,15 @@ Prove $ab+cd$ is odd $(ab+cd) = 2k+1, k\in\mathbb{Z}$
 Let $a, b, c, d, \in \mathbb{Z}$
 Assume $a, c, b-d$ are odd
 $$a = 2k+1, c = 2l+1, b-d=2m+1, \text{ }k, l, m \in \mathbb{Z}$$
-$$(a+c)*(b-d) = (ab-da+bc-dc)$$
+$$b = 2m+1+d, d = b-2m-1$$
+$$ab+cd = 4km+2k+2kd+2m+1+d+2lb+4lm-2l+b-2m-1$$
+$$ab+cd=2(2km+k+kd+m+lb+2lm-l-m)+d+b$$
+$(2km+k+kd+m+lb+2lm-l-m)\in\mathbb{Z}$, $o = (2km+k+kd+m+lb+2lm-l-m)$ so $o\in\mathbb{Z}$
+$$ab+cd=2(o)+d+b$$
+$$=2(o)+d+2m+1+d$$
+$$=2(o + m + d)+1$$
+since $(o + m + d)\in\mathbb{Z}$, $ab+cd$ is odd
+Therefore, the implication is true.
+
+---
+6.

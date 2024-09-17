@@ -1,4 +1,8 @@
 1.
 $$n \in \mathbb{Z}$$
-assume $3 \mid n+1$
-$$3$$
+scratch
+$$3 \nmid n^2+5n+5$$
+$$\begin{align}
+n^2+5n+5\neq 3 \\
+
+\end{align}$$

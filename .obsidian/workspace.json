@@ -37,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 220/Notes/Modular Arithmetic.md",
+                "file": "Math 220/Notes/Parity.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 220/Homework/HW1.md",
+                "file": "Math 220/Notes/Parity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 220/Homework/HW1.md",
+                "file": "Math 220/Notes/Parity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 220/Homework/HW1.md"
+                "file": "Math 220/Notes/Parity.md"
               }
             }
           },
@@ -189,11 +190,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bbcc988de88cd674",
+  "active": "0119ebe8b86d4e06",
   "lastOpenFiles": [
-    "Math 220/Notes/Practice.md",
-    "Math 220/Homework/HW1.md",
     "Math 220/Notes/Modular Arithmetic.md",
+    "Math 220/Homework/HW1.md",
+    "Math 220/Notes/Practice.md",
     "Math 220/Homework/HW0.md",
     "Cpen 221/Data structures.md",
     "scratch.md",

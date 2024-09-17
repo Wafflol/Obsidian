@@ -86,3 +86,10 @@ Therefore, the implication is true.
 
 ---
 6.
+No.
+
+Let $a \in \mathbb{Z}$ and assume that $3a+1$ is odd. Hence $3a+1=2k+1$ for some $k\in\mathbb{Z}$. This implies that $3a=2k$.
+Since $k\in\mathbb{Z}$, $3a$ is even
+Thus if we add $2a$+2, we get $$3a+2a+2$$
+And since $a\in\mathbb{Z}$, $2a$ is even. 
+Thus, 

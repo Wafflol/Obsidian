@@ -112,3 +112,10 @@ $$x^{1/3} = \frac{p}{q}, p,q\in \mathbb{Z}$$
 $$x=\frac{p^3}{q^3}$$
 since $\frac{p^3}{q^3} \in \mathbb{Z}$, x is rational
 thus, the implication is true
+
+---
+let $x>0$
+assume $x-\frac{3}{x}> 2$
+
+---
+$x>3$

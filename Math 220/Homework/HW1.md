@@ -126,3 +126,4 @@ Therefore, the implication is true.
 
 ---
 7.
+$$$$

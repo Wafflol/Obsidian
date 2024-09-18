@@ -132,7 +132,7 @@ $$a^k=m, k\in\mathbb{N}, m\in\mathbb{Z}$$
 $$b^l=n, l \in \mathbb{N}, n \in \mathbb{Z}$$
 $$a=\sqrt[k]{ m }, b=\sqrt[l]{ n }$$
 $$ab=m^{1/k}n^{1/l}$$
-$$\sqrt{ ab } = m^{1/2k}n^{1/2l}$$
+$$\sqrt{ ab }^2 = m^{1/k}n^{1/l}$$
 
 
 ---

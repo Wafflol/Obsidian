@@ -131,4 +131,17 @@ womp womp
 Thus, the implication is true
 
 ---
-$x>3$
+assume $n\in\mathbb{Z}$
+Proof by cases:
+Case 1: $n$ is even
+$$n = 2k, k \in \mathbb{Z}$$
+$$n^2+3n+8=4k^2+6k+8$$
+$$=2(2k^2+3k+4)$$
+Since $2k^2+3k+4\in\mathbb{Z}$, $n^2+3n+8$ is even
+Case 2: $n$ is odd
+$$ n = 2l + 1, l \in \mathbb{Z}$$
+$$n^2+3n+8 = 4l^2+4l+1+6l+3+8$$
+$$=2(2l^2+5l+6)$$
+since $2l^2+5l+6 \in \mathbb{Z}$, $n^2+3n+8$ is even
+
+in both cases, $n^2+3n+8$ is even. Thus, the implication is true.

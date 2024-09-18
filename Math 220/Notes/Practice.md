@@ -116,6 +116,19 @@ thus, the implication is true
 ---
 let $x>0$
 assume $x-\frac{3}{x}> 2$
+$$x^2-3>2x$$
+$$x^2-2x-3>0$$ (since $x>0$)
+$$(x-3)(x+1)>0$$
+we will solve by cases
+Case 1: $x > 3$
+since $x-3 >0$ and $x+1 > 0$
+thus, because a positive number multiplied by another positive number is positive, $(x-3)(x+1)>0$
+Case 2: $0<x<3$
+womp womp
+Case 3: $x = 3$
+womp womp
+
+Thus, the implication is true
 
 ---
 $x>3$

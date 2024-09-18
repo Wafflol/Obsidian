@@ -130,3 +130,7 @@ Let $a>0, b>0$
 Assume $a$ and $b$ are *funky*
 $$a^k=m, k\in\mathbb{N}, m\in\mathbb{Z}$$
 $$b^l=n, l \in \mathbb{N}, n \in \mathbb{Z}$$
+---
+$$\sqrt{ ab }^2=q,q \in \mathbb{Z}$$
+2 is a natural number
+$$ab=q$$

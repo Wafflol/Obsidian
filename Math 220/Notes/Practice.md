@@ -147,3 +147,23 @@ since $2l^2+5l+6 \in \mathbb{Z}$, $n^2+3n+8$ is even
 in both cases, $n^2+3n+8$ is even. Thus, the implication is true.
 
 ---
+
+
+assume $n \in \mathbb{Z}$
+Case 1: $n = 3k, k \in \mathbb{Z}$
+$$2n^2+n+1=18k^2+3k+1$$
+$$=3(6k^2+k)+1$$
+since $k \in \mathbb{Z}$, then $6k^2+k \in \mathbb{Z}$, and thus, $3 \nmid 3(6k^2+k)+1$ 
+Case 2: $n = 3k+1, k \in\mathbb{Z}$
+$$2n^2+n+1 = 2(9k^2+6k+1)+3k+1+1$$
+$$=18k^2+15k+4$$
+$$=3(6k^2+5k+1)+1$$
+Since $k \in \mathbb{Z}$, $6k^2+5k+1 \in \mathbb{Z}$, and thus, $3 \nmid 3(6k^2+5k+1)+1$ 
+
+Case 3: $n = 3k+2, k\in \mathbb{Z}$
+$$2n^2+n+1 = 2(9k^2+12k+4)+3k+2+1$$
+$$=18k^2+27k+11$$
+$$=3(6k^2+9k+3)+2$$
+since $k \in \mathbb{Z}$, $6k^2+9k+3 \in \mathbb{Z}$, and thus, $3 \nmid 3(6k^2+9k+3)+2$
+
+Thus, the implication is true

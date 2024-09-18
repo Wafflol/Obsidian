@@ -10,4 +10,4 @@ $$ = <-1, 0> + \lambda <0, -1>$$
 gives a point and a direction
 
 **t is a coordinate on the circle**
-**x is a coordinate on the tangent line**
+**x is a coordinate on the tangent linej**

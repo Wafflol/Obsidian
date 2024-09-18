@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "eb04205e1242585e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b2a76b873dfc05ff",
@@ -122,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cpen 221/Data structures.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cpen 221/Data structures.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cpen 221/Data structures.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -187,8 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,11 +213,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b29d78dd72814ee8",
+  "active": "eb04205e1242585e",
   "lastOpenFiles": [
+    "Cpen 221/Data structures.md",
+    "conflict-files-obsidian-git.md",
     "Cpen 211/n-type MOS transistor (NFET).md",
     "Cpen 211/Metal Oxide Semiconductor (MOS) Field-Effect Transistors (FET).md",
-    "Cpen 221/Data structures.md",
     "Math 220/Notes/Parity.md",
     "Math 220/Notes/Practice.md",
     "Cpen 211/p-type MOS transistor (PFET).md",
@@ -215,7 +228,6 @@
     "Cpen 211/Pasted image 20240913165029.png",
     "Cpen 221/Specifications, Unit Testing, Exceptions.md",
     "Math 220/Homework/HW1.md",
-    "conflict-files-obsidian-git.md",
     "Math 220/Notes/Modular Arithmetic.md",
     "Math 220/Homework/HW0.md",
     "scratch.md",

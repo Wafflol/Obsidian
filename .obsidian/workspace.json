@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cpen 221/Specifications, Unit Testing, Exceptions.md",
+                "file": "Cpen 211/p-type MOS transistor (PFET).md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cpen 221/Specifications, Unit Testing, Exceptions.md",
+                "file": "Cpen 221/Data structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cpen 221/Specifications, Unit Testing, Exceptions.md",
+                "file": "Cpen 221/Data structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cpen 221/Specifications, Unit Testing, Exceptions.md"
+                "file": "Cpen 221/Data structures.md"
               }
             }
           },
@@ -201,27 +201,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "14c619cf2ac48f83",
+  "active": "b29d78dd72814ee8",
   "lastOpenFiles": [
+    "Cpen 211/n-type MOS transistor (NFET).md",
+    "Cpen 211/Metal Oxide Semiconductor (MOS) Field-Effect Transistors (FET).md",
     "Cpen 221/Data structures.md",
+    "Math 220/Notes/Parity.md",
+    "Math 220/Notes/Practice.md",
+    "Cpen 211/p-type MOS transistor (PFET).md",
+    "Cpen 211/Bubble Rule.md",
+    "Cpen 211/Buffers.md",
+    "Cpen 211/CMOS Logic Gates.md",
+    "Cpen 211/Pasted image 20240913165029.png",
     "Cpen 221/Specifications, Unit Testing, Exceptions.md",
     "Math 220/Homework/HW1.md",
     "conflict-files-obsidian-git.md",
-    "Math 220/Notes/Practice.md",
-    "Math 220/Notes/Parity.md",
     "Math 220/Notes/Modular Arithmetic.md",
     "Math 220/Homework/HW0.md",
     "scratch.md",
     "Project ideas.md",
     "Math 220/Notes/Contrapositive.md",
     "Math 220/Notes/Implication.md",
-    "Cpen 211/CMOS Logic Gates.md",
-    "Cpen 211/Bubble Rule.md",
-    "Cpen 211/Metal Oxide Semiconductor (MOS) Field-Effect Transistors (FET).md",
-    "Cpen 211/n-type MOS transistor (NFET).md",
     "Math 220/Notes/Biconditional.md",
     "Math 253/Alternate Line Definition.md",
-    "Cpen 211/Buffers.md",
     "Math 220/Notes/Examples.md",
     "Math 220/Notes/Untitled.md",
     "Math 253/Curves.md",
@@ -230,13 +232,11 @@
     "Math 101/Trig Sub.md",
     "Math 101/Properties of Integrals.md",
     "Math 101/Integrability.md",
-    "Math 101/Indefinite Integral.md",
     "Cpen 211/Pasted image 20240913172923.png",
     "Cpen 211/Pasted image 20240913171148.png",
     "Cpen 211/Pasted image 20240913171101.png",
     "Cpen 211/Pasted image 20240913171024.png",
     "Cpen 211/Pasted image 20240913170616.png",
-    "Cpen 211/Pasted image 20240913165029.png",
     "Math 253",
     "Cpen 211",
     "Cpen 221",

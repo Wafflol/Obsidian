@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 220/Notes/Parity.md",
+                "file": "Math 220/Notes/Converse.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d994a1d698b53cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math 220/Notes/Tangent Vectors.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -123,6 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Math 220/Notes/Tangent Vectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,6 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Math 220/Notes/Tangent Vectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Math 220/Notes/Tangent Vectors.md"
               }
             }
           },
@@ -186,7 +200,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,8 +214,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6992ed5cb050747e",
+  "active": "3d994a1d698b53cb",
   "lastOpenFiles": [
+    "Math 220/Notes/Converse.md",
+    "Math 220/Notes/Tangent Vectors.md",
     "Cpen 221/Data structures.md",
     "conflict-files-obsidian-git.md",
     "Cpen 211/n-type MOS transistor (NFET).md",
@@ -228,8 +245,6 @@
     "Math 253/Pasted image 20240916111938.png",
     "Math 253/Pasted image 20240916110921.png",
     "Math 101/Trig Sub.md",
-    "Math 101/Properties of Integrals.md",
-    "Math 101/Integrability.md",
     "Cpen 211/Pasted image 20240913172923.png",
     "Cpen 211/Pasted image 20240913171148.png",
     "Cpen 211/Pasted image 20240913171101.png",

@@ -145,3 +145,5 @@ $$=2(2l^2+5l+6)$$
 since $2l^2+5l+6 \in \mathbb{Z}$, $n^2+3n+8$ is even
 
 in both cases, $n^2+3n+8$ is even. Thus, the implication is true.
+
+---

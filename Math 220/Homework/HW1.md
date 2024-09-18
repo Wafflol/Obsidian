@@ -126,4 +126,7 @@ Therefore, the implication is true.
 
 ---
 7.
-$$$$
+Let $a>0, b>0$ 
+Assume $a$ and $b$ are *funky*
+$$a^k=m, k\in\mathbb{N}, m\in\mathbb{Z}$$
+$$b^l=n, l \in \mathbb{N}, n \in \mathbb{Z}$$

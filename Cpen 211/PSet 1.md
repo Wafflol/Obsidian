@@ -24,11 +24,15 @@ b.
 | ----- | --- | --- | --- | --- |
 | 00    | 1   | 1   | 1   | 1   |
 | 01    |     | 1   |     |     |
-| 11    |     | 1   |     |     |
-| 10    | 1   |     |     |     |
+| 11    | x   | x   | x   | x   |
+| 10    | 1   |     | x   | x   |
 c.
 d.
 e.
 f.
 $$\sim d \land \sim c \lor \sim c \land \sim a \land \sim b \lor c \land a \land \sim b$$
 $$(\bar{d} \land  \bar{c}) \lor (\bar{c} \land \bar{a} \land \bar{b}) \lor (a \land c \land \bar{b})$$
+
+
+
+$$(\bar{d} \land \bar{c}) \lor (d \land \bar{a}) \lor (a \land c \land \bar{b})$$

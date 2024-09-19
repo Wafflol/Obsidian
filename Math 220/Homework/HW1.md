@@ -28,10 +28,6 @@ Therefore, the implication is true
 $$3\mid n+1$$
 $$n+1 = 3k, k\in\mathbb{Z}$$
 $$n = 3k-1$$
-$$$$
-
-
-
 
 2.
 scratch

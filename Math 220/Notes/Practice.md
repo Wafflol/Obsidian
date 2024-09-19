@@ -104,3 +104,66 @@ Case 2 ($b>a$):
 same shit
 
 Therefore the implication holds. $\square$
+
+---
+$$x \in \mathbb{R}$$
+prove contrapositive
+$$x^{1/3} = \frac{p}{q}, p,q\in \mathbb{Z}$$
+$$x=\frac{p^3}{q^3}$$
+since $\frac{p^3}{q^3} \in \mathbb{Z}$, x is rational
+thus, the implication is true
+
+---
+let $x>0$
+assume $x-\frac{3}{x}> 2$
+$$x^2-3>2x$$
+$$x^2-2x-3>0$$ (since $x>0$)
+$$(x-3)(x+1)>0$$
+we will solve by cases
+Case 1: $x > 3$
+since $x-3 >0$ and $x+1 > 0$
+thus, because a positive number multiplied by another positive number is positive, $(x-3)(x+1)>0$
+Case 2: $0<x<3$
+womp womp
+Case 3: $x = 3$
+womp womp
+
+Thus, the implication is true
+
+---
+assume $n\in\mathbb{Z}$
+Proof by cases:
+Case 1: $n$ is even
+$$n = 2k, k \in \mathbb{Z}$$
+$$n^2+3n+8=4k^2+6k+8$$
+$$=2(2k^2+3k+4)$$
+Since $2k^2+3k+4\in\mathbb{Z}$, $n^2+3n+8$ is even
+Case 2: $n$ is odd
+$$ n = 2l + 1, l \in \mathbb{Z}$$
+$$n^2+3n+8 = 4l^2+4l+1+6l+3+8$$
+$$=2(2l^2+5l+6)$$
+since $2l^2+5l+6 \in \mathbb{Z}$, $n^2+3n+8$ is even
+
+in both cases, $n^2+3n+8$ is even. Thus, the implication is true.
+
+---
+
+
+assume $n \in \mathbb{Z}$
+Case 1: $n = 3k, k \in \mathbb{Z}$
+$$2n^2+n+1=18k^2+3k+1$$
+$$=3(6k^2+k)+1$$
+since $k \in \mathbb{Z}$, then $6k^2+k \in \mathbb{Z}$, and thus, $3 \nmid 3(6k^2+k)+1$ 
+Case 2: $n = 3k+1, k \in\mathbb{Z}$
+$$2n^2+n+1 = 2(9k^2+6k+1)+3k+1+1$$
+$$=18k^2+15k+4$$
+$$=3(6k^2+5k+1)+1$$
+Since $k \in \mathbb{Z}$, $6k^2+5k+1 \in \mathbb{Z}$, and thus, $3 \nmid 3(6k^2+5k+1)+1$ 
+
+Case 3: $n = 3k+2, k\in \mathbb{Z}$
+$$2n^2+n+1 = 2(9k^2+12k+4)+3k+2+1$$
+$$=18k^2+27k+11$$
+$$=3(6k^2+9k+3)+2$$
+since $k \in \mathbb{Z}$, $6k^2+9k+3 \in \mathbb{Z}$, and thus, $3 \nmid 3(6k^2+9k+3)+2$
+
+Thus, the implication is true

@@ -126,12 +126,11 @@ Let $a>0, b>0$
 Assume $a$ and $b$ are *funky*
 $$a^k=m, k\in\mathbb{N}, m\in\mathbb{Z}$$
 $$b^l=n, l \in \mathbb{N}, n \in \mathbb{Z}$$
-$$a=\sqrt[k]{ m }, b=\sqrt[l]{ n }$$
-$$ab=m^{1/k}n^{1/l}$$
-$$\sqrt{ ab }^2 = m^{1/k}n^{1/l}$$
-
-
----
-$$\sqrt{ ab }^2=q,q \in \mathbb{Z}$$
-2 is a natural number
-$$ab=q$$
+$$a^{kl}=m^l, b^{kl} = n^k$$
+$$a^{kl}b^{kl}=(ab)^{kl}=m^l n^k$$
+$kl \in \mathbb{N}, m^l n^k \in \mathbb{Z}$. Hence, the product of two funky numbers, in this case, $ab$, is another funky number 
+$$(ab)^s=r, r \in \mathbb{Z}, s \in \mathbb{N}$$
+$$(ab)^{\frac{2s}{2}} = r$$
+$$\sqrt{ ab }^{2s}=r$$
+Since $2s \in \mathbb{N}$, then $\sqrt{ ab }$ is a funky number
+Thus, the implication is true.

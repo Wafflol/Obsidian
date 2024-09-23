@@ -167,3 +167,9 @@ $$=3(6k^2+9k+3)+2$$
 since $k \in \mathbb{Z}$, $6k^2+9k+3 \in \mathbb{Z}$, and thus, $3 \nmid 3(6k^2+9k+3)+2$
 
 Thus, the implication is true
+
+---
+
+
+
+

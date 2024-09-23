@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 220/Notes/Limits and continuity in 2-D.md",
+                "file": "Math 220/Notes/Practice.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 220/Notes/Limits and continuity in 2-D.md",
+                "file": "Math 220/Notes/Practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 220/Notes/Limits and continuity in 2-D.md",
+                "file": "Math 220/Notes/Practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 220/Notes/Limits and continuity in 2-D.md"
+                "file": "Math 220/Notes/Practice.md"
               }
             }
           },
@@ -203,10 +203,12 @@
   },
   "active": "e3a7f1878f8a5afc",
   "lastOpenFiles": [
+    "Math 220/Notes/Biconditional.md",
+    "Math 253/Alternate Line Definition.md",
+    "Math 253/Limits and continuity in 2-D.md",
     "Math 220/Notes/Pasted image 20240923111846.png",
     "Math 220/Notes/Pasted image 20240923110735.png",
     "Math 220/Notes/Converse.md",
-    "Math 220/Notes/Limits and continuity in 2-D.md",
     "Cpen 211/PSet 1.md",
     "Cpen 211/Bubble Rule.md",
     "Cpen 221/Specifications, Unit Testing, Exceptions.md",
@@ -229,8 +231,6 @@
     "Project ideas.md",
     "Math 220/Notes/Contrapositive.md",
     "Math 220/Notes/Implication.md",
-    "Math 220/Notes/Biconditional.md",
-    "Math 253/Alternate Line Definition.md",
     "Math 253/Pasted image 20240916111938.png",
     "Math 253/Pasted image 20240916110921.png",
     "Cpen 211/Pasted image 20240913172923.png",
@@ -244,7 +244,6 @@
     "Math 220/Notes",
     "Math 220/Homework",
     "Math 220",
-    "Math 152/Pasted image 20240306125031.png",
     "Phys 159 Labs/Lab 09",
     "Phys 159 Labs/Lab 08",
     "Phys 159 Labs/Lab 07",

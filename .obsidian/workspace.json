@@ -47,16 +47,26 @@
             "id": "e3a7f1878f8a5afc",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Math 253/Pasted image 20240916110921.png"
+              }
+            }
+          },
+          {
+            "id": "dc68c74c9cc95b7b",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 220/Notes/Practice.md",
+                "file": "Cpen 211/Labs/Lab 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 220/Notes/Practice.md",
+                "file": "Cpen 211/Labs/Lab 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 220/Notes/Practice.md",
+                "file": "Cpen 211/Labs/Lab 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 220/Notes/Practice.md"
+                "file": "Cpen 211/Labs/Lab 1.md"
               }
             }
           },
@@ -201,8 +211,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e3a7f1878f8a5afc",
+  "active": "dc68c74c9cc95b7b",
   "lastOpenFiles": [
+    "Math 253/Untitled.md",
+    "Cpen 211/Labs/Lab 1.md",
+    "Untitled.md",
+    "Math 253/Pasted image 20240916110921.png",
+    "Cpen 211/Labs",
+    "Cpen 211/Bubble Rule.md",
+    "Untitled",
+    "Cpen 221/Equality.md",
+    "Math 220/Notes/Practice.md",
     "Math 220/Notes/Biconditional.md",
     "Math 253/Alternate Line Definition.md",
     "Math 253/Limits and continuity in 2-D.md",
@@ -210,12 +229,9 @@
     "Math 220/Notes/Pasted image 20240923110735.png",
     "Math 220/Notes/Converse.md",
     "Cpen 211/PSet 1.md",
-    "Cpen 211/Bubble Rule.md",
     "Cpen 221/Specifications, Unit Testing, Exceptions.md",
     "Cpen 221/Data structures.md",
-    "Math 220/Notes/Practice.md",
     "Math 220/Homework/HW1.md",
-    "Untitled.md",
     "Cpen 211/p-type MOS transistor (PFET).md",
     "Math 220/Notes/Tangent Vectors.md",
     "conflict-files-obsidian-git.md",
@@ -229,10 +245,7 @@
     "Math 220/Homework/HW0.md",
     "scratch.md",
     "Project ideas.md",
-    "Math 220/Notes/Contrapositive.md",
-    "Math 220/Notes/Implication.md",
     "Math 253/Pasted image 20240916111938.png",
-    "Math 253/Pasted image 20240916110921.png",
     "Cpen 211/Pasted image 20240913172923.png",
     "Cpen 211/Pasted image 20240913171148.png",
     "Cpen 211/Pasted image 20240913171101.png",
@@ -246,8 +259,6 @@
     "Math 220",
     "Phys 159 Labs/Lab 09",
     "Phys 159 Labs/Lab 08",
-    "Phys 159 Labs/Lab 07",
-    "Phys 159 Labs/Lab 06",
     "Untitled.canvas"
   ]
 }

@@ -170,6 +170,16 @@ Thus, the implication is true
 
 ---
 
+-1, 3
+Case 1:
+$$x: (-\infty,-1]$$
 
+
+
+Case 2:
+$$x: (-1,3)$$
+
+Case 3:
+$$x: [3,\infty)$$
 
 

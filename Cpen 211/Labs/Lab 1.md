@@ -1,4 +1,4 @@
-optimized circuit:
+optimised circuit:
 $$(\bar{a} \land \bar{b} \land \bar{c}) \lor  (\bar{a} \land \bar{b} \land c) = (\bar{a} \land \bar{b})$$
 $$(a \land \bar{b} \land \bar{c}) \lor  (a \land \bar{b} \land c) = (a \land \bar{b})$$
 $$(\bar{a} \land \bar{b}) \lor (a \land \bar{b}) = \bar{b}$$

@@ -44,16 +44,6 @@
             }
           },
           {
-            "id": "e3a7f1878f8a5afc",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Math 253/Pasted image 20240916110921.png"
-              }
-            }
-          },
-          {
             "id": "dc68c74c9cc95b7b",
             "type": "leaf",
             "state": {
@@ -66,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -213,10 +203,10 @@
   },
   "active": "dc68c74c9cc95b7b",
   "lastOpenFiles": [
-    "Math 253/Untitled.md",
-    "Cpen 211/Labs/Lab 1.md",
-    "Untitled.md",
     "Math 253/Pasted image 20240916110921.png",
+    "Cpen 211/Labs/Lab 1.md",
+    "Math 253/Untitled.md",
+    "Untitled.md",
     "Cpen 211/Labs",
     "Cpen 211/Bubble Rule.md",
     "Untitled",
@@ -244,7 +234,6 @@
     "Math 220/Notes/Modular Arithmetic.md",
     "Math 220/Homework/HW0.md",
     "scratch.md",
-    "Project ideas.md",
     "Math 253/Pasted image 20240916111938.png",
     "Cpen 211/Pasted image 20240913172923.png",
     "Cpen 211/Pasted image 20240913171148.png",

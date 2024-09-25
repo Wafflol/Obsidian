@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 220/Homework/HW1.md",
+                "file": "Math 253/Alternate Line Definition.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 220/Homework/HW1.md",
+                "file": "Math 253/Alternate Line Definition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 220/Homework/HW1.md",
+                "file": "Math 253/Alternate Line Definition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 220/Homework/HW1.md"
+                "file": "Math 253/Alternate Line Definition.md"
               }
             }
           },
@@ -163,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,10 +179,10 @@
   },
   "active": "62ffa8607e50dd73",
   "lastOpenFiles": [
+    "Math 220/Homework/HW1.md",
     "Untitled.md",
     "Math 220/Notes/Tangent Vectors.md",
     "conflict-files-obsidian-git.md",
-    "Math 220/Homework/HW1.md",
     "Cpen 221/Specifications, Unit Testing, Exceptions.md",
     "Math 220/Notes/Modular Arithmetic.md",
     "Math 220/Notes/Contrapositive.md",

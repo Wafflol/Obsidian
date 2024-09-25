@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cpen 211/Labs/Lab 1.md",
+                "file": "Math 220/Notes/Practice.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cpen 211/Labs/Lab 1.md",
+                "file": "Math 220/Notes/Practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cpen 211/Labs/Lab 1.md",
+                "file": "Math 220/Notes/Practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cpen 211/Labs/Lab 1.md"
+                "file": "Math 220/Notes/Practice.md"
               }
             }
           },
@@ -166,8 +166,15 @@
   },
   "active": "0d729ebb421eab26",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Math 253/Alternate Line Definition.md",
+    "Math 253/Curves.md",
+    "Math 253/Untitled.md",
+    "Math 253/Scratch.md",
+    "Math 253/Limits and continuity in 2-D.md",
+    "Math 253/Images/Pasted image 20240916110921.png",
+    "Math 253/Images",
     "Cpen 211/Labs/Lab 1.md",
+    "conflict-files-obsidian-git.md",
     "Cpen 211/Metal Oxide Semiconductor (MOS) Field-Effect Transistors (FET).md",
     "Cpen 211/p-type MOS transistor (PFET).md",
     "Cpen 211/n-type MOS transistor (NFET).md",
@@ -178,7 +185,6 @@
     "Misc/test.md",
     "Math 152/Kernel.md",
     "Cpen 211/PSet 1.md",
-    "Math 253/Alternate Line Definition.md",
     "Math 220/Notes/Modular Arithmetic.md",
     "Cpen 211/Pasted image 20240913172923.png",
     "Cpen 211/Pasted image 20240913171148.png",
@@ -192,12 +198,7 @@
     "Math 220/Notes/DeMorgan's Laws.md",
     "Math 220/Notes/Contrapositive.md",
     "Misc/Matlab Cheat Sheet.md",
-    "Math 253/Limits and continuity in 2-D.md",
-    "Math 253/Pasted image 20240916110921.png",
-    "Math 253/Pasted image 20240916111938.png",
-    "Math 253/Untitled.md",
-    "Math 253/Scratch.md",
-    "Math 253/Curves.md",
+    "Math 253/Images/Pasted image 20240916111938.png",
     "Math 220/Notes/Pasted image 20240923111846.png",
     "Math 220/Notes/Pasted image 20240923110735.png",
     "Cpen 211/Labs",
@@ -210,7 +211,6 @@
     "Cpen 221",
     "Cpen 211",
     "Phys 159 Labs/Lab 09",
-    "Phys 159 Labs/Lab 08",
-    "Phys 159 Labs/Lab 07"
+    "Phys 159 Labs/Lab 08"
   ]
 }

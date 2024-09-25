@@ -167,3 +167,23 @@ $$=3(6k^2+9k+3)+2$$
 since $k \in \mathbb{Z}$, $6k^2+9k+3 \in \mathbb{Z}$, and thus, $3 \nmid 3(6k^2+9k+3)+2$
 
 Thus, the implication is true
+
+---
+
+-1, 3
+Case 1:
+$$x: (-\infty,-1]$$
+$x+1$ is negative, so $\mid x+1 \mid = -(x+1)$
+$x-3$ is negative, so $|x-3| = -(x-3)$ 
+$$-x-1-(-x+3)=-4$$
+since $-4=-4$ the implication holds true in this case
+Case 2:
+$$x: (-1,3)$$
+
+Case 3:
+$$x: [3,\infty)$$
+
+
+---
+
+

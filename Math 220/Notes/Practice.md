@@ -186,4 +186,7 @@ $$x: [3,\infty)$$
 
 ---
 
-
+$$\forall z > 0, \mid x - y \mid < z \Rightarrow (x=y)$$
+$$(\exists z > 0, \mid x-y \mid \geq z) \lor (x = y)$$
+---
+$$$$

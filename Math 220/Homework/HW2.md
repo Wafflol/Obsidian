@@ -95,6 +95,8 @@ $$$$
 
 4.
 ===
+Let $n \in \mathbb{Z}$
+Prove $$3\mid n^3 + n^2 - n +3 \Rightarrow 3 \mid n$$
 
 
 

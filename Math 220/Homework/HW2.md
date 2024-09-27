@@ -73,6 +73,11 @@ Prove $3 \mid n \land 4 \mid n \Rightarrow 1 2\mid n$
 Contrapositive:
 $$12 \nmid n \Rightarrow 3 \nmid n \lor 4 \nmid n$$
 $$n \neq 12k, \text{ } k \in \mathbb{Z}$$
+Proof by cases:
+Case 1: 
+
+
+
 $$n \neq 3(4k)$$
 Since $k \in \mathbb{Z}$, then it follows that $4k \in \mathbb{Z}$, which means that $3 \nmid n$.
 Thus, by proving the contrapositive, we find that the implication is true.
@@ -97,7 +102,26 @@ $$$$
 ===
 Let $n \in \mathbb{Z}$
 Prove $$3\mid n^3 + n^2 - n +3 \Rightarrow 3 \mid n$$
+Contrapositive:
+$$3 \nmid n \Rightarrow 3 \nmid n^3+n^2-n+3$$
+$$n \neq 3k, k \in \mathbb{Z}$$
+Since $n \neq 3k$, there are two cases of $n$
+Proof by cases: 
+Case 1: $n = 3k+1$
+$$\begin{align}
+n^3+n^2-n+3&=27k^3+36k^2+12k+4 \\
+&= 3(9k^3+12k^2+4k+1)+1
+\end{align}$$
+Since $9k^3+12k^2+4k+1 \in \mathbb{Z}$, using the division algorithm, it follows that $3 \nmid 3(9k^3+12k^2+4k+1)+1$, and thus, $3 \nmid n^3+n^2-n+3$ in this case.
 
+Case 2: $n = 3k+2$
+$$\begin{align}
+n^3+n^2-n+3 &= 27k^3+63k^2+45k+13 \\
+&= 3(9k^3+21k^2+15k+4)+1
+\end{align}$$
+In similar fashion, since $9k^3+21k^2+15k+4 \in \mathbb{Z}$, if follows that $3 \nmid 3(9k^3+21k^2+15k+4)+1$. Thus, $3\nmid n^3+n^2-n+3$ in this case.
+
+Therefore, using proof by cases on the contrapositive, $3\nmid n^3+n^2-n+3$, and the implication is true.
 
 
 5.

@@ -23,3 +23,15 @@ $$l_{3}=\begin{bmatrix}
 1 \\
 5
 \end{bmatrix}$$
+![[Pasted image 20240926180610.png]]
+$$-4-2t=-5+3s$$
+$$10+2t=15-5s$$
+$$2t+3s=-1$$
+$$2t+5s=5$$
+$$2s=6$$
+s=3
+t=-5
+
+$$\begin{bmatrix}
+
+\end{bmatrix}$$

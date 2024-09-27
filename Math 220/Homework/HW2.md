@@ -65,6 +65,11 @@ Since $n \in \mathbb{Z}$, that means that $(3n+2)(6n+5)(4n+3) \in \mathbb{Z}$, s
 Thus, due to proof by cases, the implication is true.
 
 3.
+Let $n \in \mathbb{Z}$
+a.
+Prove $3 \mid n \land 4 \mid n \Rightarrow 1 2\mid n$
+
+
 
 
 6.

@@ -82,11 +82,31 @@ Thus, by proving the contrapositive, we find that the implication is true.
 b.
 ---
 If $n > 3$ is prime, then $n^2 \equiv 1 (\text{mod } 12)$
-Let $n > 3$
+Let $n > 3$ and prime
+We can review each case after modding n with 12
 Proof by cases:
-As $n$ is prime,  
+As $n$ is prime, $n$ can only be divisible by itself and $1$, modding $n$ by 12 wont return multiples of 2 and 3 (prime factors of 12):
 
+Case 1: $n \equiv 1 (\text{mod 12})$
+$$\begin{align}
+n^2 \equiv 1 (\text{mod 12})
+\end{align}$$
 
+Case 2: $n \equiv 5 \text{(mod 12)}$
+$$n^2\equiv 25 (\text{mod 12})$$
+$$\equiv 1 (\text{mod 12})$$
+Case 3: $n \equiv 7 (\text{mod 12})$
+$$\begin{align}
+n^2 &\equiv 49 (\text{mod 12}) \\
+&\equiv 1 (\text{mod 12})
+\end{align}$$
+
+Case 4: $n \equiv 11(\text{mod 12})$
+$$\begin{align}
+n^2 &\equiv 121 (\text{mod 12}) \\
+&\equiv 1(\text{mod 12})
+\end{align}$$
+Thus, it follows that the implication is true.
 
 
 ---
@@ -145,3 +165,6 @@ Proof by cases:
 Case 1: $(x^3+y^3) = 3k+1, k \in \mathbb{Z}$
 $$(x+y)(x^2-xy+y^2)=3k+1$$
 Since $(x+y),(x^2-xy+y^2) \in \mathbb{Z}$
+
+7
+===

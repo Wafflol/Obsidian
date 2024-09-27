@@ -88,6 +88,13 @@ If $n > 3$ is prime, then $n^2 \equiv 1 (\text{mod } 12)$
 ---
 
 
+4.
+===
+
+5.
+===
+Let $x \in \mathbb{R}$
+Proof by cases:
 
 
 6.

@@ -69,16 +69,8 @@ Thus, due to proof by cases, the implication is true.
 Let $n \in \mathbb{Z}$
 a.
 ---
-Prove $3 \mid n \land 4 \mid n \Rightarrow 1 2\mid n$
-Let $n = 3m \land n = 4l, m,l \in \mathbb{Z}$
-Using Bezout’s identity, which is:
-Let $a, b, \in \mathbb{Z}$ such that $a$ and $b$ are not both zero. Then there exists $x, y, \in\mathbb{Z}$ such that $ax+by=gcd(a,b)$
-Thus, if we let $a = 3$, and $b = 4$, and $m = x, l = y$
-we get $\exists m, l, \in\mathbb{Z} \text{s.t.}$$3m+4l = gcd(a,b) = 1$ when $m = -1, l = 1$
-Using the definition of lcm, $lcm(a,b) = \frac{\mid ab \mid}{gcd(a,b)}$
-thus, $lcm(4,3) = 12$, and so it follows that $12 \mid n$
-Thus, by proving the contrapositive, we find that the implication is true.
-
+Let $3 \mid n \land 4 \mid n$
+Any integer $n$ that is divisible by two integers $k, l$ can be rewritten in the form $kl$ or a multiple of that. Thus, as $n$ is divisible by $3$ and $4$, we can express n as $3*4*m, m \in \mathbb{Z}$. It follows that $n = 12m$, and since $m$ is an integer, $n \mid 12$. Thus, the implication is true.
 b.
 ---
 If $n > 3$ is prime, then $n^2 \equiv 1 (\text{mod } 12)$
@@ -161,10 +153,49 @@ Thus, using proof by cases, it follows that $x^2 + \mid x-6 \mid > 5$, and thus,
 Let $x, y \in \mathbb{Z}$
 Prove 
 $$3 \nmid(x^3+y^3) \iff 3 \nmid(x+y)$$
-Proof by cases:
-Case 1: $(x^3+y^3) = 3k+1, k \in \mathbb{Z}$
-$$(x+y)(x^2-xy+y^2)=3k+1$$
-Since $(x+y),(x^2-xy+y^2) \in \mathbb{Z}$
+Forward direction:
+Contrapositive:
+$$3 \mid (x+y)\Rightarrow 3 \mid (x^3+y^3) $$
+$$x+y=3k$$
+$$(x+y)(x^2-xy+y^2)=3(k(x^2-xy+y^2))$$
+$$x^3+y^3 = 3(k(x^2-xy+y^2))$$
+since $k(x^2-xy+y^2) \in \mathbb{Z}$, it follows that $3 \mid (x^3+y^3)$
+
+Backwards direction:
+$$3 \nmid (x+y) \Rightarrow 3 \nmid (x^3+y^3)$$
+Case 1: $x \equiv 0 (\text{mod 3)}$
+	Case 1: $y \equiv 1(\text{mod 3)}$
+$$x^3+y^3=1(\text{mod 3})$$
+		so $3 \nmid (x^3+y^3)$
+	Case 2: $y \equiv 2(\text{mod 3})$
+$$x^3+y^3=2(\text{mod 3})$$
+		so $3\nmid (x^3+y^3)$
+
+Case 2:  $x \equiv 1 (\text{mod 3})$
+	Case 1: $y \equiv 0 (\text{mod 3})$
+			$$x^3+y^3 \equiv 1(\text{mod 3})$$
+			so $3 \nmid (x^3+y^3)$
+	Case 2: $y \equiv 1 (\text{mod 3})$
+	$$x^3+y^3 \equiv 2 (\text{mod 3})$$
+			so $3 \nmid (x^3+y^3)$
+Case 3: $x \equiv 2 (\text{mod 3)}$
+	Case 1: $y \equiv 0 \text{(mod 3)}$
+	$$x^3+y^3 \equiv 2 (\text{mod 3})$$
+			so $3 \nmid (x^3+y^3)$
+	Case 2: $y \equiv 2 (\text{mod 3})$
+	$$x^3+y^3 \equiv 1 (\text{mod 3})$$
+			so $3 \nmid (x^3+y^3)$
+Thus, using proof by cases, the implication holds true.
 
 7
 ===
+
+Let $a, b, k \in \mathbb{Z}$
+Assume $a, b, \neq 0$
+Contrapositive:
+Assume $k \mid a$ and $k \mid b$
+
+$$a = kl, b = km, m,l \in \mathbb{Z}$$
+$$ax+by=klx+kmy$$
+$$ax+by=k(lx+my)$$
+using Bezout's identity, since $(lx+my) \in \mathbb{Z}$, and $k(lx+my) = gcd(a,b)$, it follows that $k \mid gcd(a,b)$. Thus, the implication is true.

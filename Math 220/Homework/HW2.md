@@ -1,4 +1,5 @@
 1.
+===
 Prove that if $a \in \mathbb{Z}$, then $4 \nmid a^2 + 1$
 Proof by cases
 Case 1: $a = 4n, \text{ } n \in \mathbb{Z}$
@@ -36,6 +37,7 @@ Since $n \in \mathbb{Z}$, then $4n^2+6n+2 \in \mathbb{Z}$, so $4 \nmid 4(4n^2+6n
 Thus, due to proof by cases, the implication is true.
 
 2.
+===
 Let $k \in \mathbb{Z}$
 Prove $3 \mid k(2k+1)(4k+1)$
 Proof by cases:
@@ -65,14 +67,23 @@ Since $n \in \mathbb{Z}$, that means that $(3n+2)(6n+5)(4n+3) \in \mathbb{Z}$, s
 Thus, due to proof by cases, the implication is true.
 
 3.
+===
 Let $n \in \mathbb{Z}$
 a.
+---
 Prove $3 \mid n \land 4 \mid n \Rightarrow 1 2\mid n$
+Contrapositive:
+$$12$$
 
+---
+scratch:
+$$n = 12k, k \in \mathbb{Z}$$
+$$n = 4(3k)$$
 
 
 
 6.
+===
 Let $x, y \in \mathbb{Z}$
 Prove $$3 \nmid(x^3+y^3) \iff 3 \nmid(x+y)$$
 $$\sim((P\land \sim Q)\lor(\sim P \land Q))$$

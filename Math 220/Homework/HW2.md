@@ -73,7 +73,11 @@ a.
 ---
 Prove $3 \mid n \land 4 \mid n \Rightarrow 1 2\mid n$
 Contrapositive:
-$$12$$
+$$12 \nmid n \Rightarrow 3 \nmid n \lor 4 \nmid n$$
+$$n \neq 12k, \text{ } k \in \mathbb{Z}$$
+$$n \neq 3(4k)$$
+Since $k \in \mathbb{Z}$, then it follows that $4k \in \mathbb{Z}$, which means that $3 \nmid 4k$.
+Thus, by proving the contrapositive, we find that the implication is true.
 
 ---
 scratch:

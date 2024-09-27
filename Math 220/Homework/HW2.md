@@ -46,23 +46,21 @@ $$\begin{align}
 k(2k+1)(4k+1) &= 3n(6n+1)(12n+1) \\
 &= 3(n(6n+1)(12n+1))
 \end{align}$$
-Since $n \in \mathbb{Z}$, that means that $(n(6n+1)(12n+1)) \in \mathbb{Z}$, so $3 \mid 3(n(6n+1)(12n+1))$
-
-
+Since $n \in \mathbb{Z}$, that means that $(n(6n+1)(12n+1)) \in \mathbb{Z}$, so $3 \mid 3(n(6n+1)(12n+1))$, and therefore $3 \mid k(2k+1)(4k+1)$
 
 Case 2: $k = 3n + 1, \text{ } n \in \mathbb{Z}$
 $$\begin{align}
 k(2k+1)(4k+1) &= (3n+1)(6n+3)(12n+5)  \\
 &= 3((3n+1)(2n+1)(12n+5))
 \end{align}$$
-Since $n \in \mathbb{Z}$, that means that $(3n+1)(2n+1)(12n+5) \in \mathbb{Z}$, so $3 \mid 3((3n+1)(2n+1)(12n+5))$
+Since $n \in \mathbb{Z}$, that means that $(3n+1)(2n+1)(12n+5) \in \mathbb{Z}$, so $3 \mid 3((3n+1)(2n+1)(12n+5))$, and therefore $3 \mid k(2k+1)(4k+1)$
 
 Case 3: $k = 3n + 2, \text{ } n \in \mathbb{Z}$
 $$\begin{align}
 k(2k+1)(4k+1) &= (3n+2)(6n+5)(12n+9)  \\
 &= 3((3n+2)(6n+5)(4n+3))
 \end{align}$$
-Since $n \in \mathbb{Z}$, that means that $(3n+2)(6n+5)(4n+3) \in \mathbb{Z}$, so $3 \mid 3((3n+2)(6n+5)(4n+3))$
+Since $n \in \mathbb{Z}$, that means that $(3n+2)(6n+5)(4n+3) \in \mathbb{Z}$, so $3 \mid 3((3n+2)(6n+5)(4n+3))$, and therefore $3 \mid k(2k+1)(4k+1)$
 
 Thus, due to proof by cases, the implication is true.
 
@@ -76,13 +74,16 @@ Contrapositive:
 $$12 \nmid n \Rightarrow 3 \nmid n \lor 4 \nmid n$$
 $$n \neq 12k, \text{ } k \in \mathbb{Z}$$
 $$n \neq 3(4k)$$
-Since $k \in \mathbb{Z}$, then it follows that $4k \in \mathbb{Z}$, which means that $3 \nmid 4k$.
+Since $k \in \mathbb{Z}$, then it follows that $4k \in \mathbb{Z}$, which means that $3 \nmid n$.
 Thus, by proving the contrapositive, we find that the implication is true.
 
 ---
 scratch:
 $$n = 12k, k \in \mathbb{Z}$$
 $$n = 4(3k)$$
+b.
+---
+If $n > 3$ is prime, then $n^2 \equiv 1 (\text{mod } 12)$
 
 
 

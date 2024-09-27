@@ -64,6 +64,8 @@ Since $n \in \mathbb{Z}$, that means that $(3n+2)(6n+5)(4n+3) \in \mathbb{Z}$, s
 
 Thus, due to proof by cases, the implication is true.
 
+3.
+
 
 6.
 Let $x, y \in \mathbb{Z}$

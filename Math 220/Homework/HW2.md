@@ -141,6 +141,15 @@ Thus, using proof by cases, it follows that $x^2 + \mid x-6 \mid > 5$, and thus,
 Let $x, y \in \mathbb{Z}$
 Prove $$3 \nmid(x^3+y^3) \iff 3 \nmid(x+y)$$
 $$\sim((P\land \sim Q)\lor(\sim P \land Q))$$
+$$(\sim P \lor Q) \land (P \lor \sim Q)$$
+
+
+| $P$ | $Q$ | Expression |
+| --- | --- | ---------- |
+| T   | T   | T          |
+| T   | F   |            |
+
+
 
 ---
 

@@ -70,14 +70,11 @@ Let $n \in \mathbb{Z}$
 a.
 ---
 Prove $3 \mid n \land 4 \mid n \Rightarrow 1 2\mid n$
-Let $n = 3m \land n = 4n, m,n \in \mathbb{Z}$
-Thus, it follows that $n$ is a multiple of LCM(3,4).
-Using prime factorisation,
-the prime factorisation of $3$ is $3$, and the prime factorisation of $4$ is $2^2$
-Thus,
-$$LCM(3,4) = 2^3*3=12$$
-Therefore, if $n$ is divisible by both 3 and 4
-
+Let $n = 3m \land n = 4l, m,l \in \mathbb{Z}$
+Using Bezout’s identity, which is:
+Let $a, b, \in \mathbb{Z}$ such that $a$ and $b$ are not both zero. Then there exists $x, y, \in\mathbb{Z}$ such that $ax+by=gcd(a,b)$
+Thus, if we let $a = 3$, and $b = 4$, and $m = x, l = y$
+we get $\exists x, y, \in\mathbb{Z} \text{s.t.}$$2n = 3m+4l = gcd(a,b) = 1$
 
 $$n \neq 3(4k)$$
 Since $k \in \mathbb{Z}$, then it follows that $4k \in \mathbb{Z}$, which means that $3 \nmid n$.

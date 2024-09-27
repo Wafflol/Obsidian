@@ -139,19 +139,8 @@ Thus, using proof by cases, it follows that $x^2 + \mid x-6 \mid > 5$, and thus,
 6.
 ===
 Let $x, y \in \mathbb{Z}$
-Prove $$3 \nmid(x^3+y^3) \iff 3 \nmid(x+y)$$
-$$\sim((P\land \sim Q)\lor(\sim P \land Q))$$
-$$(\sim P \lor Q) \land (P \lor \sim Q)$$
-
-
-| $P$ | $Q$ | Expression |
-| --- | --- | ---------- |
-| T   | T   | T          |
-| T   | F   |            |
-
-
-
----
-
-$$(x+y)(x^2-xy+y^2)=3k$$
- 
+Prove 
+$$3 \nmid(x^3+y^3) \iff 3 \nmid(x+y)$$
+Proof by cases:
+Case 1: $(x^3+y^3) = 3k+1, k \in \mathbb{Z}$
+$$(x+y)(x^2-xy+y^2)=3k+1$$

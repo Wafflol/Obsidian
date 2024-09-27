@@ -85,6 +85,10 @@ b.
 ---
 If $n > 3$ is prime, then $n^2 \equiv 1 (\text{mod } 12)$
 
+---
+scratch:
+$$n^2 = 1 + 12k, \text{ } k \in \mathbb{Z}$$
+
 
 
 6.

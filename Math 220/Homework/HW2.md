@@ -70,12 +70,13 @@ Let $n \in \mathbb{Z}$
 a.
 ---
 Prove $3 \mid n \land 4 \mid n \Rightarrow 1 2\mid n$
-Contrapositive:
-$$12 \nmid n \Rightarrow 3 \nmid n \lor 4 \nmid n$$
-$$n \neq 12k, \text{ } k \in \mathbb{Z}$$
-Proof by cases:
-Case 1: 
-
+Let $n = 3m \land n = 4n, m,n \in \mathbb{Z}$
+Thus, it follows that $n$ is a multiple of LCM(3,4).
+Using prime factorisation,
+the prime factorisation of $3$ is $3$, and the prime factorisation of $4$ is $2^2$
+Thus,
+$$LCM(3,4) = 2^3*3=12$$
+Therefore, if $n$ is divisible by both 3 and 4
 
 
 $$n \neq 3(4k)$$

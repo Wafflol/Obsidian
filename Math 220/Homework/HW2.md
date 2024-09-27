@@ -84,8 +84,9 @@ $$n = 4(3k)$$
 b.
 ---
 If $n > 3$ is prime, then $n^2 \equiv 1 (\text{mod } 12)$
+Let $n > 3$
 Contrapositive:
-$$n^2 \neq 1 +12k \Rightarrow n > 3 \text{ is not prime}, k \in \mathbb{Z}$$
+$$n^2 \neq 1 +12k \Rightarrow n \text{ is not prime}, k \in \mathbb{Z}$$
 $$$$
 
 
@@ -94,6 +95,8 @@ $$$$
 
 4.
 ===
+
+
 
 5.
 ===

@@ -75,25 +75,18 @@ Using Bezout’s identity, which is:
 Let $a, b, \in \mathbb{Z}$ such that $a$ and $b$ are not both zero. Then there exists $x, y, \in\mathbb{Z}$ such that $ax+by=gcd(a,b)$
 Thus, if we let $a = 3$, and $b = 4$, and $m = x, l = y$
 we get $\exists m, l, \in\mathbb{Z} \text{s.t.}$$3m+4l = gcd(a,b) = 1$ when $m = -1, l = 1$
-$$\begin{align}
-3m+4l&=1 \\
-n(3m+4l)&=n
-\end{align}$$
-$$n \neq 3(4k)$$
-Since $k \in \mathbb{Z}$, then it follows that $4k \in \mathbb{Z}$, which means that $3 \nmid n$.
+Using the definition of lcm, $lcm(a,b) = \frac{\mid ab \mid}{gcd(a,b)}$
+thus, $lcm(4,3) = 12$, and so it follows that $12 \mid n$
 Thus, by proving the contrapositive, we find that the implication is true.
 
----
-scratch:
-$$n = 12k, k \in \mathbb{Z}$$
-$$n = 4(3k)$$
 b.
 ---
 If $n > 3$ is prime, then $n^2 \equiv 1 (\text{mod } 12)$
 Let $n > 3$
-Contrapositive:
-$$n^2 \neq 1 +12k \Rightarrow n \text{ is not prime}, k \in \mathbb{Z}$$
-$$$$
+Proof by cases:
+As $n$ is prime,  
+
+
 
 
 ---
@@ -129,18 +122,27 @@ Therefore, using proof by cases on the contrapositive, $3\nmid n^3+n^2-n+3$, and
 ===
 Let $x \in \mathbb{R}$
 Proof by cases:
+Case 1: $x\geq6$
+$$\begin{align}
+x^2+(x-6) &= x^2+x-12+6 \\
+&=(x+4)(x-3)+6
+\end{align}$$
+Since $x\geq 6$, $(x+4),(x-3)>0$ and $6$ plus any positive number is always greater than 5.
 
-
+Case 2: $x < 6$
+$$\begin{align}
+x^2-(x-6) &= x^2-x+6 \\
+&=\left( x-\frac{1}{2} \right)^2+\frac{23}{4} \\
+\end{align}$$
+Since $\left( x-\frac{1}{2} \right)^2 >0$ and $\frac{23}{4} > 5$, in this case, $x^2+\mid x-6 \mid >5$
+Thus, using proof by cases, it follows that $x^2 + \mid x-6 \mid > 5$, and thus, the implication is true
 6.
 ===
 Let $x, y \in \mathbb{Z}$
 Prove $$3 \nmid(x^3+y^3) \iff 3 \nmid(x+y)$$
 $$\sim((P\land \sim Q)\lor(\sim P \land Q))$$
-show that the negation is false:
-$$3 \mid (x^3 + y^3) \iff 3 \mid (x+y)$$
-$$x+y=3k , \text{ } k \in \mathbb{Z}$$
 
 ---
 
 $$(x+y)(x^2-xy+y^2)=3k$$
-$$$$
+ 

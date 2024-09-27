@@ -74,8 +74,11 @@ Let $n = 3m \land n = 4l, m,l \in \mathbb{Z}$
 Using Bezout’s identity, which is:
 Let $a, b, \in \mathbb{Z}$ such that $a$ and $b$ are not both zero. Then there exists $x, y, \in\mathbb{Z}$ such that $ax+by=gcd(a,b)$
 Thus, if we let $a = 3$, and $b = 4$, and $m = x, l = y$
-we get $\exists x, y, \in\mathbb{Z} \text{s.t.}$$2n = 3m+4l = gcd(a,b) = 1$
-
+we get $\exists m, l, \in\mathbb{Z} \text{s.t.}$$3m+4l = gcd(a,b) = 1$ when $m = -1, l = 1$
+$$\begin{align}
+3m+4l&=1 \\
+n(3m+4l)&=n
+\end{align}$$
 $$n \neq 3(4k)$$
 Since $k \in \mathbb{Z}$, then it follows that $4k \in \mathbb{Z}$, which means that $3 \nmid n$.
 Thus, by proving the contrapositive, we find that the implication is true.

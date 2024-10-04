@@ -86,4 +86,4 @@ Since in both of these cases, $y^n = y$, it follows that the implication is true
 
 c.
 Negation: 
-$$$$
+$$\exists x \in \mathbb{R} \text{ where  } x \neq 0 \text{ }s.t. \text{ }  $$

@@ -11,11 +11,10 @@
             "id": "ffac2bf37e3b1b2c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Math 220/Homework/HW2.md",
-                "mode": "source",
-                "source": false
+                "file": "Math 220/Homework/HW3.md",
+                "staged": true
               }
             }
           },
@@ -97,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 220/Homework/HW2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 220/Homework/HW2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Math 220/Homework/HW2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,13 +170,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cd078907a99e3dee",
+  "active": "ffac2bf37e3b1b2c",
   "lastOpenFiles": [
-    "Math 220/Notes/XOR.md",
+    "Math 220/Homework/HW3.md",
     "Math 220/Homework/HW2.md",
+    "conflict-files-obsidian-git.md",
+    "Math 220/Notes/XOR.md",
     "Math 253/Partial Derivatives.md",
     "Math 253/Curves.md",
-    "conflict-files-obsidian-git.md",
     "Math 220/Homework/HW1.md",
     "Math 253/Scratch.md",
     "Math 152/Area of parallelograms.md",
@@ -204,7 +200,6 @@
     "Math 152/Linear indenpendence.md",
     "Math 152/Linear Transformations.md",
     "Math 152/Lines in vector form.md",
-    "Math 152/Projection onto a plane.md",
     "Math 253/Pasted image 20240926180610.png",
     "Math 253/Pasted image 20240926175529.png",
     "Rogers 5G",

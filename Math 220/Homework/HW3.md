@@ -12,3 +12,16 @@ since $\frac{0}{y}$ is $0$ when $y \neq 0$, and undefined when $y = 0$, the nega
 
 
 3.
+a.
+let $x = 3, y = 3$, $x+y = 6$
+Since $3 | 6$, this statement is true
+
+b.
+We can first take the negation of this statement:
+$$\exists x \in A  \text{ }s.t. \text{ } \exists y \in A \text{ } s.t. \text{ } x+y \not\in A$$
+Let $x = 3, y =4, x+y = 7$
+Since $3 \nmid 7$ and $4 \nmid 7$, it follows that the negation is true, and thus the implication is false.
+
+c.
+We can first take the negation of this statement:
+$$\forall x \in A, \exists y \in A \text{ } s.t. x+y \not\in A$$

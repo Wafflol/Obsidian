@@ -8,11 +8,16 @@
         "type": "tabs",
         "children": [
           {
+<<<<<<< HEAD
             "id": "4ba4c371e18ead13",
+=======
+            "id": "ea4cd5380d8e00c5",
+>>>>>>> origin/main
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Math 253/Scratch.md",
                 "mode": "source",
                 "source": false
@@ -50,6 +55,9 @@
               "type": "markdown",
               "state": {
                 "file": "Math 152/Projection.md",
+=======
+                "file": "Math 220/Homework/HW3.md",
+>>>>>>> origin/main
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +130,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "conflict-files-obsidian-git.md",
+=======
+                "file": "Math 220/Homework/HW3.md",
+>>>>>>> origin/main
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "conflict-files-obsidian-git.md",
+=======
+                "file": "Math 220/Homework/HW3.md",
+>>>>>>> origin/main
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +178,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "conflict-files-obsidian-git.md"
+=======
+                "file": "Math 220/Homework/HW3.md"
+>>>>>>> origin/main
               }
             }
           },
@@ -200,6 +220,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
+<<<<<<< HEAD
   "active": "cd078907a99e3dee",
   "lastOpenFiles": [
     "Math 253/Scratch.md",
@@ -222,9 +243,20 @@
     "Project ideas.md",
     "Math 152/Characteristic equation.md",
     "Math 152/Circles.md",
+=======
+  "active": "ea4cd5380d8e00c5",
+  "lastOpenFiles": [
+    "Math 220/Notes/Modular Arithmetic.md",
+    "Math 220/Homework/HW3.md",
+    "Math 220/Homework/HW2.md",
+>>>>>>> origin/main
     "Math 152/Complex Numbers.md",
+    "Math 152/Determinant.md",
+    "Math 152/Diagonalization.md",
+    "Math 152/diagonal matrix.md",
     "Math 152/Cross product.md",
     "Math 152/Composition of linear transformations.md",
+<<<<<<< HEAD
     "Math 152/diagonal matrix.md",
     "Math 152/Diagonalization.md",
     "Math 152/Eigenvectors and Eigenvalues.md",
@@ -233,13 +265,41 @@
     "Math 152/Jan 22 Lecture Solving parametric equation from 2 planes.png",
     "Math 152/Jan 24 Linear independence.png",
     "Math 152/Linear Combinations.md",
+=======
+    "Math 152/Complex Poynomials.md",
+    "Math 152/Characteristic equation.md",
+    "Math 152/Area of parallelograms.md",
+    "Math 152/Circles.md",
+    "Math 152/Jan 22 Lecture Solving parametric equation from 2 planes.png",
+    "Math 152/Jan 24 Linear independence.png",
+    "Math 152/Kernel.md",
+    "Math 152/Linear indenpendence.md",
+    "Math 152/Linear Transformations.md",
+    "Math 152/Linearity.md",
+    "Math 152/Lines in vector form.md",
+    "Math 152/Markov Process.md",
+    "Math 152/Matrix Multiplication.md",
+    "Math 152/MT1Prac.md",
+    "Math 152/MT2.md",
+    "Math 152/MT3.md",
+    "Math 152/Non-homogeneous systems.md",
+    "Math 152/ODEs.md",
+    "Math 152/Projection.md",
+    "Rogers 5G",
+>>>>>>> origin/main
     "Math 253/Pasted image 20240926180610.png",
     "Math 253/Pasted image 20240926175529.png",
-    "Rogers 5G",
+    "Math 253/Images/Pasted image 20240916111938.png",
     "Math 253/Images/Pasted image 20240916110921.png",
     "Math 253/Images",
     "Untitled.canvas",
     "Cpen 211/Pasted image 20240913165029.png",
+<<<<<<< HEAD
+=======
+    "Cpen 211/Pasted image 20240913172923.png",
+    "Cpen 211/Pasted image 20240913171148.png",
+    "Cpen 211/Pasted image 20240913171101.png",
+>>>>>>> origin/main
     "Cpen 211/Labs",
     "Math 253",
     "Math 220/Notes",

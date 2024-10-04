@@ -8,6 +8,10 @@ $$\exists x \in \mathbb{Z} s.t. \forall y \in \mathbb{R}, \left( x \geq y \land 
 Proof of original statement:
 Let $x \in \mathbb{Z}$
 $$\begin{align}
-\text{let }y=x \\
-
+\text{let }y=x \\ \\
 \end{align}$$
+Since $x \in \mathbb{Z}$, $x=y\neq 0$:
+$$\frac{x}{y} = 1$$
+Thus, the original statement is true.
+
+3.

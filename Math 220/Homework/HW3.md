@@ -1,2 +1,6 @@
 1.
-Negation: There 
+$$\exists c \in \mathbb{R} \text{ } s.t. \forall \epsilon >0,\exists M >0 s.t. \left|\frac{x^2+\sin(x^2)}{x^2+\cos(x)} -c \right| < \epsilon $$
+the negation:
+$$\forall c \in \mathbb{R}, \exists \epsilon > 0 s.t. \forall M > 0, \left | \frac{x^2+\sin(x^2)}{x^2+\cos(x)}-c\right| \geq \epsilon$$
+
+2.

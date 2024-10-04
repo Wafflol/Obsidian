@@ -59,3 +59,7 @@ Since $n+2 \in \mathbb{Z}$, it follows that $3 \mid n + 3$, and thus, $3 \mid x 
 As the all cases are true, it follows that the implication is true in every case.
 
 4.
+a.
+Negation: 
+$$\exists n \in \mathbb{Z} \text{ } s.t. \text{ } \forall y \in \mathbb{R} - \{0\}, y^n>y$$
+

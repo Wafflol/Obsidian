@@ -62,4 +62,28 @@ As the all cases are true, it follows that the implication is true in every case
 a.
 Negation: 
 $$\exists n \in \mathbb{Z} \text{ } s.t. \text{ } \forall y \in \mathbb{R} - \{0\}, y^n>y$$
+Proving the original statement:
+Let $n \in \mathbb{Z}$
+Let $y = 1$
+When $n = 0$, $1^0 = 1$, and since 1 to the power of anything else is still $= 1$, the implication is true.
 
+b.
+Negation:
+$$\forall y \in \mathbb{R}- \{0\}, \exists n \in \mathbb{Z} \text{ } s.t. \text{ } y^n > y$$
+Proving the original statement:
+Let $y = 1$
+Case 1: $n = 0$
+$$\begin{align}
+y^n = 1^0 = 1
+\end{align}$$
+
+Case 2: $n \neq 0$
+$$\begin{align}
+y^n = 1^n = 1
+\end{align}$$
+
+Since in both of these cases, $y^n = y$, it follows that the implication is true.
+
+c.
+Negation: 
+$$$$

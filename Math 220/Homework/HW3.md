@@ -25,3 +25,15 @@ Since $3 \nmid 7$ and $4 \nmid 7$, it follows that the negation is true, and thu
 c.
 We can first take the negation of this statement:
 $$\forall x \in A, \exists y \in A \text{ } s.t. x+y \not\in A$$
+
+Proof by cases:
+Case 1: $x \equiv 0 \text{( mod 3)}$
+$x = 3n, n \in \mathbb{Z}$
+Choose $y = 4$
+$$\begin{align}
+x+y &= 3n + 4 \\
+&= 3(n + 1)+1
+\end{align}$$
+Since $n+1 \in \mathbb{Z}$, $3 \nmid 3(n+1)$
+
+Case 2: $x \equiv 0 (\text{mod } 4)$

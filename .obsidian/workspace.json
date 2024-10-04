@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 253/Scratch.md",
+                "file": "Math 220/Homework/HW3.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 253/Scratch.md",
+                "file": "Math 220/Homework/HW3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 253/Scratch.md",
+                "file": "Math 220/Homework/HW3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 253/Scratch.md"
+                "file": "Math 220/Homework/HW3.md"
               }
             }
           },
@@ -189,8 +189,8 @@
   },
   "active": "4ba4c371e18ead13",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Math 253/Scratch.md",
+    "conflict-files-obsidian-git.md",
     "Math 152/Projection.md",
     "Math 253/Alternate Line Definition.md",
     "Math 253/Pasted image 20241004103442.png",

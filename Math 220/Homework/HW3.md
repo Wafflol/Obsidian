@@ -5,3 +5,9 @@ $$\forall c \in \mathbb{R}, \exists \epsilon > 0 s.t. \forall M > 0, \left | \fr
 
 2.
 $$\exists x \in \mathbb{Z} s.t. \forall y \in \mathbb{R}, \left( x \geq y \land \frac{x}{y} \neq 1\right)$$
+Proof of original statement:
+Let $x \in \mathbb{Z}$
+$$\begin{align}
+\text{let }y=x \\
+
+\end{align}$$

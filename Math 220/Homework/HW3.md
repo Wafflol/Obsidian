@@ -7,7 +7,7 @@ $$\forall c \in \mathbb{R}, \exists \epsilon > 0 s.t. \forall M > 0, \left | \fr
 $$\exists x \in \mathbb{Z} s.t. \forall y \in \mathbb{R}, \left( x \geq y \land \frac{x}{y} \neq 1\right)$$
 Let $x = 0$
 $y \in \mathbb{R}$
-$y \leq 0$
+since $x \geq y$, $y \leq 0$
 since $\frac{0}{y}$ is $0$ when $y \neq 0$, and undefined when $y = 0$, the negation of the implication is true, and thus the implication is false.
 
 

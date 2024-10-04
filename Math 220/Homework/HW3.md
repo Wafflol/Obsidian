@@ -86,4 +86,32 @@ Since in both of these cases, $y^n = y$, it follows that the implication is true
 
 c.
 Negation: 
-$$\exists x \in \mathbb{R} \text{ where  } x \neq 0 \text{ }s.t. \text{ }  $$
+$$\exists x \in \mathbb{R} \text{ where  } x \neq 0 \text{ }s.t. \text{ }  (x > 1 )\land ( \frac{1}{x} > 1)$$
+Prove original statement:
+Proof by cases:
+
+Case 1: $x < 0$
+Since $x < 0$, and $0 <1$, then the implication is true in this case.
+
+Case 2: $0< x< 1$
+Similarly to case 1, since $x < 1$, the implication is true in this case.
+
+Case 3: $x \geq 1$
+Since $x \neq 0$, we can divide by x if we need to
+$$x \geq 1$$
+dividing both sides by x:
+$$1 \geq \frac{1}{x}$$
+
+Thus, in all cases, the implication holds true.
+
+d.
+Negation: 
+$$\exists x \in \mathbb{R} \text{ where } x \neq 0 \text{ } s.t. ( x < 1) \land (\frac{1}{x} < 1)$$
+Prove original statement:
+When $x = -2$:
+$$ \frac{1}{x} = -\frac{1}{2}  < 1$$
+$$x = -2 < 1$$
+Thus, it follows that the negation is true. Since the negation is true, the original statement is false.
+
+
+

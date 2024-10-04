@@ -5,17 +5,10 @@ $$\forall c \in \mathbb{R}, \exists \epsilon > 0 s.t. \forall M > 0, \left | \fr
 
 2.
 $$\exists x \in \mathbb{Z} s.t. \forall y \in \mathbb{R}, \left( x \geq y \land \frac{x}{y} \neq 1\right)$$
-Proof of original statement:
-Let $x \in \mathbb{Z}$
-$$\begin{align}
-\text{let }y=x \\ \\
-\end{align}$$
-Since $x \in \mathbb{Z}$, $x=y\neq 0$:
-$$\frac{x}{y} = 1$$
-Thus, the original statement is true.
-
----
 Let $x = 0$
 $y \in \mathbb{R}$
 $y \leq 0$
 since $\frac{0}{y}$ is $0$ when $y \neq 0$, and undefined when $y = 0$, the negation of the implication is true, and thus the implication is false.
+
+
+3.

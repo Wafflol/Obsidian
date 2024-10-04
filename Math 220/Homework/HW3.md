@@ -14,4 +14,7 @@ Since $x \in \mathbb{Z}$, $x=y\neq 0$:
 $$\frac{x}{y} = 1$$
 Thus, the original statement is true.
 
-3.
+---
+Let $x = 0$
+$y \in \mathbb{R}$
+$y \leq 0$

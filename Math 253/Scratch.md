@@ -35,3 +35,25 @@ t=-5
 $$\begin{bmatrix}
 
 \end{bmatrix}$$
+
+
+
+![[Pasted image 20241004102530.png]]
+slope = $t\begin{bmatrix}3\\4\\5\end{bmatrix}$  point = $\begin{bmatrix}1\\2\\3\end{bmatrix}$
+$$\frac{x-1}{3}=\frac{y-2}{4}=\left( \frac{z-3}{5} \right)$$
+b.
+$$=\frac{y-\frac{2}{3}}{8}=\frac{\left( z-\frac{4}{3} \right)}{10}$$
+
+![[Pasted image 20241004103153.png]]
+Yes, when plugged in we get 0 = 0
+
+b.
+line from P -> pt on plane
+proj onto the unit normal vec
+
+![[Pasted image 20241004103342.png]]
+two vecs, cross / 2
+
+![[Pasted image 20241004103442.png]]
+
+projba = $\frac{(a \cdot b)}{\begin{Vmatrix} b^2\end{Vmatrix}}*\vec{b}=\frac{\sqrt{ 3 }}{2}\begin{Vmatrix}a\end{Vmatrix}$

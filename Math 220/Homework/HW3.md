@@ -23,18 +23,30 @@ Let $x = 3, y =4, x+y = 7$
 Since $3 \nmid 7$ and $4 \nmid 7$, it follows that the negation is true, and thus the implication is false.
 
 c.
-Let $x = 0$
-since $y \in  A$, $x+y = y$, and so it follows that $x+y \in A$. Thus, the implication is true.
+Let $x = 12$ \\
+Since $y \in A, x+y = 12+y$
+Case 1: $y \equiv 0 \text{(mod 3)}$
+$$\begin{align}
+x+y &= 12 + 3n , n \in \mathbb{Z}\\
+&= 3(4+n)
+\end{align}$$
+Since $4+n \in \mathbb{Z}$, $3 \mid (4+n)$, and thus, $3 \mid x+y$, so it follows that $x+y \in A$
+Case 2: $y \equiv 0 \text{ (mod 4) }$
+$$\begin{align}
+x+y&= 12+4n, n \in \mathbb{Z} \\
+&= 4(3+n)
+\end{align}$$
+Since $3+n \in \mathbb{Z}$, $4 \mid (3+n)$, and thus, $4 \mid x+y$, so it follows that $x+y \in A$. Thus, using proof by cases, it follows that the implication is true.
 
 d.
 Proof by cases:
 
 Case 1: $x+y \equiv 0 \text{(mod 3)}$
-Let $z = 0$
+Let $z = 12$
 $$\begin{align}
 x+y &= 3n, n \in \mathbb{Z} \\
-x+y+z &= 3n \\
-&=3(n)
+x+y+z &= 3n + 12 \\
+&=3(n +4)
 \end{align}$$
 Since $n \in \mathbb{Z}$, it follows that $3 \mid n$ and thus, $3 \mid x+y+z$, so the implication is true in this case.
 

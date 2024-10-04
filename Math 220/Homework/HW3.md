@@ -113,5 +113,9 @@ $$ \frac{1}{x} = -\frac{1}{2}  < 1$$
 $$x = -2 < 1$$
 Thus, it follows that the negation is true. Since the negation is true, the original statement is false.
 
+5.
+a.
+
+
 
 

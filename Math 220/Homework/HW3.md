@@ -115,7 +115,21 @@ Thus, it follows that the negation is true. Since the negation is true, the orig
 
 5.
 a.
+Reformulated statement: $$\exists k \in K \text{ } s.t. \text{ } \exists l \in L \text{ } s.t. \text{ } k \text{ unlocks } l$$
+Negation:
+$$\forall k \in K, \forall l \in L, k \text{ does not unlock } l$$
+Reformulated negation: All of the keys do not unlock all of the locks
 
+b.
+Reformulated statement:
+$$\exists k \in K \text{ } s.t. \forall l \in L\text{, } k \text{ unlocks } l$$
+Negation: 
+$$\text{ } \forall k \in K, \exists l \in L \text{ } s.t. \text{ } k \text{ does not unlock } l$$
+Reformulated negation: All keys do not unlock some lock
 
-
-
+c.
+Reformulated statement:
+$$\exists l \in L \text{ } s.t. \text{ } \forall k \in K, k \text{ does not unlock }l$$
+Negation:
+$$\forall l \in L, \exists k \in K \text{ } s.t. \text{ } k \text{ unlocks } l$$
+Reformulated negation: All locks can be unlocked by some key

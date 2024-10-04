@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "0670e158fbebe7bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0bdba35c9041f027",
             "type": "leaf",
             "state": {
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 253/Scratch.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 253/Scratch.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 253/Scratch.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -187,11 +200,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4ba4c371e18ead13",
+  "active": "cd078907a99e3dee",
   "lastOpenFiles": [
+    "Math 253/Scratch.md",
+    "conflict-files-obsidian-git.md",
     "Math 152/Projection.md",
     "Math 253/Alternate Line Definition.md",
-    "Math 253/Scratch.md",
     "Math 253/Pasted image 20241004103442.png",
     "Math 253/Pasted image 20241004103342.png",
     "Math 253/Pasted image 20241004103153.png",
@@ -200,7 +214,6 @@
     "Math 220/Notes/XOR.md",
     "Math 220/Homework/HW3.md",
     "Math 220/Homework/HW2.md",
-    "conflict-files-obsidian-git.md",
     "Math 253/Partial Derivatives.md",
     "Math 253/Curves.md",
     "Math 220/Homework/HW1.md",

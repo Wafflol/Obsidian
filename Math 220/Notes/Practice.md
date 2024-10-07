@@ -220,4 +220,9 @@ $$0 < \mid x-2 \mid < \delta \Rightarrow \mid \frac{1}{x} - \frac{1}{2} \mid < \
 $$\mid  \frac{2-x}{2x} \mid < \epsilon$$
 $$\mid x-2 \mid  < \epsilon * 2 \mid x \mid $$
 ---
-If $x > 1$, then $2 \epsilon < 2 \epsilon  \mid  x \mid$
+Proof:
+Given $\epsilon > 0$, let $\delta = min{1, 2\epsilon}$
+If $0 < \mid  x - 2 \mid < \delta$
+Since $\delta \leq 1$, we have $1 < x < 3$
+Since $\delta \leq 2\epsilon$, we have $\mid  x- 2 \mid < 2\epsilon$
+

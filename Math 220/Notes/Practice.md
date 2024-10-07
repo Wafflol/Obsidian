@@ -218,3 +218,6 @@ $$\forall \epsilon > 0, \exists \delta > 0 \text{ } s.t. \text{ } 0 < \mid x - c
 $$\lim_{ x \to 2 } \left( \frac{1}{x} \right)=\frac{1}{2}$$
 $$0 < \mid x-2 \mid < \delta \Rightarrow \mid \frac{1}{x} - \frac{1}{2} \mid < \epsilon$$
 $$\mid  \frac{2-x}{2x} \mid < \epsilon$$
+$$\mid x-2 \mid  < \epsilon * 2 \mid x \mid $$
+---
+If $x > 1$, then $2 \epsilon < 2 \epsilon  \mid  x \mid$

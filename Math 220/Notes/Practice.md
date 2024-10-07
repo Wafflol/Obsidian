@@ -196,6 +196,25 @@ $$\forall \epsilon > 0, \exists \delta > 0 \text{ } s.t. \text{ } 0 < \mid x - c
 
 need to show that $0 < \mid x - 1 \mid < \delta \Rightarrow \mid (5x+3)-8 \mid < \epsilon$
 
-Let $c = 1$
-Let $L = 8$
+$$\mid  5x-5 \mid < \epsilon$$
+$$\mid x-1 \mid < \frac{\epsilon}{5}$$
+formal proof:
+Proof:
+Given $\epsilon > 0$ , let $\delta = \frac{\epsilon}{5}$
+If $0 < \mid x - 1 \mid < \delta = \frac{\epsilon}{5}$, 
+then $\mid x-1 \mid < \frac{\epsilon}{5}$
+$$\Rightarrow 5 \mid x-1 \mid  < \epsilon$$
+$$\Rightarrow \mid 5x-5 \mid  < \epsilon$$
+$$\Rightarrow \mid (5x+3)-8 \mid < \epsilon$$
+so $\lim_{ x \to 1 }(5x+3)=8$
 
+
+___
+
+
+$$\forall \epsilon > 0, \exists \delta > 0 \text{ } s.t. \text{ } 0 < \mid x - c \mid < \delta \Rightarrow \mid f(x) - L \mid  < \epsilon$$
+
+
+$$\lim_{ x \to 2 } \left( \frac{1}{x} \right)=\frac{1}{2}$$
+$$0 < \mid x-2 \mid < \delta \Rightarrow \mid \frac{1}{x} - \frac{1}{2} \mid < \epsilon$$
+$$\mid  \frac{2-x}{2x} \mid < \epsilon$$

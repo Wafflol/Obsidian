@@ -189,4 +189,13 @@ $$x: [3,\infty)$$
 $$\forall z > 0, \mid x - y \mid < z \Rightarrow (x=y)$$
 $$(\exists z > 0, \mid x-y \mid \geq z) \lor (x = y)$$
 ---
-$$$$
+
+
+Show that $\lim_{ x \to 1 }(5x+3) = 8$
+$$\forall \epsilon > 0, \exists \delta > 0 \text{ } s.t. \text{ } 0 < \mid x - c \mid < \delta \Rightarrow \mid f(x) - L \mid  < \epsilon$$
+
+need to show that $0 < \mid x - 1 \mid < \delta \Rightarrow \mid (5x+3)-8 \mid < \epsilon$
+
+Let $c = 1$
+Let $L = 8$
+

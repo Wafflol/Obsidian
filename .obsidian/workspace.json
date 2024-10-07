@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 253/Tangent planes.md",
+                "file": "Math 220/Notes/Practice.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 253/Tangent planes.md",
+                "file": "Math 220/Notes/Practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 253/Tangent planes.md",
+                "file": "Math 220/Notes/Practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 253/Tangent planes.md"
+                "file": "Math 220/Notes/Practice.md"
               }
             }
           },
@@ -190,6 +190,8 @@
   },
   "active": "4ba4c371e18ead13",
   "lastOpenFiles": [
+    "Math 220/Notes/Untitled.md",
+    "Math 253/Tangent planes.md",
     "Math 253/Pasted image 20241007112415.png",
     "Math 220/Homework/HW3.md",
     "Math 253/Scratch.md",
@@ -221,14 +223,12 @@
     "Math 152/Inverse Matrices.md",
     "Math 152/Jan 22 Lecture Solving parametric equation from 2 planes.png",
     "Math 152/Jan 24 Linear independence.png",
-    "Math 152/Linear Combinations.md",
     "Math 253/Pasted image 20240926180610.png",
     "Math 253/Pasted image 20240926175529.png",
     "Rogers 5G",
     "Math 253/Images/Pasted image 20240916110921.png",
     "Math 253/Images",
     "Untitled.canvas",
-    "Cpen 211/Pasted image 20240913165029.png",
     "Cpen 211/Labs",
     "Math 253",
     "Math 220/Notes",

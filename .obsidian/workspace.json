@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 220/Homework/HW3.md",
+                "file": "Math 253/Tangent planes.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5,
-    "collapsed": true
+    "width": 308.5
   },
   "right": {
     "id": "b2a76b873dfc05ff",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 220/Homework/HW3.md",
+                "file": "Math 253/Tangent planes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 220/Homework/HW3.md",
+                "file": "Math 253/Tangent planes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 220/Homework/HW3.md"
+                "file": "Math 253/Tangent planes.md"
               }
             }
           },
@@ -191,6 +190,8 @@
   },
   "active": "4ba4c371e18ead13",
   "lastOpenFiles": [
+    "Math 253/Pasted image 20241007112415.png",
+    "Math 220/Homework/HW3.md",
     "Math 253/Scratch.md",
     "conflict-files-obsidian-git.md",
     "Math 152/Projection.md",
@@ -201,7 +202,6 @@
     "Math 253/Pasted image 20241004102530.png",
     "Math 152/Dot product.md",
     "Math 220/Notes/XOR.md",
-    "Math 220/Homework/HW3.md",
     "Math 220/Homework/HW2.md",
     "Math 253/Partial Derivatives.md",
     "Math 253/Curves.md",

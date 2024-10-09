@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e86903c0ba622a7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cpen 211/Shannon Expansion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 308.5,
+    "collapsed": true
   },
   "right": {
     "id": "b2a76b873dfc05ff",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cpen 211/Buffers.md",
+                "file": "Cpen 211/Shannon Expansion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cpen 211/Buffers.md",
+                "file": "Cpen 211/Shannon Expansion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cpen 211/Buffers.md"
+                "file": "Cpen 211/Shannon Expansion.md"
               }
             }
           },
@@ -164,8 +178,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ba4be2bd52bbe6a2",
+  "active": "e86903c0ba622a7f",
   "lastOpenFiles": [
+    "Cpen 211/Buffers.md",
+    "Cpen 211/Shannon Expansion.md",
     "Math 220/Notes/Practice.md",
     "Math 220/Notes/Proofs Notation.md",
     "Math 220/Notes/Contrapositive.md",
@@ -195,8 +211,6 @@
     "Math 152/Characteristic equation.md",
     "Math 152/Circles.md",
     "Math 152/Complex Numbers.md",
-    "Math 152/Cross product.md",
-    "Math 152/Composition of linear transformations.md",
     "Math 152/Jan 22 Lecture Solving parametric equation from 2 planes.png",
     "Math 152/Jan 24 Linear independence.png",
     "Math 253/Pasted image 20240926180610.png",

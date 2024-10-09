@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 220/Notes/Practice.md",
+                "file": "Cpen 211/Buffers.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 220/Notes/Practice.md",
+                "file": "Cpen 211/Buffers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 220/Notes/Practice.md",
+                "file": "Cpen 211/Buffers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 220/Notes/Practice.md"
+                "file": "Cpen 211/Buffers.md"
               }
             }
           },
@@ -166,13 +166,13 @@
   },
   "active": "ba4be2bd52bbe6a2",
   "lastOpenFiles": [
+    "Math 220/Notes/Practice.md",
     "Math 220/Notes/Proofs Notation.md",
     "Math 220/Notes/Contrapositive.md",
     "Math 152/Projection.md",
     "Math 253/Alternate Line Definition.md",
     "Cpen 211/Labs/Lab 1.md",
     "Cpen 211/Labs/Lab 2.md",
-    "Math 220/Notes/Practice.md",
     "Math 220/Notes/Untitled.md",
     "Math 253/Tangent planes.md",
     "Math 253/Pasted image 20241007112415.png",

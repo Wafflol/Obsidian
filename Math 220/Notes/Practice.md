@@ -226,3 +226,8 @@ If $0 < \mid  x - 2 \mid < \delta$
 Since $\delta \leq 1$, we have $1 < x < 3$
 Since $\delta \leq 2\epsilon$, we have $\mid  x- 2 \mid < 2\epsilon$
 
+---
+
+$$\frac{1}{2}, \frac{1.5}{2.5}, \frac{1+\frac{3}{5}}{2+\frac{3}{5}}$$
+
+

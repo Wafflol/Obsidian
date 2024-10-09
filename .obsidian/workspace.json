@@ -11,8 +11,12 @@
             "id": "ba4be2bd52bbe6a2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Math 220/Notes/Practice.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Math 220/Notes/Practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Math 220/Notes/Practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Math 220/Notes/Practice.md"
+              }
             }
           },
           {
@@ -158,6 +166,8 @@
   },
   "active": "ba4be2bd52bbe6a2",
   "lastOpenFiles": [
+    "Math 220/Notes/Proofs Notation.md",
+    "Math 220/Notes/Contrapositive.md",
     "Math 152/Projection.md",
     "Math 253/Alternate Line Definition.md",
     "Cpen 211/Labs/Lab 1.md",
@@ -187,8 +197,6 @@
     "Math 152/Complex Numbers.md",
     "Math 152/Cross product.md",
     "Math 152/Composition of linear transformations.md",
-    "Math 152/diagonal matrix.md",
-    "Math 152/Diagonalization.md",
     "Math 152/Jan 22 Lecture Solving parametric equation from 2 planes.png",
     "Math 152/Jan 24 Linear independence.png",
     "Math 253/Pasted image 20240926180610.png",

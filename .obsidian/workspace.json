@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5b878903ba61af97",
+        "id": "2daa71321573456f",
         "type": "tabs",
         "children": [
           {
-            "id": "4ba4c371e18ead13",
+            "id": "ba4be2bd52bbe6a2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cpen 211/Labs/Lab 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb0f32590d93bbe2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cpen 211/Labs/Lab 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0bdba35c9041f027",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math 253/Alternate Line Definition.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "450539966bb4e01d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math 152/Projection.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cpen 211/Labs/Lab 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cpen 211/Labs/Lab 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Cpen 211/Labs/Lab 2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -201,8 +156,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cb0f32590d93bbe2",
+  "active": "ba4be2bd52bbe6a2",
   "lastOpenFiles": [
+    "Math 152/Projection.md",
+    "Math 253/Alternate Line Definition.md",
     "Cpen 211/Labs/Lab 1.md",
     "Cpen 211/Labs/Lab 2.md",
     "Math 220/Notes/Practice.md",
@@ -212,8 +169,6 @@
     "Math 220/Homework/HW3.md",
     "Math 253/Scratch.md",
     "conflict-files-obsidian-git.md",
-    "Math 152/Projection.md",
-    "Math 253/Alternate Line Definition.md",
     "Math 253/Pasted image 20241004103442.png",
     "Math 253/Pasted image 20241004103342.png",
     "Math 253/Pasted image 20241004103153.png",

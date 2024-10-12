@@ -70,10 +70,31 @@ Pick $x = 2, y = 3$. Since $x+y = 5$, and $5 \in P$, $x+y = 5 \in P$. Thus, the 
 Let $\epsilon > 0$, $x \geq M$
 Case 0: $\epsilon \leq 2$
 $$\left| \frac{2x^2}{x^2+1} -2 \right| < \epsilon$$
-$$ \left|  \frac{2x^2-(2x^2+1)}{x^2+1}\right| < \epsilon$$
+$$ \left|  \frac{2x^2-(2x^2+2)}{x^2+1}\right| < \epsilon$$
 $$\left | 2x^2-(2x^2+2) \right | < (x^2+1) \epsilon \text{ (since } x^2+1 \text{ is positive)}$$
 $$2 < (x^2+1) \epsilon$$
 $$\frac{2}{\epsilon} < (x^2+1)$$
 $$\frac{2}{\epsilon} - 1 < x^2$$
 $$\sqrt{ \frac{2}{\epsilon}-1 } < x$$
-Since $x > \sqrt{ \frac{2}{\epsilon}-1 }$, 
+Since $x > \sqrt{ \frac{2}{\epsilon}-1 }$, we can let $M = \sqrt{ \frac{2}{\epsilon}-1 }$, and thus, since $x \geq M$, the implication holds true in this case.
+Case 1: $\epsilon > 2$
+$$\left| \frac{2x^2}{x^2+1} -2 \right| < \epsilon$$
+$$ \left|  \frac{2x^2-(2x^2+2)}{x^2+1}\right| < \epsilon$$
+$$\left | \frac{2}{x^2+1}\right | < \epsilon$$
+Let $M = \epsilon$, since $\epsilon > 2$, and $\frac{2}{x^2+1}$, as $x \geq M$, let $x = M$
+$$\frac{2}{x^2+1} = \frac{2}{2^2+1} = \frac{2}{5}$$
+And since $\frac{1}{x^2+1}$ gets smaller as $x$ grows bigger, it follows that for any $\epsilon > 2$, if we choose $M = \epsilon$, then the original implication holds true.
+Thus, using proof by cases, we show that the implication is correct.
+
+4.
+From the equation, $f(a) = f(0) = 0$
+Using the definition of a limit, 
+$$\forall \epsilon > 0, \exists \delta > 0 \text{ } s.t. \text{ } 0 < \mid x - a \mid < \delta \Rightarrow \mid f(x) - L \mid  < \epsilon$$
+Let $a = 0, L = 0$.
+We want to prove that $\lim_{ x \to 0 }f(x) = 0$, or:
+$$\forall \epsilon > 0, \exists \delta > 0 \text{ } s.t. \text{ } 0 < \mid x -0 \mid < \delta \Rightarrow \mid f(x) - 0 \mid < \epsilon$$
+Assume $0 < \mid x \mid < \delta$
+
+Scratch:
+$|x^2\sin\left( \frac{1}{x} \right)| < \epsilon$
+$$|\sin\left( \frac{1}{x} \right)|< \frac{e}{x^2}$$

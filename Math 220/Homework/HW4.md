@@ -125,3 +125,28 @@ Thus, $M \geq |x|$ always holds true.
 Thus, using proof by cases, the implication holds true.
 
 6.
+Proof by negation:
+Negation:
+$$\exists \epsilon > 0 \text{ } s.t. \text{ } \forall N \in \mathbb{N}, \exists n \in \mathbb{N} \text{ with  } n  > Ns.t. \text{ } |x_{n}-L| \geq \epsilon$$
+
+Case 1: Let $\epsilon = \frac{1}{2}, L = 1, n = 2N+1$
+$$\begin{align}
+x_{2N+1} - 1 &= (-1)^{2N+1} + \frac{1}{2N+1} -1
+\end{align}$$
+Since $2N$ is even, and $-1$ to the power of an even number is 1:
+$$x_{2N+1} = -1+ \frac{1}{2N+1}$$
+$$|x_{2N+1}-L| = |-2 + \frac{1}{2N+1}|$$
+Since $0 < 2N+1 < 1$, then it follows that $|x_{2N+1} - L| \geq  \frac{1}{2}$
+Thus, in this case, the implication is true.
+
+Case 2: Let $\epsilon = \frac{1}{2}, L = -1, n = 2N$
+$$x_{2N} + 1 = (-1)^{2N} + \frac{1}{2N} + 1$$
+$$x_{2N}+1 = \frac{1}{2N} + 2$$
+$$x_{2N} = 1 + \frac{1}{2N}$$
+$$|x_{2N} - L | = |2+\frac{1}{2N}|$$
+Thus, as $\frac{1}{2N} >0$, the implication holds true in this case.
+
+Case 3: Let $\epsilon = \frac{1}{2}, L \neq 1, n = 2N$
+$$x_{2N} = (-1)^{2N} + \frac{1}{2N} $$
+$$x_{2N} = 1+ \frac{1}{2N}$$
+Since $L \neq 1$, 

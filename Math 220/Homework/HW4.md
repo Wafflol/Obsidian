@@ -94,7 +94,7 @@ Let $a = 0, L = 0$.
 We want to prove that $\lim_{ x \to 0 }f(x) = 0$, or:
 $$\forall \epsilon > 0, \exists \delta > 0 \text{ } s.t. \text{ } 0 < \mid x -0 \mid < \delta \Rightarrow \mid f(x) - 0 \mid < \epsilon$$
 Assume $0 < \mid x \mid < \delta$
+Given $\epsilon >0$, 
 
 Scratch:
-$|x^2\sin\left( \frac{1}{x} \right)| < \epsilon$
-$$|\sin\left( \frac{1}{x} \right)|< \frac{e}{x^2}$$
+$$\mid x^2\sin\left( \frac{1}{x} \right) | < \epsilon$$

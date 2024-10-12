@@ -164,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,7 +178,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cd078907a99e3dee",
+  "active": "61da7ce832ee9d6e",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Math 220/Homework/HW4.md",

@@ -68,3 +68,4 @@ Pick $x = 2, y = 3$. Since $x+y = 5$, and $5 \in P$, $x+y = 5 \in P$. Thus, the 
 
 3.
 Definition of limit:
+

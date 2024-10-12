@@ -30,6 +30,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7789535ac70109ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math 220/Notes/Practice.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -180,9 +192,10 @@
   },
   "active": "61da7ce832ee9d6e",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Math 220/Notes/Practice.md",
     "Math 220/Homework/HW4.md",
     "Math 220/Homework/HW2.md",
+    "conflict-files-obsidian-git.md",
     "Math 253/Tangent planes.md",
     "Math 253/Pasted image 20241007112415.png",
     "Math 253/Pasted image 20241004103442.png",
@@ -212,7 +225,6 @@
     "Math 152/Lines in vector form.md",
     "Math 152/Markov Process.md",
     "Math 152/Matrix Multiplication.md",
-    "Math 152/MT1Prac.md",
     "Rogers 5G",
     "Math 253/Pasted image 20240926180610.png",
     "Math 253/Pasted image 20240926175529.png",

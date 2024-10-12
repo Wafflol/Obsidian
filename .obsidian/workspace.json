@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "61da7ce832ee9d6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math 220/Homework/HW4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "50eb85e96197287c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 308.5,
+    "collapsed": true
   },
   "right": {
     "id": "b2a76b873dfc05ff",
@@ -85,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 220/Homework/HW2.md",
+                "file": "Math 220/Homework/HW4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 220/Homework/HW2.md",
+                "file": "Math 220/Homework/HW4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 220/Homework/HW2.md"
+                "file": "Math 220/Homework/HW4.md"
               }
             }
           },
@@ -146,12 +172,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,11 +189,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ea4cd5380d8e00c5",
+  "active": "cd078907a99e3dee",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Math 220/Homework/HW4.md",
+    "Math 220/Homework/HW2.md",
+    "Math 253/Tangent planes.md",
+    "Math 253/Pasted image 20241007112415.png",
+    "Math 253/Pasted image 20241004103442.png",
+    "Math 253/Pasted image 20241004103342.png",
+    "Math 253/Pasted image 20241004103153.png",
+    "Math 253/Pasted image 20241004102530.png",
+    "Cpen 211/Shannon Expansion.md",
+    "Cpen 211/Labs/Lab 2.md",
     "Math 220/Homework/HW3.md",
     "Math 220/Notes/Modular Arithmetic.md",
-    "Math 220/Homework/HW2.md",
     "Math 152/Complex Numbers.md",
     "Math 152/Determinant.md",
     "Math 152/Diagonalization.md",
@@ -189,22 +224,12 @@
     "Math 152/Markov Process.md",
     "Math 152/Matrix Multiplication.md",
     "Math 152/MT1Prac.md",
-    "Math 152/MT2.md",
-    "Math 152/MT3.md",
-    "Math 152/Non-homogeneous systems.md",
-    "Math 152/ODEs.md",
-    "Math 152/Projection.md",
     "Rogers 5G",
     "Math 253/Pasted image 20240926180610.png",
     "Math 253/Pasted image 20240926175529.png",
     "Math 253/Images/Pasted image 20240916111938.png",
-    "Math 253/Images/Pasted image 20240916110921.png",
     "Math 253/Images",
     "Untitled.canvas",
-    "Cpen 211/Pasted image 20240913165029.png",
-    "Cpen 211/Pasted image 20240913172923.png",
-    "Cpen 211/Pasted image 20240913171148.png",
-    "Cpen 211/Pasted image 20240913171101.png",
     "Cpen 211/Labs",
     "Math 253",
     "Math 220/Notes",

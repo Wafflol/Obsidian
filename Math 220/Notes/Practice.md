@@ -189,4 +189,63 @@ $$x: [3,\infty)$$
 $$\forall z > 0, \mid x - y \mid < z \Rightarrow (x=y)$$
 $$(\exists z > 0, \mid x-y \mid \geq z) \lor (x = y)$$
 ---
-$$$$
+
+
+Show that $\lim_{ x \to 1 }(5x+3) = 8$
+$$\forall \epsilon > 0, \exists \delta > 0 \text{ } s.t. \text{ } 0 < \mid x - c \mid < \delta \Rightarrow \mid f(x) - L \mid  < \epsilon$$
+
+need to show that $0 < \mid x - 1 \mid < \delta \Rightarrow \mid (5x+3)-8 \mid < \epsilon$
+
+$$\mid  5x-5 \mid < \epsilon$$
+$$\mid x-1 \mid < \frac{\epsilon}{5}$$
+formal proof:
+Proof:
+Given $\epsilon > 0$ , let $\delta = \frac{\epsilon}{5}$
+If $0 < \mid x - 1 \mid < \delta = \frac{\epsilon}{5}$, 
+then $\mid x-1 \mid < \frac{\epsilon}{5}$
+$$\Rightarrow 5 \mid x-1 \mid  < \epsilon$$
+$$\Rightarrow \mid 5x-5 \mid  < \epsilon$$
+$$\Rightarrow \mid (5x+3)-8 \mid < \epsilon$$
+so $\lim_{ x \to 1 }(5x+3)=8$
+
+
+___
+
+
+$$\forall \epsilon > 0, \exists \delta > 0 \text{ } s.t. \text{ } 0 < \mid x - c \mid < \delta \Rightarrow \mid f(x) - L \mid  < \epsilon$$
+
+
+$$\lim_{ x \to 2 } \left( \frac{1}{x} \right)=\frac{1}{2}$$
+$$0 < \mid x-2 \mid < \delta \Rightarrow \mid \frac{1}{x} - \frac{1}{2} \mid < \epsilon$$
+$$\mid  \frac{2-x}{2x} \mid < \epsilon$$
+$$\mid x-2 \mid  < \epsilon * 2 \mid x \mid $$
+---
+Proof:
+Given $\epsilon > 0$, let $\delta = min{1, 2\epsilon}$
+If $0 < \mid  x - 2 \mid < \delta$
+Since $\delta \leq 1$, we have $1 < x < 3$
+Since $\delta \leq 2\epsilon$, we have $\mid  x- 2 \mid < 2\epsilon$
+
+---
+
+$$\frac{1}{2}, \frac{1.5}{2.5}, \frac{1+\frac{3}{5}}{2+\frac{3}{5}}$$
+
+
+
+---
+
+base case: $F_{4} = 3$, $3 \mid F_{4}$
+$1, 1, 2, 3, 5, 8, 13, 21, 34$
+$3, 21$
+$F_{5} = F_{4} + F_{3} = 3 + 2 = 5$
+$F_{6} = F_{5} + F_{4} = 5 + 3 = 8$
+$F_{7} = F_{6} + F_{5} = 8 + 5 = 13$
+$F_{8} = F_{7} + F_{6} = 13 + 8 = 21$
+
+assume $F_{4n} = 3k, k \in \mathbb{Z}$
+$$F_{4n}=3k$$
+$$F_{4n+4} = F_{4k+3}+F_{4k+2}=F_{4k+2}+F_{4k+1}+F_{4k+1}+F_{4k}$$
+$$=F_{4k+1}+F_{4k}+F_{4k+1}+F_{4k+1}+F_{4k}$$
+$$=3F_{4k+1}+2F_{4k}$$
+$$3F_{4k+1}+6k$$
+$$=3(F_{4k+1}+2k)$$

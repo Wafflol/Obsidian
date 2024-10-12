@@ -108,3 +108,20 @@ $$\begin{align}
 Thus, the implication is true.
 
 5.
+
+The definition of convergence states that for a sequence $x_{n}$, $x_{n}$ has a limit $L \in \mathbb{R}$ when
+$$\forall \epsilon > 0, \exists N \in \mathbb{N} \text{ } s.t. \text{ } \forall n \in \mathbb{N}, n> N \Rightarrow  \mid x_{n} - L| < \epsilon$$and thus, $x_{n} \to L$
+Assume
+$$\forall \epsilon > 0, \exists N \in \mathbb{N} \text{ } s.t. \text{ } \forall n \in \mathbb{N}, n> N \Rightarrow  \mid x_{n} - L| < \epsilon$$
+and assume that $x_{n} \to 0$, and thus, let $L = 0$
+and thus, 
+$$\forall \epsilon > 0, \exists N \in \mathbb{N} \text{ } s.t. \text{ } \forall n \in \mathbb{N}, n> N \Rightarrow  \mid x_{n} - 0| < \epsilon$$
+Case 1: let $n > N$
+Let $M = \epsilon$. Thus, $M > |x|$, and thus, the implication is true in this case.
+
+Case 2: let $n \leq N$
+Let $M = max(x_{n})$.
+Thus, $M \geq |x|$ always holds true. 
+Thus, using proof by cases, the implication holds true.
+
+6.

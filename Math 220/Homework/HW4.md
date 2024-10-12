@@ -108,4 +108,3 @@ $$\begin{align}
 Thus, the implication is true.
 
 5.
-

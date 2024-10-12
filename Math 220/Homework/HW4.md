@@ -67,5 +67,4 @@ Thus, by proof by cases, it follows that the negation is true, which means that 
 Pick $x = 2, y = 3$. Since $x+y = 5$, and $5 \in P$, $x+y = 5 \in P$. Thus, the implication is true.
 
 3.
-Definition of limit:
-
+$$\left| \frac{2x^2}{x^2+1} -2 \right| < \epsilon$$

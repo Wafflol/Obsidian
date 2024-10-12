@@ -67,4 +67,13 @@ Thus, by proof by cases, it follows that the negation is true, which means that 
 Pick $x = 2, y = 3$. Since $x+y = 5$, and $5 \in P$, $x+y = 5 \in P$. Thus, the implication is true.
 
 3.
+Let $\epsilon > 0$, $x \geq M$
+Case 0: $\epsilon \leq 2$
 $$\left| \frac{2x^2}{x^2+1} -2 \right| < \epsilon$$
+$$ \left|  \frac{2x^2-(2x^2+1)}{x^2+1}\right| < \epsilon$$
+$$\left | 2x^2-(2x^2+2) \right | < (x^2+1) \epsilon \text{ (since } x^2+1 \text{ is positive)}$$
+$$2 < (x^2+1) \epsilon$$
+$$\frac{2}{\epsilon} < (x^2+1)$$
+$$\frac{2}{\epsilon} - 1 < x^2$$
+$$\sqrt{ \frac{2}{\epsilon}-1 } < x$$
+Since $x > \sqrt{ \frac{2}{\epsilon}-1 }$, 

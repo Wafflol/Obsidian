@@ -81,7 +81,7 @@ Case 1: $\epsilon > 2$
 $$\left| \frac{2x^2}{x^2+1} -2 \right| < \epsilon$$
 $$ \left|  \frac{2x^2-(2x^2+2)}{x^2+1}\right| < \epsilon$$
 $$\left | \frac{2}{x^2+1}\right | < \epsilon$$
-Let $M = \epsilon$, since $\epsilon > 2$, and $\frac{2}{x^2+1}$, as $x \geq M$, let $x = M$
+Let $M = \epsilon$ , since since $\epsilon > 2$, and $\frac{2}{x^2+1}$, as $x \geq M$, let $x = M$
 $$\frac{2}{x^2+1} = \frac{2}{2^2+1} = \frac{2}{5}$$
 And since $\frac{1}{x^2+1}$ gets smaller as $x$ grows bigger, it follows that for any $\epsilon > 2$, if we choose $M = \epsilon$, then the original implication holds true.
 Thus, using proof by cases, we show that the implication is correct.
@@ -94,7 +94,18 @@ Let $a = 0, L = 0$.
 We want to prove that $\lim_{ x \to 0 }f(x) = 0$, or:
 $$\forall \epsilon > 0, \exists \delta > 0 \text{ } s.t. \text{ } 0 < \mid x -0 \mid < \delta \Rightarrow \mid f(x) - 0 \mid < \epsilon$$
 Assume $0 < \mid x \mid < \delta$
-Given $\epsilon >0$, 
+Given $\epsilon >0$, let $\delta = \sqrt{ \epsilon }$:
+then, 
+$$\begin{align}
+0 < |x| &= \sqrt{ \epsilon } \\
+|x| &< \sqrt{ \epsilon } \\
+|x^2| &< \epsilon
+\end{align}$$
+Since  $\sin\left( \frac{1}{x} \right) \leq 1$, 
+$$\begin{align}
+|x^2*\sin\left( \frac{1}{x} \right)| < \epsilon
+\end{align}$$
+Thus, the implication is true.
 
-Scratch:
-$$\mid x^2\sin\left( \frac{1}{x} \right) | < \epsilon$$
+5.
+

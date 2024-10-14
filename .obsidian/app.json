@@ -11,5 +11,8 @@
     "downscalePercent": 100
   },
   "attachmentFolderPath": "./",
-  "readableLineLength": true
+  "readableLineLength": false,
+  "strictLineBreaks": true,
+  "rightToLeft": false,
+  "defaultViewMode": "preview"
 }

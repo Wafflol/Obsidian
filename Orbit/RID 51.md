@@ -2,13 +2,10 @@
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1) The Space Debris Mitigation Plan / Report (SDMP / SDMR) shall be prepared according to ESSB-ST-U-007 and contain a compliance and verification matrix with all the requirements in ESSB-ST-U-007.  <br>  <br>2) The maximum orbit altitude to comply with LEO clearance in less than 5 years shall be analyzed according to the correct timeline and ESSB-ST-U-007 (sect. 6) to capture solar cycle variability such to confirm the feasible orbit altitude.  <br>  <br>3) The risk of battery cell explosion and break-up probability (towards 10-3 threshold) shall be assessed taking into account battery cell procurement, battery cells safety devices, battery qualification/acceptance tests, worst-case thermal conditions, structural consequences in terms of debris generation in case of battery cells explosion. |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-![[Pasted image 20241013225338.png|625]]
 
+1.  Only have template set up, is it correct to use all LEO applicable requirements from ESSB-ST-U-007 Table C-1: Requirements applicability matrix?
 
-
-1.  Only have template set up
-
-2. Unsure of how to go about this
+2. Is this using DRAMA/OSCAR?
 
 3. The battery pack is procured from ISISpace and the battery cells are unprotected 18650 type cells from Panasonic/Sanyo that have been extensively used in both terrestrial and orbital systems. Upon request we can provide the datasheets for the batteries.
 	1. Qualification and acceptance testing:
@@ -23,7 +20,7 @@
 		5. Sine and Random Vibration ASAP5 Qualification Levels
 		6. IPC-A-610 Class 3 PCB, flight units thermally acceptance tested
 		7. PBP-4S1P has deployment heritage from ISS.
-	(not too sure how to analyze structual consequences in case of explosion) 
+	(not too sure how to analyze structural consequences in case of explosion) 
 
 
 

@@ -23,7 +23,7 @@
 		5. Sine and Random Vibration ASAP5 Qualification Levels
 		6. IPC-A-610 Class 3 PCB, flight units thermally acceptance tested
 		7. PBP-4S1P has deployment heritage from ISS.
-	(not too sure how to analyze structual consequences in case of explosion)
+	(not too sure how to analyze structual consequences in case of explosion) 
 
 
 

@@ -3,9 +3,10 @@
 | 1) The Space Debris Mitigation Plan / Report (SDMP / SDMR) shall be prepared according to ESSB-ST-U-007 and contain a compliance and verification matrix with all the requirements in ESSB-ST-U-007.  <br>  <br>2) The maximum orbit altitude to comply with LEO clearance in less than 5 years shall be analyzed according to the correct timeline and ESSB-ST-U-007 (sect. 6) to capture solar cycle variability such to confirm the feasible orbit altitude.  <br>  <br>3) The risk of battery cell explosion and break-up probability (towards 10-3 threshold) shall be assessed taking into account battery cell procurement, battery cells safety devices, battery qualification/acceptance tests, worst-case thermal conditions, structural consequences in terms of debris generation in case of battery cells explosion. |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 
-1.  Only have template set up, is it correct to use all LEO applicable requirements from ESSB-ST-U-007 Table C-1: Requirements applicability matrix?
+1.  Still WIP, will be fixed by next SATPF. Only have template set up, is it correct to use all LEO applicable requirements from ESSB-ST-U-007 Table C-1: Requirements applicability matrix?
 
-2.  Acknowledged. How far apart should each iteration of the simulation be run in to insure full coverage of solar cycle variability? Need clarification on 
+2.  Acknowledged. How far apart should each iteration of the simulation be run in to insure full coverage of solar cycle variability? Also need clarification on "correct timeline". 
+	Need guidance on solar cycle model: as per A.2.8 of ESSB-HB-U-002, ECSS has a higher fidelity than Monte Carlo Sampling - is there a reason not to use ECSS sample solar cycles in DRAMA/OSCAR?
 
 4. The battery pack is procured from ISISpace and the battery cells are unprotected 18650 type cells from Panasonic/Sanyo that have been extensively used in both terrestrial and orbital systems. Upon request we can provide the datasheets for the batteries.
 	1. Qualification and acceptance testing:
@@ -21,7 +22,7 @@
 		6. IPC-A-610 Class 3 PCB, flight units thermally acceptance tested
 		7. PBP-4S1P has deployment heritage from ISS.
 	(not too sure how to analyze structural consequences in case of explosion) 
-
+![[Pasted image 20241014204349.png]]
  ![[Pasted image 20241014200844.png|825]]
 ![[Pasted image 20241014202258.png]]
 

@@ -7,13 +7,14 @@
 
 2.  Acknowledged. How far apart should each iteration of the simulation be run in to insure full coverage of solar cycle variability? Also need clarification on "correct timeline". 
 	Need guidance on solar cycle model: as per A.2.8 of ESSB-HB-U-002, ECSS has a higher fidelity than Monte Carlo Sampling - is there a reason not to use ECSS sample solar cycles in DRAMA/OSCAR?
+	In ESSB-ST-U-007 section 6.2.g, need clarification on what percentile is referring to.
 
-4. The battery pack is procured from ISISpace and the battery cells are unprotected 18650 type cells from Panasonic/Sanyo that have been extensively used in both terrestrial and orbital systems. Upon request we can provide the datasheets for the batteries.
-	1. Qualification and acceptance testing:
+	1. The battery pack is procured from ISISpace and the battery cells are unprotected 18650 type cells from Panasonic/Sanyo that have been extensively used in both terrestrial and orbital systems. Upon request we can provide the datasheets for the batteries.
+	2. Qualification and acceptance testing:
 		1. Follows IPC-A-610 Class 3 standard
 		2. QT: Functional, Vibration, Mechanical Shock, Thermal Cycling, Thermal Vacuum
 		3. AT: Functional, Thermal Cycling
-	2. Flight heritage and quality assurance from manufacturer
+	3. Flight heritage and quality assurance from manufacturer
 		1. Design based on heritage from ICEPS1 design flown on PEASSS CubeSat (2016)
 		2. ICEPS2, second generation, flown on the Hiber 1,2 CubeSats (2018)
 		3. Qualification Thermal Testing, -40 to +80 degrees Celsius
@@ -21,7 +22,7 @@
 		5. Sine and Random Vibration ASAP5 Qualification Levels
 		6. IPC-A-610 Class 3 PCB, flight units thermally acceptance tested
 		7. PBP-4S1P has deployment heritage from ISS.
-	(not too sure how to analyze structural consequences in case of explosion) 
+		(not too sure how to analyze structural consequences in case of explosion) 
 ![[Pasted image 20241014204349.png]]
  ![[Pasted image 20241014200844.png|825]]
 ![[Pasted image 20241014202258.png]]

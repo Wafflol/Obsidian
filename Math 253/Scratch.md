@@ -59,7 +59,4 @@ two vecs, cross / 2
 projba = $\frac{(a \cdot b)}{\begin{Vmatrix} b^2\end{Vmatrix}}*\vec{b}=\frac{\sqrt{ 3 }}{2}\begin{Vmatrix}a\end{Vmatrix}$
 $a\cdot b = |a | |b|\cos\theta$
 
-
-
 $$z = e^{-3x/17}$$
-$$$$

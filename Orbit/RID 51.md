@@ -5,9 +5,9 @@
 
 1.  Only have template set up, is it correct to use all LEO applicable requirements from ESSB-ST-U-007 Table C-1: Requirements applicability matrix?
 
-2.  Acknowledged. How far apart should each iteration of the simulation be run in to insure full coverage of solar cycle variability? 
+2.  Acknowledged. How far apart should each iteration of the simulation be run in to insure full coverage of solar cycle variability? Need clarification on 
 
-3. The battery pack is procured from ISISpace and the battery cells are unprotected 18650 type cells from Panasonic/Sanyo that have been extensively used in both terrestrial and orbital systems. Upon request we can provide the datasheets for the batteries.
+4. The battery pack is procured from ISISpace and the battery cells are unprotected 18650 type cells from Panasonic/Sanyo that have been extensively used in both terrestrial and orbital systems. Upon request we can provide the datasheets for the batteries.
 	1. Qualification and acceptance testing:
 		1. Follows IPC-A-610 Class 3 standard
 		2. QT: Functional, Vibration, Mechanical Shock, Thermal Cycling, Thermal Vacuum

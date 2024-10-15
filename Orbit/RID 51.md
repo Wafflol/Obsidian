@@ -5,16 +5,16 @@
 
 1.  Still WIP, will be fixed by next SATPF. Only have template set up, is it correct to use all LEO applicable requirements from ESSB-ST-U-007 Table C-1: Requirements applicability matrix?
 
-2.  Acknowledged. How far apart should each iteration of the simulation be run in to insure full coverage of solar cycle variability? Also need clarification on "correct timeline". 
+2.  Acknowledged. How far apart should each iteration of the simulation be run in to insure full coverage of solar cycle variability? Also need clarification on "correct timeline" (Use launch date of 2027 Q4?). 
 	Need guidance on solar cycle model: as per A.2.8 of ESSB-HB-U-002, ECSS has a higher fidelity than Monte Carlo Sampling - is there a reason not to use ECSS sample solar cycles in DRAMA/OSCAR?
 	In ESSB-ST-U-007 section 6.2.g, need clarification on what percentile is referring to.
 
-	1. The battery pack is procured from ISISpace and the battery cells are unprotected 18650 type cells from Panasonic/Sanyo that have been extensively used in both terrestrial and orbital systems. Upon request we can provide the datasheets for the batteries.
-	2. Qualification and acceptance testing:
+3. The battery pack is procured from ISISpace and the battery cells are unprotected 18650 type cells from Panasonic/Sanyo that have been extensively used in both terrestrial and orbital systems. Upon request we can provide the datasheets for the batteries.
+	1. Qualification and acceptance testing:
 		1. Follows IPC-A-610 Class 3 standard
 		2. QT: Functional, Vibration, Mechanical Shock, Thermal Cycling, Thermal Vacuum
 		3. AT: Functional, Thermal Cycling
-	3. Flight heritage and quality assurance from manufacturer
+	2. Flight heritage and quality assurance from manufacturer
 		1. Design based on heritage from ICEPS1 design flown on PEASSS CubeSat (2016)
 		2. ICEPS2, second generation, flown on the Hiber 1,2 CubeSats (2018)
 		3. Qualification Thermal Testing, -40 to +80 degrees Celsius

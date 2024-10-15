@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5110321044922
+    "width": 375.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "b2a76b873dfc05ff",
@@ -189,6 +190,7 @@
   },
   "active": "61da7ce832ee9d6e",
   "lastOpenFiles": [
+    "Orbit/Pasted image 20241014202258.png",
     "Orbit/Pasted image 20241014200844.png",
     "Orbit/Pasted image 20241014143420.png",
     "Orbit/Pasted image 20241013225338.png",
@@ -224,7 +226,6 @@
     "Math 152/Cross product.md",
     "Math 152/Composition of linear transformations.md",
     "Math 152/Complex Poynomials.md",
-    "Math 152/Jan 22 Lecture Solving parametric equation from 2 planes.png",
     "Rogers 5G",
     "Math 253/Images",
     "Untitled.canvas",

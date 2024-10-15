@@ -5,7 +5,7 @@
 
 1.  Only have template set up, is it correct to use all LEO applicable requirements from ESSB-ST-U-007 Table C-1: Requirements applicability matrix?
 
-2. Is this using DRAMA/OSCAR?
+2.  Acknowledged, what time intervals should different iterations of the simulation be run in.
 
 3. The battery pack is procured from ISISpace and the battery cells are unprotected 18650 type cells from Panasonic/Sanyo that have been extensively used in both terrestrial and orbital systems. Upon request we can provide the datasheets for the batteries.
 	1. Qualification and acceptance testing:
@@ -22,7 +22,7 @@
 		7. PBP-4S1P has deployment heritage from ISS.
 	(not too sure how to analyze structural consequences in case of explosion) 
 
-
+ ![[Pasted image 20241014200844.png|825]]
 
 
 1. Acubesat:

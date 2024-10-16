@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 253/Scratch.md",
+                "file": "Math 220/Notes/Practice.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 253/Scratch.md",
+                "file": "Math 220/Notes/Practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 253/Scratch.md",
+                "file": "Math 220/Notes/Practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 253/Scratch.md"
+                "file": "Math 220/Notes/Practice.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   },
   "active": "6d413407b3e41c03",
   "lastOpenFiles": [
+    "Math 253/Scratch.md",
     "Math 253/Partial Derivatives.md",
     "Cpen 211/Buffers.md",
     "Cpen 211/Shannon Expansion.md",
@@ -187,7 +188,6 @@
     "Math 253/Tangent planes.md",
     "Math 253/Pasted image 20241007112415.png",
     "Math 220/Homework/HW3.md",
-    "Math 253/Scratch.md",
     "conflict-files-obsidian-git.md",
     "Math 253/Pasted image 20241004103442.png",
     "Math 253/Pasted image 20241004103342.png",

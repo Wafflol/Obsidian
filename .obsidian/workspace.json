@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "3dbb2f3211dd792e",
+        "id": "5b878903ba61af97",
         "type": "tabs",
         "children": [
           {
-            "id": "6d413407b3e41c03",
+            "id": "ea4cd5380d8e00c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 253/Scratch.md",
+                "file": "Math 220/Homework/HW2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61da7ce832ee9d6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vim/Motion Cheat Sheet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7789535ac70109ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math 220/Notes/Practice.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 375.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "b2a76b873dfc05ff",
@@ -85,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 253/Scratch.md",
+                "file": "Vim/Motion Cheat Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 253/Scratch.md",
+                "file": "Vim/Motion Cheat Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 253/Scratch.md"
+                "file": "Vim/Motion Cheat Sheet.md"
               }
             }
           },
@@ -145,13 +171,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 289.5,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,44 +188,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6d413407b3e41c03",
+  "active": "61da7ce832ee9d6e",
   "lastOpenFiles": [
-    "Math 253/Partial Derivatives.md",
-    "Cpen 211/Buffers.md",
-    "Cpen 211/Shannon Expansion.md",
+    "Math 220/Homework/HW2.md",
+    "Math 220/Notes/Practice.md",
+    "Vim/Motion Cheat Sheet.md",
     "Orbit/RID 51.md",
+    "Vim",
     "Orbit/Pasted image 20241014204349.png",
     "Orbit/Pasted image 20241014202258.png",
     "Orbit/Pasted image 20241014200844.png",
     "Orbit/Pasted image 20241014143420.png",
     "Orbit/Pasted image 20241013225338.png",
+    "Orbit/CAD Naming convention.md",
+    "Cpen 211/Shannon Expansion.md",
+    "Cpen 211/PSet 1.md",
+    "Cpen 211/Pasted image 20240913165029.png",
+    "Cpen 211/p-type MOS transistor (PFET).md",
+    "Cpen 211/n-type MOS transistor (NFET).md",
+    "Cpen 211/Metal Oxide Semiconductor (MOS) Field-Effect Transistors (FET).md",
+    "Cpen 211/CMOS Logic Gates.md",
+    "Cpen 211/Bubble Rule.md",
+    "Cpen 211/Buffers.md",
+    "Cpen 211/Pasted image 20240913171024.png",
+    "Project ideas.md",
     "Math 220/Homework/HW4.md",
-    "Math 220/Notes/Practice.md",
-    "Math 220/Notes/Proofs Notation.md",
-    "Math 220/Notes/Contrapositive.md",
-    "Math 152/Projection.md",
-    "Math 253/Alternate Line Definition.md",
-    "Cpen 211/Labs/Lab 1.md",
-    "Cpen 211/Labs/Lab 2.md",
-    "Math 220/Notes/Untitled.md",
+    "conflict-files-obsidian-git.md",
     "Math 253/Tangent planes.md",
     "Math 253/Pasted image 20241007112415.png",
-    "Math 220/Homework/HW3.md",
-    "Math 253/Scratch.md",
-    "conflict-files-obsidian-git.md",
     "Math 253/Pasted image 20241004103442.png",
     "Math 253/Pasted image 20241004103342.png",
-    "Math 253/Pasted image 20241004103153.png",
-    "Math 253/Pasted image 20241004102530.png",
-    "Math 152/Dot product.md",
-    "Math 220/Notes/XOR.md",
-    "Math 220/Homework/HW2.md",
-    "Math 253/Curves.md",
-    "Math 220/Homework/HW1.md",
-    "Math 152/Area of parallelograms.md",
-    "Math 152/Matrix Multiplication.md",
-    "Project ideas.md",
-    "Math 152/Characteristic equation.md",
+    "Cpen 211/Labs/Lab 2.md",
+    "Math 220/Homework/HW3.md",
+    "Math 220/Notes/Modular Arithmetic.md",
+    "Math 152/Complex Numbers.md",
+    "Math 152/Determinant.md",
+    "Math 152/Diagonalization.md",
+    "Math 152/diagonal matrix.md",
+    "Math 152/Cross product.md",
+    "Math 152/Composition of linear transformations.md",
     "Rogers 5G",
     "Math 253/Images",
     "Untitled.canvas",
@@ -211,7 +236,6 @@
     "Math 220/Homework",
     "Math 220",
     "Cpen 221",
-    "Cpen 211",
-    "Phys 159 Labs/Lab 09"
+    "Cpen 211"
   ]
 }

@@ -20,3 +20,29 @@ $$\begin{align}
 &= 6 + 2n^{n+1}{(4(n+1)-6})
 \end{align}$$
 Thus, using proof by induction, it follows that the implication is true.
+
+2.
+Proof by induction:
+Base Case: $n = 1$, $n = 2$
+When $n = 1$,
+$$\begin{align}
+a_{1} = 1
+\end{align}$$
+When $n = 2$
+$$\begin{align}
+a_{2} = 5
+\end{align}$$
+Induction Step:
+Let:
+$$\begin{align}
+a_{n} = 5a_{n-1}-6a_{n-2} = 3^n-2^n, n\geq 3
+\end{align}$$
+$$\begin{align}
+a_{n+1} &= 5a_{n}-6a_{n-1} \\
+&= 5a_{n-1}-6a_{n-2}-6a_{n-1} \\
+&= 3^n-2^n - 6a_{n-1} \\
+& = 3^n -2^n - 
+\end{align}$$
+
+
+prove $$a_{n+1} = 3^{n+1} - 2^{n+1}$$

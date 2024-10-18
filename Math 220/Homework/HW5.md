@@ -57,5 +57,5 @@ When $n =0, f_{1}=1$
 Induction Step:
 Let $f_{n+1}f_{n-1}-f^2_{n}=(-1)^n$ for $n \geq 2$
 $$\begin{align}
-f_{n+1}f_{n-1}-f_{n}^2=(-1)^n=
+f_{n+1}f_{n-1}-f_{n}^2=(-1)^n = 
 \end{align}$$

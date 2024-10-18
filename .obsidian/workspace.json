@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 220/Homework/HW2.md",
+                "file": "Math 220/Homework/HW5.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "HW5"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "Vim/Motion Cheat Sheet.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Motion Cheat Sheet"
             }
           },
           {
@@ -40,11 +44,12 @@
                 "file": "Math 220/Notes/Practice.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Practice"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +69,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -79,7 +86,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -87,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -106,32 +117,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5fdc5387f80f2f02",
+            "id": "c8be7d9a0f393ec6",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "outline",
               "state": {
-                "file": "Vim/Motion Cheat Sheet.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
+                "file": "Math 220/Homework/HW5.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of HW5"
             }
           },
           {
-            "id": "e332d73f6bb4b55d",
+            "id": "439823f41502917c",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Vim/Motion Cheat Sheet.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -142,25 +146,17 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "c8be7d9a0f393ec6",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Vim/Motion Cheat Sheet.md"
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 298.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,12 +169,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "61da7ce832ee9d6e",
+  "active": "ea4cd5380d8e00c5",
   "lastOpenFiles": [
+    "Math 220/Homework/HW2.md",
+    "Vim/Motion Cheat Sheet.md",
+    "2024-10-17.md",
     "conflict-files-obsidian-git.md",
     "Math 220/Homework/HW5.md",
-    "Vim/Motion Cheat Sheet.md",
-    "Math 220/Homework/HW2.md",
     "Math 220/Notes/Practice.md",
     "Orbit/RID 51.md",
     "Vim",
@@ -211,7 +208,6 @@
     "Math 152/Determinant.md",
     "Math 152/Diagonalization.md",
     "Math 152/diagonal matrix.md",
-    "Math 152/Cross product.md",
     "Rogers 5G",
     "Math 253/Images",
     "Untitled.canvas",

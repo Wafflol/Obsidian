@@ -32,6 +32,7 @@ When $n = 2$
 $$\begin{align}
 a_{2} = 5
 \end{align}$$
+
 Induction Step:
 Let:
 $$\begin{align}

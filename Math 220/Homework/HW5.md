@@ -23,7 +23,7 @@ Thus, using proof by induction, it follows that the implication is true.
 
 2.
 Proof by induction:
-Base Case: $n = 1$, $n = 2$
+Base Cases: $n = 1$, $n = 2$
 When $n = 1$,
 $$\begin{align}
 a_{1} = 3-2=1
@@ -51,7 +51,7 @@ Thus, using strong induction, it follows that the implication is true
 
 3.
 Proof by induction:
-Base Case: $n = 1$, $n = 2$
+Base Cases: $n = 1$, $n = 2$
 When $n=1$, 
 $$f_{2}f_{0}-f_{1}^2= (f_{1}+f_{0})(0)-1^2=-1=(-1)^1$$
 When $n =2$,  
@@ -85,7 +85,7 @@ By Euclidian division, $5 \mid 164709$, and thus, the base case holds true.
 
 Induction step: assume true for some $k \in \mathbb{N}$
 Let $7^{4k+3}+2 \equiv 0 ( \text{ mod 5})$
-It follow that $7^{4k+3} \equiv 3 \text{ (mod 5) }$
+It follows that $7^{4k+3} \equiv 3 \text{ (mod 5) }$
 and thus, $7^{4k+3}=3+5l$ for some $l \in \mathbb{Z}$
 $$\begin{align}
 7^{4(k+1)+3}+2 &= 7^{4k+7}+2 \\
@@ -97,3 +97,24 @@ $$\begin{align}
 Since $1+7^4l \in \mathbb{Z}$, then it follows that $5 \mid 5(1+7^4l)$, and thus, using proof by induction, the implication holds true.
 
 5.
+Proof by induction:
+Base Cases: $n = 0, n = 1$
+When $n = 0$,
+$$\begin{align}
+u_{0} = \cos(0) = 1
+\end{align}$$
+When $n = 1$,
+$$\begin{align}
+u_{1} = \cos(x * 1) = \cos x
+\end{align}$$
+In both base cases, the implication holds true.
+Induction step: assume true for some $k \in \mathbb{N}$, $k \geq 2$
+Let:
+$$\begin{align}
+u_{k} &= 2u_{1}u_{k-1}-u_{k-2} = \cos(kx)
+\end{align}$$
+Then,
+$$\begin{align}
+u_{k+1} &= 2u_{1}u_{k}-u_{k-1} \\
+&=
+\end{align}$$

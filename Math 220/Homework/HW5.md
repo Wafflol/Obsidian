@@ -140,3 +140,29 @@ n^3-2n^2-n &> 0 \\
 n(n^2-2n-1) &> 0 \\
 \end{align}$$
 Finding the roots of the inner function, $n^2-2n-1$, using the quadratic formula we get the roots $n = 1 \pm \sqrt{ 2 }$. 
+Since we only care about positive $n$ values, we can ignore the roots, $n = 1-\sqrt{ 2 }, 0$.
+This leaves only one zero of the function, $n = 1+\sqrt{ 2 }$. Thus, as a continuous function like $n^3-2n^2-n$ can only change signs at a zero, we can check which side of the function it's positive. Plugging in a number $l = 3 > 1+\sqrt{ 2 }$, it follows that $l^3-2l^2-l = 6 >0$. Plugging in a number $m = 1 < 1+ \sqrt{ 2 }$, it follows that $m^3-2m^2-m = -2 < 0$. Plugging in a number $j = 2 < 1 + \sqrt{ 2 }$, it follows that $j^3-2j^2-j=-2 < 0$.
+Thus, it follows that the implication does not hold for the values $n = 1, 2$, but it holds true for $n = 3$.
+
+Proof by induction:
+Since the implication holds true for $n = 3$, it acts as the base case:
+When $n = 3$,
+$$\begin{align}
+n^3 &> 2n^2 +n \\
+27 &> 18 + 3 \\
+27 &> 21
+\end{align}$$
+This shows, once again that the implication holds true for the base case $n = 3$.
+Induction step:  assume true for some $k \in \mathbb{N}$, for $k \geq 3$
+Let: 
+$$\begin{align}
+k^3 > 2k^2 + k
+\end{align}$$
+Then,
+$$\begin{align}
+(k+1)^3 &= (k+1)^2k+(k+1)^2 \\
+&= 
+\end{align}$$
+
+$$> 2k^2+5k+3$$
+$$> 2(k+1)^2+(k+1)$$

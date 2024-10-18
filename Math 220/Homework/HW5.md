@@ -56,13 +56,17 @@ When $k=1$,
 $$f_{2}f_{0}-f_{1}^2= (f_{1}+f_{0})(0)-1^2=-1=(-1)^1$$
 When $k =2$,  
 $$f_{3}f_{1}-f_{2}^2=(f_{1}+f_{0}+f_{1})f_{1}-(f_{1}+f_{0})^2=(2-1)=1=(-1)^2$$
-The implication holds for the 
+The implication holds for the base case
 Induction Step:
 Let $f_{k+1}f_{k-1}-f^2_{k}=(-1)^k$ for $k \geq 2$
 Then $f_{k}^2=f_{k+1}f_{k-1}-(-1)^k$
 
 Let k = 3
 $$\begin{align}
-f_{k+2}f_{k}-f_{k+1}^2&=(f_{k+1}+f_{k})f_{k}-(f_{k})^2 \\
-&= (f_{k+1}+f_{k})f_{k}-(f_{k+1}f_{k-1}-(-1)^k)
+f_{k+2}f_{k}-f_{k+1}^2&=(f_{k+1}+f_{k})f_{k}-(f_{k+1})^2 \\
+&= f_{k+1}f_{k}+f_{k}^2 - f_{k-1}^2 \\
+&= f_{k+1}f_{k}+f_{k+1}f_{k-1}-(-1)^k-f_{k-1}^2 \\
+&= f_{k+1}(f_{k}f_{k-1})-(-1)^k-f_{k-1}^2 \\
+&= (f_{k}+f_{k-1}) (f_{k}f_{k-1})-f_{k-1}^2-(-1)^k \\
+&=  
 \end{align}$$

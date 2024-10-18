@@ -51,14 +51,18 @@ Thus, using strong induction, it follows that the implication is true
 
 3.
 Proof by induction:
-Base Case: $n = 1$, $n = 2$
-When $n=1$, 
+Base Case: $k = 1$, $k = 2$
+When $k=1$, 
 $$f_{2}f_{0}-f_{1}^2= (f_{1}+f_{0})(0)-1^2=-1=(-1)^1$$
-When $n =2$,  
+When $k =2$,  
 $$f_{3}f_{1}-f_{2}^2=(f_{1}+f_{0}+f_{1})f_{1}-(f_{1}+f_{0})^2=(2-1)=1=(-1)^2$$
 The implication holds for the 
 Induction Step:
-Let $f_{n+1}f_{n-1}-f^2_{n}=(-1)^n$ for $n \geq 2$
+Let $f_{k+1}f_{k-1}-f^2_{k}=(-1)^k$ for $k \geq 2$
+Then $f_{k}^2=f_{k+1}f_{k-1}-(-1)^k$
+
+Let k = 3
 $$\begin{align}
-f_{n+1}f_{n-1}-f_{n}^2=(-1)^n = 
+f_{k+2}f_{k}-f_{k+1}^2&=(f_{k+1}+f_{k})f_{k}-(f_{k})^2 \\
+&= (f_{k+1}+f_{k})f_{k}-(f_{k+1}f_{k-1}-(-1)^k)
 \end{align}$$

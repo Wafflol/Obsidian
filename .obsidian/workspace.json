@@ -156,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,7 +169,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ea4cd5380d8e00c5",
+  "active": "439823f41502917c",
   "lastOpenFiles": [
     "Math 220/Homework/HW2.md",
     "Vim/Motion Cheat Sheet.md",

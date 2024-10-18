@@ -139,3 +139,4 @@ $$\begin{align}
 n^3-2n^2-n &> 0 \\
 n(n^2-2n-1) &> 0 \\
 \end{align}$$
+Finding the roots of the inner function, $n^2-2n-1$, using the quadratic formula we get the roots $n = 1 \pm \sqrt{ 2 }$. 

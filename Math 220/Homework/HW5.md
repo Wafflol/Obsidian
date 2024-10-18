@@ -68,5 +68,10 @@ f_{k+2}f_{k}-f_{k+1}^2&=(f_{k+1}+f_{k})f_{k}-(f_{k+1})^2 \\
 &= -f_{k+1}(f_{k+1}-f_{k})+f_{k}^2 \\
 &= -f_{k+1}(f_{k}+f_{k-1}-f_{k})+f_{k}^2 \\
 &= -f_{k+1}(f_{k-1})+f_{k}^2 \\
-&= -f_{k+1}(f_{k-1})+
+&= -f_{k+1}(f_{k-1}) + f_{k+1}f_{k-1}-(-1)^k \\
+&= -1*(-1)^k \\
+&= (-1)^{k+1}
 \end{align}$$
+Thus, using proof by induction, it follows that the implication holds true.
+
+4.

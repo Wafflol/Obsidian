@@ -161,8 +161,6 @@ k^3 > 2k^2 + k
 Then,
 $$\begin{align}
 (k+1)^3 &= (k+1)^2k+(k+1)^2 \\
-&= 
+&= k(k+1)^2+k(k+1)+k+1 \\
 \end{align}$$
-
-$$> 2k^2+5k+3$$
-$$> 2(k+1)^2+(k+1)$$
+Since $k\geq 3$, it follows that $k(k+1)^2+k(k+1)+k+1 > 2(k+1)^2 +(k+1)$, and thus, by proof by induction, it follows that the implication is true.

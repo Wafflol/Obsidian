@@ -33,7 +33,7 @@ $$\begin{align}
 a_{2} = 5
 \end{align}$$
 
-Induction Step: assume true for some $n \in N, n >2,  \text{ and for } k-1$
+Induction Step: assume true for some $n \in N, n \geq2,  \text{ and for } k-1$
 Let:
 $$\begin{align}
 a_{n} = 5a_{n-1}-6a_{n-2} = 3^n-2^n, n\geq 3
@@ -55,4 +55,7 @@ Base Case: $n = 1$, $n = 0$
 When $n=1$, $f_{0}=0$
 When $n =0, f_{1}=1$
 Induction Step:
-Let $f_{n+1}f_{n-1}-f^2_{n}=(-1)^n$
+Let $f_{n+1}f_{n-1}-f^2_{n}=(-1)^n$ for $n \geq 2$
+$$\begin{align}
+f_{n+1}f_{n-1}-f_{n}^2=(-1)^n=
+\end{align}$$

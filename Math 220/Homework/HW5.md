@@ -51,6 +51,8 @@ Thus, using strong induction, it follows that the implication is true
 
 3.
 Proof by induction:
-Base Case: $n = 1$
-When $n=1$, 
-$$f_{1}$$
+Base Case: $n = 1$, $n = 0$
+When $n=1$, $f_{0}=0$
+When $n =0, f_{1}=1$
+Induction Step:
+Let $f_{n+1}f_{n-1}-f^2_{n}=(-1)^n$

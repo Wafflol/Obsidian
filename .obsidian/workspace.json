@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5b878903ba61af97",
+        "id": "d40f0e37dc9b68d3",
         "type": "tabs",
         "children": [
           {
-            "id": "ea4cd5380d8e00c5",
+            "id": "adf1dfa0611a3313",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -105,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5110321044922,
+    "width": 308.5,
     "collapsed": true
   },
   "right": {
@@ -122,20 +122,45 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Math 220/Homework/HW5.md"
               },
               "icon": "lucide-list",
               "title": "Outline of HW5"
+=======
+                "file": "Math 220/Homework/HW5.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for HW5"
+>>>>>>> 8b7ef58a8545b8e0af56ae21fd62e357d1134004
             }
           },
           {
             "id": "439823f41502917c",
             "type": "leaf",
             "state": {
+<<<<<<< HEAD
               "type": "git-view",
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+=======
+              "type": "outgoing-link",
+              "state": {
+                "file": "Math 220/Homework/HW5.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from HW5"
+>>>>>>> 8b7ef58a8545b8e0af56ae21fd62e357d1134004
             }
           },
           {
@@ -149,6 +174,7 @@
               },
               "icon": "lucide-tags",
               "title": "Tags"
+<<<<<<< HEAD
             }
           }
         ],
@@ -157,6 +183,49 @@
     ],
     "direction": "horizontal",
     "width": 298.5
+=======
+            }
+          },
+          {
+            "id": "c8be7d9a0f393ec6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Math 220/Homework/HW5.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of HW5"
+            }
+          },
+          {
+            "id": "9761efd1150e650c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "cd078907a99e3dee",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 289.5,
+    "collapsed": true
+>>>>>>> 8b7ef58a8545b8e0af56ae21fd62e357d1134004
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,6 +238,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
+<<<<<<< HEAD
   "active": "ea4cd5380d8e00c5",
   "lastOpenFiles": [
     "Math 220/Homework/HW2.md",
@@ -178,29 +248,41 @@
     "Math 220/Homework/HW5.md",
     "Math 220/Notes/Practice.md",
     "Orbit/RID 51.md",
+=======
+  "active": "adf1dfa0611a3313",
+  "lastOpenFiles": [
+    "Vim/Motion Cheat Sheet.md",
+>>>>>>> 8b7ef58a8545b8e0af56ae21fd62e357d1134004
     "Vim",
+    "Math 220/Homework/HW4.md",
+    "Math 220/Homework/HW5.md",
+    "Math 220/Notes/XOR.md",
+    "Math 220/Notes/Practice.md",
+    "Math 220/Notes/Proofs Notation.md",
+    "Math 220/Notes/Tangent Vectors.md",
+    "Math 253/Scratch.md",
+    "Math 253/Partial Derivatives.md",
+    "Cpen 211/Buffers.md",
+    "Cpen 211/Shannon Expansion.md",
+    "Orbit/RID 51.md",
     "Orbit/Pasted image 20241014204349.png",
     "Orbit/Pasted image 20241014202258.png",
     "Orbit/Pasted image 20241014200844.png",
     "Orbit/Pasted image 20241014143420.png",
     "Orbit/Pasted image 20241013225338.png",
-    "Orbit/CAD Naming convention.md",
-    "Cpen 211/Shannon Expansion.md",
-    "Cpen 211/PSet 1.md",
-    "Cpen 211/Pasted image 20240913165029.png",
-    "Cpen 211/p-type MOS transistor (PFET).md",
-    "Cpen 211/n-type MOS transistor (NFET).md",
-    "Cpen 211/Metal Oxide Semiconductor (MOS) Field-Effect Transistors (FET).md",
-    "Cpen 211/CMOS Logic Gates.md",
-    "Cpen 211/Bubble Rule.md",
-    "Cpen 211/Buffers.md",
-    "Cpen 211/Pasted image 20240913171024.png",
-    "Project ideas.md",
-    "Math 220/Homework/HW4.md",
+    "Math 220/Notes/Contrapositive.md",
+    "Math 152/Projection.md",
+    "Math 253/Alternate Line Definition.md",
+    "Cpen 211/Labs/Lab 1.md",
+    "Cpen 211/Labs/Lab 2.md",
+    "Math 220/Notes/Untitled.md",
     "Math 253/Tangent planes.md",
     "Math 253/Pasted image 20241007112415.png",
+    "Math 220/Homework/HW3.md",
+    "conflict-files-obsidian-git.md",
     "Math 253/Pasted image 20241004103442.png",
     "Math 253/Pasted image 20241004103342.png",
+<<<<<<< HEAD
     "Cpen 211/Labs/Lab 2.md",
     "Math 220/Homework/HW3.md",
     "Math 220/Notes/Modular Arithmetic.md",
@@ -208,6 +290,15 @@
     "Math 152/Determinant.md",
     "Math 152/Diagonalization.md",
     "Math 152/diagonal matrix.md",
+=======
+    "Math 253/Pasted image 20241004103153.png",
+    "Math 253/Pasted image 20241004102530.png",
+    "Math 152/Dot product.md",
+    "Math 220/Homework/HW2.md",
+    "Math 253/Curves.md",
+    "Math 220/Homework/HW1.md",
+    "Math 152/Area of parallelograms.md",
+>>>>>>> 8b7ef58a8545b8e0af56ae21fd62e357d1134004
     "Rogers 5G",
     "Math 253/Images",
     "Untitled.canvas",

@@ -76,12 +76,21 @@ Thus, using proof by induction, it follows that the implication holds true.
 
 4.
 Proof by induction:
-Base Case: $n = 1$
+Base Cases: $n = 1$, $n = 0$
+When $n = 1$
 $$\begin{align}
-7^{4+3}+2 = 823543+2 = 823545
+7^{4+3}+2 &= 823543+2 = 823545 \\
 &= 5 (164709)
 \end{align}$$
-By Euclidian division, $5 \mid 164709$, and thus, the base case holds true.
+
+By Euclidian division, $5 \mid 5*164709$, and thus, this base case holds true.
+
+When $n = 0$
+$$\begin{align}
+7^3+2 &= 343+2 = 345 \\
+&= 5(69)
+\end{align}$$
+By Euclidian division, $5 \mid 5*69$, and thus, both base cases hold true.
 
 Induction step: assume true for some $k \in \mathbb{N}$
 Let $7^{4k+3}+2 \equiv 0 ( \text{ mod 5})$
@@ -108,13 +117,26 @@ $$\begin{align}
 u_{1} = \cos(x * 1) = \cos x
 \end{align}$$
 In both base cases, the implication holds true.
-Induction step: assume true for some $k \in \mathbb{N}$, $k \geq 2$
+Induction step: assume true for some $k \in \mathbb{N}$, $k \geq 2$, and for $k = n-1$
 Let:
 $$\begin{align}
-u_{k} &= 2u_{1}u_{k-1}-u_{k-2} = \cos(kx)
+u_{k} &= 2u_{1}u_{k-1}-u_{k-2} = \cos(kx) \\
+u_{k-1} &= 2u_{1}u_{k-2}-u_{k-3}=\cos(kx-x)
 \end{align}$$
 Then,
 $$\begin{align}
 u_{k+1} &= 2u_{1}u_{k}-u_{k-1} \\
-&=
+&=2\cos (x) (\cos(kx)) -  \cos(kx-x) \\
+&= 2\cos x\cos(kx) - (\cos(kx)\cos(x)+\sin(kx)\sin(x)) \\
+&= \cos x\cos(kx)-\sin x\sin(kx) \\
+&= \cos(x+kx)
+\end{align}$$
+Thus, using proof by induction, it follows that the implication is true.
+
+6.
+Using the original equation, $n^3>2n^2+n$, we can rearrange it to get the following:
+$$\begin{align}
+n^3-2n^2-n &> 0 \\
+n(n^2-2n-1) &> 0 \\
+n(n-1)
 \end{align}$$

@@ -33,7 +33,7 @@ $$\begin{align}
 a_{2} = 5
 \end{align}$$
 
-Induction Step:
+Induction Step: assume true for some $n \in N, n >2,  \text{ and for } k-1$
 Let:
 $$\begin{align}
 a_{n} = 5a_{n-1}-6a_{n-2} = 3^n-2^n, n\geq 3
@@ -41,9 +41,16 @@ a_{n} = 5a_{n-1}-6a_{n-2} = 3^n-2^n, n\geq 3
 $$\begin{align}
 a_{n+1} &= 5a_{n}-6a_{n-1} \\
 &= 5a_{n-1}-6a_{n-2}-6a_{n-1} \\
-&= 3^n-2^n - 6a_{n-1} \\
-& = 3^n -2^n -
+&= 5(3^n-2^n )- 6a_{n-1} \\
+& = 5(3^n -2^n) -6(3^{n-1}-2^{n-1}) \\
+&= 5(3^n-2^n )- (2*3^n-3*2^n) \\
+&= 3*3^n-2*2^n \\
+&= 3^{n+1}-2^{n+1}
 \end{align}$$
+Thus, using strong induction, it follows that the implication is true
 
-
-prove $$a_{n+1} = 3^{n+1} - 2^{n+1}$$
+3.
+Proof by induction:
+Base Case: $n = 1$
+When $n=1$, 
+$$f_{1}$$

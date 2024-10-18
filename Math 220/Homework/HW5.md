@@ -138,5 +138,4 @@ Using the original equation, $n^3>2n^2+n$, we can rearrange it to get the follow
 $$\begin{align}
 n^3-2n^2-n &> 0 \\
 n(n^2-2n-1) &> 0 \\
-n(n-1)
 \end{align}$$

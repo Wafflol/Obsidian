@@ -22,4 +22,6 @@ base case: $n = 7$
 $$7! = 5040 > 3^7 = 2187$$
 Inductive step:
 Assume $n! > 3^n$
-$$$$
+$$(n+1)! = (n+1)n!$$
+Since $n! > 3^n$
+$$(n+1)n! > 3^n (n+1)$$

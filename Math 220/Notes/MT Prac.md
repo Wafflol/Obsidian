@@ -15,3 +15,11 @@ $$\frac{-3x+3}{3x+12} < \epsilon$$
 $$\mid\frac{-x+1}{x+4}\mid < \epsilon$$
 $$|x-1 |< (\epsilon x+4\epsilon)$$
 $$\mid x-1 \mid < \epsilon(x+4)$$
+
+---
+
+base case: $n = 7$
+$$7! = 5040 > 3^7 = 2187$$
+Inductive step:
+Assume $n! > 3^n$
+$$$$

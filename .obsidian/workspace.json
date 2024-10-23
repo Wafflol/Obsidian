@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5,
-    "collapsed": true
+    "width": 308.5
   },
   "right": {
     "id": "b2a76b873dfc05ff",
@@ -184,7 +183,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "adf1dfa0611a3313",
+  "active": "cd078907a99e3dee",
   "lastOpenFiles": [
     "Math 220/Notes/MT Prac.md",
     "Math 220/Notes/Untitled.md",

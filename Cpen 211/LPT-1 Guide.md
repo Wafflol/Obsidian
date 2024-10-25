@@ -4,3 +4,4 @@ write q1.sv verilog
 start analysis + elaboration and check state machine diagram
 3.
 write tb_q1.sv
+4.

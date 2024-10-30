@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cpen 211/LPT-1 Guide.md",
+                "file": "Math 220/Notes/Practice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LPT-1 Guide"
+              "title": "Practice"
             }
           }
         ],
@@ -201,8 +201,8 @@
   },
   "active": "d19fda3629d6561f",
   "lastOpenFiles": [
-    "Cpen 211/Metal Oxide Semiconductor (MOS) Field-Effect Transistors (FET).md",
     "Cpen 211/LPT-1 Guide.md",
+    "Cpen 211/Metal Oxide Semiconductor (MOS) Field-Effect Transistors (FET).md",
     "Math 220/Notes/MT Prac.md",
     "Untitled",
     "Math 220/Notes/Untitled.md",

@@ -275,3 +275,15 @@ $$0, \{ 1 \}, \{ 2 \} \{ 1,2 \}$$
 $$\{ \{ 2 \}, \{ 1,2 \} \}$$
 $$\{ \{  \}, \{ \{ 2 \} \}, \{ \{ 1,2 \} \}, \{ \{ 2 \}, \{ 1,2 \} \} \}$$
 $$$$
+
+---
+
+$$a R b \Rightarrow 6a^2 \equiv 2b^2 (\text{ mod 5 })$$
+$$a R a \Rightarrow 7a^2 \equiv 2a^2 (\text{mod 5})$$
+$$7a^2 =2a^2+ 5a^2$$
+$$= 2a^2+5(a^2)$$
+Since $a^2 \in \mathbb{Z}$, then it follows that the relation is reflexive
+
+$$aRb \Rightarrow 7a^2\equiv 2b^2$$
+$$7a^2 \equiv 2b^2 (\text{mod 5}) \Rightarrow 7b^2 \equiv 2a^2 (\text{mod 5})$$
+$$$$

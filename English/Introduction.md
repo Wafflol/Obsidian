@@ -27,4 +27,4 @@ The paper begins with an overview of current advancements in EV technology, focu
 
 The subsequent sections delve into the commercial applications of EVs, examining their role in both passenger and freight transportation. Additionally, the paper assesses the environmental effects of EV adoption through a streamlined life cycle assessment, comparing emissions from traditional combustion engines with those of electric vehicles.
 
-In conclusion, the paper evaluates the marketing advantages of EVs, especially their environmental benefits, and discusses future trends in the EV market. Through this analysis, it aims to provide a comprehensive perspective on the potential of electric vehicles to transform the transportation sector sustainably.
+In conclusion, the paper evaluates the marketing advantages of EVs, especially their environmental benefits, and discusses future trends in the EV market. Through this analysis, it aims to provide a comprehensive perspective on the potential of electric vehicles to transform the transportation sector sustainably.:

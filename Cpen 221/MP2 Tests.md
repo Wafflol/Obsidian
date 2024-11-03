@@ -1,3 +1,3 @@
-![[Pasted image 20241102185910.png]]
+![[Pasted image 20241103025117.png]]
 Diameter
-![[Pasted image 20241103010746.png]]
+![[Pasted image 20241103025030.png]]

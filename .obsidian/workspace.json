@@ -200,11 +200,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,6 +220,8 @@
   },
   "active": "2e4123f992bd5056",
   "lastOpenFiles": [
+    "Cpen 221/Pasted image 20241103025117.png",
+    "Cpen 221/Pasted image 20241103025030.png",
     "conflict-files-obsidian-git.md",
     "Cpen 221/MP2 Tests.md",
     "Cpen 221/Pasted image 20241103010746.png",
@@ -253,7 +256,6 @@
     "2024-10-17.md",
     "Cpen 211/Pasted image 20240913171148.png",
     "Math 220/Notes/Pasted image 20240923111846.png",
-    "Math 220/Notes/Pasted image 20240923110735.png",
     "Vim",
     "Rogers 5G",
     "Math 253/Images",

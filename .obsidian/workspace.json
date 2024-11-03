@@ -120,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.51103591918945
+    "width": 233.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "b2a76b873dfc05ff",
@@ -198,12 +199,12 @@
               "title": "Outgoing links from MP2 Tests"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,14 +219,20 @@
   },
   "active": "2e4123f992bd5056",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Cpen 221/MP2 Tests.md",
+    "Cpen 221/Pasted image 20241103010746.png",
+    "Math 220/Notes/Practice.md",
+    "Cpen 211/Bubble Rule.md",
+    "Orbit/Todo.md",
+    "Orbit/Pasted image 20241102120054.png",
+    "English/Introduction.md",
+    "Cpen 211/LPT-1 Guide.md",
     "Cpen 221/Pasted image 20241102185910.png",
     "Cpen 221/Data structures.md",
-    "Cpen 221/MP2 Tests.md",
     "Cpen 221/Equality.md",
     "Cpen 221/Specifications, Unit Testing, Exceptions.md",
     "Math 253/Tangent planes.md",
-    "Math 220/Notes/Practice.md",
-    "Cpen 211/Bubble Rule.md",
     "Cpen 211/Buffers.md",
     "Cpen 211/CMOS Logic Gates.md",
     "Cpen 211/Pasted image 20240913165029.png",
@@ -244,17 +251,10 @@
     "Misc/test.md",
     "Misc/Project ideas.md",
     "2024-10-17.md",
-    "Apsc 101/Vid feedback 2.md",
-    "Apsc 101/Video Feedback Notes.md",
-    "Cpen 211/Shannon Expansion.md",
     "Cpen 211/Pasted image 20240913171148.png",
-    "Cpen 211/n-type MOS transistor (NFET).md",
     "Math 220/Notes/Pasted image 20240923111846.png",
     "Math 220/Notes/Pasted image 20240923110735.png",
-    "Math 253/Images/Pasted image 20240926175529.png",
     "Vim",
-    "Orbit/Pasted image 20241014204349.png",
-    "Orbit/Pasted image 20241014202258.png",
     "Rogers 5G",
     "Math 253/Images",
     "Untitled.canvas",

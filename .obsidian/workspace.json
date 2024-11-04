@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cpen 221/MP2 Tests.md",
+                "file": "Math 220/Notes/Practice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MP2 Tests"
+              "title": "Practice"
             }
           },
           {
@@ -120,8 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.51103591918945,
-    "collapsed": true
+    "width": 233.51103591918945
   },
   "right": {
     "id": "b2a76b873dfc05ff",
@@ -220,10 +219,10 @@
   },
   "active": "2e4123f992bd5056",
   "lastOpenFiles": [
+    "Cpen 221/MP2 Tests.md",
     "Cpen 221/Pasted image 20241103025117.png",
     "Cpen 221/Pasted image 20241103025030.png",
     "conflict-files-obsidian-git.md",
-    "Cpen 221/MP2 Tests.md",
     "Cpen 221/Pasted image 20241103010746.png",
     "Math 220/Notes/Practice.md",
     "Cpen 211/Bubble Rule.md",
@@ -255,7 +254,6 @@
     "Misc/Project ideas.md",
     "2024-10-17.md",
     "Cpen 211/Pasted image 20240913171148.png",
-    "Math 220/Notes/Pasted image 20240923111846.png",
     "Vim",
     "Rogers 5G",
     "Math 253/Images",

@@ -288,4 +288,4 @@ $$aRb \Rightarrow 7a^2\equiv 2b^2$$
 $$7a^2 \equiv 2b^2 (\text{mod 5}) \Rightarrow 7b^2 \equiv 2a^2 (\text{mod 5})$$
 
 ---
-$$$$
+

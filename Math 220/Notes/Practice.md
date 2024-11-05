@@ -289,3 +289,16 @@ $$7a^2 \equiv 2b^2 (\text{mod 5}) \Rightarrow 7b^2 \equiv 2a^2 (\text{mod 5})$$
 
 ---
 
+Reflexive: 
+$\forall a \in A$ we have $a Ra$ since $a$ is in the same $S \in P$ as itself.
+Symmetric
+If $a R b$ for some $a, b, \in A$, then $a, b \in S$, for some $S \in P$.
+Then $b, a \in S$, so $b R a$
+Transitive:
+If $a R b$  and $b R c$, for some $a, b, c, \in A$, then $\exists S_{1}, S_{2} \in P$ such that $a, b, \in S$ and $b, c, \in S_{2}$.
+Since $S_{1} \cap S_{2} \neq \{\}$ (since $b \in S_{1} \cap S_{2}$), the $S_{1} = S_{2}$ (since $P$ is a partition). So $a, b, c, \in S_{1}$ so $aRc$
+
+
+
+
+

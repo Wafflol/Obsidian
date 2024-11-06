@@ -304,11 +304,14 @@ Since $S_{1} \cap S_{2} \neq \{\}$ (since $b \in S_{1} \cap S_{2}$), the $S_{1} 
 
 $$x \in [a]$$
 $$y \in [b]$$
-$$x \equiv a (\text{mod }n ), n \in \mathbb{N}$$
-$$y  \equiv b (\text{ mod m}), m \in \mathbb{N}$$
+$$a \equiv x (\text{mod }n ), n \in \mathbb{N}$$
+$$b  \equiv y (\text{ mod n}), n \in \mathbb{N}$$
 
-$$x = a + nk, k \in \mathbb{N}$$
-$$y = b + ml, l \in \mathbb{N}$$
-$$x-y = (a+nk) - (b+ml)$$
-$$ = a-b  + nk-ml$$
-$$$$
+$$a = x + nk, k \in \mathbb{N}$$
+$$b = y + nl, l \in \mathbb{N}$$
+$$x-y=a-nk-(b-nl)$$
+$$= a-b+nl-nk$$
+$$x-y = a-b +n(l-k)$$
+since $l-k \in \mathbb{Z}$, 
+$$x-y \equiv a-b (\text{mod n})$$
+qed

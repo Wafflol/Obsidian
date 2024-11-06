@@ -29,5 +29,14 @@ a.
 Using the relation $\mathcal{R}$, since $x_{1}Ry_{1}$ and $x_{2} R y_{2}$, it follows that: 
 $$y_{1}=x_{1}+ n, y_{2} = x_{2} + m, \text{ where }n,m \in \mathbb{N}$$
 Thus, it follows that
-$$y_{1}+y_{2} = (x_{1}+x_{2})+n+m$$
-Since 
+$$\begin{align}
+y_{1}+y_{2} &= (x_{1}+x_{2})+n+m \\
+\end{align}$$
+Since $x_{1}+x_{2} \in \mathbb{R}$, and $m+n \in \mathbb{N}$, then it follows that $(x_{1}+x_{2}) \mathcal{R} (y_{1}+y_{2})$. Thus, the implication is true.
+
+b.
+Using the relation $\mathcal{R}$, since $x_{1}Ry_{1} \text{ and } x_{2} R y_{2}$, it follows that:
+$$y_{1} = x_{1}+n, y_{2}=x_{2} + m, \text{ where } n, m, \in \mathbb{N}$$
+Thus, it follows that 
+$$y_{1}*y_{2} = x_{1}x_{2}+x_{1}m+x_{2}n+mn$$
+Since $x_{1}+x_{2} \in \mathbb{R}$, and 

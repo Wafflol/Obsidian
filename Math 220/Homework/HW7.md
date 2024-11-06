@@ -24,7 +24,6 @@ $$(aRc \land cRb) \Rightarrow aRb$$
 Thus, it follows that $R$ is transitive, and thus, the implication is true.
 
 4.
-layman -> x,y -> x < y + 1
 a.
 Using the relation $\mathcal{R}$, since $x_{1}Ry_{1}$ and $x_{2} R y_{2}$, it follows that: 
 $$y_{1}=x_{1}+ n, y_{2} = x_{2} + m, \text{ where }n,m \in \mathbb{N}$$

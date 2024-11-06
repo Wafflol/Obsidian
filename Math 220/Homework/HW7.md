@@ -6,3 +6,4 @@ $$\mathcal{R} = \{ (\emptyset, \emptyset), (\emptyset, \{ 1 \}), (\{ 1 \}, \empt
 
 2.1
 Proof:
+Let 

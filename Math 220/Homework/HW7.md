@@ -38,5 +38,12 @@ b.
 Using the relation $\mathcal{R}$, since $x_{1}Ry_{1} \text{ and } x_{2} R y_{2}$, it follows that:
 $$y_{1} = x_{1}+n, y_{2}=x_{2} + m, \text{ where } n, m, \in \mathbb{N}$$
 Thus, it follows that 
-$$y_{1}*y_{2} = x_{1}x_{2}+x_{1}m+x_{2}n+mn$$
-Since $x_{1}+x_{2} \in \mathbb{R}$, and 
+$$x_{1}y_{1} = x_{1}^2+x_{1}n, x_{2}y_{2} = x_{2}^2+x_{2}m$$
+Let $x_{2} = 1, m = 2, x_{1} = 2, n = 3$
+$$\begin{align}
+x_{2}y_{2} &= 1+2=3 \\
+x_{1}y_{1} &= 4+6=10
+\end{align}$$
+By the definition of the relation, since $x_{1}y_{1} = 10$ and $x_{2}y_{2} = 3$, $x_{1}y_{1}>x_{2}y_{2}$, and since the relation $x_{1}y_{1}Rx_{2}y_{2}$ states that $x_{2}y_{2}=x_{1}y_{1}+l, l \in \mathbb{N}$, the relation is not true, as $l$ is always positive and as already stated, $x_{1}y_{1}>x_{2}y_{2}$. Thus, it follows that $x_{1}y_{1} \bar{R} x_{2}y_{2}$, and thus the implication is false.
+
+5.

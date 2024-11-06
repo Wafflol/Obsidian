@@ -86,3 +86,10 @@ $$\begin{align}
 Since $fd, eg \in \mathbb{Z}$, then $\frac{fd}{eg} \in \mathbb{Q}$, and thus $\frac{a}{c} \in \mathbb{Q}$, so it follows that $aTc$. Thus, the implication is true, a $aTb, bTc$, and $aTc$.
 
 6.
+Let $A$ be the set of all numbers $\mathbb{R} - \{ 0 \}$
+Since $\frac{a}{b} \in \mathbb{Q} \Rightarrow aTb$, it follows that $\frac{e}{e} = 1 \in \mathbb{Q}$, $eTe$.
+Since $\frac{e}{x} \in \mathbb{Q} \iff x = ek, k \in \mathbb{Z} - \{0\}$, and vice versa, $\frac{y}{e} \in \mathbb{Q} \iff y = em, m \in \mathbb{Z} - \{ 0 \}$.
+Thus, $\frac{ye}{xe} \in \mathbb{Q} \iff y=em, x = ek, k,m \in \mathbb{Z} - \{ 0 \}$. This can be simplified to $\frac{e}{\left( \frac{x}{y} \right)e} \in \mathbb{Q}$.
+Because $x,y \in \mathbb{Z} - \{ 0 \}$, it follows that $\frac{x}{y} \in \mathbb{Q}$. Thus, it follows that $[e] = \{ep \mid p \in \mathbb{Q}\}$
+Using the same logic for $e^2$, following the same steps implies that $[e^2] = \{ e^2z \mid z \in \mathbb{Q} \}$
+Thus, it follows that for $any n \in \mathbb{N}$, $[e^n] = \{ e^nl \mid l \in \mathbb{Q} \}$,  and thus, there are infinitely many distinct equivalence classes.

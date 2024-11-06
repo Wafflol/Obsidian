@@ -16,3 +16,13 @@ Thus, it follows that $\bar{R}$ is not symmetric, and the implication is false.
 Let $R$ be transitive. Then, as the definition of transitivity states that a relation $R$ is transitive when $\forall a, b, c, (a Rb) \land (bRc) \Rightarrow a Rc$, so because $(a, b), (b,c) \in R$, and $\bar{R} = (A \times A) - R$, then it follows that $(a, b), (b, c) \not\in R$. Thus, it follows that the implication is false.
 
 3.
+The implication states: $(aRc \land b Rc) \Rightarrow aRb$.
+Let $c = a$, so that the implication becomes $(aRa \land bRa) \Rightarrow aRb$
+Since we know $aRa$, as $R$ is reflexive, $aRa$ is always true, and using the identity law, we can eliminate the $aRa$ term, leaving us with $bRa \Rightarrow aRb$, and so it follows that $R$ is symmetric.
+Since we know $R$ is symmetric, we can flip the second term to get:
+$$(aRc \land cRb) \Rightarrow aRb$$
+Thus, it follows that $R$ is transitive, and thus, the implication is true.
+
+4.
+layman -> x,y -> x < y + 1
+a.

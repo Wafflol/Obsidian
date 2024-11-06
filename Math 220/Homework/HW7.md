@@ -47,3 +47,14 @@ x_{1}y_{1} &= 4+6=10
 By the definition of the relation, since $x_{1}y_{1} = 10$ and $x_{2}y_{2} = 3$, $x_{1}y_{1}>x_{2}y_{2}$, and since the relation $x_{1}y_{1}Rx_{2}y_{2}$ states that $x_{2}y_{2}=x_{1}y_{1}+l, l \in \mathbb{N}$, the relation is not true, as $l$ is always positive and as already stated, $x_{1}y_{1}>x_{2}y_{2}$. Thus, it follows that $x_{1}y_{1} \bar{R} x_{2}y_{2}$, and thus the implication is false.
 
 5.
+Reflexive:
+First take the reverse of the relation:
+$$\frac{a}{b} \in \mathbb{Q} \iff aTb$$
+Assume $\frac{a}{b} \in \mathbb{Q}$
+Let $b = a$, then $\frac{a}{a} \in \mathbb{Q}$
+and since we know the domain of the relation is $\mathbb{R} - {0}$, $a \neq 0$, and thus, $\frac{a}{a} = 1 \in Q$. Thus, as $\frac{a}{a} \in Q$, it follows that $aTa$.
+
+Symmetric:
+Again, starting with the reverse:
+$$\frac{a}{b} \in \mathbb{Q} \iff aTb$$
+Assume $\frac{a}{b} \in \mathbb{Q}$

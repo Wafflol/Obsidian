@@ -298,3 +298,17 @@ Transitive:
 If $a R b$  and $b R c$, for some $a, b, c, \in A$, then $\exists S_{1}, S_{2} \in P$ such that $a, b, \in S$ and $b, c, \in S_{2}$.
 
 Since $S_{1} \cap S_{2} \neq \{\}$ (since $b \in S_{1} \cap S_{2}$), the $S_{1} = S_{2}$ (since $P$ is a partition). So $a, b, c, \in S_{1}$ so $aRc$
+
+
+---
+
+$$x \in [a]$$
+$$y \in [b]$$
+$$x \equiv a (\text{mod }n ), n \in \mathbb{N}$$
+$$y  \equiv b (\text{ mod m}), m \in \mathbb{N}$$
+
+$$x = a + nk, k \in \mathbb{N}$$
+$$y = b + ml, l \in \mathbb{N}$$
+$$x-y = (a+nk) - (b+ml)$$
+$$ = a-b  + nk-ml$$
+$$$$

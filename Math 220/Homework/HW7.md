@@ -5,5 +5,11 @@ Thus, using the definition of the relation $\mathcal{R}$, the elements in $\math
 $$\mathcal{R} = \{ (\emptyset, \emptyset), (\emptyset, \{ 1 \}), (\{ 1 \}, \emptyset), (\emptyset, \{ 2 \}), (\{ 2 \}, \emptyset) , (\emptyset, \{ 1, 2 \}), (\{ 1, 2 \}, \emptyset) , (\{ 1 \}, \{ 2 \}), (\{ 2 \}, \{ 1 \})\}$$
 
 2.1
-Proof:
-Let 
+Let $R$ be reflexive. Then, as the definition of reflexivity states that a relation $\mathcal{R}$ is reflexive when $\forall b \in B, a R a$, it follows that $\forall a \in A$, if $R$ is reflexive, then $(a, a) \in R$, and thus, as $\bar{R} = (A \times A) - R$, then it follows that $(a, a) \not\in \bar{R}$ .
+Thus, it follows that $\bar{R}$ is not reflexive, and the implication is false.
+
+2.2
+Let $R$ be symmetric. Then, as the definition of symmetry states that a relation $\mathcal{R}$ is symmetric when $\forall a, b,  a R b \Rightarrow b Ra$, it follows that $\forall a,b \in A$, if $R$ is symmetric, then $(a, b), (b, a) \in R$, and thus, as $\bar{R} = (A \times A) - R$, then it follows that $(a, b), (b, a) \not\in \bar{R}$ .
+Thus, it follows that $\bar{R}$ is not symmetric, and the implication is false.
+
+2.3

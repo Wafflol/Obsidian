@@ -58,3 +58,31 @@ Symmetric:
 Again, starting with the reverse:
 $$\frac{a}{b} \in \mathbb{Q} \iff aTb$$
 Assume $\frac{a}{b} \in \mathbb{Q}$
+By the definition of rationality, that means that $\frac{a}{b} = \frac{c}{d}$, where $c, d, \in \mathbb{Z}$, and thus, 
+$\frac{d}{c} \in \mathbb{Q}$, and it follows that $\frac{b}{a} \in \mathbb{Q}$
+Thus, it follows that 
+$$\begin{align}
+\frac{a}{b} \in \mathbb{Q} \Rightarrow aTb \\
+\frac{b}{a} \in \mathbb{Q} \Rightarrow bTa
+\end{align}$$
+and thus, since $aTb$ and $bTa$, it follows that $T$ is symmetric.
+
+Transitive:
+Again, starting with the reverse:
+$$\frac{a}{b} \in \mathbb{Q} \iff aTb$$
+Assume $\frac{a}{b} \in \mathbb{Q}$, and let $\frac{b}{c} \in \mathbb{Q}$
+Then:
+$$\begin{align}
+\frac{a}{b} \in \mathbb{Q} \Rightarrow aTb \\
+\frac{b}{c} \in \mathbb{Q} \Rightarrow bTc
+\end{align}$$
+Since $\frac{a}{b}, \frac{b}{c} \in \mathbb{Q}$, $\frac{a}{b} = \frac{d}{e}, \frac{b}{c} = \frac{f}{g}, d,e,f,g \in \mathbb{Z}$
+Thus, 
+$$\begin{align}
+\frac{ae}{d}=b&, b=\frac{cf}{g} \\
+\frac{ae}{d} &= \frac{cf}{g} \\
+\frac{a}{c} &= \frac{fd}{eg}
+\end{align}$$
+Since $fd, eg \in \mathbb{Z}$, then $\frac{fd}{eg} \in \mathbb{Q}$, and thus $\frac{a}{c} \in \mathbb{Q}$, so it follows that $aTc$. Thus, the implication is true, a $aTb, bTc$, and $aTc$.
+
+6.

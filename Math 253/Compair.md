@@ -17,7 +17,13 @@ Using the second equation, $\lambda = \frac{2y}{x^2}$
 Subbing this in to the first, you get: 
 $$x=\frac{2y^2}{x}$$
 $$x^2 = 2y^2$$
-$$x=2y$$
-Since we know the curve is bounded so that $x^2y=16$, it follows that $\frac{x^3}{2}=16$
-$$x^3=32$$
-$$$$
+Since we know the curve is bounded so that $x^2y=16$, it follows that:
+$$2y^3=16$$
+$$y^3 = 8$$
+$$y = 2$$
+$$x^2= 2(2)^2=8$$
+$$x = \pm2\sqrt{ 2 }$$
+
+Plugging the x and y values we found ($\pm$ doesn't matter since it's squared), we find that 
+D = $\sqrt{ 4+8 } = \sqrt{ 12 } = 2\sqrt{ 3 }$
+Thus, the min dist from the origin to the curve $x^2y=16$ is $2\sqrt{ 3 }$

@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 253/Compair.md",
+                "file": "Orbit/Research/Bdot and Bangbang.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Compair"
+              "title": "Bdot and Bangbang"
             }
           }
         ],
@@ -216,8 +216,14 @@
   },
   "active": "2ef334263c5bbee2",
   "lastOpenFiles": [
-    "Math 253/Scratch.md",
+    "Orbit/CAD Naming convention.md",
+    "Orbit/Research/Bdot and Bangbang.md",
+    "Orbit/Pasted image 20241014143420.png",
+    "Orbit/Research",
+    "Math 152/Eigenvectors and Eigenvalues.md",
     "Math 253/Compair.md",
+    "Math 152/Trace.md",
+    "Math 253/Scratch.md",
     "Orbit/Todo.md",
     "Math 220/Notes/Practice.md",
     "Math 220/Homework/HW7.md",
@@ -234,26 +240,20 @@
     "Math 253/Images/Pasted image 20240926175529.png",
     "Cpen 221/Pasted image 20241103025117.png",
     "Cpen 221/Pasted image 20241103025030.png",
-    "Cpen 221/Pasted image 20241103010746.png",
     "Cpen 221/MP2 Tests.md",
     "Project ideas.md",
     "2024-10-17.md",
-    "Orbit/CAD Naming convention.md",
     "Math 152/Kernel.md",
     "Math 152/Characteristic equation.md",
-    "Math 152/Eigenvectors and Eigenvalues.md",
     "Cpen 211/Metal Oxide Semiconductor (MOS) Field-Effect Transistors (FET).md",
     "English/Notes for Discourse Analysis.md",
     "English/Introduction.md",
     "Cpen 211/LPT-1 Guide.md",
     "Math 220/Notes/MT Prac.md",
-    "Untitled",
     "Math 220/Notes/Untitled.md",
     "Math 220/Notes/Modular Arithmetic.md",
     "Math 220/Homework/HW5.md",
-    "Vim/Motion Cheat Sheet.md",
     "Vim",
-    "Math 220/Homework/HW4.md",
     "Rogers 5G",
     "Math 253/Images",
     "Untitled.canvas",

@@ -296,4 +296,22 @@ If $a R b$ for some $a, b, \in A$, then $a, b \in S$, for some $S \in P$.
 Then $b, a \in S$, so $b R a$
 Transitive:
 If $a R b$  and $b R c$, for some $a, b, c, \in A$, then $\exists S_{1}, S_{2} \in P$ such that $a, b, \in S$ and $b, c, \in S_{2}$.
+
 Since $S_{1} \cap S_{2} \neq \{\}$ (since $b \in S_{1} \cap S_{2}$), the $S_{1} = S_{2}$ (since $P$ is a partition). So $a, b, c, \in S_{1}$ so $aRc$
+
+
+---
+
+$$x \in [a]$$
+$$y \in [b]$$
+$$a \equiv x (\text{mod }n ), n \in \mathbb{N}$$
+$$b  \equiv y (\text{ mod n}), n \in \mathbb{N}$$
+
+$$a = x + nk, k \in \mathbb{N}$$
+$$b = y + nl, l \in \mathbb{N}$$
+$$x-y=a-nk-(b-nl)$$
+$$= a-b+nl-nk$$
+$$x-y = a-b +n(l-k)$$
+since $l-k \in \mathbb{Z}$, 
+$$x-y \equiv a-b (\text{mod n})$$
+qed

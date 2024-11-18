@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 220/Homework/HW7.md",
+                "file": "Math 101/Comparison test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HW7"
+              "title": "Comparison test"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "Bdot and Bangbang"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5,
-    "collapsed": true
+    "width": 308.5
   },
   "right": {
     "id": "b2a76b873dfc05ff",
@@ -214,23 +212,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2ef334263c5bbee2",
+  "active": "30cb1d4fd4f7f2d3",
   "lastOpenFiles": [
-    "Orbit/CAD Naming convention.md",
+    "Math 101/asdf.md",
+    "Math 101/Comparison test.md",
+    "Math 101/Partial Fractions.md",
+    "Math 101/work.md",
+    "Math 101/Written 2.md",
+    "Math 101/Untitled.md",
+    "Math 101/Separable Differential Equations.md",
+    "Math 101/Study mats.md",
+    "Math 101/Radius of Convergence.md",
+    "Math 101/Properties of Integrals.md",
+    "Math 101/Probability Density Functions.md",
+    "Math 152/Solving a linear system.md",
+    "Math 152/Solving Circuit Problems.md",
+    "Math 152/Systems of equations & linear independence.md",
+    "Math 152/Trace.md",
+    "Math 152/Complex Numbers.md",
+    "Math 220/Homework/HW7.md",
+    "Math 253/Scratch.md",
     "Orbit/Research/Bdot and Bangbang.md",
+    "Orbit/CAD Naming convention.md",
     "Orbit/Pasted image 20241014143420.png",
     "Orbit/Research",
     "Math 152/Eigenvectors and Eigenvalues.md",
     "Math 253/Compair.md",
-    "Math 152/Trace.md",
-    "Math 253/Scratch.md",
     "Orbit/Todo.md",
     "Math 220/Notes/Practice.md",
-    "Math 220/Homework/HW7.md",
     "Math 220/Homework/HW0.md",
     "conflict-files-obsidian-git.md",
-    "Math 220/Notes/Untitled 1.md",
-    "Misc/Project ideas.md",
     "Math 253/Images/Pasted image 20241007112415.png",
     "Math 253/Images/Pasted image 20241004103442.png",
     "Math 253/Images/Pasted image 20241004103342.png",
@@ -240,19 +251,6 @@
     "Math 253/Images/Pasted image 20240926175529.png",
     "Cpen 221/Pasted image 20241103025117.png",
     "Cpen 221/Pasted image 20241103025030.png",
-    "Cpen 221/MP2 Tests.md",
-    "Project ideas.md",
-    "2024-10-17.md",
-    "Math 152/Kernel.md",
-    "Math 152/Characteristic equation.md",
-    "Cpen 211/Metal Oxide Semiconductor (MOS) Field-Effect Transistors (FET).md",
-    "English/Notes for Discourse Analysis.md",
-    "English/Introduction.md",
-    "Cpen 211/LPT-1 Guide.md",
-    "Math 220/Notes/MT Prac.md",
-    "Math 220/Notes/Untitled.md",
-    "Math 220/Notes/Modular Arithmetic.md",
-    "Math 220/Homework/HW5.md",
     "Vim",
     "Rogers 5G",
     "Math 253/Images",

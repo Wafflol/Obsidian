@@ -22,6 +22,34 @@
             }
           },
           {
+            "id": "1da45d93b81a1978",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math 220/Notes/Practice.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Practice"
+            }
+          },
+          {
+            "id": "a64270afb77e404d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
             "id": "f88a5bec38e8cf28",
             "type": "leaf",
             "state": {
@@ -49,7 +77,8 @@
               "title": "Bdot and Bangbang"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -212,10 +241,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "30cb1d4fd4f7f2d3",
+  "active": "a64270afb77e404d",
   "lastOpenFiles": [
-    "Math 101/asdf.md",
+    "Math 220/Notes/Practice.md",
+    "conflict-files-obsidian-git.md",
     "Math 101/Comparison test.md",
+    "Misc/asdf.md",
+    "Math 253/Examples.md",
+    "Math 101/asdf.md",
     "Math 101/Partial Fractions.md",
     "Math 101/work.md",
     "Math 101/Written 2.md",
@@ -238,10 +271,6 @@
     "Orbit/Research",
     "Math 152/Eigenvectors and Eigenvalues.md",
     "Math 253/Compair.md",
-    "Orbit/Todo.md",
-    "Math 220/Notes/Practice.md",
-    "Math 220/Homework/HW0.md",
-    "conflict-files-obsidian-git.md",
     "Math 253/Images/Pasted image 20241007112415.png",
     "Math 253/Images/Pasted image 20241004103442.png",
     "Math 253/Images/Pasted image 20241004103342.png",

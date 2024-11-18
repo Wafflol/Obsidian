@@ -315,3 +315,24 @@ $$x-y = a-b +n(l-k)$$
 since $l-k \in \mathbb{Z}$, 
 $$x-y \equiv a-b (\text{mod n})$$
 qed
+
+
+---
+
+$$y \in f(A), y \not\in f(C)$$
+$$y \in f(A), \exists x \in A s.t. f(x) = y$$
+$$y \not\in f(C) \text{ there does not exist } z \in C s.t. f(z) = y$$
+We know $x \in A$, and $x \not\in C$ given line above. So $x \in A-C$. Therefore $f(x) \in f(A-C)$. Since $f(x) = y$, then $y \in f(A-C)$.
+
+---
+
+
+$$C \subseteq A$$
+let $f = x^2$
+let $A = \{-1, 1, 2\}$
+let $C = \{1\}$
+$$f(A) = \{1, 4\}$$
+$$f(C) = \{ 1 \}$$
+$$f(A) - f(C) = \{ 4 \}$$
+$$f(A-C) = \{ 1, 4 \}$$
+thus, $f(A-C) \subseteq f(A) - f(C)$  does not hold

@@ -6,3 +6,4 @@ message counter for instagram
 auto pokemon tcgp ?
 	automate dailies + cpu battles
 
+Reciept scanner and splitter

@@ -60,3 +60,16 @@ projba = $\frac{(a \cdot b)}{\begin{Vmatrix} b^2\end{Vmatrix}}*\vec{b}=\frac{\sq
 $a\cdot b = |a | |b|\cos\theta$
 
 $$z = e^{-3x/17}$$
+
+
+
+
+
+---
+
+$$\int_{0}^{2} \int_{0}^{\sqrt{ 4-x^2 }} \int_{y^2}^{8-2x^2-y^2} 8xz \, dz   \, dy  \, dx $$
+
+
+
+
+

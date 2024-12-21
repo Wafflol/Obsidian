@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 253/Scratch.md",
+                "file": "Math 220/Homework/HW7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scratch"
+              "title": "HW7"
             }
           }
         ],
@@ -191,14 +191,22 @@
   },
   "active": "cf2e5f2712288c87",
   "lastOpenFiles": [
+    "Math 220/Homework/HW5.md",
+    "Math 220/Homework/HW8.md",
+    "Math 253/Tangent planes.md",
+    "Math 253/Scratch.md",
+    "Math 253/Partial Derivatives.md",
+    "Math 253/Limits and continuity in 2-D.md",
+    "Math 253/Examples.md",
+    "Math 253/Curves.md",
+    "Math 253/Compair.md",
+    "Math 253/Alternate Line Definition.md",
     "Misc/Project ideas.md",
     "conflict-files-obsidian-git.md",
-    "Math 220/Homework/HW8.md",
     "Math 220/Homework/HW7.md",
     "Misc/asdf.md",
     "Orbit/Research/Bdot and Bangbang.md",
     "Orbit/Research",
-    "Math 253/Compair.md",
     "Misc/test.md",
     "Math 101/Untitled.md",
     "Math 101/Trig Sub.md",
@@ -207,8 +215,6 @@
     "Math 101/Partial Fractions.md",
     "Math 101/Pasted image 20240130112741.png",
     "Math 101/Written 2.md",
-    "Math 253/Examples.md",
-    "Math 253/Tangent planes.md",
     "Math 220/Notes/Untitled 1.md",
     "Math 220/Notes/Practice.md",
     "Cpen 221/MP2 Tests.md",
@@ -216,14 +222,8 @@
     "Cpen 221/Pasted image 20241103025030.png",
     "Cpen 221/Pasted image 20241103010746.png",
     "Cpen 211/Bubble Rule.md",
-    "Orbit/Todo.md",
     "Orbit/Pasted image 20241102120054.png",
-    "English/Introduction.md",
-    "Cpen 211/LPT-1 Guide.md",
     "Cpen 221/Pasted image 20241102185910.png",
-    "Cpen 221/Data structures.md",
-    "Cpen 221/Equality.md",
-    "Cpen 221/Specifications, Unit Testing, Exceptions.md",
     "Cpen 211/Pasted image 20240913165029.png",
     "Cpen 211/Pasted image 20240913170616.png",
     "Cpen 211/Pasted image 20240913171101.png",

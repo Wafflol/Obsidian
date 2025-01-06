@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 101/Numerical Intergration.md",
+                "file": "Misc/asdf.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Numerical Intergration"
+              "title": "asdf"
             }
           }
         ]
@@ -186,9 +186,11 @@
   },
   "active": "dd9cada548a1d1b0",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Math 101/Numerical Intergration.md",
+    "Misc/Matlab Cheat Sheet.md",
+    "Misc/test.md",
     "Misc/Project ideas.md",
+    "Math 101/Numerical Intergration.md",
+    "conflict-files-obsidian-git.md",
     "Cpen 221/Quiz 4/Safe Concurrent Programming.md",
     "Cpen 221/Quiz 4/Shared Memory.md",
     "Cpen 221/Quiz 4/Fork-Join Parallelism.md",
@@ -215,8 +217,6 @@
     "Cpen 221/Quiz 3/History of a Program.md",
     "Cpen 221/Quiz 3/Recursive datatypes.md",
     "Cpen 221/Quiz 3/Streams and Lambdas.md",
-    "Cpen 221/Quiz 3/Untitled.md",
-    "Cpen 221/Quiz 3/Grammars and Regex.md",
     "Cpen 221/Quiz 3",
     "Orbit/Pasted image 20241014143420.png",
     "Orbit/Research",

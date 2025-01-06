@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/asdf.md",
-                "mode": "preview",
+                "file": "Ling 101/Lecture 1.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "asdf"
+              "title": "Lecture 1"
             }
           }
         ]
@@ -186,6 +186,9 @@
   },
   "active": "dd9cada548a1d1b0",
   "lastOpenFiles": [
+    "Misc/asdf.md",
+    "Ling 101/Lecture 1.md",
+    "Ling 101",
     "Misc/Matlab Cheat Sheet.md",
     "Misc/test.md",
     "Misc/Project ideas.md",
@@ -200,11 +203,9 @@
     "Cpen 211/Pasted image 20240913171101.png",
     "Cpen 221/Data structures.md",
     "Cpen 221/Quiz 4",
-    "Untitled",
     "Cpen 221/Equality.md",
     "Cpen 211/Cheat sheet.md",
     "Cpen 211/Pasted image 20241213171821.png",
-    "Untitled.md",
     "Math 220/Homework/HW9.md",
     "Math 220/Homework/HW8.md",
     "Math 220/Homework/HW5.md",
@@ -216,7 +217,6 @@
     "Cpen 221/Quiz 3/Computer Systems.md",
     "Cpen 221/Quiz 3/History of a Program.md",
     "Cpen 221/Quiz 3/Recursive datatypes.md",
-    "Cpen 221/Quiz 3/Streams and Lambdas.md",
     "Cpen 221/Quiz 3",
     "Orbit/Pasted image 20241014143420.png",
     "Orbit/Research",

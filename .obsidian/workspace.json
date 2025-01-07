@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ling 101/Lecture 1.md",
+                "file": "Cpen 212/Lecture 1.md",
                 "mode": "source",
                 "source": false
               },
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 308.5,
+    "collapsed": true
   },
   "right": {
     "id": "b2a76b873dfc05ff",
@@ -186,8 +187,11 @@
   },
   "active": "dd9cada548a1d1b0",
   "lastOpenFiles": [
-    "Misc/asdf.md",
+    "Cpen 212/Pasted image 20250107144408.png",
     "Ling 101/Lecture 1.md",
+    "Cpen 212/Lecture 1.md",
+    "Cpen 212",
+    "Misc/asdf.md",
     "Ling 101",
     "Misc/Matlab Cheat Sheet.md",
     "Misc/test.md",
@@ -215,8 +219,6 @@
     "Math 220/Homework/HW10.md",
     "Cpen 221/MP2 Tests.md",
     "Cpen 221/Quiz 3/Computer Systems.md",
-    "Cpen 221/Quiz 3/History of a Program.md",
-    "Cpen 221/Quiz 3/Recursive datatypes.md",
     "Cpen 221/Quiz 3",
     "Orbit/Pasted image 20241014143420.png",
     "Orbit/Research",
@@ -231,7 +233,6 @@
     "Math 253/Images",
     "Untitled.canvas",
     "Cpen 211/Labs",
-    "Math 253",
-    "Math 220/Notes"
+    "Math 253"
   ]
 }

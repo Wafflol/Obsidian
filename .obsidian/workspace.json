@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cpen 212/Lecture 1.md",
+                "file": "Elec 201/Lecture 1.md",
                 "mode": "source",
                 "source": false
               },
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5,
-    "collapsed": true
+    "width": 308.5
   },
   "right": {
     "id": "b2a76b873dfc05ff",
@@ -187,9 +186,12 @@
   },
   "active": "dd9cada548a1d1b0",
   "lastOpenFiles": [
+    "Cpen 212/E.md",
+    "Elec 201/Lecture 1.md",
+    "Elec 201",
+    "Cpen 212/Lecture 1.md",
     "Cpen 212/Pasted image 20250107144408.png",
     "Ling 101/Lecture 1.md",
-    "Cpen 212/Lecture 1.md",
     "Cpen 212",
     "Misc/asdf.md",
     "Ling 101",
@@ -218,7 +220,6 @@
     "Math 220/Homework/HW7.md",
     "Math 220/Homework/HW10.md",
     "Cpen 221/MP2 Tests.md",
-    "Cpen 221/Quiz 3/Computer Systems.md",
     "Cpen 221/Quiz 3",
     "Orbit/Pasted image 20241014143420.png",
     "Orbit/Research",
@@ -227,12 +228,10 @@
     "Math 253/Images/Pasted image 20241004103342.png",
     "Math 253/Images/Pasted image 20241004103153.png",
     "Math 253/Images/Pasted image 20241004102530.png",
-    "Math 253/Images/Pasted image 20240926180610.png",
     "Vim",
     "Rogers 5G",
     "Math 253/Images",
     "Untitled.canvas",
-    "Cpen 211/Labs",
-    "Math 253"
+    "Cpen 211/Labs"
   ]
 }

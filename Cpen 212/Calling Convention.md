@@ -16,3 +16,7 @@ lr - x30
 #### who saves registers
 caller: x0-x18
 callee: x19-x30
+
+#### where stack
+sp, aligned on 16B boundary - has to be divisible by 16
+grows towards lower addrs

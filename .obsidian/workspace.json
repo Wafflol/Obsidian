@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -241,10 +241,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "424052d289c2d61f",
+  "active": "6e377e74198a0635",
   "lastOpenFiles": [
-    "Elec 201/Lecture 2.md",
     "Elec 201/KVL.md",
+    "Elec 201/Lecture 2.md",
     "Elec 201/Lecture 1.md",
     "Cpen 212/Call frame.md",
     "Cpen 212/Lecture 2.md",

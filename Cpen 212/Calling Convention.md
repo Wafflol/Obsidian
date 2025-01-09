@@ -14,8 +14,8 @@ indirect: x8
 lr - x30
 
 #### who saves registers
-caller: x0-x18
-callee: x19-x30
+caller save: x0-x18
+callee save: x19-x30
 
 #### where stack
 sp, aligned on 16B boundary - has to be divisible by 16

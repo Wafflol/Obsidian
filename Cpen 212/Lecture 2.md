@@ -6,3 +6,5 @@ x30 = link reg
 x8 = [[syscall]] number - 64 = write, 93 = exit
 exit frees up resources
 [[Calling Convention]]
+
+[[Call frame]]

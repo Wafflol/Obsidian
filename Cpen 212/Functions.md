@@ -1,0 +1,18 @@
+#### calling a function:
+bl - address
+blr - register
+
+#### function arguments
+x0-x7, then stack
+
+#### function results
+x0
+more results: x1-x7, stack
+indirect: x8
+
+#### return address
+lr - x30
+
+#### who saves registers
+caller: x0-x18
+callee: x19-x30

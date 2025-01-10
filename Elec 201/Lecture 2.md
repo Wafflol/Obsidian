@@ -33,6 +33,11 @@ p&=Ri^2  \\
 p &= \frac{v^2}{R}
 \end{align}$$
 
-##### The ideal voltage source
+#####  ideal voltage source
 Drop does not depend on its current, nor what is connected to it
 
+#####  ideal current source
+Current does not depend on anything
+
+##### Ideal conductor
+zero resistance

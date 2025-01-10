@@ -21,3 +21,6 @@ Inductance = opposition to change in current
 $$V = L \frac{di}{dt}$$
 Capacitance = opposition to change in voltage
 $$i = C \frac{dV}{dt}$$
+
+#### Four ideal circuit elements
+

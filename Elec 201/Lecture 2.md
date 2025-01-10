@@ -23,7 +23,16 @@ Capacitance = opposition to change in voltage
 $$i = C \frac{dV}{dt}$$
 
 #### Four ideal circuit elements
-Ideal resistor
-	power is always positive
-	absorbs power
-	V=RI
+##### Ideal resistor
+power is always positive
+absorbs power
+$$V=IR$$
+$$\begin{align}
+p &=vi \\
+p&=Ri^2  \\
+p &= \frac{v^2}{R}
+\end{align}$$
+
+##### The ideal voltage source
+Drop does not depend on its current, nor what is connected to it
+

@@ -23,4 +23,7 @@ Capacitance = opposition to change in voltage
 $$i = C \frac{dV}{dt}$$
 
 #### Four ideal circuit elements
-
+Ideal resistor
+	power is always positive
+	absorbs power
+	V=RI

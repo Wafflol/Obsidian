@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -269,12 +269,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6e377e74198a0635",
+  "active": "016960ce6f05ea2f",
   "lastOpenFiles": [
+    "Elec 201/Lecture 2.md",
     "Elec 201/KCL.md",
     "Elec 201/Cas cheatsheet.md",
     "Elec 201/KVL.md",
-    "Elec 201/Lecture 2.md",
     "Elec 201/Lecture 1.md",
     "Cpen 212/write.md",
     "Cpen 212/Calling Convention.md",

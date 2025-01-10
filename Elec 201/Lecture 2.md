@@ -14,3 +14,10 @@ $$\sum P_{\text{abs}} = \sum P_{\text{del}} $$
 
 [[KVL]] - Kirchoff's Voltage Law
 [[KCL]] - Kirchoff's Current Law
+
+Resistance = opposition to current
+$$V =Ri$$
+Inductance = opposition to change in current
+$$V = L \frac{di}{dt}$$
+Capacitance = opposition to change in voltage
+$$i = C \frac{dV}{dt}$$

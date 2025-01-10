@@ -8,3 +8,4 @@ Nation state:
 	pick one dialect, call that the standard
 National education:
 	only allow this standard dialect in schools
+

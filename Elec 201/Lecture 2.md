@@ -13,3 +13,5 @@ Total power in a circuit = zero:
 $$\sum P_{\text{abs}} = \sum P_{\text{del}} $$
 
 [[KVL]] - Kirchoff's Voltage Law
+[[KCL]] - Kirchoff's Current Law
+

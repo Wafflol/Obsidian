@@ -55,3 +55,43 @@ $$y(x)=Ax+Bx^{-2}$$
 $$y'(x)=A-2Bx^{-3}$$
 $$B=1, A=2$$
 $$y(x)=2x+x^{-2}$$
+
+
+#### Superposition
+If $y_{1}(x)$ and $y_{2}(x)$ are solutions to the homogeneous eq
+$$Ly=y''+py'+qy=0$$
+Then $y(x)= \alpha y_{1}(x) + \beta y_{2}(x)$ is also a solution
+
+Proof:
+$$L(\alpha y_{1}+\beta y_{2})=\alpha Ly_{1}+\beta Ly_{2}=0$$
+---
+##### Solving the initial value problem
+Let $y_{1}\neq y_{2}$ be solutions to the homogeneous eq $Ly=0$
+Which is subject to the initial condition
+$$y(x_{0})=y_{0}, y'(x_{0})=v_{0}$$
+But $y(x)=c_{1}y_{1}(x)+c_{2}y_{2}(x)$ is a solution to the homogeneous eq to match the initial condition requires:
+$$y'(x)=c_{1}y_{1}'+c_{2}y_{2}'$$
+$$y(x_{0})=c_{1}y_{1}(x_{0})+c_{2}y_{2}(x_{0})=y_{0}$$
+$$y'(x_{0})=c_{1}y_{1}'(x_{0})+c_{2}y_{2}'(x_{0})=v_{0}$$
+$$\begin{bmatrix}
+y_{1}(x_{0}) & y_{2}(x_{0}) \\
+y_{1}'(x_{0}) & y_{2}'(x_{0})
+\end{bmatrix}
+ \begin{bmatrix}
+c_{1} \\
+c_{2}
+\end{bmatrix}=\begin{bmatrix}
+y_{0} \\
+v_{0}
+\end{bmatrix}$$
+$$Ac=b$$
+A solution to this system exists provided $\det(A)\neq 0$
+
+---
+Define the wronskian determinant of $y_{1}(x) \& y_{2}(x)$
+$$W(y_{1}, y_{2})(x) = \begin{vmatrix}
+y_{1}(x) & y_{2}(x) \\
+y_{1}'(x) & y_{2}'(x)
+\end{vmatrix}$$
+
+

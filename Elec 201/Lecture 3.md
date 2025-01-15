@@ -1,2 +1,2 @@
 for a pie
-to simplify, multiply adjcents and divide by sum
+to simplify, multiply adjacent and divide by sum

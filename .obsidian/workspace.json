@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 256/Lecture 3.md",
+                "file": "Math 256/Lecture 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 3"
+              "title": "Lecture 5"
             }
           },
           {
@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -274,18 +274,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c3940651e1936575",
+  "active": "d0398b8255c15082",
   "lastOpenFiles": [
-    "Ling 101/Lecture 4.md",
     "Ling 101/Lecture 5.md",
+    "Cpen 212/Calling Convention.md",
     "Math 256/Lecture 5.md",
     "Math 256/Lecture 3.md",
+    "Ling 101/Lecture 4.md",
     "Elec 201/Lecture 3.md",
     "Untitled",
     "Elec 201/Lecture 2.md",
     "Elec 201/Lecture 1.md",
     "Cpen 212/Lecture 2.md",
-    "Cpen 212/Calling Convention.md",
     "Cpen 212/write.md",
     "Cpen 212/Call frame.md",
     "Cpen 212/Arm Commands.md",

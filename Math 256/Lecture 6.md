@@ -40,8 +40,16 @@ $$e^{rx}\neq 0 \Rightarrow ar^2+br+c=0$$
 $$r= \frac{-b\pm \sqrt{ b^2-4ac }}{2a}$$
 Discriminant:
 $$\Delta = b^2-4ac$$
-Case 1:
+##### Case 1:
 $$\Delta=b^2-4ac>0$$
 2 real roots, $r_{1}, r_{2}$
 $$y_{H}(x)=C_{1}e^{r_{1}x}+C_{2}e^{r_{2}x}$$
-Case
+Are $y_{1} = e^{r_{1}x}$ and $y_{2}=e^{r_{2}x}$ linearly independent?
+$$W(x) = \begin{vmatrix}
+e^{r_{1}x} & e^{r_{2}x} \\
+r_{1}e^{r_{1}x}  &  r_{2}e^{r_{2}x}
+\end{vmatrix} = r_{2}e^({r_{1}+r_{2})x}-r_{1}e^{(r_{1}+r_{2})x}$$
+$$=(r_{2}-r_{1})e^{(r_{1}+r_{2})x}$$
+##### Case 2:
+$$\Delta = b^2-4ac=0$$
+$$r_{1}=-\frac{b}{2a}$$

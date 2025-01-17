@@ -90,4 +90,4 @@ $$y(x)=e^{(\alpha\pm i\beta )x}$$
 $$y_{1}(x)=e^{(\alpha+ i\beta )x}$$
 We want solutions that are real fcns
 $$\frac{{y_{1}+y_{2}}}{2}=e^{\alpha x}\cos(\beta x)$$
-$$\frac{{y_{1}-y_{2}}}{2}=e^{\alpha x}\sin(\beta x)$2$
+$$\frac{{y_{1}-y_{2}}}{2}=e^{\alpha x}\sin(\beta x)$$

@@ -26,3 +26,22 @@ ___
 Let $y_{1}(x)$ and $y_{2}(x)$ be linearly independent solutions of the homogeneous equation
 $$Ly=0$$
 Then $\{y_{1}(x), y_{2}(x)\}$ form a fundamental set of solutions and the general solution to $Ly=0$ is of the form $y_{H}=C_{1}y_{1}+C_{2}y_{2}$
+
+---
+### Constant Coefficient 2nd Order Linear ODE
+$$Ly = ay''+by'+Cy=0$$
+$$L := a \frac{d^2}{dx^2}+ b \frac{d}{dx} + C= a D^2 + bD+C$$
+$$y=e^{rx}$$
+$$y'=r e^{rx}$$
+$$y'' = r^2 e^{rx}$$
+$$Le^{rx} = [ar^2+br+c]e^{rx}=0$$
+Characteristic Eq:
+$$e^{rx}\neq 0 \Rightarrow ar^2+br+c=0$$
+$$r= \frac{-b\pm \sqrt{ b^2-4ac }}{2a}$$
+Discriminant:
+$$\Delta = b^2-4ac$$
+Case 1:
+$$\Delta=b^2-4ac>0$$
+2 real roots, $r_{1}, r_{2}$
+$$y_{H}(x)=C_{1}e^{r_{1}x}+C_{2}e^{r_{2}x}$$
+Case

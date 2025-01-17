@@ -53,3 +53,41 @@ $$=(r_{2}-r_{1})e^{(r_{1}+r_{2})x}$$
 ##### Case 2:
 $$\Delta = b^2-4ac=0$$
 $$r_{1}=-\frac{b}{2a}$$
+$$Ly = (aD^2+bD+c)y=0$$
+$$=a\left[ \left( D+\frac{b}{2a} \right)^2-\frac{b^2}{4a^2}+\frac{4ac}{4a^2} \right]$$
+$$=a\left[ \left( D+\frac{b}{2a^2} \right) \right]$$
+$$L=a\left( D+\frac{b}{2a} \right)^2$$
+$$Ly=a(D-r_{1})^2y=0$$
+$$(D-r_{1})(D-r_{1})y=0$$
+Let
+$$(D-r_{1})y=\omega$$
+$$(D-r_{1})\omega=0$$
+$$\frac{d\omega}{dx}-r_{1}\omega=0$$
+$$\frac{d}{dx}[e^{-r_{1}x}\omega]=0$$
+$$e^{-r_{1}x}\omega=C_{1}$$
+$$\omega=C_{1}e^{r_{1}x}$$
+Solve $(D-r_{1})y=\omega=C_{1}e^{r_{1}x}$
+$$\frac{dy}{dx}-r_{1}y=c_{1}e^{r_{1}x}$$
+$$e^{-r_{1}x}y'-r_{1}e^{-r_{1}x}y=C_{1}e^{-r_{1}x}e^{r_{1}x}$$
+$$\frac{d}{dx}[e^{-r_{1}x}y]=C_{1}$$
+$$e^{-r_{1}x}y=C_{1}x+C_{2}$$
+$$y(x)=C_{1}xe^{r_{1}x}+C_{2}e^{r_{1}x}$$
+$$y_{H}(x) = C_{1}e^{r_{1}x}+C_{2}xe^{r_{1}x}$$
+Check: $y_{1}$ and $y_{2}$ are [[Linear indenpendence | Linearly Independent]]
+
+---
+
+##### Case 3
+$$r = - \frac{b}{2a}\pm\frac{\sqrt{ \Delta }}{2a}$$
+$$r = - \frac{b}{2a}\pm\frac{\sqrt{- (- \Delta) }}{2a}$$
+$$=-\frac{b}{2a}\pm i \frac{\sqrt{ -\Delta }}{2a}$$
+$$=\alpha\pm i\beta$$
+$$\alpha=-\frac{b}{2a}$$
+$$\beta=\frac{\sqrt{ -\Delta }}{2a}$$
+$$r=\alpha\pm i\beta$$
+Complex Conjugate roots
+$$y(x)=e^{(\alpha\pm i\beta )x}$$
+$$y_{1}(x)=e^{(\alpha+ i\beta )x}$$
+We want solutions that are real fcns
+$$\frac{{y_{1}+y_{2}}}{2}=e^{\alpha x}\cos(\beta x)$$
+$$\frac{{y_{1}-y_{2}}}{2}=e^{\alpha x}\sin(\beta x)$2$

@@ -4,53 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "8148b32c162b616a",
+        "id": "8e41366f671aa756",
         "type": "tabs",
         "children": [
           {
-            "id": "b70f7da3a1f344b5",
+            "id": "d762dc5b46f7bed1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cpen 212/Calling Convention.md",
+                "file": "Elec 201/Lecture 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Calling Convention"
+              "title": "Lecture 4"
             }
           },
           {
-            "id": "8990f4e8a2a9b342",
+            "id": "ae4b55eec6cfc216",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 256/Lecture 5.md",
+                "file": "Elec 201/Solving Any Circuit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 5"
-            }
-          },
-          {
-            "id": "e17190f64f868a96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Elec 201/Lecture 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 3"
+              "title": "Solving Any Circuit"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,12 +188,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e17190f64f868a96",
+  "active": "d762dc5b46f7bed1",
   "lastOpenFiles": [
-    "Math 256/Lecture 6.md",
+    "Elec 201/Solving Any Circuit.md",
+    "Elec 201/Lecture 4.md",
     "Math 256/Lecture 5.md",
-    "Cpen 212/Lab 1.md",
     "Cpen 212/Calling Convention.md",
+    "Elec 201/Lecture 3.md",
+    "Misc/Matlab Cheat Sheet.md",
+    "Math 256/Lecture 6.md",
+    "Cpen 212/Lab 1.md",
     "Elec 201/Lecture 2.md",
     "Ling 101/Lecture 4.md",
     "Elec 201/KVL.md",
@@ -217,7 +206,6 @@
     "Elec 201/KCL.md",
     "Elec 201/Cas cheatsheet.md",
     "Math 256/Lecture 3.md",
-    "Elec 201/Lecture 3.md",
     "Untitled",
     "Elec 201/Lecture 1.md",
     "Cpen 212/Lecture 2.md",
@@ -230,13 +218,10 @@
     "Cpen 212/syscall.md",
     "Ling 101/Lecture 1.md",
     "Cpen 212/Lecture 1.md",
-    "Cpen 212/E.md",
     "Elec 201",
     "Cpen 212/Pasted image 20250107144408.png",
     "Cpen 212",
-    "Misc/asdf.md",
     "Ling 101",
-    "Misc/Matlab Cheat Sheet.md",
     "Cpen 221/Quiz 4/Pasted image 20241218171846.png",
     "Cpen 211/Pasted image 20240913171101.png",
     "Cpen 221/Quiz 4",

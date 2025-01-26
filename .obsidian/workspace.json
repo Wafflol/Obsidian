@@ -4,51 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5b883e0afdf629a2",
+        "id": "092931d14c67184c",
         "type": "tabs",
         "children": [
           {
-            "id": "ec8cb56e68a6649f",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Math 256/Scratch Math 256.md",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (Scratch Math 256)"
-            }
-          },
-          {
-            "id": "1e9f29d64efddb9e",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
-            }
-          },
-          {
-            "id": "da52dfaf5246afa9",
+            "id": "b6ba38f97c886ea9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "preview",
+                "file": "Elec 201/Lecture 4.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Lecture 4"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,16 +173,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "da52dfaf5246afa9",
+  "active": "b6ba38f97c886ea9",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Misc/Todo.md",
+    "Elec 201/Solving Any Circuit.md",
+    "Elec 201/Lecture 4.md",
+    "Elec 201/Lecture 5.md",
     "Math 256/Lecture 9.md",
     "Math 256/Lecture 8.md",
+    "Math 256/Lecture 5.md",
+    "conflict-files-obsidian-git.md",
+    "Misc/Todo.md",
     "Math 256/Lecture 6.md",
-    "Elec 201/Solving Any Circuit.md",
-    "Elec 201/Lecture 5.md",
-    "Elec 201/Lecture 4.md",
     "Cpen 212/Linking.md",
     "Cpen 212/Lab 1.md",
     "Elec 201/Lecture 2.md",
@@ -221,7 +195,6 @@
     "Math 256/Lecture 3.md",
     "Math 256/Scratch Math 256.md",
     "Math 253/Scratch.md",
-    "Math 256/Lecture 5.md",
     "Ling 101/Lecture 5.md",
     "Ling 101/Lecture 4.md",
     "Elec 201/Cas cheatsheet.md",

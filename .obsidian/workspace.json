@@ -4,11 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "092931d14c67184c",
+        "id": "8e41366f671aa756",
         "type": "tabs",
         "children": [
           {
-            "id": "b6ba38f97c886ea9",
+            "id": "d762dc5b46f7bed1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc/test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "test"
+            }
+          },
+          {
+            "id": "3fc841c4db428fc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math 256/Lecture 6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 6"
+            }
+          },
+          {
+            "id": "62a2c9604df01ee3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cpen 212/syscall.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "syscall"
+            }
+          },
+          {
+            "id": "eda9f4d697953b6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +62,65 @@
               "icon": "lucide-file",
               "title": "Lecture 4"
             }
+          },
+          {
+            "id": "cf822532d1bb3801",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math 256/Lecture 8.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 8"
+            }
+          },
+          {
+            "id": "197aea5bc31084d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math 256/Lecture 9.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 9"
+            }
+          },
+          {
+            "id": "256e052204685297",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math 256/Lecture 10.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 10"
+            }
+          },
+          {
+            "id": "ae4b55eec6cfc216",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elec 201/Solving Any Circuit.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Solving Any Circuit"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -77,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.51103591918945
+    "width": 308.5
   },
   "right": {
     "id": "b2a76b873dfc05ff",
@@ -88,25 +187,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c8be7d9a0f393ec6",
+            "id": "5fdc5387f80f2f02",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "backlink",
               "state": {
-                "file": "Math 220/Homework/HW3.md"
+                "file": "Math 220/Homework/HW5.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               },
-              "icon": "lucide-list",
-              "title": "Outline of HW3"
+              "icon": "links-coming-in",
+              "title": "Backlinks for HW5"
             }
           },
           {
-            "id": "439823f41502917c",
+            "id": "e332d73f6bb4b55d",
             "type": "leaf",
             "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "type": "outgoing-link",
+              "state": {
+                "file": "Math 220/Homework/HW5.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from HW5"
             }
           },
           {
@@ -123,44 +233,34 @@
             }
           },
           {
-            "id": "0efe152f114a838e",
+            "id": "c8be7d9a0f393ec6",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "outline",
               "state": {
-                "file": "Elec 201/Lecture 2.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "Math 220/Homework/HW5.md"
               },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Lecture 2"
+              "icon": "lucide-list",
+              "title": "Outline of HW5"
             }
           },
           {
-            "id": "e470569f2c9a10e7",
+            "id": "9761efd1150e650c",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Cpen 221/MP2 Tests.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from MP2 Tests"
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 289.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,54 +273,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b6ba38f97c886ea9",
+  "active": "256e052204685297",
   "lastOpenFiles": [
-    "Elec 201/Solving Any Circuit.md",
-    "Elec 201/Lecture 4.md",
-    "Elec 201/Lecture 5.md",
     "Math 256/Lecture 9.md",
+    "Math 256/Lecture 10.md",
     "Math 256/Lecture 8.md",
-    "Math 256/Lecture 5.md",
-    "conflict-files-obsidian-git.md",
-    "Misc/Todo.md",
-    "Math 256/Lecture 6.md",
-    "Cpen 212/Linking.md",
-    "Cpen 212/Lab 1.md",
-    "Elec 201/Lecture 2.md",
-    "Elec 201/Lecture 1.md",
+    "Elec 201/Solving Any Circuit.md",
     "Elec 201/Lecture 3.md",
-    "Math 220/Homework/HW8.md",
-    "Math 220/Homework/HW7.md",
+    "Elec 201/Lecture 2.md",
+    "Elec 201/Lecture 5.md",
+    "Elec 201/Lecture 4.md",
+    "Cpen 212/Linking.md",
+    "Cpen 212/syscall.md",
+    "Math 256/Lecture 6.md",
+    "Misc/Todo.md",
+    "Misc/test.md",
+    "Math 256/Lecture 5.md",
+    "Cpen 212/Calling Convention.md",
     "Misc/Matlab Cheat Sheet.md",
-    "Math 256/Lecture 3.md",
-    "Math 256/Scratch Math 256.md",
-    "Math 253/Scratch.md",
-    "Ling 101/Lecture 5.md",
+    "Cpen 212/Lab 1.md",
     "Ling 101/Lecture 4.md",
-    "Elec 201/Cas cheatsheet.md",
-    "Elec 201/KCL.md",
     "Elec 201/KVL.md",
+    "Ling 101/Lecture 5.md",
+    "Cpen 212/Arm Commands.md",
+    "Elec 201/KCL.md",
+    "Elec 201/Cas cheatsheet.md",
+    "Math 256/Lecture 3.md",
+    "Untitled",
+    "Elec 201/Lecture 1.md",
+    "Cpen 212/Lecture 2.md",
     "Math 256",
-    "Ling 101/Lecture 2.md",
-    "Ling 101",
     "Elec 201",
     "Cpen 212/Pasted image 20250107144408.png",
     "Cpen 212",
-    "Orbit/Research",
-    "Math 101/Pasted image 20240130112741.png",
-    "Cpen 221/Pasted image 20241103025117.png",
-    "Cpen 221/Pasted image 20241103025030.png",
-    "Cpen 221/Pasted image 20241103010746.png",
-    "Orbit/Pasted image 20241102120054.png",
-    "Cpen 221/Pasted image 20241102185910.png",
-    "Cpen 211/Pasted image 20240913165029.png",
-    "Cpen 211/Pasted image 20240913170616.png",
+    "Ling 101",
+    "Cpen 221/Quiz 4/Pasted image 20241218171846.png",
     "Cpen 211/Pasted image 20240913171101.png",
+    "Cpen 221/Quiz 4",
+    "Cpen 211/Pasted image 20241213171821.png",
+    "Cpen 221/Quiz 3",
+    "Orbit/Pasted image 20241014143420.png",
+    "Orbit/Research",
+    "Math 253/Images/Pasted image 20241007112415.png",
+    "Math 253/Images/Pasted image 20241004103442.png",
+    "Math 253/Images/Pasted image 20241004103342.png",
+    "Math 253/Images/Pasted image 20241004103153.png",
+    "Math 253/Images/Pasted image 20241004102530.png",
     "Vim",
     "Rogers 5G",
-    "Math 253/Images",
-    "Untitled.canvas",
-    "Cpen 211/Labs",
-    "Math 253"
+    "Untitled.canvas"
   ]
 }

@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 256/Lecture 10.md",
+                "file": "Cpen 212/Linking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 10"
+              "title": "Linking"
             }
           },
           {
@@ -275,8 +275,12 @@
   },
   "active": "256e052204685297",
   "lastOpenFiles": [
-    "Math 256/Lecture 9.md",
+    "Cpen 212/Pasted image 20250128133048.png",
+    "Cpen 212/Lecture 2.md",
+    "Cpen 212/Untitled.md",
+    "Cpen 212/Calling Convention.md",
     "Math 256/Lecture 10.md",
+    "Math 256/Lecture 9.md",
     "Math 256/Lecture 8.md",
     "Elec 201/Solving Any Circuit.md",
     "Elec 201/Lecture 3.md",
@@ -289,7 +293,6 @@
     "Misc/Todo.md",
     "Misc/test.md",
     "Math 256/Lecture 5.md",
-    "Cpen 212/Calling Convention.md",
     "Misc/Matlab Cheat Sheet.md",
     "Cpen 212/Lab 1.md",
     "Ling 101/Lecture 4.md",
@@ -298,10 +301,7 @@
     "Cpen 212/Arm Commands.md",
     "Elec 201/KCL.md",
     "Elec 201/Cas cheatsheet.md",
-    "Math 256/Lecture 3.md",
     "Untitled",
-    "Elec 201/Lecture 1.md",
-    "Cpen 212/Lecture 2.md",
     "Math 256",
     "Elec 201",
     "Cpen 212/Pasted image 20250107144408.png",

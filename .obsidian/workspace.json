@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 256/Laplace Transforms.md",
+                "file": "Math 256/Lecture 8.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Laplace Transforms"
+              "title": "Lecture 8"
             }
           },
           {
@@ -317,8 +317,8 @@
   },
   "active": "ffb39cc0c58618cf",
   "lastOpenFiles": [
-    "Math 256/Lecture 9.md",
     "Math 256/Laplace Transforms.md",
+    "Math 256/Lecture 9.md",
     "Elec 201/Current Divider.md",
     "Elec 201/KCL.md",
     "Cpen 212/Memory.md",

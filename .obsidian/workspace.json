@@ -162,6 +162,18 @@
             }
           },
           {
+            "id": "be87083a6ff157e7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
+          },
+          {
             "id": "ae4b55eec6cfc216",
             "type": "leaf",
             "state": {
@@ -176,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -195,7 +207,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -329,7 +342,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "79c12a10efa6a209",
+  "active": "be87083a6ff157e7",
   "lastOpenFiles": [
     "Math 256/Lecture 8.md",
     "Math 256/Lecture 11.md",

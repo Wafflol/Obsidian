@@ -42,3 +42,19 @@ $$\mathcal{L}(u(t-c)f(t-c))=\int_{0}^{\infty} e^{-st}u(t-c)f(t-c) \, dt $$
 $$=\int_{c}^{\infty} e^{-st}f(t-c) \, dt $$
 $$=\int_{0}^{\infty} e^{-s(\tau+c)}f(\tau) \, d\tau $$
 $$\mathcal{L}(u(t-c)f(t-c)=e^{-sc}F(s))$$
+---
+## Impulsive Functions  - Dirac $\delta$ Fcn
+
+$$d_{k}(t)=\begin{cases}
+\frac{1}{2k} & \mid t \mid < k \\
+0 & \mid t \mid \geq k
+\end{cases}$$
+$$\delta(t)=\lim_{ k \to 0 } d_{k}(t) = \begin{cases}
+0 & t\neq 0 \\
+\infty &  t=0
+\end{cases}$$
+$$\int_{-\infty}^{\infty} \delta(t) \, dt =1$$
+$$\int_{-\infty}^{\infty} \delta(t-t_{0})f(t) \, dt $$
+$$=\lim_{ k \to 0 } \int_{-\infty}^{\infty} d_{k}(t)f(t) \, dt $$
+$$\lim_{ k \to 0 } \frac{1}{2k} \int_{t}^{t+k} f(t)  \, dt $$
+$$=\lim_{ k \to 0 } f(s) \frac{1}{2k}\int_{t_{0}}^{t_{0}+k}  \, dt $$

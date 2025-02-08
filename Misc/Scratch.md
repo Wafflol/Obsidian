@@ -1,8 +1,8 @@
-$$T(n)=2\left( T\left( \frac{n}{2} \right) \right)+5$$
-$$T(n)=4T\left( \frac{n}{4} \right)+15$$
-
-$$T(n)=8T\left( \frac{n}{8} \right)+25$$
-$$T(n)=2^kT\left( \frac{n}{2^k} \right)+5+10(k-1)$$
-$$k=\log_{2}n$$
-$$T(n)=n+5+10\log _{2}n-10$$
-$$=n-5+10\log_{2}n$$
+$$T(n)=T\left( \frac{n}{2} \right)+10$$
+$$=T\left( \frac{n}{4} \right)+20$$
+$$=T\left( \frac{n}{8} \right)+30$$
+$$T\left( \frac{n}{2^k} \right)+10k$$
+$$\frac{n}{2^k}=10$$
+$$k=\frac{\log_{2}n}{10}$$
+$$T(n)=T\left( \frac{n}{n^{1/10}} \right)+\log_{2}n$$
+A

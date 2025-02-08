@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elec 201/Lecture ?.md",
+                "file": "Cpsc 221/secrasdf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture ?"
+              "title": "secrasdf"
             }
           }
         ],
@@ -206,8 +206,10 @@
   },
   "active": "89840eef0bd86825",
   "lastOpenFiles": [
-    "Elec 201/Lecture 5.md",
     "Elec 201/Lecture ?.md",
+    "Cpsc 221/secrasdf.md",
+    "Cpsc 221",
+    "Elec 201/Lecture 5.md",
     "Phys 170/Moment arm.md",
     "Math 152/Solving Circuit Problems.md",
     "Elec 201/Current Divider.md",
@@ -232,9 +234,7 @@
     "Math 101/Definite Integral.md",
     "Math 101/Anti-derivatives.md",
     "Math 152/Characteristic equation.md",
-    "Math 152/Area of parallelograms.md",
     "Cpen 212/Pasted image 20250128133048.png",
-    "Untitled",
     "Math 256",
     "Elec 201",
     "Cpen 212/Pasted image 20250107144408.png",

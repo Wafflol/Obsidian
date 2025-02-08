@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cpsc 221/secrasdf.md",
+                "file": "Cpsc 221/Recurrence Relation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "secrasdf"
+              "title": "Recurrence Relation"
             }
           }
         ],
@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 308.5,
+    "collapsed": true
   },
   "right": {
     "id": "b2a76b873dfc05ff",
@@ -207,7 +208,7 @@
   "active": "89840eef0bd86825",
   "lastOpenFiles": [
     "Elec 201/Lecture ?.md",
-    "Cpsc 221/secrasdf.md",
+    "Cpsc 221/Recurrence Relation.md",
     "Cpsc 221",
     "Elec 201/Lecture 5.md",
     "Phys 170/Moment arm.md",

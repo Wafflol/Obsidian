@@ -4,35 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "092931d14c67184c",
+        "id": "6b53be001423dea3",
         "type": "tabs",
         "children": [
           {
-            "id": "b6ba38f97c886ea9",
+            "id": "0e1aea353ff04152",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/test.md",
-                "mode": "source",
+                "file": "Ling 101/Lecture 5.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "Lecture 5"
             }
           },
           {
-            "id": "29de756977f1a027",
+            "id": "285bd2d0174985a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elec 201/Lecture 7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 7"
+              "title": "Prac"
             }
           }
         ],
@@ -55,7 +54,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -207,7 +207,6 @@
     "Elec 201/Lecture 3.md",
     "Elec 201/Solving Any Circuit.md",
     "Misc/Scratch.md",
-    "Misc/test.md",
     "Math 256/Lecture 9.md",
     "Math 256/Lecture 8.md",
     "Math 256/Lecture 5.md",
@@ -217,9 +216,6 @@
     "Cpen 212/Linking.md",
     "Cpen 212/Lab 1.md",
     "Elec 201/Lecture 2.md",
-    "Elec 201/Lecture 1.md",
-    "Math 220/Homework/HW8.md",
-    "Math 220/Homework/HW7.md",
     "Math 256",
     "Ling 101",
     "Elec 201",

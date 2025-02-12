@@ -1,8 +1,6 @@
-dentify the two First Nations languages original to the Vancouver area (anglicized versions).  
-• Explain what connection William Jones discovered when he started learning Sanskrit,  
-and what linguists call the ancient language suggested by the many unexpected  
-cognates he noted.  
-• Explain the articulation of theta and eth, and how these are different from /f/ and /v/.  
-• Predict where a Canadian will ‘raise’ the vowel / aʊ /, as in words like ‘out and about’.  
-• Predict how vocabulary in Upriver, Downriver, and Island Halkomelem will differ in  
-terms of /n/ vs. /l/, based on recent historical changes in these sounds
+- identify the two First Nations languages original to the Vancouver area (anglicized versions).  
+	- 
+-  Explain what connection William Jones discovered when he started learning Sanskrit,  and what linguists call the ancient language suggested by the many unexpected cognates he noted.  
+- Explain the articulation of theta and eth, and how these are different from /f/ and /v/.  
+- Predict where a Canadian will ‘raise’ the vowel / aʊ /, as in words like ‘out and about’.  
+- Predict how vocabulary in Upriver, Downriver, and Island Halkomelem will differ in terms of /n/ vs. /l/, based on recent historical changes in these sounds

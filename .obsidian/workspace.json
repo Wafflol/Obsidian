@@ -109,10 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 220/Homework/HW3.md"
+                "file": "Ling 101/Prac.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of HW3"
+              "title": "Outline of Prac"
             }
           },
           {
@@ -171,12 +174,12 @@
               "title": "Outgoing links from MP2 Tests"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
